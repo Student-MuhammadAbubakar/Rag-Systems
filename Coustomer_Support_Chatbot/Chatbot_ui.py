@@ -1,11 +1,3 @@
-# ============================================================
-# FILE     : chatbot_ui.py
-# PROJECT  : Customer Support Chatbot
-# PURPOSE  : Streamlit UI — engaging, portfolio-ready
-#            FIXED: LLM now answers ONLY from FAISS dataset
-# RUN      : streamlit run chatbot_ui.py
-# ============================================================
-
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_groq import ChatGroq
 from langchain_community.vectorstores import FAISS
@@ -17,21 +9,12 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
-# Loads GROQ_API_KEY from .env file
-
-
-# ── PAGE CONFIG ─────────────────────────────────────────────
-
 st.set_page_config(
     page_title="SupportAI — Customer Support Chatbot",
     page_icon="💬",
     layout="wide",
     initial_sidebar_state="expanded"
 )
-
-
-# ── CUSTOM CSS ──────────────────────────────────────────────
-
 st.markdown("""
 <style>
 
@@ -203,27 +186,15 @@ hr { border-color: rgba(255,255,255,0.08) !important; }
 
 </style>
 """, unsafe_allow_html=True)
-
-
-# ── FAISS INDEX CHECK ────────────────────────────────────────
-
 if not os.path.exists("faiss_index/cs_support.faiss"):
     st.error(
         "FAISS index not found! "
         "Please run: python upload_vectors.py first"
     )
     st.stop()
-# If FAISS index does not exist stop the app immediately
-# Show a clear error instead of a confusing crash message
-
-
-# ── CACHE: LOAD DB AND LLM ONCE PER SESSION ─────────────────
 
 @st.cache_resource
 def load_db():
-    # Loads FAISS index ONCE and caches it
-    # Without caching it reloads on every single message
-    # which adds 10-15 seconds per query
     embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
     return FAISS.load_local(
         "faiss_index",
@@ -234,20 +205,11 @@ def load_db():
 
 @st.cache_resource
 def load_llm():
-    # Loads Groq LLM ONCE and caches it
-    # temperature=0: no creativity — sticks strictly to context
-    # This is the KEY FIX for LLM answering from own knowledge
+ 
     return ChatGroq(
         model="llama-3.1-8b-instant",
         temperature=0,
-        # temperature=0 = strictly factual from retrieved context
-        # temperature=0.3 was allowing LLM to "improvise" answers
-        # from its own training data instead of your dataset
-    )
-
-
-# ── CORE: GET ANSWER ─────────────────────────────────────────
-
+)
 def get_answer(question, chat_history_list):
     """
     FIXED VERSION:
@@ -257,22 +219,14 @@ def get_answer(question, chat_history_list):
     - temperature=0 prevents LLM from using own knowledge
     """
 
-    # Step 1: Convert chat history list to LangChain messages
     history = []
     for human, ai in chat_history_list:
         history.append(HumanMessage(content=human))
         history.append(AIMessage(content=ai))
-    # LangChain needs HumanMessage and AIMessage objects
-    # not plain Python strings
-
     db        = load_db()
     llm       = load_llm()
     retriever = db.as_retriever(search_kwargs={"k": 6})
-    # k=6: retrieve top 6 most relevant chunks
-    # Increased from k=4 to give LLM more context to work with
 
-    # Step 2: Rewrite question using chat history
-    # So "what about refunds?" becomes "what is the refund policy?"
     condense_prompt = ChatPromptTemplate.from_messages([
         ("system",
          "Given the chat history and the latest customer question, "
@@ -290,15 +244,10 @@ def get_answer(question, chat_history_list):
         })
     else:
         standalone_question = question
-    # If no chat history yet use original question directly
 
-    # Step 3: Retrieve relevant chunks from FAISS vector database
     docs    = retriever.invoke(standalone_question)
     context = "\n\n".join(doc.page_content for doc in docs)
-    # Join all 6 retrieved chunks into one context string
-    # This context is what the LLM MUST use to answer
 
-    # Step 4: Verify context was actually retrieved
     if not context.strip():
         return (
             "I'm sorry, I could not find relevant information "
@@ -306,13 +255,7 @@ def get_answer(question, chat_history_list):
             "Please contact our support team directly for help. "
             "Is there anything else I can help you with?"
         )
-    # If FAISS returned empty context do not call LLM at all
-    # Return a polite fallback message immediately
-    # This prevents LLM from making up an answer
 
-    # Step 5: STRICT QA prompt — KEY FIX
-    # This is the most important change
-    # The old prompt was too weak and LLM was ignoring context
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system",
          "You are a customer support assistant named SupportAI.\n\n"
@@ -338,10 +281,7 @@ def get_answer(question, chat_history_list):
         MessagesPlaceholder("chat_history"),
         ("human", "{input}"),
     ])
-    # The STRICT RULES section is the key fix
-    # Old prompt just said "use context below"
-    # New prompt explicitly forbids using own knowledge
-    # and tells LLM exactly what to say when it does not know
+
 
     qa_chain = qa_prompt | llm | StrOutputParser()
     # Pipe operator: prompt → llm → parse as string
@@ -351,13 +291,10 @@ def get_answer(question, chat_history_list):
         "chat_history": history,
         "context"     : context
     })
-    # standalone_question is used instead of original question
-    # because it is the rewritten clear version
+  
 
     return answer
 
-
-# ── SIDEBAR ──────────────────────────────────────────────────
 
 def render_sidebar():
     with st.sidebar:
@@ -378,7 +315,7 @@ def render_sidebar():
 
         st.markdown("---")
 
-        # Live stats
+
         total_msgs = len(st.session_state.get("messages", []))
         questions  = len(st.session_state.get("chat_history", []))
 
@@ -397,8 +334,6 @@ def render_sidebar():
             </div>""", unsafe_allow_html=True)
 
         st.markdown("---")
-
-        # Category tags showing what bot can help with
         st.markdown(
             "<div style='color:#64748b; font-size:0.78rem;"
             "text-transform:uppercase; letter-spacing:0.08em;"
@@ -418,18 +353,15 @@ def render_sidebar():
 
         st.markdown("---")
 
-        # Clear conversation button
         if st.button("🗑️ Clear Conversation",
                      use_container_width=True):
             st.session_state.messages     = []
             st.session_state.chat_history = []
             st.rerun()
-        # Clears both display messages and LangChain history
-        # st.rerun() refreshes page so chat window empties immediately
 
         st.markdown("---")
 
-        # Tech stack for portfolio viewers
+
         st.markdown("""
         <div style='color:#475569; font-size:0.75rem; line-height:1.8;'>
             <div style='color:#64748b; font-weight:600;
@@ -442,10 +374,6 @@ def render_sidebar():
             📂 Bitext Customer Support Dataset
         </div>
         """, unsafe_allow_html=True)
-
-
-# ── SUGGESTED QUESTIONS ──────────────────────────────────────
-
 SUGGESTED = [
     "How do I cancel my order?",
     "Where is my refund?",
@@ -453,12 +381,6 @@ SUGGESTED = [
     "How do I reset my password?",
     "How do I return a product?",
 ]
-# Clickable buttons shown when chat is empty
-# Helps users instantly know what to ask
-# Very important for portfolio demonstrations
-
-
-# ── MAIN UI ──────────────────────────────────────────────────
 
 def showUI():
 
@@ -475,17 +397,9 @@ def showUI():
         </div>
     </div>
     """, unsafe_allow_html=True)
-    # Status badge updated to say "Answering from knowledge base only"
-    # So users and portfolio viewers know RAG is working correctly
-
-    # ── Session State Init ──
     if "messages" not in st.session_state:
         st.session_state.messages     = []
         st.session_state.chat_history = []
-    # messages     : list of {role, content} dicts for display
-    # chat_history : list of (question, answer) tuples for LangChain memory
-
-    # ── Welcome Message when chat is empty ──
     if len(st.session_state.messages) == 0:
         st.markdown("""
         <div class='chat-container'>
@@ -503,10 +417,6 @@ def showUI():
             </div>
         </div>
         """, unsafe_allow_html=True)
-        # Welcome message mentions "knowledge base"
-        # so users know answers are from dataset not made up
-
-        # ── Suggested Question Buttons ──
         st.markdown(
             "<div class='suggest-label'>Try asking</div>",
             unsafe_allow_html=True
@@ -521,15 +431,7 @@ def showUI():
                 ):
                     st.session_state._pending = suggestion
                     st.rerun()
-        # Each button stores the suggestion as pending question
-        # st.rerun() triggers the chat to process it
-
-    # ── Handle Suggested Question Click ──
     pending = st.session_state.pop("_pending", None)
-    # .pop() gets the pending question AND removes it
-    # so it is only processed once not on every rerun
-
-    # ── Display Full Chat History ──
     if st.session_state.messages:
         chat_html = "<div class='chat-container'>"
         for msg in st.session_state.messages:
@@ -546,27 +448,18 @@ def showUI():
                 </div>"""
         chat_html += "</div>"
         st.markdown(chat_html, unsafe_allow_html=True)
-    # Renders all messages as styled purple/teal bubbles
-    # User messages: purple bubble on the right
-    # Bot messages: teal avatar + grey bubble on the left
-
-    # ── Chat Input Box ──
     user_input = st.chat_input(
         "Type your question... e.g. How do I cancel my order?"
     )
 
-    # Use either typed input or clicked suggestion button
     question = user_input or pending
 
     if question:
-
-        # Immediately add user message to session
         st.session_state.messages.append({
             "role"   : "user",
             "content": question
         })
 
-        # Get answer from RAG pipeline
         with st.spinner("Searching knowledge base..."):
             try:
                 answer = get_answer(
@@ -579,24 +472,13 @@ def showUI():
                     f"Details: {str(e)}. "
                     "Please try again or contact our support team."
                 )
-        # Spinner says "Searching knowledge base" not "Thinking"
-        # This makes it clear the bot is searching your dataset
-
-        # Add assistant answer to session
+   
         st.session_state.messages.append({
             "role"   : "assistant",
             "content": answer
         })
-
-        # Save to LangChain chat history for conversation memory
         st.session_state.chat_history.append((question, answer))
 
         st.rerun()
-        # Rerun refreshes page to show new messages
-        # in the styled chat bubbles above
-
-
-# ── ENTRY POINT ──────────────────────────────────────────────
-
 if __name__ == "__main__":
     showUI()
