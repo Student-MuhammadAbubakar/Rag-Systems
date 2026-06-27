@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I switch several items of purchase {{Order Number}}?
+
+Answer: Your input is valuable! I'm picking up that you would like to switch several items in your purchase with the number {{Order Number}}. We apologize for any inconvenience caused. To assist you with this, I recommend contacting our customer support team directly. They will guide you through the process and provide the necessary steps to make the item switch successfully. You can reach our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to help you with this request.

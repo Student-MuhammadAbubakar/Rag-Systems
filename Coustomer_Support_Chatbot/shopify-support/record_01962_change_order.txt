@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I can't swap some products of order {{Order Number}}
+
+Answer: I'm sorry to hear that you're experiencing difficulties with swapping some products for order number {{Order Number}}. Our goal is to ensure that you have a seamless and satisfactory experience with us. To assist you further, could you please provide more details about the specific products you're having trouble swapping? This information will help us identify the issue and find a suitable resolution for you. We appreciate your patience and cooperation as we work towards resolving this matter.

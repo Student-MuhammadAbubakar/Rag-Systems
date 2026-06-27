@@ -1,0 +1,20 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need to see under what circumstances can I ask for refunds
+
+Answer: Sure! I understand that you'd like to have a clear understanding of the circumstances under which you can request refunds. We pride ourselves on providing a fair and customer-centric refund policy. Here are some common situations in which you may be eligible for a refund:
+
+1. **Product/Service Defect:** If the product or service you purchased is defective, damaged, or not as described, you can usually request a refund.
+
+2. **Cancellation within Grace Period:** If you change your mind about your purchase within the specified grace period, you can often request a refund.
+
+3. **Unauthorized Charges:** If you notice any unauthorized charges on your account, please reach out to us immediately. We will investigate the issue and assist you in securing a refund if necessary.
+
+4. **Event Cancellation:** If an event you have purchased tickets for is canceled and not rescheduled, you may be eligible for a refund.
+
+5. **Shipping Delays/Non-Delivery:** In the event that your package hasn't arrived within the expected timeframe or hasn't been delivered at all, please let us know. We'll investigate the issue and help you with the refund process if applicable.
+
+It's important to note that specific refund policies may vary depending on the products or services you have purchased, as well as the terms and conditions set by the vendors or service providers. I recommend reviewing the refund policy for the specific product or service you are concerned about or contacting our customer support team for further assistance. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+I hope this information clarifies your doubts about our refund policy. If you have any specific questions or concerns regarding a recent purchase or refund request, please provide me with the relevant details, such as your order number or any other pertinent information, and I'll be happy to assist you further.

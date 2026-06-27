@@ -1,0 +1,16 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: awnna set my shipping address up
+
+Answer: I appreciate your interest in setting up your shipping address. Let me guide you through the process step by step. 
+
+1. Log in to your account on our website using your credentials.
+2. Navigate to your account settings or profile section. You can usually find this option by clicking on your profile picture or username.
+3. Look for the "Shipping Addresses" section or a similar option. This is where you can manage your shipping addresses.
+4. Click on "Add Address" or a similar button to add a new shipping address.
+5. Fill in the required details for your secondary shipping address, such as the recipient's name, street address, city, state, and ZIP code.
+6. Double-check the accuracy of the information you entered to ensure timely and accurate deliveries.
+7. Save your changes to finalize the setup of your secondary shipping address.
+
+If you encounter any difficulties or have further questions during the process, feel free to reach out to our customer support team, available {{Customer Support Hours}}, via {{Customer Support Phone Number}}, or through the live chat on our website at {{Website URL}}. We're here to assist you every step of the way.

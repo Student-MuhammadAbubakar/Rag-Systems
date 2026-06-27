@@ -1,7 +1,7 @@
 
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings #type:ignore
 from langchain_groq import ChatGroq
-from langchain_community.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS  #type:ignore
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_core.messages import HumanMessage, AIMessage
 from langchain_core.output_parsers import StrOutputParser

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i missed several items in purchase {{Order Number}}
+
+Answer: Appreciate you reaching out to us regarding the missing items in your purchase with the number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide the specific details of the items that were missing? This will help us take the necessary actions to address the issue and ensure your complete satisfaction. We appreciate your patience and cooperation in resolving this matter.

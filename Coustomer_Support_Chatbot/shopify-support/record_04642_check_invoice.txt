@@ -1,0 +1,16 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how can I locate my invoices from {{Person Name}}?
+
+Answer: I fathom that you're looking for assistance in locating your invoices from {{Salutation}} {{Client Last Name}}. To help you with this, you can try the following steps:
+
+1. Login to your account: Go to our website and login using your credentials. If you don't have an account yet, you can create one using the sign-up option.
+
+2. Navigate to the billing section: Once you're logged in, look for a tab or link related to billing or invoices. This is usually located in your account settings or dashboard.
+
+3. Filter or search for invoices: Within the billing section, you may find options to filter invoices by date, amount, or other criteria. You can also use a search bar to find invoices specifically tied to {{Person Name}}.
+
+4. View and download invoices: Once you've located the relevant invoices, you should be able to view them on your screen. Many systems also offer the option to download or print the invoices for your records.
+
+If you encounter any difficulties or have any further questions, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to ensure you have a seamless experience finding your invoices!

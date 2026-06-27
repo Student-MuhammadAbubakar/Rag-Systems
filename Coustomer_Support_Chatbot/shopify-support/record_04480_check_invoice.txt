@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what to do to look for the invoice #37777
+
+Answer: I certainly recognize your confusion about knowing the steps to look for the invoice with the number #{{Invoice Number}}. Let's take this opportunity to guide you through the process! First, you'll need to log into your account on our website or app. Once you've logged in, navigate to the "Billing" or "Invoices" section. In this section, you should be able to search for invoices by entering the invoice number or using filters such as date range. If you're unable to find the invoice using these methods, you can reach out to our customer support team who will be more than happy to assist you further. Remember, we're here to help you every step of the way!"

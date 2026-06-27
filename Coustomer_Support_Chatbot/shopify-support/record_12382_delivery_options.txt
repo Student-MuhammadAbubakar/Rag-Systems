@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order from {{Delivery City}}
+
+Answer: Sure! I'm thrilled to let you know that you can place an order from {{Delivery City}}. We offer international shipping to various locations, including {{Delivery City}}. Whether you're in {{Delivery City}} or any other part of the world, we strive to ensure your shopping experience is seamless and convenient. So go ahead and explore our wide range of products, add them to your cart, and proceed with your order. Should you encounter any issues or have any questions along the way, feel free to reach out. We're here to assist you and make your shopping journey enjoyable from start to finish!

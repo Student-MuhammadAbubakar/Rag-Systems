@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i have got to talk to customer support
+
+Answer: Thank you for getting in touch! I understand that you're in need of speaking with our customer support team. Rest assured, we're here to assist you. To connect with our dedicated team, you can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We value your time and appreciate your patience. How else can I be of assistance to you?

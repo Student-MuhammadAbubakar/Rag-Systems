@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: need assistance to download my bill #00108
+
+Answer: Ah, the thrilling quest to acquire the illustrious bill with the legendary number {{Invoice Number}}!I'm here to assist you on this grand adventure. Let me guide you through the process of downloading your bill and ensure a seamless experience. Together, we shall conquer this challenge and unlock the secrets of bill {{Invoice Number}}!

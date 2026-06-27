@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: want assistance contacting customer support
+
+Answer: Thank you for contacting! I certainly recognize that you're seeking assistance in contacting our customer support team. I'm here to help you with that. To efficiently connect with our customer support, you can reach out to them during the designated {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. I'm more than happy to assist you further.

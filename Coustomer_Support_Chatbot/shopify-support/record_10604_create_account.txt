@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where to create a standard account for my dad
+
+Answer: Thank you for considering a standard account for your dad! To create a standard account, you can visit our website at {{Website URL}}. On the homepage, you will find a 'Sign Up' or 'Create Account' option. Click on that and follow the step-by-step instructions to create a standard account for your dad. If you need any assistance during the process or have any questions, our customer support team is available {{Customer Support Hours}} on {{Customer Support Phone Number}} or through the live chat on our website. We're here to make the account creation process smooth and hassle-free for you and your dad!

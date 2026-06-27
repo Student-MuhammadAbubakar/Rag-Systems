@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I place an ordewr from {{Delivery Country}}?
+
+Answer: By all means! We welcome orders from our friends in {{Delivery Country}} with open arms. Our delivery services extend to Canadian locations, ensuring that you can conveniently place your order from the comfort of your home. Whether it's the bustling streets of Montreal, the breathtaking natural beauty of Vancouver, or anywhere else in this magnificent country, we've got you covered. So go ahead, start adding items to your cart, and experience the joy of seamless international shopping. If you have any specific queries or if there's anything else I can assist you with, please feel free to let me know. Together, let's make your shopping journey an exceptional one!

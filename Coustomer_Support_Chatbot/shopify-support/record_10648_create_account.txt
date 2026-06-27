@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening {{Account Type}} account for wife
+
+Answer: It's great to hear that you want to open a {{Account Type}} account for your wife! Our {{Account Type}} account option provides a range of basic features and services without any cost involved. To get started, I'll guide you through the process step by step, ensuring a seamless experience for both you and your wife. Could you please provide her full name, email address, and a preferred username? Rest assured that we prioritize the security and privacy of our customers, and all information shared will be safeguarded diligently. Let's make this process easy and convenient for you both!

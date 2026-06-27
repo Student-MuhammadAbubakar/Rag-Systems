@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help me to check my bill from {{Person Name}}
+
+Answer: I truly appreciate you reaching out to us for assistance with checking your bill from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to help you with that. In order to assist you more effectively, could you please provide me with the {{Invoice Number}} or any additional details that you have? This will enable me to locate the specific bill and provide you with the necessary information.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: want help opening a {{Account Category}} account
+
+Answer: That's great to hear that you want help in opening a {{Account Category}} account! I'm here to assist you every step of the way. To begin, could you please provide me with some basic details like your full name, email address, and a preferred username? Once I have this information, I'll guide you through the process, ensuring you have a smooth and hassle-free experience. Rest assured that your security and privacy are of utmost importance to us, and we'll handle your information with the utmost care. How does that sound?

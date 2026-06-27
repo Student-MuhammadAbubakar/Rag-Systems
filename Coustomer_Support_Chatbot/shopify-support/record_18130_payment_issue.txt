@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: help to notify of an issue with payments
+
+Answer: I'm here to assist you with notifying us about the issue you're experiencing with payments. It's important to us that you have a seamless payment process, and we apologize for any inconvenience caused. Please provide me with more details about the specific issue you're facing, such as the error message you encountered or any other relevant information. Your feedback will help us investigate the problem and find a quick and effective solution. Thank you for bringing this to our attention, and we'll work together to resolve it.

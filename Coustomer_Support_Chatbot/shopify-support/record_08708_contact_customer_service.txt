@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i want assistance to call customer support
+
+Answer: I hear you! I'm following you that you need assistance in calling our customer support team. Our dedicated team is available to assist you over the phone. To reach our customer support, please dial {{Customer Support Phone Number}}. They will be happy to help you with any questions or concerns you may have. Feel free to let me know if there is anything else I can assist you with!

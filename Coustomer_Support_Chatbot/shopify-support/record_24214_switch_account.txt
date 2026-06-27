@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: using {{Account Type}} account
+
+Answer: Indeed! I appreciate your interest in utilizing our Free account option. Let's get you up and running smoothly:
+
+1. Sign in: Begin by logging into your account on our platform.
+2. Account Access: Once signed in, go to your account settings or profile section. You can usually find it at the top right corner of the page.
+3. Account Type: Look for an option that allows you to switch or upgrade your account type.
+4. Choose Free Account: Select the 'Free' option from the list of available account types.
+5. Update Preferences: Follow the prompts to confirm your selection and update your preferences accordingly.
+
+If you encounter any difficulties or have any additional questions, please don't hesitate to reach out. We're here to help and ensure that you have a positive experience with our Free account features. Enjoy exploring all the benefits it offers!"

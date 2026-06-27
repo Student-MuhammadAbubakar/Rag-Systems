@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing information on {{Account Type}} account
+
+Answer: We greatly appreciate your dedication to updating the information on your {{Account Type}} account! Your commitment to keeping your account details accurate and relevant allows us to provide you with a personalized and tailored experience. To make the changes you desire, I recommend accessing your account settings on our website or contacting our dedicated support team. They will guide you through the process and ensure that your {{Account Type}} account reflects all the necessary modifications. Rest assured, we are here to assist you every step of the way!

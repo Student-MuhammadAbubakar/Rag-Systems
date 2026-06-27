@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: can ushow me hte cancellation fees
+
+Answer: Of course! I can provide you with the details regarding the cancellation fees for your account.

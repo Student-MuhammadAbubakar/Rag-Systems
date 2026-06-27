@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: uhave a free number to talk with customer assistance
+
+Answer: Thank you for reaching out! I completely understand your need to have a free number to talk with our customer assistance team. Our dedicated team is available to assist you at no cost through our toll-free number: {{Toll-Free Number}}. Please feel free to reach out to us and we will be more than happy to help you with any questions or concerns you may have.

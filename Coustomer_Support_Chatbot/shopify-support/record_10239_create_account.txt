@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I do not have a {{Account Type}} account, how do I register?
+
+Answer: That's great to hear that you're interested in registering for a {{Account Type}} account with us! I'd be more than happy to assist you with the registration process. To start, please visit our website and look for the "Sign Up" or "Register" button. Click on that button, and you will be directed to a registration form. Fill in all the required information, such as your name, email address, and preferred username, and create a strong password for your account. Once you've entered all the necessary details, click on the "Submit" button to complete the registration process. If you encounter any issues or have any questions along the way, don't hesitate to reach out to our customer support team. We're here to help you every step of the way. Welcome aboard!

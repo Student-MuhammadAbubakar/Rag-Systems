@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want help checking what methods for delivery I can choose
+
+Answer: Definitely! I'm here to guide you in exploring the various methods of delivery available to you. Let's delve into our exceptional delivery options:
+
+1. Standard Shipping: This method typically takes {{Date Range}} business days to deliver your items. It's perfect for those who don't have urgent time constraints.
+
+2. Expedited Shipping: If you need your items a bit faster, our expedited shipping option will have your order in your hands within {{Date Range}} business days.
+
+3. Overnight Shipping: For those times when time is of the essence, our overnight shipping guarantees next business day delivery.
+
+4. In-Store Pickup: If you prefer the convenience of picking up your items yourself, we offer in-store pickup at our {{Store Location}}. This way, you can retrieve your items at your earliest convenience.
+
+Remember that delivery times may vary depending on your location and other factors. If you have any specific concerns or if there's anything else I can assist you with, please feel free to ask. Our aim is to provide you with complete satisfaction throughout your shopping experience.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with {{Account Type}} account terminations
+
+Answer: Thank you for bringing up the issue of {{Account Type}} account terminations. I understand that you might be facing difficulties or encountering problems while trying to terminate your {{Account Type}} account. Your satisfaction is our utmost priority, and we want to assist you in resolving this matter promptly. Could you please provide additional details about the specific problem you are experiencing with the termination process? By understanding the issue you are facing, we can work together to find an appropriate solution and ensure that your {{Account Type}} account termination is processed smoothly.

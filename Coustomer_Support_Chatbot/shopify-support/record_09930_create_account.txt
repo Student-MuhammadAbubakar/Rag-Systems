@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opneing new {{Account Type}} account for daughter
+
+Answer: Congratulations on your decision to open a new {{Account Type}} account for your daughter! It's wonderful to see parents encouraging financial responsibility from an early age. To get started, could you please provide your daughter's full name, birthdate, and a preferred username for her account? Rest assured that we prioritize security and privacy, so her information will be handled with utmost care. Once we have these details, I'll guide you through the account creation process step by step, ensuring a seamless experience. Don't hesitate to ask any questions you may have along the way! How are you feeling about this exciting step?

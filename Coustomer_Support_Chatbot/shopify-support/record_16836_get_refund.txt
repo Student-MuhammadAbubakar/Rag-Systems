@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: get reimbursement of money
+
+Answer: I understand your desire to receive reimbursement for your money. Obtaining a reimbursement can be a straightforward process, and I'm here to guide you through it. To begin, please gather all the necessary information related to your payment, such as the transaction details, payment method used, and any relevant supporting documentation. Once you have that information, you can reach out to our customer support team either through our website or by calling {{Customer Support Phone Number}}. Our dedicated representatives will assist you in initiating the reimbursement process and provide you with the necessary steps to follow. Rest assured, our goal is to ensure a smooth and efficient reimbursement experience for you.

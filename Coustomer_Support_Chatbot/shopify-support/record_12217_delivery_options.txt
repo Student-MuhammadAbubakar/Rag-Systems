@@ -1,0 +1,15 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: where do I check what shipment methods are available?
+
+Answer: For sure! I'm here to guide you in finding the information about our available shipment methods. To check the shipment methods available to you, please visit our website and follow these simple steps:
+
+1. Go to our homepage at {{Website URL}}.
+2. Navigate to the "Shipping" or "Delivery" tab/menu.
+3. Click on the "Shipping Options" or "Delivery Methods" link.
+4. You will find detailed information about each available shipment method, including their estimated delivery timeframes and any additional charges associated with them.
+
+If you prefer to speak with a customer service representative directly, you can also reach out to our dedicated support team via phone at {{Customer Support Phone Number}} or through the Live Chat feature on our website.
+
+I hope this helps! Should you need any further assistance or have any more questions, feel free to ask. We're here to ensure your shipping experience is smooth and convenient.

@@ -1,0 +1,17 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correct details on standard account
+
+Answer: What an exciting opportunity it is to assist you in correcting the details on your standard account!I'm here to help facilitate a seamless experience for you. To ensure the accuracy of your account information, please follow these steps: 
+
+1. Log into your standard account using your username and password.
+2. Navigate to the account settings or profile section of the platform.
+3. Look for the specific details you would like to correct, such as name, address, or contact information.
+4. Click on the relevant fields and make the necessary changes.
+5. Double-check your modifications to ensure they are accurate and up to date.
+6. Save or update your changes before exiting the account settings.
+
+If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our dedicated customer support team. They are available {{Customer Support Hours}} through {{Customer Support Phone Number}} or via the Live Chat on our website at {{Website URL}}.
+
+Please keep in mind that for security reasons, certain account details may require additional verification. Thank you for entrusting us with your account, and we appreciate your dedication to maintaining accurate information. Let me know if there's anything else I can assist you with!

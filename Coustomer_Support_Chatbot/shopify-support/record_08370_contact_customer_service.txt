@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i have to talk to customer service
+
+Answer: We're all ears! I'm tuned into the idea that you need to talk to our customer service team. Our dedicated representatives are available during {{Customer Support Hours}} to assist you with any questions or concerns you may have. You can reach them via {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're here to provide you with the support you need. How else can I make your experience better today?

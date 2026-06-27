@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: cancelling pro account
+
+Answer: Glad you got in touch to us regarding the cancellation of your {{Account Type}} account. We understand that circumstances change, and it's important for us to support you through this process. To cancel your {{Account Type}} account, please follow the steps outlined in your account settings or contact our customer support team for further assistance. We are here to ensure a smooth transition and address any concerns you may have along the way.

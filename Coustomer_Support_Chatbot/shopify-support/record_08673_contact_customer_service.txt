@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i need help seeing what hours i csn call customer service
+
+Answer: It's great to hear from you! I can see that you need assistance in finding out the hours during which you can contact our customer service. Our dedicated team is available to assist you from {{Customer Support Hours}}. Please feel free to reach out during these hours, and we will be more than happy to help you. Is there anything else I can assist you with?

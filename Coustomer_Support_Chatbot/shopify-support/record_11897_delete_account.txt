@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't use the goddamn gold account, I want to delete it
+
+Answer: Thanks for dropping us a line to us about deleting your {{Account Type}} account. I understand that you no longer use it and would like to have it removed. I appreciate you taking the time to inform us of your decision. To proceed with the account deletion, I kindly request you to provide some additional details such as your account username or email address associated with the {{Account Type}} account. This will enable our team to assist you further and ensure a smooth deletion process.

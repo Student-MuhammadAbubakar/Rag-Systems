@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't need the gold account, help me close it
+
+Answer: I appreciate you reaching out to us regarding the closure of your {{Account Type}} account. I understand that you no longer require this account, and I'm here to assist you with the process. To ensure a smooth closure, please provide me with some additional information, such as your account details or any specific instructions you have in mind. Rest assured, I'll guide you step-by-step to close your {{Account Type}} account efficiently.

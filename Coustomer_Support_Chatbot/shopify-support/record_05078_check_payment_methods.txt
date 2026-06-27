@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: i have to list the accepted payment methods
+
+Answer: Indeed! I'm here to assist you in listing our accepted payment methods. We offer a variety of convenient options for our valued customers. Here are the accepted payment methods:
+
+- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.
+- **PayPal:** A popular online payment method that provides security and is widely used.
+- **Bank Transfer:** This allows you to make direct payments from your bank account.
+- **Digital Wallets:** We also accept digital wallets such as Apple Pay, Google Pay, and Samsung Pay.
+- **Cryptocurrencies:** For those interested in using digital currencies, we also accept Bitcoin, Ethereum, and other cryptocurrencies.
+
+These options provide flexibility and convenience for a seamless checkout process. If you have any questions or need further assistance, please feel free to let me know. Your satisfaction is our top priority, and we're here to support you every step of the way!

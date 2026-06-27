@@ -1,0 +1,12 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i need assistance to get my invoices  from {{Person Name}}
+
+Answer: I see what you mean your request for assistance in accessing your invoices from {{Client Name}}. Let me assure you that I'm here to help. To retrieve your invoices, please follow these steps:
+1. Log in to your account on our website.
+2. Go to the "Billing" or "Account" section.
+3. Look for the "Invoices" tab or option.
+4. Select the date range or specific invoice you want to view.
+5. Click on the invoice to open and download it.
+If you encounter any issues or have further questions, feel free to let me know. I'm here to ensure your satisfaction and provide any additional guidance you may require.

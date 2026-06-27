@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: what is purchase {{Order Number}} status
+
+Answer: Thank you for contacting us! I understand that you would like to know the status of your purchase with the order number {{Order Number}} {{Order Number}}. To assist you with this, I recommend checking the '{{Order Status}}' section on our website. There, you will find real-time updates on the status of your purchase. If you have any further questions or need additional assistance, please feel free to let me know.

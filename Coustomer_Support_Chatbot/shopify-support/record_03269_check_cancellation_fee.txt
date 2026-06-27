@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: are there early termination penalties
+
+Answer: I'll make it happen! If you terminate your contract early, there may be early termination penalties. You can review the "Termination Fees" section in your account for more information regarding any charges that may apply.

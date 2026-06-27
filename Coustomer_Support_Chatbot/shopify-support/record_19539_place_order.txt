@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: order a few of your article
+
+Answer: Thank you for your interest in ordering some of our articles! I'm here to assist you with the process. To get started, could you please provide me with the specific articles you would like to order? Once I have all the details, I will guide you through the steps and ensure a seamless ordering experience.

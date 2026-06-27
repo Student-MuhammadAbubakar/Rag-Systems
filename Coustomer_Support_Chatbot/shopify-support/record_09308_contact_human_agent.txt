@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how can i talk with an opertaor
+
+Answer: Thank you for reaching out! I see that you would like to connect with an operator for assistance. I'm here to help you with that. To speak with an operator, you can try calling our customer support helpline at {{Customer Support Phone Number}}. Our dedicated team is available {{Customer Support Hours}} to assist you. Alternatively, you can also reach out to us through the live chat feature on our website at {{Website URL}}. We'll make sure you're connected with a knowledgeable operator who will provide the support you need.

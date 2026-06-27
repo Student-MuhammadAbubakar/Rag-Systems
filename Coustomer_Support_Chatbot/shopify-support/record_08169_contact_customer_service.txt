@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: ya have a free of charge number to reach customer service
+
+Answer: We're all ears! I'm tuned into the idea that you're looking for a toll-free number to reach our customer service team. We do have a toll-free number available for your convenience. You can reach us at {{Toll-Free Number}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Please feel free to reach out to us at any time.

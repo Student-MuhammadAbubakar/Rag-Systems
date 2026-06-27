@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: want help to check the fucking TEA of the order {{Order Number}}
+
+Answer: I apologize if you encountered any inappropriate language. I understand that you need assistance in checking the estimated time of arrival (ETA) for your order with order number {{Order Number}}. To provide you with the most accurate information, could you kindly provide me with your email address or phone number associated with the order? Thank you for your understanding, and I'm here to help you every step of the way.

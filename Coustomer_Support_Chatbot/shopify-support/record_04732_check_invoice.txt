@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have got to check the invoices from {{Person Name}}
+
+Answer: Sure! I'm here to assist you in checking the invoices related to Mr. {{Client Last Name}}. In order to better assist you, could you please provide me with the {{Date Range}} or any additional details that you might have? Rest assured, I'll do my best to help you locate the invoices you need.

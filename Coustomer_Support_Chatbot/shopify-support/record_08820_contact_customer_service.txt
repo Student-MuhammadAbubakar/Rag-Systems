@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I try to speak to customer service
+
+Answer: We appreciate your message! It's clear to me that you are trying to speak to our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. To reach our customer service, you can dial our helpline at {{Customer Support Phone Number}} or connect with us through the Live Chat on our website at {{Website URL}}. We are here to listen to your concerns and provide the support you need. How can I assist you further?

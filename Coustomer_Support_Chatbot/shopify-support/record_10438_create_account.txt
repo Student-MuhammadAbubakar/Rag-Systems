@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do i have to do to open a platinum account
+
+Answer: I'm thrilled to assist you in opening a {{Account Category}} account! To get started, I'll walk you through the simple steps required to complete the process seamlessly. First, could you please provide me with your full name, email address, and a preferred username? Once I have this information, I'll guide you through the necessary documentation and explain the unique benefits and features of our {{Account Category}} account. Rest assured, your privacy and security remain our utmost priority throughout the entire process. Let's begin this exciting journey together, shall we?

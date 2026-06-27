@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want assistance to close my {{Account Type}} account
+
+Answer: We've received your message regarding the closure of your {{Account Type}} account. We understand that this is an important decision for you, and we want to ensure that we provide you with the guidance you need. Can you please provide some more details about the specific assistance you require? Whether it's clarifying the steps to close your account or addressing any concerns you may have, we are here to help you every step of the way. Let's work together to ensure a smooth process for closing your {{Account Type}} account.

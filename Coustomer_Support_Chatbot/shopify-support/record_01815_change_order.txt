@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I want information about correcting order {{Order Number}}
+
+Answer: Always good to connect! I'm attuned to the fact that you are seeking information on how to correct your order with the number #{{Order Number}}. Our team is here to assist you with any modifications you would like to make. To provide you with accurate guidance, could you please specify what exactly you would like to correct? Whether it's updating the delivery address, changing the items in your order, or any other changes, we're ready to help you ensure that your order meets your expectations.

@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do I need to do to see invoice #85632?
+
+Answer: Indeed! I appreciate your interest in viewing the details of invoice #{{Invoice Number}}. To proceed, you can follow these simple steps:
+
+1. Log in to your account on our website/app.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to "View Invoices" or "Invoice History."
+4. Enter the invoice number #{{Invoice Number}} in the provided search field.
+5. Click on the invoice with the corresponding number to open and review the details.
+
+If you still encounter any difficulties or have any further questions, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to ensure your experience is smooth and seamless.

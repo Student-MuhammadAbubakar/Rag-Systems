@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: correcting order {{Order Number}}
+
+Answer: We're here for you to us regarding your request to correct order number {{Order Number}}. We apologize for any inconvenience this may have caused. We are committed to providing the best service possible, and we want to ensure that your order is accurate and meets your expectations. To assist you further, could you please provide more details about the specific corrections you would like to make? This will allow us to address your concerns effectively and provide you with the necessary support. We appreciate your patience and cooperation in this matter.

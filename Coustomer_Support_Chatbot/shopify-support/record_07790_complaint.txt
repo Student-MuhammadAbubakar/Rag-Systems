@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: where do I file a reclamation?
+
+Answer: I'm sorry to hear that you need to file a reclamation. Our company takes such matters seriously, and we are committed to assisting you through the process. To file a reclamation, you can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and ensure that your reclamation is properly documented and addressed. Please don't hesitate to reach out if you need any further assistance.

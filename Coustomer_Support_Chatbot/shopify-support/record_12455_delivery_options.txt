@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: od ya deliver to {{Delivery Country}}
+
+Answer: I'll make it happen! We do deliver to {{Delivery Country}}! We offer international shipping services to various countries around the world, including {{Delivery Country}}. So you can definitely place your order with us and have it delivered to your location in {{Delivery Country}}. If you have any specific questions or concerns regarding the delivery process or any additional requirements, feel free to let me know. I'm here to ensure a smooth and hassle-free delivery experience for you!

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I am trying to find information about modifying the address
+
+Answer: I'll take care of it! If you need to modify your shipping address, we can help you with that. Please provide us with your current address and the updated address, and we will make sure to update it for you.

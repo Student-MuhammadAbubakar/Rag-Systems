@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: assistance seeing the refund current status
+
+Answer: I hear you loud and clear your eagerness to track the current status of your refund. Rest assured, I am here to help you with that. To proceed, could you please provide me with the necessary details such as your order number or any reference number related to your refund? Once I have this information, I'll be able to look up the status and provide you with an update.

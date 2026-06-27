@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do notknow what i have to do to get the bill #00108
+
+Answer: I'm following your confusion about the process of retrieving your bill with number #{{Invoice Number}}. Let me guide you through the steps to access it. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. Look for an option that says "View Full Invoice" or "Download Invoice." Click on it, and you should be able to see or download your bill with the number {{Invoice Number}}. If you encounter any issues or need further assistance, please don't hesitate to let us know. We're here to help you every step of the way.

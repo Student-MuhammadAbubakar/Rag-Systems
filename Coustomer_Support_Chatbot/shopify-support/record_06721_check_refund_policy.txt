@@ -1,0 +1,22 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help me see ur money back guarantee
+
+Answer: Definitely! I understand that you would like to know more about our money-back guarantee. At {{Company Name}}, we strive to provide excellent products and services, and customer satisfaction is our top priority. Our money-back guarantee ensures that you can request a refund in certain situations. Let me provide you with some information:
+
+1. **Product/Service Defect:** If you receive a product or service that is defective or does not meet your expectations, you can request a refund.
+
+2. **Cancellation within Grace Period:** Should you change your mind about a purchase and decide to cancel it within the specified grace period, you may be eligible for a refund.
+
+3. **Unauthorized Charges:** In the event of any unauthorized charges appearing on your account, we will investigate the matter thoroughly and assist you in resolving the issue.
+
+4. **Event Cancellation:** If an event for which you purchased tickets is canceled and not rescheduled, you can typically request a refund.
+
+5. **Duplicate Charges:** If you notice duplicate charges for the same item on your account, please notify us, and we will promptly rectify the situation.
+
+6. **Non-receipt of Goods:** If you do not receive the purchased product within the expected time frame, you may qualify for a refund.
+
+Please note that these are general situations where a refund may be applicable. It's essential to review our detailed refund policy for specific terms and conditions that may apply to your situation. If you have any questions or need further assistance, feel free to provide me with more details, such as your order number, and I'll be happy to help. We value your satisfaction and want to ensure a positive experience with {{Company Name}}.
+
+Let me know if there's anything else I can assist you with!

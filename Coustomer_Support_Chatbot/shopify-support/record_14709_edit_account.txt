@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: editing information on pro account
+
+Answer: How wonderful to see your commitment to personalizing the information on your {{Account Type}} account! We truly appreciate your desire to make it your own. To ensure a smooth update process, I'll need a little more information. Could you please let me know which specific details you would like to edit? This will help me provide you with the most accurate guidance and support.

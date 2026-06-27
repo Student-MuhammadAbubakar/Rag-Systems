@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where to see at what time customer assistance available is?
+
+Answer: Always good to connect! I'm attuned to the fact that you would like to know where to find the available hours for customer assistance. You can easily find this information on our {{Website URL}}. Simply navigate to the "Contact Us" or "Support" section of our website, and you will find the hours of operation for our customer assistance team. If you have any further questions or need additional assistance, please let me know.

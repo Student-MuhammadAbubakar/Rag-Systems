@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: help me deleting my {{Account Type}} account
+
+Answer: We're here to help for assistance with deleting your {{Account Type}} account. I understand that you would like to close your account, and I'm here to help you with that process. To proceed with the deletion, please provide me with the email address associated with your account, and I will guide you step-by-step on how to complete the process. Your privacy and data protection are of utmost importance to us, so I assure you that all necessary precautions will be taken to ensure a secure account closure. Let's work together to resolve this for you swiftly and seamlessly.

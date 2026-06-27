@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: need help to talk to customer assistance
+
+Answer: Your input is valuable! I'm picking up that you need assistance in contacting our customer assistance team. Our team is available during {{Customer Support Hours}}. You can reach us by {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to provide any help or support you may need. Is there anything else I can assist you with?

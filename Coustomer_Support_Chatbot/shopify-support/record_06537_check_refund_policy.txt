@@ -1,0 +1,19 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: can I check in which cases can I request my damn money back?
+
+Answer: I'll do my best! I completely understand your need to know the specific cases in which you can request a refund. Let me provide you with a detailed breakdown:
+
+1. **Product/Service Defect:** If the product or service you purchased is defective or doesn't match the description, you typically have the right to request a refund.
+2. **Cancellation within Grace Period:** If you change your mind and decide to cancel your purchase within the specified grace period, you should be eligible for a refund.
+3. **Unauthorized Charges:** If you notice any unfamiliar charges that you did not authorize, we will investigate the situation and assist you in obtaining a refund.
+4. **Event Cancellation:** It can be disappointing when a planned event is canceled. If the event is not rescheduled, you are generally entitled to request a refund.
+5. **Duplicate Charges:** If you discover that you have been charged multiple times for the same item, please inform us immediately so that we can rectify the situation and issue a refund.
+6. **Non-receipt of Goods:** If your purchased product has not been delivered within the expected timeframe, you may be eligible for a refund.
+
+Please note that these cases are generally covered by our refund policy. However, I recommend reviewing the specific terms and conditions of your purchase or contacting the vendor or service provider directly for any additional nuances in their refund policy.
+
+If you have any specific concerns or would like information about a particular order, please provide me with the necessary details, such as the {{Order Number}}, and I will be happy to assist you further.
+
+Rest assured, we value your satisfaction and will do our best to provide you with the assistance you need.

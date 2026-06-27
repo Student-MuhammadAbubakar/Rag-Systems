@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I see my invoices from {{Person Name}}?
+
+Answer: I greatly appreciate your question about locating your invoices from {{Salutation}} {{Client Last Name}}. To access your invoices, you can simply log in to your account on our website. Once you are logged in, navigate to the billing or account section, where you should find a dedicated tab or option labeled "Invoices" or "Billing History." Clicking on that will provide you with a comprehensive list of all your invoices, including those related to {{Person Name}}. If you encounter any difficulties or need further assistance, please don't hesitate to reach out. I'm here to guide you every step of the way.

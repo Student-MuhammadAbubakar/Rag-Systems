@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: take a quick look at my invoices from {{Person Name}}
+
+Answer: I'm on it! I'd be glad to assist you in quickly reviewing your invoices for {{Salutation}} {{Client Last Name}}. To better understand your request, could you please provide me with some additional details such as the specific time period or any other relevant information? This will enable me to retrieve the invoices you'd like to review and provide you with the necessary information promptly. Thank you for reaching out, and I'm here to support you every step of the way!

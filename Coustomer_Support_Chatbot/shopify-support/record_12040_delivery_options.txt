@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya ship to {{Delivery Country}}
+
+Answer: Oh, the thrill of shipping to the {{Delivery Country}}! We take great pleasure in ensuring our valuable customers, like yourself, have access to our exceptional shipping services in the {{Delivery Country}}. So yes, we do ship to the {{Delivery Country}}! Our reliable and convenient delivery options are designed to meet your needs and deliver your orders with care. From standard shipping to expedited and overnight options, we have you covered. If you have any specific concerns or questions, please don't hesitate to let us know. Exploring the world of shipping options with you is our greatest joy!

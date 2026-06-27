@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a compensation of {{Refund Amount}} dollars
+
+Answer: I understand how important it is for you to receive your compensation of ${{Refund Amount}}. We value your time, and I apologize for any delays you might have experienced. To provide you with an accurate update on the status of your compensation, I will need some additional details. Could you please provide me with your claim number or any other relevant information? This will help me expedite the process and ensure a swift resolution for you. Thank you for your cooperation, and I appreciate your patience.

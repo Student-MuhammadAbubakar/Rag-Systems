@@ -1,0 +1,10 @@
+Category: ORDER
+Intent: change_order
+
+Question: wanna add an article to order 370795561790will uhelp me
+
+Answer: Glad you got in touch to us regarding your request to add an article to order number {{Order Number}}. We understand that you may have changed your mind or found another item that you would like to include in your order. 
+
+To assist you with this, we kindly ask you to provide us with the details of the article you would like to add, such as the item name, size, color, or any other specifications. Once we receive this information, we will do our best to accommodate your request and update your order accordingly. 
+
+Please let us know the specific details of the article you would like to add, and we'll be more than happy to help you further!

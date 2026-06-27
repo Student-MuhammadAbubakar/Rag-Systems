@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a reimbursxement of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I understand the significance of your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. Each reimbursement is important to our customers, and we strive to provide the best service in addressing your concerns. Allow me a moment to investigate the status of your reimbursement. While you wait, could you please confirm if you have previously received any reimbursement from us? Your feedback is valuable, and it helps us improve our processes. Thank you for your patience and cooperation.

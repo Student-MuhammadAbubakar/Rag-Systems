@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what I need to do to remove a pro account
+
+Answer: We're here for you about removing your {{Account Type}} account. I understand that you may have questions or uncertainties about the process, and I'm here to help you navigate through it. To cancel your {{Account Type}} account, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Go to the account settings or profile section.
+3. Look for the option to manage or cancel your subscription.
+4. Follow the prompts or instructions provided to cancel your {{Account Type}} account.
+
+If you encounter any difficulties or need further assistance, please don't hesitate to let me know. I'm here to provide you with the support you need throughout the process of removing your {{Account Type}} account.

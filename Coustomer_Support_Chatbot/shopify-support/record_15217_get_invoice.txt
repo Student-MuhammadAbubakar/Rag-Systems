@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: need to download my invoice #37777 will ya help me
+
+Answer: I'll make it happen! I completely understand your need to download invoice #{{Invoice Number}}. Let me assist you with that. Just give me a moment to retrieve the invoice for you. Once it's ready, I can provide you with a download link or send it to you via email, whichever option works best for you. Is there anything else I can assist you with while I retrieve your invoice?

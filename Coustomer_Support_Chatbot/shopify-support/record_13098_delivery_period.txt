@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where do i see when my product is gonna arrive
+
+Answer: We understand that you're eager to know the estimated delivery time for your product. To provide you with accurate information, may I ask for your {{Order Number}} or {{Tracking Number}}? With that information, I'll be able to give you the specific details about your product's arrival. Thank you for your cooperation and patience!

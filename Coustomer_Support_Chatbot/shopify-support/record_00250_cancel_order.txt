@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i can no longer afford purchase {{Order Number}}
+
+Answer: I truly understand your situation and apologize for any inconvenience this may cause. We are here to assist you with canceling your purchase with the order number {{Order Number}}. Our main priority is to ensure your satisfaction, so we are more than willing to help find a suitable solution for you. Please follow the cancellation process provided earlier, and if you have any further concerns or questions, feel free to reach out to our dedicated team. We are available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Your happiness is important to us, and we want to ensure that you have the best possible experience with us.

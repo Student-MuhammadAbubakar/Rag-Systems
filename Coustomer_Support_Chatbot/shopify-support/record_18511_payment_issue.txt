@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I need help informing of troubles with online payment
+
+Answer: Glad you contacted to us regarding the troubles you're experiencing with your online payment. We understand how important it is to have a smooth and trouble-free payment process, and we're here to assist you every step of the way. To report the issues you're facing with your online payment, please reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will gather all the necessary details and guide you through the process of resolving your payment troubles. We greatly appreciate your patience and cooperation, and we're confident that together we can find a solution to ensure a seamless online payment experience for you.

@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have to see bill #85632, I need help
+
+Answer: Absolutely! I understand that you need assistance with viewing the details of your bill number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To access your bill, please follow these steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to "View Bill" or "Download Invoice".
+4. Click on the link or button to access your bill.
+5. Once you open your bill, you'll be able to review all the relevant details, such as the billing period, due date, itemized charges, and payment options.
+
+If you encounter any difficulties or have any additional questions along the way, feel free to ask. Your satisfaction is our top priority, and we're here to ensure you have a seamless experience viewing your bill.

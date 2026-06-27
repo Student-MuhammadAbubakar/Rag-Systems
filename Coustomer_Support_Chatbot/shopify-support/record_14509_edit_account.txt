@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit data on {{Account Type}} account
+
+Answer: How refreshingly exciting it is to embark on the journey of editing the data on your esteemed {{Account Type}} account!I am here to provide you with the support and guidance you need to make this process as seamless as possible. Rest assured, I am fully committed to ensuring your experience is exceptional every step of the way. So, please share the specific details you would like to modify, and I'll be more than happy to assist you further. Let's work together to make your {{Account Type}} account just the way you want it!

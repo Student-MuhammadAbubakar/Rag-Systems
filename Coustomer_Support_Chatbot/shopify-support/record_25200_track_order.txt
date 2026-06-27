@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: wanna chec order {{Order Number}} status
+
+Answer: We're listening! I'm keyed into the fact that you want to check the status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please provide me with your full name or email address associated with the order? This will help me locate the order details and provide you with the current status. I appreciate your cooperation and look forward to assisting you further!

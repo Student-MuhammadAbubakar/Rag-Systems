@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me bills from {{Person Name}}
+
+Answer: I understand your request to receive bills from {{Person Name}}. Let me assist you with that. In order to proceed, I kindly ask you to provide me with a specific timeframe for the bills you wish to receive from {{Person Name}}. Once I have that information, I will be able to gather the necessary documents and send them to you promptly. Thank you for your cooperation and patience.

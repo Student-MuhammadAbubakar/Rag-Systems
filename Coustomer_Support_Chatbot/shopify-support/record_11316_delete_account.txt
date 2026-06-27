@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I am looking for information about a pro account removal
+
+Answer: Grateful you reached out to us regarding the removal of your {{Account Type}} account. I hear your need for information, and I'm here to assist you. To provide you with accurate and relevant details, could you please provide me with your {{Account Type}} account username or any other specific details related to the removal process? This will enable me to guide you through the necessary steps and ensure a smooth removal experience.

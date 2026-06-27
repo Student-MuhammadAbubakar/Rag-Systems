@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I need to switch an article of order {{Order Number}}
+
+Answer: We acknowledge your request to switch an article in order number {{Order Number}}. We apologize for any inconvenience caused. In order to assist you further with this matter, could you please provide the specific details of the article you would like to switch, as well as the replacement article you have in mind? This will allow us to process your request accurately and efficiently. We appreciate your patience and cooperation in resolving this matter to your satisfaction.

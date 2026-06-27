@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i cant see the compensation status
+
+Answer: I apologize for the inconvenience you're facing in viewing the status of your compensation. I'm here to help you with that. Could you please provide me with your {{Company Name}} account number or any other relevant details so that I can assist you better in locating the information?

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order frrom {{Delivery Country}}
+
+Answer: Definitely! We are delighted to serve customers from the {{Delivery Country}}. You can easily place an order and enjoy our wide range of products, convenient delivery options, and exceptional service. Whether you're looking for standard shipping, expedited shipping, or even overnight shipping, we've got you covered. Feel free to explore our website or contact our customer service team for more information or assistance with your order. Happy shopping!

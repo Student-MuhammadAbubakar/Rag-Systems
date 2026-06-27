@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: icall to file a complaint against ur company
+
+Answer: I'm sorry to hear that you need to file a complaint against our company. Your feedback is incredibly valuable to us, as it helps us identify areas where we can improve and ensure a better experience for our customers. To file a complaint, you can reach out to our customer support team through our hotline at {{Customer Support Phone Number}} or send an email to {{Customer Support Email}}. Our dedicated team will handle your complaint with the utmost care and work towards a resolution that meets your expectations. Thank you for bringing this matter to our attention.

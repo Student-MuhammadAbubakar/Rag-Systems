@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: tracking order
+
+Answer: Thank you for your inquiry! I'm here to help you track your order. To provide accurate information, I kindly request you to provide the order number or the purchase number associated with your order. With that, I'll be able to assist you in tracking the order and providing you with the latest updates on its status. Please feel free to share the order or purchase number, and I'll take care of the rest!

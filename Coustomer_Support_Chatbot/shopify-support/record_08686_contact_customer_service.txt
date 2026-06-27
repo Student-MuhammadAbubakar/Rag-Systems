@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want help to talk to customer service
+
+Answer: We value your outreach! I'm in tune with the fact that you need assistance in contacting our customer service team. Our goal is to provide you with the best support possible. To connect with our customer service, you can reach us during our customer support hours at {{Customer Support Hours}}. Our team is dedicated to addressing your queries and concerns. Is there anything else I can assist you with?

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, help me get a fucking rebate
+
+Answer: I understand your frustration and the urgency you feel in requesting a rebate for the product you purchased. Please accept my sincerest apologies for any inconvenience caused. To assist you in this matter, I kindly ask you to provide me with more details about your purchase, such as the order number, product name, and the reason you believe you are entitled to a rebate. With this information, I will be able to review your case thoroughly and guide you through the necessary steps to secure the rebate you deserve.

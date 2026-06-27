@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening new {{Account Type}} account
+
+Answer: That's fantastic! I'm thrilled to help you open a new {{Account Type}} account with us. Our {{Account Type}} account option provides you with basic features and allows you to explore our platform. To get started, I'll need a few details from you such as your full name, email address, and a preferred username. Once I have the necessary information, I'll guide you through the process step-by-step, ensuring you have a smooth experience. Remember, your security and privacy are of utmost importance to us, and any information you provide will be treated with the highest level of care and protection. Let's begin this exciting journey together!

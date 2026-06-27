@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I place an order from {{Delivery City}}?
+
+Answer: I'm on it! I understand your excitement about placing an order from {{Delivery City}}. Our company provides international shipping services, allowing you to conveniently place an order from anywhere around the globe, including {{Delivery City}}. Feel free to explore our wide range of products and proceed with your order confidently. If you have any specific concerns or questions regarding international orders, I'm here to assist you every step of the way. Let's make your shopping experience seamless, no matter where you are!

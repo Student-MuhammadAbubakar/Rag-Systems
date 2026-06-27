@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where can i acquire an few of ur article
+
+Answer: Thank you for your interest in acquiring a few of our articles! I'm excited to help you with your purchase. We offer various options for acquiring our articles. You can visit our website at {{Website URL}} to explore our online store and place an order. Alternatively, you can also visit our physical stores located in {{Store Location}} to make your purchase in person. Our friendly staff will be glad to assist you with any questions or product recommendations you may have. So, whether you prefer the convenience of online shopping or the experience of visiting a store, we've got you covered!

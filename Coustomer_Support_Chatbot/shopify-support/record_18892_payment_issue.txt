@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where do I notify of a problem with payment?
+
+Answer: I appreciate you reaching out to us regarding your payment problem. To ensure that we provide you with the most effective assistance, I kindly request that you contact our dedicated customer support team. They are available to address your concerns and help resolve any payment issues you may be facing. You can reach them through the Live Chat feature on our website at {{Website URL}} or by calling {{Customer Support Phone Number}}. They will be more than happy to assist you and guide you through the next steps. Thank you for bringing this to our attention, and we look forward to resolving this matter promptly and satisfactorily for you.

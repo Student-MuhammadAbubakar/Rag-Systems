@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i do nothave a {{Account Type}} account help signing up
+
+Answer: Appreciate you reaching out to us! I'm excited to assist you in signing up for a {{Account Type}} account. It's great that you're interested in exploring the enhanced features and privileges that come with our {{Account Type}} membership. To get started, could you please provide me with your full name, email address, and a preferred username? Once we have these details, I'll guide you through the sign-up process step by step, ensuring a seamless experience. Rest assured that your security and privacy are of utmost importance to us, and all your information will be safeguarded carefully. Let's begin your journey with our {{Account Type}} account! How do you feel about embarking on this exciting new adventure?

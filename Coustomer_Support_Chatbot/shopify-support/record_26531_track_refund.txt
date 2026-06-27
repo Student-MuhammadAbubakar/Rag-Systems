@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a reimbursement of {{Refund Amount}} dollars
+
+Answer: I understand how important it is for you to receive your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. Rest assured, I'll do my best to assist you with tracking the status of your reimbursement. In order to provide you with accurate information, could you please provide me with your reimbursement reference or any other relevant details? This will help me investigate the current status and provide you with the necessary updates. Thank you for your cooperation and patience.

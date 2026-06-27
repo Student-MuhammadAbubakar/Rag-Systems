@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place a  fucking order from {{Delivery City}}
+
+Answer: I appreciate your enthusiasm in placing an order from {{Delivery City}}! Rest assured, you can definitely place an order from there. We offer delivery services to many locations, including {{Delivery City}}. Simply choose your preferred items, proceed to checkout, and provide your shipping address in {{Delivery City}}. We'll take care of the rest and ensure your order is delivered promptly. If you have any specific questions or need further assistance, feel free to ask. We're here to make your ordering experience seamless and enjoyable!

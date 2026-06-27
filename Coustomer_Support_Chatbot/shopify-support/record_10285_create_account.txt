@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I am trying to find information about opening a {{Account Type}} account
+
+Answer: I appreciate your interest in opening a {{Account Type}} account with us! Free accounts are a great way to get started and explore our services. To provide you with the most accurate and up-to-date information, could you please let me know which specific details you are looking for? Whether it's the benefits, features, or eligibility criteria, I'm here to assist you every step of the way. Let me know what information you need, and I'll be more than happy to help!

@@ -1,0 +1,12 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I have a problem with cancelling order {{Order Number}}
+
+Answer: I've picked up that you're experiencing difficulties with canceling order {{Order Number}}, and I apologize for any inconvenience this may have caused. Let's resolve this issue together. Here's what you can do:
+
+1. Contact Customer Support: Reach out to our dedicated customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}}. They have the expertise and tools to assist you with canceling your order.
+2. Live Chat: Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. Our agents will be there to guide you and address any concerns regarding the cancellation process.
+3. Provide Order details: When you contact us, please make sure to provide the order number {{Order Number}}. This will help speed up the process and ensure that we address the correct order.
+
+Rest assured, our team will work diligently to assist you in canceling your order smoothly and efficiently. Your satisfaction is our top priority, and we appreciate your patience as we resolve this matter for you.

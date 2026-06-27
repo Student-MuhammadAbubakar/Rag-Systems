@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shiping to {{Delivery City}}
+
+Answer: Unquestionably! I'm excited to assist you in exploring the possibility of shipping to the beautiful city of {{Delivery City}}. We offer a range of delivery options to ensure your items reach you conveniently and in a timely manner.
+
+1. Standard Shipping: Typically arrives within 5-7 business days. It's a reliable option for non-urgent shipments.
+2. Expedited Shipping: If you need your items sooner, you can choose expedited shipping which will have them delivered within 2-3 business days.
+3. Express Shipping: For urgent needs, express shipping guarantees delivery within 1-2 business days.
+
+These options may vary based on the specific items you are purchasing and your location. However, rest assured that we strive to provide flexible and efficient shipping services to our valued customers like you. If you have any further questions or need assistance with placing an order, please feel free to ask.

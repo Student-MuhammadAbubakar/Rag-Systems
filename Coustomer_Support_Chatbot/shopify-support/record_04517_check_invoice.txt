@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need help to find my invoice #12588
+
+Answer: Glad you contacted to us with your request to locate your invoice with the number #{{Invoice Number}}. I understand how important it is to have easy access to your invoice information. Let's work together to find the details you need. Could you please provide me with some additional information such as the date of the invoice or any specific items or services mentioned in the invoice? This will greatly assist us in narrowing down the search and providing you with accurate and relevant information. Rest assured, I'm here to support you every step of the way and ensure you have a smooth invoice retrieval process.

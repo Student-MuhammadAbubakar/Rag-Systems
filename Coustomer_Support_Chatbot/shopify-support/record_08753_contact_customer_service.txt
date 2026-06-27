@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: awnna call customer support
+
+Answer: I'll get right on it! I understand that you want to call our customer support team. We are available to assist you during {{Customer Support Hours}}. You can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is ready to provide you with the help you need. How else can I assist you today?

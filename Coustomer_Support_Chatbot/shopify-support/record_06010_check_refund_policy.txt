@@ -1,0 +1,14 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I want to see how long refunds take
+
+Answer: I'm on it! I fully understand your curiosity about the duration of the refund process. The time it takes for a refund to be processed can vary depending on several factors, including the payment method used and the specific policies of the vendor or service provider.
+
+In general, refunds can take anywhere from a few days to a couple of weeks to process. This timeframe allows for necessary verification, investigation, and any required coordination between different parties involved. However, it's important to note that this is just a general estimate, and the actual processing time may vary in individual cases.
+
+To provide you with more accurate information about the specific refund process and timeline for your situation, I recommend reaching out to our customer support team. They have access to the necessary systems and resources to give you a more precise estimate based on your specific refund request. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Please don't hesitate to contact us if you have any further questions or concerns. We are here to assist you every step of the way and ensure a smooth refund experience.
+
+Is there anything else I can assist you with?

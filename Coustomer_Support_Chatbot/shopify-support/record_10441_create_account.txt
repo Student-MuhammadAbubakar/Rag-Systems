@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creating new standard account for daughter
+
+Answer: That's fantastic! I'm thrilled to help you create a new {{Account Type}} account for your daughter. To get started, I'll need a few details. Could you please provide your daughter's full name, date of birth, and a preferred username? Once I have this information, I'll guide you through the account creation process step by step, ensuring a smooth experience. Rest assured that her security and privacy are of utmost importance to us, and we'll maintain the confidentiality of all the information shared. Let's make this process as seamless as possible for you and your daughter!

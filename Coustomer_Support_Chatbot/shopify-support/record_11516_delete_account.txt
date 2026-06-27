@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: delete platinum account
+
+Answer: Happy to get your message about deleting your {{Account Category}} account. I understand that you want to make changes to your account and it's important for me to assist you with this process. Could you please provide me with some more details about your account and the specific information you need for the deletion? This will help me guide you through the cancellation process accurately and efficiently. Remember, I'm here to support you every step of the way.

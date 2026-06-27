@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I edit order {{Order Number}}?
+
+Answer: We appreciate you reaching out to us for assistance with editing your order. To make changes to order number {{Order Number}}, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Go to the "My Orders" or "Order History" section.
+3. Locate order number {{Order Number}} and click on it to view the order details.
+4. Look for an option or button that says "Edit Order" or "Modify Order" and click on it.
+5. You will be directed to a page where you can make the desired changes to your order, such as updating quantities, removing or adding items, or changing the shipping address.
+6. After making the necessary edits, review the changes carefully and click on the "Save Changes" or "Update Order" button.
+7. You may be prompted to confirm the changes before finalizing them.
+8. Once you've successfully edited your order, you will receive a confirmation email with the updated order details.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to assist you throughout the process and ensure that your order is modified to your satisfaction.

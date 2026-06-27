@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: hel me speak to customer service
+
+Answer: Happy to hear from you! I truly understand that you need assistance in speaking to our customer service team. Rest assured, I'm here to help you with that. To connect with our customer service representatives, you can reach out to them during {{Customer Support Hours}}. They can be contacted at {{Customer Support Phone Number}} or you can also connect with them through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any questions or concerns you have. How else may I be of service to you today?

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i dont know what i have to do to open a premium account
+
+Answer: I'm here to help you with opening a {{Account Category}} account! Don't worry, I'll provide you with all the guidance you need. To get started, may I know if you already have an account with us? Depending on the answer, I can assist you with either upgrading your existing account to a {{Account Category}} account or creating a brand new {{Account Category}} account. Please let me know and we'll proceed from there.

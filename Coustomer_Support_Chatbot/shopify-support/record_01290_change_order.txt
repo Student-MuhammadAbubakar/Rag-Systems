@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: swap an article of order {{Order Number}}
+
+Answer: Thanks for dropping us a line to us regarding order number {{Order Number}}. We understand that you would like to swap an article in your order. We apologize for any inconvenience caused. To assist you with this change, can you please provide us with the details of the article you would like to swap and the article you would like to replace it with? Once we receive this information, we will review the possibilities and provide you with a suitable solution. Your satisfaction is our priority, and we appreciate your patience as we work on resolving this for you.

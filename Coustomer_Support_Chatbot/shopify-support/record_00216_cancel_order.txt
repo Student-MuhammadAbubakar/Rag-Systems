@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can no longer pay for purchase {{Order Number}}
+
+Answer: I'm attuned to the idea that you're unable to make the payment for your purchase with the order number {{Order Number}}. I'm here to help you with the cancellation process, which will also remove the payment requirement. Please follow these steps:
+
+1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.
+2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section to find the order linked to purchase {{Order Number}}.
+3. Initiate Cancellation: Look for the option labeled '{{Online Order Interaction}}' associated with your purchase. Click on it to begin the cancellation process.
+4. Confirm Cancellation: The system may prompt you to confirm your cancellation request. Please provide any necessary details or feedback to complete the process.
+5. Payment Adjustments: Since you mentioned difficulties in making the payment, canceling the order will automatically cancel the payment requirement. You won't have to worry about any pending charges or payment obligations.
+
+If you need any further assistance or encounter any issues along the way, our dedicated support team is available during {{Customer Support Hours}}. You can reach us by calling {{Customer Support Phone Number}} or via Live Chat on our {{Website URL}}. We are committed to your satisfaction and will ensure a smooth resolution for you.

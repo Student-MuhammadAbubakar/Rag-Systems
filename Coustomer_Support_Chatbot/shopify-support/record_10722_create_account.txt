@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create {{Account Type}} account
+
+Answer: Congratulations on your decision to create a {{Account Type}} account with us! It's an excellent choice that comes with a range of exclusive benefits and features designed to enhance your experience. To create a {{Account Type}} account, you can visit our website at {{Website URL}} and navigate to the account creation page. Once there, you'll be guided through a simple and secure process to set up your account and start enjoying all the advantages of being a {{Account Type}} member. If you have any questions or need assistance at any point, please don't hesitate to reach out. We're here to help you every step of the way.

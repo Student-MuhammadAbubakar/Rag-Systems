@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correct information on {{Account Category}} account
+
+Answer: How great it is to see your attention to detail in correcting the information on your {{Account Category}} account!my goal is to ensure that your account is up-to-date and accurate. To proceed with correcting the information, I recommend logging into your {{Online Company Portal Info}} account and navigating to the account settings section. From there, you should be able to make the necessary adjustments to your account details. If you encounter any difficulties or have specific questions, please don't hesitate to reach out to our dedicated customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Together, we'll make sure your {{Account Category}} account reflects the correct information.

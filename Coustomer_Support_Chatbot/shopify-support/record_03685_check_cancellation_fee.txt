@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need help to see the termination fee
+
+Answer: Positively! I'm here to help you check your termination fee. Please provide me with your account details, and I will retrieve the necessary information for you.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i need assistance to open a gold account for my dad
+
+Answer: That's fantastic! I'm excited to assist you in opening a {{Account Type}} account for your dad. To start the process, I would need some information. Could you please provide me with your dad's full name, email address, and a preferred username for his account? Rest assured, we value your dad's privacy, and all the information provided will be treated with the utmost confidentiality. Together, we'll make sure your dad has a seamless experience while opening his {{Account Type}} account. How does that sound?

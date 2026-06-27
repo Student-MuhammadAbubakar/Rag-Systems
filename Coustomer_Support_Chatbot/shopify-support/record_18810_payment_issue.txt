@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know what I need to do to inform of paymdnt errors
+
+Answer: No worries, I'm here to guide you on how to inform us about any payment errors you're facing. To ensure a seamless resolution, the best course of action is to reach out to our dedicated customer support team. They have the necessary tools and expertise to assist you promptly. You can contact them through our customer support phone number, {{Customer Support Phone Number}}, or via the Live Chat option on our website at {{Website URL}}. They'll facilitate the process of reporting payment errors and work closely with you to address the issue. Rest assured, we value your feedback, and together, we'll resolve this matter efficiently.

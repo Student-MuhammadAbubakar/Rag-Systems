@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I cannot afford purchase {{Order Number}}
+
+Answer: I completely understand your concern about the affordability of your purchase with the order number {{Order Number}}. We value your satisfaction and want to assist you with your situation. To explore options regarding your purchase, I recommend reaching out to our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}}. They will be able to provide you with guidance and alternative solutions that may better fit your budget. Rest assured, we are here to support you in finding the best resolution.

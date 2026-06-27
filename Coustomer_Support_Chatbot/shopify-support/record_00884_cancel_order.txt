@@ -1,0 +1,12 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i cannot afford purchase {{Order Number}}
+
+Answer: I grasp that you are facing financial constraints and cannot afford to proceed with your purchase associated with the order number {{Order Number}}. We apologize for any inconvenience this may have caused.
+
+We prioritize our customers' satisfaction and understand that unexpected situations can arise. Our team is committed to assisting you. To explore your options, I recommend reaching out to our customer support. They can provide guidance on how to proceed, such as exploring a refund or cancellation policy best suited to your circumstances.
+
+You can contact our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or engage with our Live Chat feature on our {{Website URL}}. Our dedicated team is here to ensure you have a positive experience and to find the best solution for your situation.
+
+We appreciate your understanding and look forward to assisting you further.

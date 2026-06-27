@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I  can't check the current status of purchase {{Order Number}}
+
+Answer: I apologize for the inconvenience you're facing in checking the status of your purchase with the purchase number {{Order Number}}. I understand how important it is to have visibility on your order. Don't worry, I'm here to help you with this. To assist you further, could you please provide me with some additional details? Specifically, I would need the email address associated with your purchase or any other relevant information to locate your order and provide you with the latest status update. Once I have that information, I'll do my best to assist you promptly.

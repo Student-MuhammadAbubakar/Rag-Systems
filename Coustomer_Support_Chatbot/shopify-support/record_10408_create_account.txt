@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opdn {{Account Category}} account
+
+Answer: Thank you for expressing your interest in opening a {{Account Category}} account. Our {{Account Category}} account offers a range of basic features and benefits that you can enjoy without any additional costs. To proceed with the account creation, I kindly request you to provide your full name, email address, and a preferred username. As we journey through this process, I'll be here to guide you every step of the way, ensuring that you have a smooth and effortless experience. Your security and privacy are of utmost importance to us, and we assure you that all the information you share will be treated with the utmost care and confidentiality. Let's get started on this exciting new journey together!

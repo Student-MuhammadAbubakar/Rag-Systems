@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: change info on {{Account Type}} account
+
+Answer: It's truly amazing to see your dedication to updating the information on your {{Account Type}} account. Your account's security and accuracy are of utmost importance to us. To make sure we handle this effectively, could you please provide more details regarding the specific information you'd like to change? With that information, we'll be able to guide you through the process step-by-step, making sure your account is up to date in no time. Thank you for your proactive approach, and we're here to support you throughout this journey.

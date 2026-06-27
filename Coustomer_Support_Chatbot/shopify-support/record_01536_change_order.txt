@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: i dont know how i can add several items to purchase {{Order Number}}
+
+Answer: Your reach-out is appreciated! I'm sensing that you're unsure about how to add several items to your purchase with the number {{Order Number}}. Don't worry, I'm here to help! To add multiple items to your purchase, you can follow these steps:
+
+1. Visit our website and log into your account.
+2. Go to the 'My Purchases' section or 'Order History' page.
+3. Find the purchase with the number {{Order Number}} and click on it to view the details.
+4. Look for an 'Add Items' or 'Edit Order' button and click on it.
+5. You should see a list of available products. Browse through the options and select the items you want to add.
+6. Once you have selected the items, click on the 'Add' or 'Confirm' button to add them to your purchase.
+7. Review your updated purchase summary to make sure everything looks correct.
+8. Finally, proceed to the checkout or payment page to complete your purchase with the additional items.
+
+If you encounter any difficulties or have further questions, our customer support team is available {{Customer Support Hours}}. Please feel free to reach out to them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to guide you through the process and provide any necessary assistance. We want to ensure that your purchase experience is seamless and enjoyable.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I order from {{Delivery City}}?
+
+Answer: Absolutely! When it comes to ordering from {{Delivery City}}, you can definitely place an order with us. We offer international shipping to various locations, including {{Delivery City}}. You can explore our website to browse our wide range of products and add them to your cart. During the checkout process, you will be prompted to enter your shipping address, where you can enter {{Delivery City}} as the destination. Our system will calculate the appropriate shipping fees based on the weight and dimensions of your order, ensuring a smooth ordering process. If you have any specific questions or concerns about ordering from {{Delivery City}} or need assistance with any step along the way, feel free to let me know. I'm here to help make your experience seamless and enjoyable.

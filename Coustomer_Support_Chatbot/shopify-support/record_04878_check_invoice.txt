@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see bill #12588
+
+Answer: I'm on it! I understand your request to view the details of bill #{{Invoice Number}}. Let me guide you through the process. To access the bill, please log in to your account and navigate to the "Billing" section. From there, you should be able to locate and review the bill associated with the number #{{Invoice Number}}. If you encounter any difficulties or have any further questions, feel free to reach out to our customer support team, who are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to assist you every step of the way!

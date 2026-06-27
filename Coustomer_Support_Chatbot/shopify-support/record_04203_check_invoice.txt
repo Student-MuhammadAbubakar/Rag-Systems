@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: find bill #85632
+
+Answer: Of course! I'm here to assist you in locating the details of bill #{{Invoice Number}}. To find the information you need, please follow these steps:
+
+1. Log in to your account on our website or mobile app.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the search bar or filter option and enter the number "85632".
+4. Once you locate the bill, you can click on it to view the complete details including payment status, due date, and any relevant notes.
+
+If you encounter any difficulties or have further questions, feel free to reach out to our customer support team through live chat or by phone at {{Customer Support Phone Number}}. They'll be more than happy to assist you further.

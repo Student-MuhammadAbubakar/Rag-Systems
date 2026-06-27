@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i dont know how i can call customer assistance
+
+Answer: Thank you for reaching out! I completely understand your uncertainty regarding how to contact our customer assistance team. To connect with them, you can reach out through our dedicated customer service hotline at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Our team is eager to assist you with any questions or concerns you may have. Please don't hesitate to reach out. How else may I be of help to you?

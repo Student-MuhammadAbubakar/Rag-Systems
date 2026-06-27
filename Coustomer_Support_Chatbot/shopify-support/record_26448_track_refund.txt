@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a refund of {{Refund Amount}} dollars, has it been processed?
+
+Answer: I'm on your side your anticipation for the refund of {{Currency Symbol}}{{Refund Amount}}. I know how vital it is for you to have clarity on whether it has been processed or not. Rest assured, I am here to assist you in finding the current status of your refund. Give me a moment to review your account information, and I will provide you with an update. Thank you for your patience.

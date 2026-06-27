@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: where can i find information about a {{Account Type}} account deletion
+
+Answer: I appreciate your inquiry about finding information related to deleting a {{Account Type}} account. Our company values your operational freedom and wants to provide you the necessary guidance for this process. You can find detailed instructions on how to delete your {{Account Type}} account in the "Account Settings" section of our website. Once you log in, navigate to the "Settings" or "Profile" tab, and you should see an option to delete your account. If you encounter any difficulties or have further questions, please don't hesitate to reach out for assistance. We are here to support you every step of the way.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do i check at what time i can call  customer service
+
+Answer: We appreciate your message! It's clear to me that you would like to know the hours during which you can call our customer service team. To check the specific timings, you can visit our website at {{Website URL}} and navigate to the "Contact Us" or "Support" section. There, you will find the available hours to reach our customer service representatives. If you prefer, you can also reach out to them through email at {{Customer Support Email}}. Please let me know if there's anything else I can assist you with.

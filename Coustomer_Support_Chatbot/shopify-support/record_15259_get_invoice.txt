@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want  assistance downloading the invoice #00108
+
+Answer: Have no fear, for I am here to provide you with the much-needed guidance in your endeavor to download the illustrious invoice bearing the sacred number {{Invoice Number}}. Fear not the complexities of the process, for I shall simplify it and lead you towards achieving your goal. Remember, should any doubts or questions arise along the way, feel free to share them with me. Together, we shall conquer this task and ensure your satisfaction is met. Let us embark on this journey together!

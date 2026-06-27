@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: where to report sign-up problems?
+
+Answer: We appreciate your efforts to keep us informed about the sign-up problems you encountered. To report these issues, please reach out to our dedicated support team through our customer service hotline at {{Customer Support Phone Number}} or by sending an email to our support email address at {{Customer Support Email}}. Rest assured, our team will investigate the problem promptly and work towards resolving it for you. We value your feedback and want to ensure a smooth sign-up experience for all our users.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how to see when my product is going to arrive?
+
+Answer: We understand your eagerness to track the progress and anticipated delivery date of your product. To check the estimated arrival time, you can go to your '{{Order Number}}' page on our website. There, you will find the latest updates regarding your shipment, including the expected delivery date. If you have any further questions or need assistance, please don't hesitate to reach out to our customer support team. We're here to help!"

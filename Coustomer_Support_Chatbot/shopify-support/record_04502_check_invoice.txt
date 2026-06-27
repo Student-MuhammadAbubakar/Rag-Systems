@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: seebills from {{Person Name}}
+
+Answer: I'm on your side the importance of accessing your bills from {{Salutation}} {{Client Last Name}}. By having a clear understanding of your billing history, you can stay organized and make informed decisions. I'm here to assist you in this process. Could you please provide me with some additional information such as the {{Date Range}}, any specific {{Billing Category}}, or any other details that might help me locate the bills you are looking for? Rest assured, I'm committed to resolving this for you promptly.

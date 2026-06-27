@@ -1,0 +1,16 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know how I can cotnact somebody
+
+Answer: Thank you for reaching out! I completely understand that you're unsure about how to contact someone and I'm here to assist you. To connect with a human agent, you can try the following options:
+
+1. Customer Support Hotline: Dial our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team will be happy to assist you.
+
+2. Live Chat: Visit our website at {{Website URL}} and look for the Live Chat feature. Our customer support team is available there to provide real-time assistance.
+
+3. Email: Send an email to our support team at {{Customer Support Email}} with your concerns, and one of our representatives will get back to you promptly.
+
+4. Social Media: Reach out to us on our official social media channels such as Facebook or Twitter. Our social media team will be glad to help you.
+
+Choose the option that suits you best, and feel free to provide any additional information or specific details about your request. We're here to ensure you receive the support you need.

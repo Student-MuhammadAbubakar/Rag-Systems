@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: help me checking if there are any news on my refund
+
+Answer: I've observed that you're looking for an update on your refund. Rest assured, I'm here to help. Let me quickly check the latest information on your refund status. While I do that, may I ask if you have received any notification or confirmation regarding your refund? Your response will provide valuable context for me to provide you with accurate and relevant information. Thank you for your patience as I look into this for you.

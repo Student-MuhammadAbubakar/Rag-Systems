@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: what do I need to do to see what shipment methods I have?
+
+Answer: Great question! To explore the shipment methods available to you, you can follow these simple steps:
+
+1. Visit our website at {{Website URL}} and navigate to the product page of the item you're interested in purchasing.
+2. On the product page, you should find a section titled "Shipping Options" or something similar. Click on it to expand and view the available methods.
+3. A list of shipment methods will be displayed, along with their estimated delivery times and costs, if applicable.
+4. Take your time to review each option and select the one that best suits your needs and preferences.
+
+If you have any further questions or need assistance during the process of exploring the shipment methods, feel free to reach out to our customer support team. We're here to help you make an informed decision and ensure a smooth shopping experience. Let us know how we can assist you further!

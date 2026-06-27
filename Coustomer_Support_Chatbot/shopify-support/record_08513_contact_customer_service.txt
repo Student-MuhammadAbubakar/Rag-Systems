@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do I check what hours I can call customer assistance ?
+
+Answer: Always good to connect! I'm attuned to the fact that you would like to know the hours during which you can contact our customer assistance. To check our customer service hours, you can visit our website at {{Website URL}} and look for the "Contact Us" section. There, you will find our customer service hours of operation. If you have any further questions or need any assistance, please feel free to let me know.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can iu talk to customer support
+
+Answer: I see what you mean! I'm on the same page that you would like to talk to our customer support team. I'm here to assist you. Our customer support team is available during {{Customer Support Hours}}. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Feel free to ask any questions or provide more details about the assistance you require. How may I help you further?

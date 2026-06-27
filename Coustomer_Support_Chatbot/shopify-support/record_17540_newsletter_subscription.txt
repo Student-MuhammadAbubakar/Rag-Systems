@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: where to cancel the subscription to your newsletter?
+
+Answer: I've taken note that you are interested in canceling your subscription to our newsletter. I apologize for any inconvenience caused. To cancel your subscription, you can visit our website and navigate to the "My Account" or "Settings" section. There, you should find an option to manage your newsletter subscription preferences, including the ability to unsubscribe. If you're unable to locate the option or have any difficulties with the process, our customer support team will be more than happy to assist you. You can reach out to them through our website's live chat or contact them directly at {{Customer Support Phone Number}}. Rest assured, we respect your decision and will promptly process your request to cancel your newsletter subscription.

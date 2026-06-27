@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i cannot find my invoices from {{Person Name}}
+
+Answer: I understand your frustration in not being able to locate your invoices from {{Person Name}}. Let's work together to find a solution. Could you please provide me with any additional details such as the date range or any specific invoice numbers? This will help me narrow down the search and assist you more effectively in finding your invoices.

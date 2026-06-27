@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I do not know what I need to do to check your refund policy
+
+Answer: Thank you for reaching out. I understand that you need guidance on how to check our refund policy. It's essential for you to have this information readily available for your peace of mind. To check our refund policy, you can visit our website and navigate to the "Refund Policy" section. This section will provide you with detailed information about the situations under which you may be eligible for a refund, any deadlines or requirements, and the steps you need to follow to initiate the refund process. If you have any specific questions or need further assistance, please don't hesitate to let me know. I'm here to help!

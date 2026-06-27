@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: want assistance checking the cancellation fees
+
+Answer: Indeed! I'm here to help you with checking the cancellation fees. To provide you with accurate information, could you please provide your contract details or account number?

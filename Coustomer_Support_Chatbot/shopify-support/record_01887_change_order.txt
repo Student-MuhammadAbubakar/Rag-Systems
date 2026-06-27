@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problem with swappingt some articles of purchase {{Order Number}}
+
+Answer: Thank you for getting in touch to us about the issue with swapping some articles of purchase number {{Order Number}}. We understand the importance of ensuring that your order is exactly as you want it. To assist you further, could you please provide us with more details about the articles you would like to swap? This will help us efficiently process your request and ensure your satisfaction with the final purchase. We appreciate your patience and look forward to resolving this matter for you.

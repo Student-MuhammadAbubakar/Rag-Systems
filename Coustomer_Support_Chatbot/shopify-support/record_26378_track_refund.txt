@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expetc a damn restitution of {{Currency Symbol}}{{Refund Amount}} was it processed
+
+Answer: I'm picking up what you're putting down, your frustration and urgency in expecting a restitution of {{Currency Symbol}}{{Refund Amount}}, and I apologize for any inconvenience caused. Please allow me a moment to look into the status of your refund and check if it has been processed. I'll provide you with an update as soon as possible. Thank you for your understanding and patience.

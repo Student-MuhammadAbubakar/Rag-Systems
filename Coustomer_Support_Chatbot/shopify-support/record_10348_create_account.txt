@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create another {{Account Category}} account for mum
+
+Answer: That's fantastic! I appreciate your decision to create another {{Account Category}} account for your mum. It shows your commitment to providing her with the best services and benefits. To proceed, could you please provide your mum's full name, email address, and a preferred username? Once I have these details, I will guide you through the process step by step, ensuring a seamless experience. Rest assured that we prioritize your mum's security and privacy, and her information will be treated with the utmost care. If you have any questions or need further assistance, feel free to let me know.

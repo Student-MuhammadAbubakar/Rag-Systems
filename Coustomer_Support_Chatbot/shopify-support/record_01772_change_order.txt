@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I swap an item of order {{Order Number}}?
+
+Answer: Absolutely! I understand that you would like to swap an item from order number {{Order Number}}. Our team is here to assist you with this request. Could you please provide more details about the item you wish to swap and the replacement item you would like to have? This will help us process the swap efficiently and ensure your complete satisfaction with your order. Thank you for reaching out to us for assistance!

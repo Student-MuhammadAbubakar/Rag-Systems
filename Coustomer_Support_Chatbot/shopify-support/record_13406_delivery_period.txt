@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i want assisyance to see how soon can i expect my product
+
+Answer: We understand your eagerness to receive your product and track its estimated arrival. To provide you with the most accurate information, could you please provide us with your {{Order Number}} or {{Tracking Number}}? With this information, we will be able to check the current status of your shipment and give you an estimated delivery date. Your patience is highly appreciated!

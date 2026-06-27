@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: could i swap an iem of order {{Order Number}}
+
+Answer: Happy to get your message to us regarding your request to swap an item from order number {{Order Number}}. We understand that you would like assistance with this process. To proceed with the swap, please provide us with the details of the item you would like to swap and the desired replacement item. This will help us ensure a smooth and efficient exchange process for you. We appreciate your cooperation and look forward to assisting you further.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: need assistance checking order {{Order Number}} status
+
+Answer: Grateful for your contact! I get the sense that you need assistance in checking the status of order {{Order Number}} {{Order Number}}. To provide you with accurate information, could you please confirm the specific platform or website where you made this purchase? This will allow me to guide you to the correct section or page where you can track the status of your order effectively. Feel free to share any additional details or questions you may have, as I'm here to help you throughout your entire customer journey.

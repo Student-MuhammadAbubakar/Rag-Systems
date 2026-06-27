@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: can you show me the rebate current status?
+
+Answer: I'm on it! I understand your eagerness to know the current status of your rebate. To provide you with accurate information, could you please provide me with some details? Specifically, could you provide me with your {{Rebate ID}} or any other relevant information related to the rebate? Once I have this information, I'll be able to quickly check the status and provide you with the most up-to-date information. Thank you for your cooperation and patience as we work together to resolve your query.

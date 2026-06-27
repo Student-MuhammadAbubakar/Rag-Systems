@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have paid {{Currency Symbol}}{{Refund Amount}} for this article, how to obtain a rebate?
+
+Answer: I recognize that you have paid ${{Refund Amount}} for this article and you are looking to obtain a rebate. I apologize for any inconvenience this may have caused. To assist you further, may I kindly request additional information regarding the purchase? Specifically, could you provide the order number or any relevant details related to the transaction? With this information, I can investigate the matter to determine the appropriate course of action for obtaining a rebate. Rest assured, I am committed to resolving this matter for you as quickly and efficiently as possible. Your patience and cooperation are highly appreciated.

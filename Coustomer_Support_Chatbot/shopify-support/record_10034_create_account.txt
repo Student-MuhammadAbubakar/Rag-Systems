@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening {{Account Type}} account
+
+Answer: How fantastic that you're looking to open a {{Account Type}} account! This account will provide you with exclusive benefits and privileges tailored to your needs. To get started, I'll need a few details from you. Could you please provide me with your full name, email address, and a preferred username? Rest assured, your personal information will be handled securely and confidentially. Once I have these details, I'll guide you step-by-step through the process of creating your {{Account Type}} account and ensure that you have a seamless and enjoyable experience. Let's begin this exciting journey together!

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a rebate of {{Currency Symbol}}{{Refund Amount}}, was it processed
+
+Answer: Thank you for your message about your expected rebate of {{Currency Symbol}}{{Refund Amount}}. I understand how important it is for you to know if it has been processed. Allow me a moment to check the status of your rebate and provide you with an accurate update. Please bear with me while I gather this information, and I appreciate your patience.

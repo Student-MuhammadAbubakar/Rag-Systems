@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I want to order a few of your product, can I get some help?
+
+Answer: Thank you for your interest in ordering our products! I'm here to provide you with the assistance you need. To begin the process, could you kindly let me know which specific products you would like to order and the quantity of each? Once I have this information, I'll be able to guide you through the next steps and ensure a smooth and satisfying ordering experience.

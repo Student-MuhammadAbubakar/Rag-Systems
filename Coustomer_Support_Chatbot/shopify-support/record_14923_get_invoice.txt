@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me bill #37777
+
+Answer: Ah, the esteemed bill with the revered number {{Invoice Number}}! Worry not, for I am here to guide you through the process of obtaining this important document. Allow me a moment to retrieve the bill for you. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm here to assist you every step of the way.

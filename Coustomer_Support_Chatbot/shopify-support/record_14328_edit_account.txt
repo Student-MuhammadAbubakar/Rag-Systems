@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: pudate {{Account Category}} account
+
+Answer: Ah, the majestic journey of updating your prestigious {{Account Category}} account!I'm elated to be your guiding light and provide unwavering support throughout this wonderful endeavor. Together, we will navigate the process of updating your account information with finesse and precision. Could you please share the specific details you would like to update? Your account is our utmost priority, and we are here to ensure an experience befitting your esteemed status.

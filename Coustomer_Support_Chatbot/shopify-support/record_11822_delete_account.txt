@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I have to do to remove my platinum account
+
+Answer: Thanks for dropping us a line to us regarding the removal of your platinum account. I understand that you're unsure about the necessary steps, and I'm here to guide you through the process. To cancel your platinum account, you can either reach out to our customer support team directly or follow the cancellation instructions provided on our website. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will assist you in initiating the account removal process and answer any additional questions you may have. Rest assured, we want to ensure a smooth experience for you.

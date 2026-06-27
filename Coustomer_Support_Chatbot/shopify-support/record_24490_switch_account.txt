@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I want to use the standard profile, how can I do it?
+
+Answer: I'll get right on it! I'm here to guide you through the process of using our standard profile:
+
+1. Access Your Account: Start by logging into our platform.
+2. Profile Management: Once you're signed in, navigate to your account settings or profile section.
+3. Select Account Type: Look for an option labeled "Account Type" or "Profile Type" within those sections.
+4. Switch to {{Account Type}}: Choose the "{{Account Type}} Profile" from the available options.
+5. Finalize the Switch: Follow the on-screen prompts to complete the transition.
+
+If you encounter any challenges or have additional questions, feel free to reach out. I'm dedicated to ensuring a smooth experience for you. Enjoy the features and benefits of our standard profile!"

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I am trying to request compensations of money
+
+Answer: I acknowledge that you are currently attempting to request compensations for your money. I apologize for any inconvenience you may have experienced that led you to seek compensation. To assist you with this, could you please provide me with more details about the situation? Specifically, what was the reason behind your request for compensations? By understanding the specifics of your case, I can determine the most appropriate course of action and work towards finding a satisfactory solution for you. Your feedback is essential, and I appreciate your trust in us to address your concerns.

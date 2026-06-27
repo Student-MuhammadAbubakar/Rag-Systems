@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want assistance to delete my {{Account Type}} account
+
+Answer: I'm glad you contacted us to us for assistance with deleting your {{Account Type}} account. We understand that you may have various reasons for wanting to delete your account, and we're here to help you through the process. To ensure the security of your account, we have a defined procedure in place for account deletions. I kindly request you to provide us with some additional information, such as your account details or any specific concerns you may have, so that we can assist you more effectively. Rest assured, we will do our best to make this process as smooth and hassle-free as possible for you.

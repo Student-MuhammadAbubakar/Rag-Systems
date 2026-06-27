@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how to find invoice #37777
+
+Answer: I'm happy to help! I understand that you would like to locate the invoice with the number {{Invoice Number}}. To find this invoice, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Invoices" section or "Billing" tab.
+3. Look for the search bar or filtering options.
+4. Enter the invoice number {{Invoice Number}} in the search bar or select the appropriate filters.
+5. Click on the "Search" or "Find" button.
+6. The system will display the invoice matching the number {{Invoice Number}}.
+
+If you encounter any difficulties or need further assistance during this process, please feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to help you every step of the way!

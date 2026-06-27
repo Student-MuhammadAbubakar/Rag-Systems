@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I do not know how I can check your money back guarantee
+
+Answer: I appreciate your inquiry about our money-back guarantee. Allow me to guide you on how you can access this information and put your mind at ease.
+
+To check our money-back guarantee, you can visit our website's homepage and navigate to the "Refund Policy" section. There, you'll find detailed information about the conditions and circumstances under which you may be eligible for a refund.
+
+If you have any specific concerns or questions regarding our refund policy, please do not hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Ensuring your understanding and peace of mind is of utmost importance to us. Please let me know if there's anything else I can assist you with.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create {{Account Category}} account
+
+Answer: Thank you for choosing to create a {{Account Category}} account with us! We appreciate your decision to upgrade your account and enjoy the exclusive benefits and features that come with our {{Account Category}} membership. To get started, could you please provide your full name, email address, and a username? Once we have this information, we will guide you through the process step by step, ensuring that you have a smooth and informed experience. Rest assured that the security and privacy of your data are of utmost importance to us, and we will handle it with the utmost care. Feel free to ask any questions or share any concerns you may have along the way. We're here to assist you!

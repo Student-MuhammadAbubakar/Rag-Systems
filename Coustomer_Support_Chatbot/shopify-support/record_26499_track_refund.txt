@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: help me to check the sxtatus of my reimbursement
+
+Answer: Of course, I'm here to help you check the status of your reimbursement. Your peace of mind is important to us, and we want to ensure that you receive the most up-to-date information. To assist you further, could you please provide me with some additional details? Specifically, I would need the reimbursement reference number or any other relevant information that can help me locate your case in our system. With this information, I will be able to provide you with an accurate update on the status of your reimbursement. Thank you for your cooperation, and I appreciate your patience in advance.

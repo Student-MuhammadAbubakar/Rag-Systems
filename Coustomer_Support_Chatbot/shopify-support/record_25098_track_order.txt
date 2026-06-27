@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: locate order {{Order Number}}
+
+Answer: Thank you for contacting us! I understand that you need assistance in locating your order with the order number {{Order Number}}. I'm here to help! To access the information about your order, please log in to your account on our website and navigate to the "{{Online Order Interaction}}" section. There you'll find all the details related to your purchase, including the current status. If you have any further questions or require additional support, feel free to let me know.

@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont know what i have to do to delete my {{Account Type}} account
+
+Answer: Happy to get your message about deleting your {{Account Type}} account. I understand that you're unsure about the steps involved in the process. Don't worry, I'm here to assist you. To delete your {{Account Type}} account, you can follow these simple steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or preferences section.
+3. Look for the option to manage or delete your account.
+4. Follow the prompts or instructions provided to initiate the deletion process.
+5. Confirm your decision to delete the account when prompted.
+6. You might be required to enter some additional information for verification purposes.
+7. Once the process is complete, you will receive a confirmation email.
+
+If you encounter any difficulties or have further questions along the way, please feel free to let me know. I'm here to help you throughout the entire process.

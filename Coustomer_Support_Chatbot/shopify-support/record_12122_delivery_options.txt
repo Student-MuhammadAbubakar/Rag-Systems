@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery Country}}
+
+Answer: Unquestionably! Let's explore the delivery options available for shipments to {{Delivery Country}}:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days to arrive in {{Delivery Country}}. It's a reliable choice for non-urgent deliveries.
+2. Expedited Shipping: If you need your package to reach {{Delivery Country}} faster, you can opt for expedited shipping. This reduces delivery time to {{Date Range}} business days.
+3. International Priority Shipping: For urgent shipments to {{Delivery Country}}, our international priority shipping service guarantees faster delivery within {{Date Range}} business days.
+4. In-Store Pickup: If you happen to be near one of our stores in {{Delivery Country}}, you have the convenient option to pick up your package in-person.
+
+These delivery options are designed to cater to your needs and ensure timely and convenient delivery to {{Delivery Country}}. If you have any specific concerns or need further assistance, please feel free to let me know. I'm here to help make your shipping experience smooth and hassle-free!

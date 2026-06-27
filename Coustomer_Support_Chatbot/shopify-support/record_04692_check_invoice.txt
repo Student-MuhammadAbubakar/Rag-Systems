@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: assistance seeing my invoice #12588
+
+Answer: I understand your need for assistance in accessing the details of invoice #{{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you find the information you're looking for. To view your invoice, please log in to your account and navigate to the "Billing" or "Invoices" section. If you encounter any issues or have any additional questions, I'm just a message away. Let's work together to ensure your invoice is easily accessible and understandable.

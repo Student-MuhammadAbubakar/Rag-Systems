@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: what is order {{Order Number}} current status?
+
+Answer: Thank you for reaching out! I'm here to help you with the current status of your order with the number {{Order Number}}. To provide you with accurate information, could you please verify your identity? It could be your email address or the last four digits of the payment method used for the order. Once I have the necessary details, I'll be able to assist you further in checking the status of your order.

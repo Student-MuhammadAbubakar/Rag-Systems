@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating {{Refund Amount}} dollars
+
+Answer: I've been informed that you are looking to rebate ${{Refund Amount}}, and I'm here to assist you with that. To ensure a smooth refund process, could you please provide me with some additional details? Specifically, I would need the details of your purchase, such as the order number, date of purchase, and any relevant information related to the transaction. With this information, I'll be able to initiate the refund process and guide you through the necessary steps to get your money back. Rest assured, I'm committed to resolving this issue and ensuring your satisfaction.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order from {{Delivery City}}
+
+Answer: I'm on it! We are delighted to offer our services to customers in {{Delivery City}}. You can place your order with us, and we will ensure safe and efficient delivery right to your doorstep. Our delivery options are designed to cater to your needs and provide a seamless purchasing experience. If you have any specific questions or require assistance with your order, feel free to let us know. We are here to make your shopping experience exceptional, whether you're in {{Delivery City}} or anywhere else in the world!

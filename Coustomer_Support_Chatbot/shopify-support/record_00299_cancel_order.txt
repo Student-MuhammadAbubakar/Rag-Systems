@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: can you help me cancelling oredr {{Order Number}}?
+
+Answer: Of course, I'm here to assist you with canceling your order with the order number {{Order Number}}. I understand that canceling your purchase might be challenging for you at the moment. Allow me to guide you through the process and explore any possible options. Let's work together to find a solution that suits your needs and ensures your satisfaction. Your trust is essential, and I'm committed to providing you with the assistance you require.

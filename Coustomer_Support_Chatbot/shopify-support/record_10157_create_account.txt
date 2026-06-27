@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: could you help me opening a gold account?
+
+Answer: I'll get right on it! I'm more than happy to assist you in opening a {{Account Type}} account. {{Account Type}} accounts come with a host of exclusive benefits and privileges that I'm sure you'll enjoy. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have this information, I'll guide you through the account opening process step-by-step, ensuring you have all the necessary details at every stage.

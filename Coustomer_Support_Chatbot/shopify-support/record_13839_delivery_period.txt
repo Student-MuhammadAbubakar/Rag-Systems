@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I want to know moreabout the delivery period
+
+Answer: We appreciate your curiosity about our delivery period. It's essential to have a transparent understanding of this information. Our standard delivery period varies depending on various factors such as the shipping method, destination, and availability of the item. To provide you with more accurate details, could you please provide us with the {{Tracking Number}} or {{Order Number}}? This will help us determine the estimated delivery time for your specific order. We strive to deliver a delightful experience with every shipment, and your patience is sincerely appreciated.

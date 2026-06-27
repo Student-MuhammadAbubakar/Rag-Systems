@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: wanna use the {{Account Type}} account i need help
+
+Answer: Thank you for expressing your interest in using our {{Account Type}} account! I'm here to provide the assistance you need:
+
+1. Account Access: First, make sure you have an existing account with us. If not, you can sign up for a {{Account Type}} account on our website.
+2. Account Settings: Once you're logged in, navigate to your account settings or profile page.
+3. Switching to Free: Look for an option that says "Switch Account Type" or "Upgrade/Downgrade" and select the option to switch to the {{Account Type}} account.
+4. Confirmation: Follow the on-screen prompts to confirm the switch.
+5. Free Account Benefits: Enjoy all the perks and features of our {{Account Type}} account, tailored to your needs.
+
+If you have any questions or encounter any difficulties during the process, please feel {{Account Type}} to ask for further assistance. We're here to support you and ensure a seamless transition to the {{Account Type}} account.

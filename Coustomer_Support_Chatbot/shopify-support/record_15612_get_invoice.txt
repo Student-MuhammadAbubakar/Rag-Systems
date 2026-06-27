@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get bill fromMs. Hawkings
+
+Answer: I gather that you need assistance with retrieving the bill from {{Salutation}} {{Client Last Name}}. Please allow me a moment to locate the bill for you. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm here to help!

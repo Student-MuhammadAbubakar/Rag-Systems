@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: order some of your product
+
+Answer: Thank you for considering placing an order for some of our products! We appreciate your interest and would be delighted to assist you in completing your purchase. To get started, could you please provide me with the specific details of the products you would like to order? This will enable us to ensure their availability and guide you through the ordering process smoothly.

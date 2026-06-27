@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you tell me what hours I can call customer service?
+
+Answer: It's great to hear from you! I can see that you would like to know the operating hours during which you can reach our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. Feel free to contact us within this timeframe, and we will be more than happy to assist you with any questions or concerns. How else can I assist you today?

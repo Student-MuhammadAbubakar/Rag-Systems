@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a refund of {{Refund Amount}} dollars
+
+Answer: I understand the importance of receiving your refund of {{Currency Symbol}}{{Refund Amount}}. Rest assured that we are actively working to resolve this matter and provide you with the reimbursement you are waiting for. To give you a better idea of the progress, could you please provide me with any additional details you may have, such as the refund request number or the date it was initiated? This information will assist me in expediting the process and keeping you updated on the status. Thank you for your cooperation and patience.

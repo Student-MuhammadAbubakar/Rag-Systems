@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: track_order
+
+Question: needto locate order {{Order Number}} how can i do it
+
+Answer: Grateful for your contact! I get the sense that you need assistance with locating your order with the order number {{Order Number}}. To do so, please follow these steps:
+
+1. Visit our website at {{Website URL}}.
+2. Log in to your account using your credentials.
+3. Navigate to the "Order History" section.
+4. Look for the option to search or filter orders.
+5. Enter your order number, in this case, {{Order Number}}.
+6. Click on the search button.
+7. You should now see the details and status of your order.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way!"

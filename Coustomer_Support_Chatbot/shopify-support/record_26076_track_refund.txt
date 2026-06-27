@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a compensation of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Certainly, I understand the significance of the compensation you anticipate in the amount of {{Currency Symbol}}{{Refund Amount}}. Obtaining proper restitution is vital, and I'm here to assist you with that matter. Please allow me a moment to check the current status of your compensation. In the meantime, could you kindly share any previous experience you've had with our compensation process? Your valuable insights will help us serve you better. Thank you for your patience and cooperation.

@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I don't know what I have to do to see your refund policy
+
+Answer: I'll do my best! I understand that you're unsure about how to access our refund policy. Let me guide you through the process:
+
+To view our refund policy, please follow these simple steps:
+1. Visit our official website at {{Website URL}}.
+2. Navigate to the "Customer Support" or "Help Center" section.
+3. Look for the "Refund Policy" link to access detailed information.
+4. Click on the link to open the document or webpage containing our refund policy.
+
+If you're unable to find the refund policy or encounter any difficulties during the process, please don't hesitate to ask for further assistance. I'm here to help!
+
+Remember, our refund policy provides you with valuable insights into the situations where you may be eligible for a refund. It's always advisable to review the policy before making any purchase or if you have any concerns.
+
+Is there anything else I can assist you with?"

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i want information about creatign a {{Account Category}} account
+
+Answer: Certainly! I'm excited to provide you with all the information you need to create a {{Account Category}} account. Our {{Account Category}} account offers exclusive benefits such as priority customer support, higher transaction limits, and access to premium features. To get started, I will need your full name, email address, and a preferred username. Once you provide this information, I will guide you through the account creation process step by step, ensuring you have a seamless experience. Rest assured, your privacy and security are our top priorities, and all your information will be handled with the utmost care. Let's take this extraordinary step together!

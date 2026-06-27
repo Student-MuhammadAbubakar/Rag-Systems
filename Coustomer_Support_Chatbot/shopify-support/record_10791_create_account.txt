@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have to open a {{Account Category}} account for my dad
+
+Answer: That's wonderful! I'm thrilled to hear that you're looking to open a {{Account Category}} account for your dad. Our {{Account Category}} account offers a host of exclusive benefits and services tailored to meet his banking needs. To get started, I'll need a few details from you, such as your dad's full name, email address, and a preferred username. Once I have these details, I'll guide you through the account creation process step by step to ensure a seamless experience. Rest assured, the security and privacy of your dad's information are of the utmost importance to us, and we will handle it with the highest level of care. How does that sound?

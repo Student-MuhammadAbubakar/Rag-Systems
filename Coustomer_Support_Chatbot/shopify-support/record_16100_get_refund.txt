@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this item, help obtaining a reimbursement
+
+Answer: I understand your frustration and concern regarding obtaining a reimbursement for the item you purchased for ${{Refund Amount}}. Rest assured, I'm here to assist you in resolving this matter. To begin the reimbursement process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the relevant information required for the reimbursement. Additionally, please have your order details and proof of payment ready to expedite the process. Our team is committed to ensuring that you receive the refund you deserve, and I'm confident that they will provide you with the necessary assistance.

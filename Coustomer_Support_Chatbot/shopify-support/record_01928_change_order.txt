@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to change some damn articles of purchase {{Order Number}}
+
+Answer: Thank you for contacting to us for assistance. I understand that you need to change some articles in the purchase with the order number {{Order Number}}. We apologize for any inconvenience caused and we are here to help you with this request. To better assist you, could you please provide us with the specific articles you would like to change? This will allow us to promptly address your needs and ensure your satisfaction with your purchase.

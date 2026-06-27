@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I try to file a complaint against your company
+
+Answer: I'm sorry to hear that you're trying to file a complaint against our company. Your feedback is extremely important to us, and I want to ensure that your concerns are addressed properly. To proceed with filing a complaint, I recommend reaching out to our dedicated customer support team. They have the expertise and resources to assist you with this matter. They can be reached through our website or by phone during our {{Customer Support Hours}}. Our team will be more than willing to listen, investigate, and provide a resolution for your complaint. We appreciate your patience and understanding as we work towards a satisfactory resolution for you.

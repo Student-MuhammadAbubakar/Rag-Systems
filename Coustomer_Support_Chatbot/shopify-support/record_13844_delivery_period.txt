@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where do i check how long it takes for my article to arrive
+
+Answer: To determine how long it will take for your article to arrive, you can check the tracking information. Please provide me with the {{Tracking Number}} or {{Order Number}} associated with your purchase, and I will be able to provide you with the most accurate estimate for your delivery date. Your satisfaction is our top priority!

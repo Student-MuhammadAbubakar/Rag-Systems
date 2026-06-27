@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont know what to do to cancel the platinum account
+
+Answer: Thank you for trusting to us regarding the cancellation of your {{Account Category}} account. I understand that you're unsure about the steps involved in canceling your account and I am here to assist you. To cancel your {{Account Category}} account, you can follow these simple steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to cancel your account.
+4. Follow the on-screen instructions to confirm the cancellation.
+
+If you encounter any difficulties or have any further questions, please feel free to let me know. I'm here to guide you through the process and ensure a smooth cancellation experience.

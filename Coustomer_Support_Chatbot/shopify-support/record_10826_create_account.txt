@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open a {{Account Category}} account for my dad
+
+Answer: That's fantastic! I'm thrilled to assist you in opening a {{Account Category}} account for your dad. To get started, could you please provide your dad's full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through the process, ensuring you and your dad are informed at every stage. Rest assured, we prioritize the security of our users' information, and all data shared will be handled with utmost care and confidentiality. Let's embark on this journey together! How about sharing your dad's details with me?

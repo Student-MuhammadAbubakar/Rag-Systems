@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship  to {{Delivery Country}}?
+
+Answer: Absolutely! We provide shipping services to {{Delivery Country}} to cater to our valued customers like you. You can rest assured that we will deliver your orders right to your doorstep in {{Delivery Country}}. We strive to offer a seamless and reliable shipping experience to our international customers, including those in {{Delivery Country}}. Should you have any specific concerns or questions about shipping to {{Delivery Country}} or any other inquiries, feel free to let me know, and I'll be more than happy to assist you further.

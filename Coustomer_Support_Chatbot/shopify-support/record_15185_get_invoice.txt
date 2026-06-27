@@ -1,0 +1,12 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want assistance to get my invoices from {{Person Name}}
+
+Answer: I'm fully aware of your need to access your invoices from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. To retrieve your invoices, please follow these steps: 
+1. Log in to your account on our website or app.
+2. Navigate to the "Invoices" section, usually located in the "Account" or "Billing" tab.
+3. In the search or filter option, enter the name "{{Person Name}}" to narrow down the results.
+4. You should now be able to view and download all the invoices associated with {{Person Name}}.
+
+If you encounter any issues or have further questions, please don't hesitate to let me know. Helping you access your invoices is my priority.

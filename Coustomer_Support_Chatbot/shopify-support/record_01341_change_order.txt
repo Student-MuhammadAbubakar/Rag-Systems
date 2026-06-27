@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: change_order
+
+Question: I want to correct purchase {{Order Number}}, how can I do it?
+
+Answer: We understand that you would like to correct your purchase with the order number #{{Order Number}}. To assist you with this, you can follow the steps mentioned below:
+1. Log in to your account on our website.
+2. Go to your order history or purchase history section.
+3. Locate the purchase with the order number #{{Order Number}}.
+4. Select the option to edit or make corrections to the purchase.
+5. Follow the prompts or instructions provided to make the necessary corrections.
+6. Review the changes and ensure that all the details are accurate.
+7. Save or submit the corrections.
+
+If you encounter any difficulties or require further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to ensure that your purchase is exactly as you intended it to be.

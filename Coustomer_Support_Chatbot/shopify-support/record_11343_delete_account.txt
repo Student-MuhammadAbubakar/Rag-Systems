@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't make use of my {{Account Type}} account, help to delete it
+
+Answer: Thank you for bringing this to our attention. We understand that you have a {{Account Type}} account that you no longer use and would like to delete it. We're here to assist you with that. To ensure a smooth process, I kindly request you to provide us with a few additional details such as your account username or email address. Once we have this information, we will proceed with deleting your {{Account Type}} account promptly. Rest assured, we will handle this request with utmost care and privacy. Your satisfaction is our top priority.

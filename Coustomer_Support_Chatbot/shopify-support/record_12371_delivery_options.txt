@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}}?
+
+Answer: You've sparked curiosity with your question! Rest assured, we offer delivery services from {{Delivery City}}, ensuring that you can conveniently place orders to your desired location. Whether you're seeking local delivery or shipping to a different destination, we've got you covered. Feel free to explore our range of shipping options available and let us assist you with any questions or concerns along the way. Your satisfaction is our top priority!

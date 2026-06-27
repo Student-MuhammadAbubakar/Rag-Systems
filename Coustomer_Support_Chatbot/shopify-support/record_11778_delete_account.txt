@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about standard account cancellations
+
+Answer: We're here for you to us for information regarding the cancellation of your {{Account Type}} account. We understand that this may be an important decision for you, and we are here to guide you through the process. To proceed with canceling your {{Account Type}} account, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the "Manage Account" or "Cancel Account" option.
+4. Click on the appropriate link or button to initiate the cancellation process.
+5. Follow any additional instructions or prompts provided.
+
+Please note that canceling your {{Account Type}} account may result in the loss of any associated benefits or access to exclusive features. If you have any specific concerns or questions about the cancellation process, feel free to let us know, and we will be more than happy to assist you further.

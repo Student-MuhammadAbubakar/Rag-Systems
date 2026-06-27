@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: could you give me information about an address correction?
+
+Answer: Of course! If you need to correct an address, you can visit our website's help center where you'll find detailed instructions on how to make the necessary changes. Alternatively, you can reach out to our customer service team who will be happy to assist you with the address correction process.

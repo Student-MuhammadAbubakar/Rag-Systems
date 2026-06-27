@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how do I talk with somebody?
+
+Answer: Honored to assist! I'm clued in that you're looking for guidance on how to talk with somebody. Our goal is to provide you with the best support possible. To speak with one of our knowledgeable representatives, you have a few options. You can call our customer support hotline at {{Company Phone Number}} during our operating hours {{Customer Support Hours}} and you'll be connected with a representative who can assist you. Alternatively, you can also reach out to us through our Live Chat feature on our website at {{Website URL}}. Our support team is available to assist you there as well. We're here to help facilitate smooth communication and provide the assistance you need.

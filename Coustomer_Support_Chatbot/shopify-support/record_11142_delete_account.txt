@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: wanna remove a {{Account Type}} account can ya helpme
+
+Answer: Thank you for reaching out to us regarding the removal of your {{Account Type}} account. I understand that you would like assistance with this matter, and I'm here to help. Could you please provide me with the necessary information, such as your account details or any specific issues you are facing while trying to remove the {{Account Type}} account? Once I have the required information, I will be able to guide you through the process and ensure that your {{Account Type}} account is successfully removed.

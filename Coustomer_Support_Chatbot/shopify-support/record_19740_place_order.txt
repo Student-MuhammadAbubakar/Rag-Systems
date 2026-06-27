@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where can i order a few of ur product
+
+Answer: Unquestionably! I'm thrilled to see your interest in ordering a few of our products. To make this an easy and convenient experience for you, I recommend visiting our website at {{Website URL}}. You can explore our wide range of products, select the ones you desire, and proceed with the ordering process effortlessly. Our website is designed to provide a seamless shopping experience, ensuring that you have all the necessary information at your fingertips. Should you have any questions or need further assistance while placing your order, our customer support team is available {{Customer Support Hours}} to provide you with real-time support. Happy shopping!

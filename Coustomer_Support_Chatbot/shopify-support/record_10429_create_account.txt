@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I do not have a bloody pro account, need help to open one
+
+Answer: How fantastic that you're interested in upgrading to a {{Account Type}} account! I'd be delighted to assist you in opening a {{Account Type}} account and unlocking the exciting benefits it offers. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process and ensure you have a seamless experience. Rest assured, your privacy and security are of utmost importance to us, and your information will be handled with the utmost care. Let's embark on this {{Account Type}} journey together!"

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: assistance ordering some bloodyproducts
+
+Answer: We appreciate your interest in ordering our products! To provide the best assistance, could you please specify the exact items you're looking for? Once we have that information, we'll ensure a smooth and efficient ordering process for you.

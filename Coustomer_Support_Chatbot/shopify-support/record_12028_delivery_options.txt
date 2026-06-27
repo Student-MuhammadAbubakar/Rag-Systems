@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipping to {{Delivery Country}}
+
+Answer: How exciting! Shipping your items to {{Delivery Country}} is absolutely within our reach. We offer a wide range of shipping options to make your delivery convenient and timely. Our standard shipping typically arrives within {{Date Range}} business days, while expedited shipping can get your items to you even faster in {{Date Range}} business days. We also have overnight shipping available for those urgent needs. If you prefer a more personalized touch, you can always opt for in-store pickup at one of our {{Store Location}}. Rest assured, we are here to assist you every step of the way and ensure a smooth shipping experience.

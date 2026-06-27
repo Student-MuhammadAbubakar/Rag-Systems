@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create gold accountfor wife
+
+Answer: How wonderful! I applaud your decision to create a {{Account Type}} account for your wife. We're thrilled to have her join our exclusive community! To proceed with opening the account, may I kindly request the following details: your wife's full name, email address, and a preferred username? Once I have these particulars, I'll guide you seamlessly through the process, ensuring that your wife's account is set up smoothly. Rest assured, we prioritize the security and privacy of our users, and her information will be treated with the utmost care. Let's make this experience memorable for her!

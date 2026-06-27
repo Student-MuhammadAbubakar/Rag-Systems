@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I place an order from {{Delivery City}}?
+
+Answer: Indeed! You can place an order from {{Delivery City}}. We offer nationwide shipping, so you can enjoy our products no matter where you are located. Should you have any specific concerns or questions about the ordering process, feel free to ask. I am here to assist you every step of the way. Let's embark on this delightful journey together!

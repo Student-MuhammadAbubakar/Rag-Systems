@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: supports editing the shipping address
+
+Answer: I'll make it happen! Our system supports editing the shipping address for your convenience. Please provide us with the updated address details, and we'll make sure it's updated for your delivery.

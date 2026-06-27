@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do uship to {{Delivery City}}
+
+Answer: Ah, the magnificent city of {{Delivery City}}! Yes, we do ship to {{Delivery City}}. Rest assured, we offer delivery options for various locations, and {{Delivery City}} is no exception. Whether you're looking for standard shipping or expedited options, we've got you covered. Feel free to explore our range of delivery choices and select the one that best suits your needs. If you have any specific concerns or questions regarding shipping to {{Delivery City}} or anything else, please don't hesitate to ask. I'm here to guide you through the process and make sure you have a seamless experience.

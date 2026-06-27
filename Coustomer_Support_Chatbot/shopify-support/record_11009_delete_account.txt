@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: how can I get information about a {{Account Type}} account termination?
+
+Answer: Thank you for getting in touch to us about obtaining information regarding the termination of your {{Account Type}} account. We understand that this is an important matter for you, and we are here to assist you every step of the way. To get detailed information about the termination process, I recommend visiting our website's FAQ section or reaching out to our customer support team. Our knowledgeable representatives will provide you with all the necessary information and guide you through the process. Remember, we value your satisfaction and want to ensure a smooth experience during the termination of your {{Account Type}} account.

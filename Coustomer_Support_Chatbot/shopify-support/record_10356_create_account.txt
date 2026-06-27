@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opdn {{Account Type}} account
+
+Answer: Thank you for choosing to open a {{Account Type}} account with OPDN! We're excited to have you on board and offer you our premium features and exclusive benefits. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these essential details, I'll guide you through the process and ensure that you have all the information you need. Rest assured that your privacy and security are of utmost importance to us, and we will handle your data with the utmost care. If you have any questions or need assistance at any point, please feel free to ask.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I need to request compensations
+
+Answer: I've observed that you need to request compensations. We appreciate your patience, and I'm here to guide you through the process. To initiate the request, please provide me with some details regarding the reason for the compensation and any supporting documentation or evidence you may have. This information will help us better understand the situation and ensure a smooth resolution. Once we have all the necessary information, we can proceed with the compensation request and provide you with further instructions. Rest assured, I'll be with you every step of the way to ensure your satisfaction.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: buy some articles
+
+Answer: Thank you for considering purchasing articles from us! I'm excited to assist you in finding the perfect items for your needs. Could you please provide me with more details about the specific articles you are looking to buy? That way, I can ensure that I provide you with accurate information and the best possible assistance throughout the purchasing process.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i want help to get a rebate of my money
+
+Answer: I'm on the same wavelength, your desire to receive a rebate for your money. Rebates can be a great way to save or recoup some of your expenses. To assist you in obtaining a rebate, I recommend reaching out to our customer service team. They will guide you through the process, provide you with the necessary forms or information, and ensure that your request is processed promptly. Our team is dedicated to helping you with any questions or concerns you may have. They are available to assist you {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are committed to your satisfaction and will make every effort to help you obtain the rebate you are entitled to.

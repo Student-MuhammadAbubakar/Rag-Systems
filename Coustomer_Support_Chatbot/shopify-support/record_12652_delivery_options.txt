@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want help to check what delivery methods you offer
+
+Answer: Thank you for seeking guidance on our delivery options. I'm here to provide you with the necessary information. Here are the different delivery methods we offer:
+
+1. Standard Shipping: This is our regular shipping option, typically arriving within {{Date Range}} business days. It's suitable for non-urgent items.
+
+2. Expedited Shipping: If you need your items sooner, you can choose our expedited shipping method. It ensures delivery within {{Date Range}} business days.
+
+3. Overnight Shipping: For urgent needs, we offer overnight shipping, guaranteeing next business day delivery.
+
+4. In-Store Pickup: If you prefer a more hands-on approach, you can select in-store pickup. It allows you to personally collect your items from one of our {{Store Location}}.
+
+We understand that choosing the right delivery method is essential, and we're here to assist you further. Please let me know if you have any specific concerns or if there's anything else I can assist you with.

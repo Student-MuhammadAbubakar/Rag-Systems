@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: need to create an standard account
+
+Answer: We're delighted to assist you in creating a {{Account Type}} account! We understand your desire to explore our range of services and take advantage of the features available to you. To begin the process, may I kindly ask you to provide your full name, email address, and a preferred username? Once we have this information, we'll guide you through the account creation process and ensure that your experience is both effortless and enjoyable. Rest assured that your privacy is of the utmost importance to us, and we will handle your information with the strictest confidentiality. Let's get started on this exciting journey together!

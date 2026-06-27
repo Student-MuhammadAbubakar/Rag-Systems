@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i need information about the termination of a {{Account Category}} acount
+
+Answer: We're here to help about terminating your {{Account Category}} account. I understand that you have inquiries regarding the process, and I'll be more than happy to assist you. Terminating your {{Account Category}} account can be done in a few simple steps. To ensure accuracy, could you please provide me with your account details, such as your username or the email associated with your account? This information will allow me to provide you with specific instructions tailored to your situation. Rest assured, we're here to guide you through the termination process and address any concerns you may have.

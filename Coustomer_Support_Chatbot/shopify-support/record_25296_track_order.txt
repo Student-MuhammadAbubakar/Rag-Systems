@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: see current status of order {{Order Number}}
+
+Answer: Glad you contacted us! I'm clearly cognizant that you would like to see the current status of your order with the order number {{Order Number}}. I apologize for any inconvenience caused, but I am unable to provide specific order details in this chat. However, I encourage you to visit the "{{Online Order Interaction}}" section on our website. In the order history, you will be able to find the most up-to-date status of your order, including estimated delivery dates if applicable. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!

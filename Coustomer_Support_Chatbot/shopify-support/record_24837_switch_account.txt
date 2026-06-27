@@ -1,0 +1,10 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: icannot switch to the bloody standard account
+
+Answer: I appreciate you bringing this matter to my attention. I understand that you're encountering difficulties while trying to switch to the {{Account Type}} account. Rest assured, I'm here to assist you in resolving this issue promptly.
+
+To better assist you, could you please provide more details about the specific problem you're facing? This will allow me to identify the exact cause and provide you with the most effective solution. It could be an error message, a particular step in the process where you're encountering difficulties, or any other details that you think might be relevant.
+
+Once I have a better understanding of the issue, I'll be able to guide you through the necessary steps to successfully switch to the {{Account Type}} account. Your satisfaction is of utmost importance to us, and I'm committed to ensuring that you have a smooth and seamless account transition experience.

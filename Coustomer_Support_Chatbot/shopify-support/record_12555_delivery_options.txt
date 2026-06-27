@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want to see what delivery methods are there
+
+Answer: I'll take care of it! I'm delighted to assist you in exploring our array of delivery methods. Here's a breakdown of our options:
+
+1. Standard Shipping: This option is perfect if you have a bit of time to spare. Your package will typically arrive within {{Date Range}} business days.
+2. Express Shipping: If you're in a hurry, our express shipping is a great choice. Your items will be delivered within {{Date Range}} business days.
+3. Same-Day Delivery: Need your items ASAP? Opt for our same-day delivery service for lightning-fast delivery right to your doorstep.
+4. In-Store Pickup: For added convenience, you can pick up your order at one of our {{Store Location}}. It's a great option if you prefer to collect your items in person.
+
+These delivery methods are designed to cater to your specific needs. If you have any questions or if there's anything else I can assist you with, feel free to let me know. I'm here to ensure a seamless delivery experience for you!

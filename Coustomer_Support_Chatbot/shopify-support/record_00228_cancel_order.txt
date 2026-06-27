@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: canceling purechase {{Order Number}}
+
+Answer: I comprehend that you're looking to cancel purchase {{Order Number}}. We apologize for any inconvenience caused. To cancel your purchase, please follow these steps:
+
+1. Sign into your account: Access our platform by logging into your {{Online Company Portal Info}}.
+2. Navigate to your orders: Once logged in, go to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Locate the purchase: Look for the purchase associated with the order number {{Order Number}} and click on it to view the details.
+4. Initiate cancellation: On the purchase details page, you should find an option labeled '{{Online Order Interaction}}'. Please select this option to proceed with the cancellation.
+5. Confirm cancellation: The system may prompt you to confirm the cancellation. Please follow the instructions provided.
+6. Receive confirmation: Once the cancellation is successfully processed, you will receive a confirmation email or notification.
+
+If you encounter any difficulties or have further questions, our dedicated support team is available during {{Customer Support Hours}} via {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. We highly value your satisfaction and are here to assist you every step of the way.

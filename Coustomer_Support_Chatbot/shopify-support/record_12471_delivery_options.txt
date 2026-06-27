@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order from {{Delivery City}}
+
+Answer: Indeed! We offer shipping services to various locations, including {{Delivery City}}. When you place your order, simply select {{Delivery City}} as the shipping address, and we'll ensure the delivery reaches you there. If you have any specific concerns or questions regarding shipping to {{Delivery City}}, please feel free to ask. We're here to make the ordering process as convenient and efficient as possible for you.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: what do i have to do to report a bloody issue with payments
+
+Answer: I want to assure you that I understand the frustration and urgency you feel regarding the issue you've encountered with your payments. To report this problem, I recommend contacting our customer support team directly. They have the necessary expertise to address your concerns promptly and assist you in resolving the payment issue thoroughly. You can reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reporting the issue, you help us gather valuable insights and improve our payment system for you and other customers. Rest assured, our team is committed to providing you with the assistance you need to resolve this matter efficiently. Thank you for giving us the opportunity to assist you.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how do I create a {{Account Type}} account for my daughter?
+
+Answer: Thank you for your interest in creating a {{Account Type}} account for your daughter. I'm here to assist you with the process and make it as simple as possible. To create a {{Account Type}} account, you can visit our website and look for the "Sign Up" or "Create Account" option. Click on that and you will be redirected to a registration page. Fill in the required information, such as your daughter's name, birthdate, and email address. Choose a username and a strong password for the account. Once you have entered all the necessary details, click on the "Create Account" button and your daughter's {{Account Type}} account will be successfully created. If you have any additional questions or need further assistance during the process, feel {{Account Type}} to ask.

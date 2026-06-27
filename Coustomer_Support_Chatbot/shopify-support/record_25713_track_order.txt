@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: check purcase {{Order Number}} current status
+
+Answer: Thank you for trusting us! I'm fully aware of you would like to check the current status of your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, I kindly request you to provide me with your contact details, such as your email address or phone number, so that I can locate your purchase in our system and assist you further. Your privacy and security are of utmost importance to us, and I assure you that your information will be handled with the strictest confidentiality. Please provide me with the requested details, and I'll get back to you promptly with the current status of your purchase.

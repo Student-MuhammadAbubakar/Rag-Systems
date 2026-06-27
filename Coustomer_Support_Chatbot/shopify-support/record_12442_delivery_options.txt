@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship  to {{Delivery Country}}?
+
+Answer: Oh, the captivating beauty of {{Delivery Country}}! You'll be pleased to know that we do offer shipping to {{Delivery Country}} and would be delighted to serve you. Our shipping options cover various regions worldwide, including {{Delivery Country}}. Whether you're in Helsinki, Tampere, or any other city in {{Delivery Country}}, we've got you covered. For precise details and estimated delivery times, I kindly suggest exploring our shipping information on our website or contacting our customer support team. They will eagerly provide you with all the shipping specifics and address any further inquiries. Let us embark on this shipping journey together!

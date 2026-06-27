@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i do not know how to speak with a person
+
+Answer: Honored to assist! I'm clued in that you do not know how to speak with a person. I apologize if the previous instructions weren't clear. To speak with a person, you can usually find a "Contact" or "Support" page on our website. You can also try reaching out to our customer service hotline at {{Customer Support Phone Number}} or sending us a message through our live chat service. Our team is here to help and will gladly assist you with any questions or concerns you may have.

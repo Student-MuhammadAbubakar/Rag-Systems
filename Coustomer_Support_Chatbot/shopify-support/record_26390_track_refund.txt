@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I have to see my refund current status, will you help me?
+
+Answer: Indeed! I'm here to assist you in checking the current status of your refund. I understand how important it is for you to stay informed about your reimbursement. To provide you with accurate information, could you please provide me with the order number or any other relevant details? With that, I'll be able to quickly track the status and provide you with the most up-to-date information.

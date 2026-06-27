@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how can i swap several items of purchase {{Order Number}}
+
+Answer: We understand that you are interested in swapping several items from purchase number {{Order Number}}. We appreciate your request and are here to assist you. To proceed with the item swap, we kindly ask you to provide us with the specific items you would like to exchange and the desired replacement items. Our team will then review the request and ensure that the swap is processed accurately. Feel free to provide us with any further details or questions you may have regarding the item swap process. Our goal is to make sure you are completely satisfied with your purchase.

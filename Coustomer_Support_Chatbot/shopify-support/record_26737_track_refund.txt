@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a  refund of {{Currency Symbol}}{{Refund Amount}}, was it processed
+
+Answer: I'm following the importance of the refund you're waiting for, especially when it involves {{Currency Symbol}}{{Refund Amount}}. I apologize for any inconvenience caused by the delay. Let me check the status of your refund and provide you with an update. While I gather the necessary information, may I ask if you received any notification about the processing of your refund? Your insights are valuable to us, and I'm here to assist you every step of the way.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i call to downbload my invoices from {{Person Name}}
+
+Answer: I understand your need to download your invoices from {{Salutation}} {{Client Last Name}}. We're here to help you with that. To download your invoices, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. From there, you should be able to view and download all your invoices. If you need any further assistance or encounter any difficulties, please don't hesitate to reach out to our customer support team. We are more than happy to assist you in downloading your invoices.

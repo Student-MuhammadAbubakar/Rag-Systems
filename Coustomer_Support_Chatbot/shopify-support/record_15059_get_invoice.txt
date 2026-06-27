@@ -1,0 +1,12 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: want assistance to get the bills from {{Person Name}}
+
+Answer: I'm not mistaken your need to retrieve the bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. To access the bills from {{Person Name}}, please follow these steps: 
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to view/download your bills.
+4. Enter the required information, such as the date range or invoice number, if prompted.
+5. Click on the "Download" or "View" button to access your bills.
+If you encounter any difficulties along the way, please don't hesitate to let me know. I'll be more than happy to provide further guidance.

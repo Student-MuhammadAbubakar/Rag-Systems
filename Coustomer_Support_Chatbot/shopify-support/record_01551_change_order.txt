@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I add some articles to purchase {{Order Number}}?
+
+Answer: Thank you for reaching out! I completely understand that you would like to add some articles to your purchase with the purchase number {{Order Number}}. To assist you with this, I recommend contacting our customer support team directly. They will be able to guide you through the process and ensure that the articles are added accurately to your purchase. You can reach our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please let me know if there's anything else I can assist you with.

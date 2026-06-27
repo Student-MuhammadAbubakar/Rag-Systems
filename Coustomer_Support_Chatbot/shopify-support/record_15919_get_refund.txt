@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: when am I going to get a reimbursement?
+
+Answer: I understand the urgency in knowing when you will receive your reimbursement. Rest assured, we prioritize timely resolution of refund requests. To provide you with an accurate timeline, could you please provide me with the details of your refund request, such as the date it was initiated and any reference numbers or transaction details? This information will enable me to check the status of your reimbursement and provide you with the most up-to-date information. Thank you for your patience as I assist you with this matter.

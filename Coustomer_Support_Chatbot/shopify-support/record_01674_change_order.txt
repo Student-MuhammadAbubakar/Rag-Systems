@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have missed some goddamn articles in purchase {{Order Number}}
+
+Answer: I've decoded that you have encountered an issue with your purchase number {{Order Number}} and missed some items. I apologize for any inconvenience caused. To assist you with this issue, I recommend reaching out to our customer support team directly. They have the necessary expertise and access to your purchase details to help you resolve this matter quickly. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process of adding the missed articles to your purchase and ensure that your order is complete. Thank you for bringing this to our attention, and we appreciate your patience and understanding.

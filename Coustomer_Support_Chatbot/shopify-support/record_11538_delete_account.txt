@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont know what to do to delete the goddamn standard acount
+
+Answer: Glad you got in touch to us for assistance with deleting your {{Account Type}} account. I apologize for any frustration you may be experiencing. We are here to help you with the process. Rest assured, I'll guide you through the necessary steps to delete your account. May I ask if you have any specific concerns or questions about the deletion process? Your feedback is highly valued as it helps us improve our services and better assist you.

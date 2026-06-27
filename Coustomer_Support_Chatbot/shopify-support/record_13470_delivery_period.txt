@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I call to see when my parcel is going to arrive
+
+Answer: We appreciate your enthusiasm to learn more about the status and estimated delivery time of your parcel. To provide you with accurate information, could you please share the tracking number or order number associated with your purchase? With this information, we will be able to track your parcel and give you a precise update on its arrival. Thank you for your cooperation in this matter.

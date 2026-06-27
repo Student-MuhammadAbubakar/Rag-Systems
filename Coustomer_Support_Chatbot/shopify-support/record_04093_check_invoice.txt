@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I find the bill from {{Person Name}}?
+
+Answer: Assuredly! I completely understand your need to locate the bill associated with {{Salutation}} {{Client Last Name}}, {{Person Name}}. To find the bill, you can navigate to the "Billing" section on our website or log in to your account and go to the "Invoice" tab. Alternatively, you can contact our customer support team who will be more than happy to assist you in finding the bill. Rest assured, we are here to help you every step of the way in locating the bill from {{Person Name}}.

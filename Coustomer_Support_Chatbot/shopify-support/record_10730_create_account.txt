@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create new {{Account Category}} account
+
+Answer: How wonderful! I'm truly delighted to assist you in creating a new {{Account Category}} account. This account type offers a fantastic balance between our free and premium options. To get started, I'll need a few essential details from you. Could you please provide me with your full name, email address, and a preferred username? With this information in hand, I'll guide you through the process step-by-step, ensuring that you have a seamless and informed experience. Plus, with a {{Account Category}} account, you'll have access to a range of exciting features and benefits. Let's kickstart your experience with us!

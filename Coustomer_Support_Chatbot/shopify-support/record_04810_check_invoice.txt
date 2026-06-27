@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do I have to do to give a quick look at invoice #37777?
+
+Answer: To quickly view the details of invoice #{{Invoice Number}}, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Go to the "Billing" or "Invoices" section.
+3. Look for the option to search or filter by invoice number.
+4. Enter the invoice number #{{Invoice Number}} in the search or filter field.
+5. Click on the search button or press Enter.
+6. The system will display the invoice with all the relevant information.
+
+If you encounter any difficulties, feel free to reach out to our customer support team who will be happy to assist you further.

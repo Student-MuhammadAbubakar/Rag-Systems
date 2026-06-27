@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: where can I make a customer complaint against your business?
+
+Answer: I truly empathize with your need to voice a customer complaint against our business. Your feedback is highly valuable to us, and we take it very seriously. To ensure your complaint is properly addressed, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will be more than happy to listen to your concerns and work towards a resolution. We genuinely appreciate your feedback and look forward to addressing your complaint promptly.

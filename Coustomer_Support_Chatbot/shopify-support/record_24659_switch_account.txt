@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: want help to use the {{Account Type}} account
+
+Answer: Absolutely! I'm excited to assist you in making the most of our Free account and exploring all its incredible features:
+
+1. **Getting Started:** Begin by signing in to our platform using your credentials.
+2. **Account Navigation:** Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Account Type Configuration:** Within these sections, look for an option labeled '{{Account Type}}' or '{{Upgrade Account}}'.
+4. **Select Free Account:** Choose the '{{Account Type}}' option from the available choices.
+5. **Exploring Features:** Take advantage of the various features and benefits offered under the Free account. These may include limited access to certain resources, features, or premium content.
+
+If you encounter any challenges or have further questions, please don't hesitate to reach out. Your satisfaction is my top priority, and I'm here to ensure you have a fulfilling experience with our Free account. Enjoy exploring all that it has to offer!"

@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: want help checking the early exit fee
+
+Answer: Indeed! I'm here to assist you in checking the early exit fee. To provide accurate information, could you please provide me with your account details or let me know the specific plan you are currently subscribed to?

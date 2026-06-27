@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: where can i check ur reimbursement policy
+
+Answer: Thank you for getting in touch and expressing your interest in knowing where you can find our reimbursement policy. To access our detailed refund policy, you can visit our website's "Terms and Conditions" or "Refund Policy" page. These pages provide comprehensive information about the situations in which you may be eligible for a refund. Additionally, you can also find our refund policy in the confirmation email or receipt you received when making a purchase. If you have any specific inquiries or need assistance understanding any part of our refund policy, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are committed to providing transparent and easily accessible information to ensure your satisfaction. Let me know if there's anything else I can assist you with!

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: trouble correcting address
+
+Answer: I'm sorry to hear that you're having trouble correcting your address. Please provide me with your order details and the correct address, and I'll assist you in updating it in our system.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a fucking compensation of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: First, let me assure you that I completely understand the importance of receiving compensation, specifically the amount of {{Currency Symbol}}{{Refund Amount}}. I apologize if you've encountered any frustrations or inconveniences. I'll make it a priority to investigate and resolve this matter promptly for you. Your satisfaction is of utmost importance to us, and we appreciate your patience as we work towards a resolution.

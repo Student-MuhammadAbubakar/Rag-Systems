@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a restitution of {{Refund Amount}} dollars
+
+Answer: Appreciate you reaching out to us about your restitution of {{Currency Symbol}}{{Refund Amount}}. I understand how important it is for you to receive this reimbursement in a timely manner. Let me quickly check the current status of your refund and provide you with an update. While I look into this, may I ask if you have already submitted all the required documentation for the reimbursement? Your cooperation is greatly appreciated, and I assure you that we are committed to resolving this matter as efficiently as possible.

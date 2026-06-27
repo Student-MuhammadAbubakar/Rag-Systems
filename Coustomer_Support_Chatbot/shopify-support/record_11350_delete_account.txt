@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't use my {{Account Category}} account, I want help to close it
+
+Answer: Grateful you reached out to us about closing your {{Account Category}} account. It's important to us that we assist you every step of the way. I understand that you no longer use your {{Account Category}} account and would like to close it. We appreciate your decision and want to ensure a smooth process for you. To proceed with closing your account, could you please provide me with some specific details like your account username or any other information that will help us locate your account accurately? Rest assured, we are committed to providing you with the necessary assistance to close your {{Account Category}} account efficiently.

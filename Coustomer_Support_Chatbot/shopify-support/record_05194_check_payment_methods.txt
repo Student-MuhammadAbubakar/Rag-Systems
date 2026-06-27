@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I have to see your payment methods, can I get some help?
+
+Answer: Definitely! I'm here to provide the assistance you need. To help you with checking our payment methods, I recommend visiting our website. Our payment options are conveniently displayed on the checkout or payment page. If you have any specific questions or need further clarification about any of the payment methods, please let me know. It's my pleasure to guide you through the process and address any concerns you may have.

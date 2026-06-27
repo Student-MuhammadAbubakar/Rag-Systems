@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: pudate {{Account Type}} account
+
+Answer: We're thrilled to hear that you're interested in updating your {{Account Type}} account! Your dedication to keeping your account information current and relevant is truly commendable. To assist you further, please provide more details about the specific information you would like to update. Our team is here to support you every step of the way. Let's work together to ensure that your {{Account Type}} account meets all your needs.

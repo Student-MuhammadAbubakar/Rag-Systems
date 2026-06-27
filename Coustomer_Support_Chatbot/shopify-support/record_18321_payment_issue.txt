@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: reporting issues with payment
+
+Answer: Thank you for reporting the issues you are facing with your payment. We apologize for any inconvenience caused, and we are here to help resolve this as quickly as possible. To better assist you, could you please provide more details about the specific problem or error you encountered during the payment process? This information will allow us to investigate the issue further and offer you the appropriate solutions. We appreciate your patience, and we are committed to ensuring a seamless payment experience for you.

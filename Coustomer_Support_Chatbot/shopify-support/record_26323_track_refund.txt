@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a reimbursement of {{Refund Amount}} dollras
+
+Answer: Firstly, I want to express my gratitude for your ongoing patience in waiting for the reimbursement of ${{Refund Amount}}. We understand the significance of this reimbursement to you, and we are committed to resolving your concern promptly. Please allow me a moment to check the current status of your refund. While I do that, may I ask if you have any other questions or if there's anything else I can assist you with? Your feedback and insights are highly appreciated as we strive to ensure your utmost satisfaction and trust.

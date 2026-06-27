@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: report issue with payments
+
+Answer: We're sorry to hear that you're experiencing issues with your payments. We understand how frustrating this can be, but rest assured, we are here to help you find a resolution. To assist you better, could you please provide some specific details about the issue you're facing? This will allow us to investigate the problem more efficiently and provide you with the appropriate guidance to resolve the payment issue. Thank you for bringing this to our attention, and we appreciate your patience as we work towards resolving this for you.

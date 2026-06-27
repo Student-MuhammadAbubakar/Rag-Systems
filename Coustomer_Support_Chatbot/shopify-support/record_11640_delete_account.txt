@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I have a question about the termination of a {{Account Type}} account
+
+Answer: Thank you for trusting about terminating your {{Account Type}} account. I'm here to assist you with your inquiry. Can you please provide me with more details about your question or the specific information you need regarding the termination process? It's crucial for us to understand your concerns completely and provide you with the right guidance.

@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I do not know what to do to see the early exit penalty
+
+Answer: No problem! To view the early exit penalty, simply log in to your account and navigate to the "Early Exit Fees" section. There, you'll find all the information you need about the penalty.

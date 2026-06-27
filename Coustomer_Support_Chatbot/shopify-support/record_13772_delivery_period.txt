@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am looking for shipping periods, where could I find them?
+
+Answer: We completely understand your need for information about the shipping periods. To provide you with accurate details, please share the {{Order Number}} or {{Tracking Number}} with us. With this information, we can offer you precise information regarding the expected delivery time. Your patience is greatly appreciated.

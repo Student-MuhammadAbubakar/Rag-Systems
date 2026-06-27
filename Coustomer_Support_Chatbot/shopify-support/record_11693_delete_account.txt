@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: give me information about the deletion of a {{Account Type}} account
+
+Answer: Grateful you reached out about canceling your {{Account Type}} account. I understand that you would like more information about the deletion process. We have a dedicated team that can assist you with this request. To initiate the deletion of your {{Account Type}} account, please contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide any additional information you may need. Rest assured, our goal is to make this process as smooth as possible for you.

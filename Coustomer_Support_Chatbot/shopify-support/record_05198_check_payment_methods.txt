@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: where to see your available payment modalities?
+
+Answer: Great question! You can easily find our available payment methods on our website. Just follow these simple steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the "Payment Methods" or "Payments" section. It is usually located in the footer or under the "Help" or "Support" tab.
+3. Click on the "Payment Methods" or "Available Payment Options" link.
+4. A new page will open with a detailed list of our accepted payment methods.
+
+If you encounter any difficulties or have additional questions, please don't hesitate to reach out. We are always here to assist you through the entire process.

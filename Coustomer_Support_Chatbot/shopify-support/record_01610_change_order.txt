@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to update order {{Order Number}}, I need assistance
+
+Answer: We completely understand your need to update order number {{Order Number}} and we're here to help. Please provide us with the specific details of the update you would like to make, such as any changes to the items or shipping information. Our team is dedicated to ensuring that your order meets your expectations, and we'll do our best to assist you promptly.

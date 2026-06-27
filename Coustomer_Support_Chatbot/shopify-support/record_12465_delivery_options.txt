@@ -1,0 +1,20 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: i try to see what shipment options are available
+
+Answer: I'll get right on it! I'm here to assist you in exploring the available shipment options. Let's go through the process together:
+
+1. Visit our website or open our mobile app.
+2. Browse through our product catalog and select the item(s) you wish to purchase.
+3. Add the item(s) to your cart or bag.
+4. Proceed to the checkout page.
+5. On the checkout page, you'll find the shipment options.
+6. Click or tap on the "Shipping Options" or "Delivery Options" section.
+7. A list of available shipment options will be displayed, along with their respective details, such as estimated delivery timeframes and costs.
+8. Take your time to review the options and select the one that best suits your needs.
+9. Continue with the checkout process to finalize your order and complete the purchase.
+
+If you encounter any difficulties or have specific requirements, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to guide you through the process and answer any additional questions you may have.
+
+I hope this helps! Happy shopping and have a seamless shipping experience with us!

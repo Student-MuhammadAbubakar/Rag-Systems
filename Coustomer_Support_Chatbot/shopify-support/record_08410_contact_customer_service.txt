@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where to check at wnat time customer assistance available is
+
+Answer: Thank you for reaching out! I completely understand your desire to know where you can check the availability of our customer assistance team. To access the operating hours of our customer service, I recommend visiting our website [Company Website URL], where you will find a dedicated page with all the details you need. Our team is committed to providing exceptional support during {{Customer Support Hours}}. If you have any other questions or concerns, please let me know. I'm here to help!

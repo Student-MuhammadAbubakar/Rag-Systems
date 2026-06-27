@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need to see the withdrawal fees
+
+Answer: Definitely! I can assist you with retrieving the information about the withdrawal fees. Please provide me with your account details so that I can access the specific details for you.

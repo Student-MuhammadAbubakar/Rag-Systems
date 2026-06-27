@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help me call customer assistance
+
+Answer: We're here to help! I take note that you need assistance in calling our customer assistance team. Rest assured, I'm here to help you with that. To connect with our dedicated customer assistance, you can reach them during their operating hours at {{Customer Support Phone Number}}. They are also available through the Live Chat on our website at {{Website URL}}. Feel free to reach out if you have any further questions or concerns.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: question about the cancellation of a {{Account Category}} account
+
+Answer: Thank you for your query regarding the cancellation of your {{Account Category}} account. We understand that making changes to your account status is an important decision, and we are here to guide you through the process. To initiate the cancellation, please contact our customer support team at {{Customer Support Phone Number}} or visit our website at {{Website URL}}. They will be able to provide you with the necessary steps and assist you further in canceling your {{Account Category}} account. Rest assured, we will take into account your feedback and suggestions to improve our services.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where can I report a problem with online payments?
+
+Answer: I pick up what you're putting down, your concern about reporting a problem with your online payments. To ensure that your issue is addressed promptly and efficiently, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated customer service representatives will be more than happy to assist you and guide you through the process of reporting the problem.

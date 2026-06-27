@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery City}}
+
+Answer: Ah, {{Delivery City}}! A place of rich history and vibrant culture. Let me assist you in exploring the delivery options available specifically for {{Delivery City}}:
+
+1. Standard Shipping: Expect your items to arrive within {{Date Range}} business days to the heart of {{Delivery City}}.
+2. Expedited Shipping: If you're in a hurry, we offer expedited shipping, which gets your items to you in {{Date Range}} business days.
+3. Same-Day Delivery: For those urgent moments when you need your items the same day you order them, we offer same-day delivery in {{Delivery City}}.
+4. In-Store Pickup: If you prefer a more personalized experience, you can choose to pick up your items from our {{Delivery City}} store.
+
+Each delivery method is designed to cater to your specific needs, ensuring a seamless and satisfying experience. Should you have any further questions or require additional assistance, please don't hesitate to let me know. Together, let's make sure your deliveries to {{Delivery City}} are nothing short of exceptional!

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refunding {{Refund Amount}}  dollars
+
+Answer: I fathom that you're seeking assistance in refunding ${{Refund Amount}}, and I'm here to help you with that. To initiate the refund process, I kindly request you to provide me with some necessary details, such as the order number, payment method used, and any other relevant information. Once I have these details, I will promptly proceed with the refund and ensure that you receive the reimbursement you are entitled to. Rest assured, I will do my best to expedite this process and provide you with a seamless experience.

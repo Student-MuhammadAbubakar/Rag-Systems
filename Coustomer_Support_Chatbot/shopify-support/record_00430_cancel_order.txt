@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: is it possible to cxancel order {{Order Number}}
+
+Answer: I've grasped that you're inquiring about the possibility of cancelling your order with the order number {{Order Number}}. Our cancellation policies vary depending on the specific circumstances and the stage of processing your order is in. I recommend reaching out to our dedicated customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. They will be able to provide you with the most accurate and up-to-date information regarding the cancellation of your order. Your satisfaction is our priority, and we are here to assist you every step of the way.

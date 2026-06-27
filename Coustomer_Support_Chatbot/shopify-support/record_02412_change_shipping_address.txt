@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I entered a wrong address, how do I update it?
+
+Answer: No worries! We can help you update your shipping address. To make the necessary changes, please provide us with your order details and the correct address. We'll ensure that your package gets delivered to the right place.

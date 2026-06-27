@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening new premium account
+
+Answer: Thank you for choosing to open a new {{Account Category}} account with us! I'm here to assist you every step of the way. To create your {{Account Category}} account, please visit our website at {{Website URL}} and navigate to the account creation section. You'll be prompted to provide some necessary information, such as your full name, email address, and preferred username. Once you submit the required details, our system will process your request, and soon you'll have access to exclusive benefits and features that come with our {{Account Category}} account. If you have any questions or need further assistance during the account creation process, please feel free to reach out. We're here to make the journey as smooth as possible for you!

@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: i need help to see in which cases can i ask for refunds
+
+Answer: Positively! I completely understand your need for clarity regarding the situations in which you can request a refund. Let's go through the most common scenarios:
+
+1. **Product/Service Defect:** If you receive a product or service that is defective, damaged, or does not meet the specifications described, you are typically eligible for a refund.
+2. **Cancellation within Grace Period:** Many sellers offer a grace period during which you can cancel your purchase and receive a refund. Make sure to check the terms and conditions or contact the seller to determine the specific grace period applicable to your purchase.
+3. **Change of Mind:** In some cases, you may be able to request a refund for a product or service if you have changed your mind and no longer want it. However, this depends on the seller's refund policy, so it's important to review their terms and conditions.
+4. **Non-Delivery of Goods/Services:** If you paid for a product or service but did not receive it within the agreed-upon time frame, you may be eligible for a refund. Contact the seller or service provider to inquire about the status of your order and discuss potential refund options.
+5. **Unauthorized Charges:** If you notice any unauthorized charges on your credit card or bank statement, it's crucial to report them immediately. Your financial institution can guide you through the dispute process and help you recover the funds.
+6. **Duplicate Charges:** If you were mistakenly charged multiple times for the same product or service, you should reach out to the seller or service provider to request a refund for the duplicate charges.
+
+Please keep in mind that these are general guidelines, and refund policies can vary depending on the seller or service provider. It's always recommended to review the specific terms and conditions or reach out to their customer support for further assistance. If you have any specific order or concern, please provide me with the necessary details, such as {{Order Number}}, and I'll be glad to assist you further.
+
+Do let me know if there's anything else I can help you with!

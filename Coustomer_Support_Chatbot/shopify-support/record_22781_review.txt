@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: I don't know how I can submit some feedback about a product
+
+Answer: Thank you for expressing your desire to provide feedback about our product! I'll be more than happy to assist you with the submission process. To submit your feedback, you can visit our website and navigate to the product page. There, you will find an option to leave a review or provide feedback. Alternatively, you can reach out to our customer support team who can guide you through the feedback submission process. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. It's wonderful that you want to share your thoughts, and I'm here to help you every step of the way. Let me know if there's anything else I can do for you!

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modifying ingormation on {{Account Type}} account
+
+Answer: We appreciate your commitment to enhancing and updating the information on your {{Account Type}} account. It's essential to keep your account details up to date to ensure a seamless experience. To modify the information on your {{Account Type}} account, you can log in to our {{Online Company Portal Info}} and navigate to the account settings section. There, you will find options to edit and update various details such as personal information, contact details, or billing information. If you encounter any issues or need assistance, our dedicated support team is available to guide you through the process. Remember, we're here to support you every step of the way. Let us know if there's anything specific you would like to modify on your {{Account Type}} account.

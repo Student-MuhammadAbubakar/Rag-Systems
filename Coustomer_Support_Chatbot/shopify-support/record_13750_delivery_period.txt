@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how to see how long it takes for my order to arrive?
+
+Answer: We understand your anticipation to know when your order will be delivered. To check the estimated arrival time of your order, you can go to your account dashboard and navigate to the "Order History" section. There, you will find a list of your recent orders, including the expected delivery date. If you have any trouble finding this information, our customer support team will be happy to assist you. Just reach out to them through the Live Chat on our website or call our {{Customer Support Phone Number}}. We want to ensure that you receive your order on time and enjoy a seamless shopping experience.

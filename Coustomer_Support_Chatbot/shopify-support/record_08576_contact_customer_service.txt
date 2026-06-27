@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where do I see what hours I can call customer service?
+
+Answer: Grateful for your contact! I get the sense that you would like to know where you can find the hours during which you can call our customer service. To determine the hours of operation, I recommend visiting our website or contacting our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team will be more than happy to provide you with the specific hours when you can reach us. Is there anything else I can assist you with?

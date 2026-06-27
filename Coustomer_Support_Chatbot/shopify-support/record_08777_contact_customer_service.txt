@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can uhelp me to call customre assistance
+
+Answer: Always good to connect! I'm attuned to the fact that you need assistance in making a call to our customer assistance team. Our team is here to provide support and answer any questions you may have. To call customer assistance, please dial {{Customer Support Phone Number}} during our operating hours, which are {{Customer Support Hours}}. If you have any other queries or need further assistance, feel free to let me know.

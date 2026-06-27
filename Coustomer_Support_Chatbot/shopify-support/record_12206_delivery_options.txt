@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery City}}
+
+Answer: Delve into the enchanting world of shipments to {{Delivery City}}, a bustling city where our products find their way into the hands of countless satisfied customers. Rest assured, we offer a range of convenient shipment options catered to your needs. Whether you require standard shipping, expedited delivery, overnight shipping, or the option to pick up your order in-store, we have you covered. Just choose the option that best aligns with your preferences and soon enough, your eagerly awaited package will arrive at your doorstep. If you have any specific queries or if there's anything else I can assist you with, please feel free to ask. We're fully committed to making your experience as seamless and delightful as possible!

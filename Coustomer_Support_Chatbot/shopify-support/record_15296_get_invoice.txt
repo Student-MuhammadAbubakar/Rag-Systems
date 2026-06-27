@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want to download my invoice from {{Person Name}}
+
+Answer: I'm on the same wavelength, your need to download your invoice from {{Salutation}} {{Client Name}}. Let me guide you through the process. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. You should be able to locate your invoice there. If you're unable to find it, please let me know, and I'll be happy to assist you further.

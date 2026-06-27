@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how can i talk wiht customer service
+
+Answer: Always good to connect! I'm attuned to the fact that you are looking for ways to connect with our customer service team. You can reach us by phone during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or you can chat with us live on our website at {{Website URL}}. We are here to assist you with any questions or concerns you may have. How else may I be of help?

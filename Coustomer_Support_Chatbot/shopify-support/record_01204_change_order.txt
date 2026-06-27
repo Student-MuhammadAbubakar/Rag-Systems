@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problem with changing some products of purchase {{Order Number}}
+
+Answer: I'm glad you contacted us to us regarding the problem you're facing with changing some products in your purchase with the number {{Order Number}}. We understand that making changes to your order is important and we're here to assist you. To better address the issue, could you please provide more details about the specific products you would like to change? This will help us find the best solution for you. We appreciate your patience and cooperation as we work towards resolving this matter to your satisfaction.

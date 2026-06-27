@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: uhave a free phone number to talk to customer assistance
+
+Answer: Happy to hear from you! I truly understand that you are looking for a free phone number to talk to our customer assistance team. We value your time and strive to provide convenient ways for you to connect with us. To get in touch with our customer service team, you can dial our toll-free number {{Customer Support Phone Number}}. Our dedicated team is ready to assist you with any questions or concerns you may have. We appreciate your trust in our services and look forward to helping you. Is there anything else I can assist you with?

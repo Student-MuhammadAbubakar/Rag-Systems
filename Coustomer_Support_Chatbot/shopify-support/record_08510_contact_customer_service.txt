@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I do not know how to contact cutomer support
+
+Answer: Thank you for contacting! I certainly recognize that you are unsure about how to contact our customer support team. Don't worry, I'm here to help. You can reach our customer support through various channels, such as phone, email, or live chat. If you prefer to speak directly to our team, you can call our customer support hotline at {{Customer Support Phone Number}}. Alternatively, you can send an email to our customer support email address at {{Customer Support Email}} or chat with our representatives on our website at {{Website URL}}. Please let me know if there's anything specific you need assistance with or if you have any other questions.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: give me information about opening a {{Account Type}} account
+
+Answer: Positively! I'm excited to provide you with all the information you need to open a {{Account Type}} account with us. A {{Account Type}} account offers you the perfect opportunity to explore our services and experience the benefits firsthand. With a {{Account Type}} account, you'll have access to our basic features, allowing you to get started with ease. To begin the process, you can visit our website or reach out to our customer support team for step-by-step guidance. They are available to answer any questions you may have and assist you in creating your {{Account Type}} account. Let me know if there's anything specific you'd like to know or if there's anything else I can assist you with.

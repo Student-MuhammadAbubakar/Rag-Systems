@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollafs
+
+Answer: I truly understand the significance of your expected restitution of {{Currency Symbol}}{{Refund Amount}}. Every dollar holds value, and we're dedicated to helping you. To provide you with the most accurate information, could you please confirm the correct amount and currency? Also, if you have any additional details or concerns regarding your restitution, please feel free to share them with me. Your satisfaction is our top priority, and we'll do our utmost to assist you.

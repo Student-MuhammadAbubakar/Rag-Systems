@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to add a product to purchase {{Order Number}}?
+
+Answer: Thank you for contacting us with your inquiry about adding a product to purchase with order number {{Order Number}}. I understand that you would like to make a modification to your existing order. To add a product to your purchase, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Navigate to your order history or manage orders section.
+3. Locate the order with the given order number ({{Order Number}}).
+4. Click on the order to view its details.
+5. Look for the "Add Product" or "Modify Order" button and click on it.
+6. Browse our product catalog and find the desired product.
+7. Click on "Add to Cart" or the equivalent button for the selected product.
+8. Follow the prompts to complete the checkout process.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out to our customer support team. We are here to assist you every step of the way. Thank you for choosing us for your purchase, and we appreciate your patience and understanding.

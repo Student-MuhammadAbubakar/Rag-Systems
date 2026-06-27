@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: is it possible to change to the pro account?
+
+Answer: I'll take care of it! I completely understand your aspiration to switch to our {{Account Type}} account. Let me guide you through the process:
+
+1. **Sign In**: Start by logging into our platform.
+2. **Account Access**: Once you're in, navigate to the '{{Settings}}' or '{{Profile}}' section of your account.
+3. **Upgrade Option**: Look for the option labeled as '{{Upgrade Account}}' or '{{Account Change}}'.
+4. **{{Account Type}} Selection**: Within the available options, choose the '{{Account Type}}'.
+5. **Finalize the Change**: Follow the prompts on the screen to complete the transition.
+
+If you encounter any challenges or have further questions, please don't hesitate to reach out. We're here to ensure a seamless experience as you unlock the benefits of our {{Account Type}} account!"

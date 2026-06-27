@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i want help seeing purchase {{Order Number}} curtent status
+
+Answer: Thanks for getting in touch! I grasp that you need assistance in checking the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please confirm if the purchase number you mentioned is correct? Once I have the correct purchase number, I will be able to guide you on how to check its current status. Additionally, if you have any other questions or concerns, please feel free to let me know.

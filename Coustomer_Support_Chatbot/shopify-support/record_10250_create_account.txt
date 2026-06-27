@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can I open a {{Account Type}} account?
+
+Answer: Absolutely! I'm thrilled that you're interested in opening a {{Account Type}} account with us. It's a fantastic opportunity to experience our services. Let me guide you through the simple and straightforward process. First, you'll need to visit our website and locate the 'Sign Up' or 'Create Account' button. From there, you'll be prompted to enter your personal information and create login credentials. Don't worry, we keep your information safe and secure. Once you've completed the registration, you'll have access to the basic features of our platform. If you have any questions or need further assistance, feel {{Account Type}} to reach out. I'm here for you every step of the way.

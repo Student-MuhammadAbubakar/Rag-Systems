@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I need assistance to change to the {{Account Category}} account
+
+Answer: I'm on it! I understand your desire to upgrade to our {{Account Category}} account and experience its exclusive benefits and features:
+
+1. **Access Your Account:** Begin by logging into our platform.
+2. **Profile Navigation:** Once you're inside, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Upgrade Option:** Look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}'.
+4. **Select {{Account Category}} Account:** Choose the '{{Account Type}}' from the available options.
+5. **Finalize the Change:** Follow the on-screen prompts to complete the upgrade process.
+
+Should you encounter any challenges during the process or if you have any additional questions, please don't hesitate to reach out. We value your decision to upgrade and are here to make the transition as smooth as possible. Enjoy the enhanced benefits of your {{Account Category}} account!

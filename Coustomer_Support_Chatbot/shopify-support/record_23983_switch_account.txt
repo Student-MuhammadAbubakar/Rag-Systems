@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use {{Account Category}} account
+
+Answer: I'll make it happen! I'm thrilled to assist you in utilizing the benefits of your {{Account Category}} account:
+
+To access your {{Account Category}} account, follow these steps:
+
+1. Log in: Begin by logging into our platform using your credentials.
+2. Account Settings: Once logged in, navigate to your account settings or profile section.
+3. {{Account Category}} Features: Look for an option named "{{Account Category}} Account" or something similar within the account settings.
+4. Activation: Select this option to activate your {{Account Category}} account.
+5. Enjoy the Perks: Now that your {{Account Category}} account is activated, you can start enjoying the exclusive features and benefits that come with it.
+
+If you encounter any difficulties along the way or have any additional questions, please don't hesitate to reach out. I'm here to ensure your experience with the {{Account Category}} account is seamless and satisfying. Enjoy all the fantastic features and exclusive perks that come with your {{Account Category}} account!

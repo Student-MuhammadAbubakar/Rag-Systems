@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to call damn customer assistance
+
+Answer: It's great to hear from you! I can see that you're frustrated and in need of assistance. Our dedicated customer assistance team is here to help you. You can reach them during {{Customer Support Hours}} at {{Customer Support Phone Number}}. Rest assured, they are trained to address your concerns and provide you with the support you need. Is there anything else I can assist you with?

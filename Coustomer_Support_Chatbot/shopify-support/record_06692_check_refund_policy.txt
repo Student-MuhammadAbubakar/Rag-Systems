@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I want assistance to check how long refunds usually take
+
+Answer: I'm happy to help! Understanding the duration of refunds is crucial to managing expectations effectively. In general, the time it takes to process a refund can vary. However, we strive to process refunds as quickly as possible. 
+
+Once a refund is requested, it typically takes {{Refund Processing Time}} to process and issue the refund. However, please note that the actual time may depend on various factors, such as the payment method used and the specific circumstances of the refund request.
+
+To provide you with a more accurate estimate, could you please provide me with additional details, such as the order number or the payment method used? This will allow me to provide you with specific information regarding your refund.
+
+Rest assured, we value your satisfaction and will make every effort to process your refund promptly. If you have any further questions or concerns, please don't hesitate to let me know.

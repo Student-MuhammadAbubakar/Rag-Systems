@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order frlm {{Delivery City}}
+
+Answer: Assuredly! It's fantastic that you're interested in placing an order from {{Delivery City}}. We offer shipping services to various parts of the world, including {{Delivery City}}. You can easily place your order through our website. Simply browse our products, add the items you love to your cart, and proceed to the checkout page. From there, you'll be able to select the appropriate shipping option, including the one for {{Delivery City}}. If you have any specific concerns or questions regarding the shipping process, feel free to reach out. We're here to ensure a seamless and delightful ordering experience!

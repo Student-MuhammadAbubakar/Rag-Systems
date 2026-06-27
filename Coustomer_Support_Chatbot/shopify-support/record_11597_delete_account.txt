@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: wannaclose a pro account
+
+Answer: We're here for you to us and expressing your interest in closing your {{Account Type}} account. We appreciate your decision-making process and understand the importance of finding the right solution for your needs. To assist you with the account closure, please provide us with the specific details of your {{Account Type}} account. This will enable us to guide you through the process effectively and ensure a seamless experience. Remember, we're here to support you every step of the way and address any concerns you may have.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: wanna know more about creating {{Account Category}} accounts
+
+Answer: I'm thrilled that you're interested in learning more about creating {{Account Category}} accounts! {{Account Category}} accounts are a fantastic way to experience the benefits of our platform with no upfront cost. To create a {{Account Category}} account, you can visit our website or download our mobile app and select the "Create Account" option. You'll be prompted to provide some basic information such as your name, email address, and preferred username. Once your account is created, you'll have access to a range of features and services that our platform offers. Feel free to reach out if you have any further questions or need assistance during the account creation process. We're here to help you every step of the way! How does this sound to you?

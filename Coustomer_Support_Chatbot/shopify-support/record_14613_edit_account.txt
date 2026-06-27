@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correcting data on pro account
+
+Answer: I'm delighted to see your commitment to maintaining accurate data on your {{Account Type}} account. Your dedication to correcting and updating your account details ensures that you have a seamless and personalized experience with our services. Together, let's navigate through the process of correcting your account data to tailor it perfectly to your needs. Could you please specify which specific details you would like to correct?

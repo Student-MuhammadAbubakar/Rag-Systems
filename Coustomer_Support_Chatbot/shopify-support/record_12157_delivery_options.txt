@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya ship toHungary
+
+Answer: Indeed! We are pleased to inform you that we offer shipping services to {{Delivery Country}}. You can explore our delivery options and select the one that best suits your needs. Whether it's standard shipping, expedited shipping, or overnight shipping, we've got you covered. Let us know if you have any specific questions or if there's anything else we can assist you with. We're here to ensure a smooth and delightful shopping experience for you!

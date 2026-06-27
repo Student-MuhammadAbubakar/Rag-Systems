@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: find my bilps from {{Person Name}}
+
+Answer: I've realized that you're looking for assistance on how to locate your bill from {{Salutation}} {{Client Last Name}}. It seems like there might be a typo in the word "bilps." Could you please confirm if you meant "bills" instead? Once we have that clarification, I'll be more than happy to guide you in finding the information you need.

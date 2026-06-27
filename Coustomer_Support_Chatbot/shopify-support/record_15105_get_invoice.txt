@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want assistance to download the invoices from {{Person Name}}
+
+Answer: Positively! I understand your request for assistance in downloading the invoices from {{Salutation}} {{Client Last Name}}. To assist you further, could you please provide me with a bit more information? Specifically, are you looking to download a specific set of invoices or all the invoices related to {{Person Name}}? Once I have a better understanding of your needs, I can guide you through the process step by step.

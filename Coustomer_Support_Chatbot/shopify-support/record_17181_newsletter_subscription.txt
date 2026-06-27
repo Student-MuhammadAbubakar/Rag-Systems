@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: I am trying to unsubscribe to your company newsletter
+
+Answer: I realized, you are trying to unsubscribe from our company newsletter and I apologize if it has caused any inconvenience. Your experience and preferences matter to us, and we want to ensure that you have control over the content you receive. To proceed with the unsubscription, could you please provide me with the email address you used to subscribe? Once I have that information, I will promptly unsubscribe you from our newsletter. We appreciate your understanding and value your feedback. Is there anything else I can assist you with?

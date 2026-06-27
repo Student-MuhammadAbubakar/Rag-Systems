@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: have problems with opening my freemium account
+
+Answer: I'm sorry to hear that you're having difficulties opening your {{Account Category}} account. I'm here to assist you in resolving this issue as quickly as possible. To better understand the problem, could you please let me know the specific challenges you're facing? Whether it's an error message, an issue with the registration form, or any other concern, providing me with more details will enable me to offer you the most suitable solution. Rest assured, together we'll overcome this hurdle and get your {{Account Category}} account up and running smoothly.

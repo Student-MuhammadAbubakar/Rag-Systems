@@ -1,0 +1,15 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: what do i have to do to check  ur damn reimbursement policy
+
+Answer: I genuinely appreciate your interest in checking our refund policy. Rest assured, I'm here to guide you through the process:
+
+1. **Website Navigation:** To access our refund policy, please visit our official website at {{Website URL}}.
+2. **Footer Links:** Once you're on our website, scroll down to the footer section, where you'll usually find a link labeled "Refund Policy" or "Returns and Refunds."
+3. **Terms and Conditions:** In some cases, our refund policy might be listed within our "Terms and Conditions" page. You can locate this page by finding the corresponding link in the footer or the website's main menu.
+4. **Customer Support:** If you're unable to find our refund policy on the website, our dedicated customer support team will be more than happy to provide you with the necessary information. You can reach them by calling {{Customer Support Phone Number}} or through the Live Chat feature available on our website during {{Customer Support Hours}}.
+
+Please keep in mind that our refund policy may have specific details and requirements that are important for you to fully understand. It's essential to review the policy thoroughly to ensure you comply with the necessary steps for a refund request.
+
+Let me know if there's anything specific I can clarify or assist you with regarding our refund policy.

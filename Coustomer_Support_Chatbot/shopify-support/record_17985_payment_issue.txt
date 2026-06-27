@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: what do I need to do to notify of a problem with payments?
+
+Answer: I gather that you're seeking guidance on how to notify us about any problem you're facing with your payments. Rest assured, I'm here to help. To report a problem with your payments, you can reach out to our customer support team by calling {{Customer Support Phone Number}} or by sending an email to {{Customer Support Email}}. Alternatively, you can also visit our website at {{Website URL}} and access the live chat function to connect with a representative who can assist you further. Remember, your feedback is vital to us, and we appreciate your efforts in keeping us informed about any issues you encounter. Together, we'll work towards resolving your payment problem promptly and efficiently.

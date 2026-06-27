@@ -1,0 +1,8 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: i want help to check ur available payment options
+
+Answer: I'll get right on it! I'm here to assist you with checking our available payment methods. To ensure a seamless payment experience, we offer a variety of options. You can find the complete list of payment methods on our website by navigating to the "Payment Options" or "Checkout" page. This page will provide you with detailed information about each payment method, including which credit/debit cards are accepted, whether we support digital wallets like PayPal, Apple Pay, or Google Wallet, and any other additional payment options available.
+
+If you have any specific questions or need further guidance regarding a particular payment method, feel free to let me know. I'm here to provide you with the information you need to make your payment conveniently and securely.

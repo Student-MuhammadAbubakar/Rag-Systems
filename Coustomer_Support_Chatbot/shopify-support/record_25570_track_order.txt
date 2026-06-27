@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i dont know how to check the eta of purchase {{Order Number}}
+
+Answer: We're here to help! I take note that you are unsure about how to check the Estimated Time of Arrival (ETA) for your purchase with the number {{Order Number}}. Allow me to guide you through the process. To check the ETA, you can visit our website and navigate to the "Order History" section. There, you will find the details of your purchase, including the ETA. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to help you every step of the way!

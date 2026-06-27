@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know how to notify of a trouble with payment
+
+Answer: Thank you for getting in touch to us with your concern about notifying us of a payment issue. I'm here to guide you through the process. To report any trouble you are facing with your payment, you can reach out to our customer support team directly either through our live chat on our website at {{Website URL}}, or you can call our 24/7 customer support hotline at {{Customer Support Phone Number}}. By notifying us of the trouble, we can promptly address and resolve the issue for you. Don't hesitate to contact us as we're here to assist you every step of the way.

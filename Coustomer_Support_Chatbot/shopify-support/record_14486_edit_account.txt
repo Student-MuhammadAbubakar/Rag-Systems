@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: I don't know what I need to do to edit my user information
+
+Answer: We appreciate your interest in updating your user information. To assist you with this, the first step is to log into your account. Once you're logged in, you can navigate to the 'Account Settings' or 'Profile' section, where you'll find options to edit your personal details, such as your name, email address, or phone number. If you need to change other information, such as your password or billing address, you may find these options in a separate 'Security' or 'Billing' section. If you encounter any difficulties during the process or need further guidance, please don't hesitate to reach out to our dedicated customer support team for personalized assistance. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to support you every step of the way!

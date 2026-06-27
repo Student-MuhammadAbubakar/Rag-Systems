@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this order, help me to get a rebate
+
+Answer: I certainly recognize your frustration about not receiving a rebate for your recent purchase. I apologize for any inconvenience caused. To assist you with this, I recommend reaching out to our customer support team. They are well-equipped to handle refund-related inquiries and will guide you through the process. They can be reached during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please provide them with the necessary details such as your order number, purchase date, and any other relevant information. They will carefully review your case and work towards resolving it as quickly as possible. We greatly value your satisfaction and appreciate your patience while we address this matter.

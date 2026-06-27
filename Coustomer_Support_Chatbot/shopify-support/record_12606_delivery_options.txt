@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}}
+
+Answer: Positively! We offer shipping services to {{Delivery City}}, so you can conveniently place your order and have it delivered to the beautiful city. Whether you're browsing our website or using our mobile app, you can easily select {{Delivery City}} as your delivery location during the checkout process. If you have any specific concerns or questions regarding ordering from {{Delivery City}}, please feel free to reach out. We're here to ensure a seamless shopping experience for you!

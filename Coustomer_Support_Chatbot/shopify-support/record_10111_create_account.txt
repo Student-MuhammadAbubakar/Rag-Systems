@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening new premium account for daughter
+
+Answer: How wonderful! I'm thrilled to assist you in opening a new premium account for your daughter! {{Account Category}} accounts come with a range of exclusive benefits and features that will enhance her banking experience. To get started, I'll need some necessary information such as your daughter's full name, date of birth, and her contact details. Rest assured, we take privacy and security seriously, and her information will be handled with utmost care. Once I have the required details, I'll guide you through the account creation process step by step, ensuring a seamless experience for both you and your daughter. What questions do you have or how can I further assist you in this process?

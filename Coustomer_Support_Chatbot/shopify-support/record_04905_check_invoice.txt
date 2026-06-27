@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what i hve to do to see my bills from {{Person Name}}
+
+Answer: I'm fully aware of your confusion about finding the bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. To access your bills, you can try logging into your online account on our website. Once logged in, you should be able to navigate to the "Billing" or "Invoices" section. If you are unable to find the bills online, you can also reach out to our customer support team. They will be more than happy to assist you in locating and providing the necessary information regarding your bills.

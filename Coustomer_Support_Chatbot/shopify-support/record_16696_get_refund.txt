@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where do I demand a rebate ofb money?
+
+Answer: I fathom that you are seeking information on where to demand a rebate for your money. To initiate the process, I recommend reaching out to our customer support team directly. They will guide you through the necessary steps and provide you with the specific instructions and documentation required to request the rebate. You can contact our customer support team by calling {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to assist you. Rest assured, they will ensure a smooth and efficient process, addressing all your concerns and facilitating the rebate request.

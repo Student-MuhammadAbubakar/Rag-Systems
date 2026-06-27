@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know how I could remove the {{Account Category}} account
+
+Answer: We've received your message to us regarding the cancellation of your {{Account Category}} account. I'm here to assist you with the process. To remove your {{Account Category}} account, you can either log in to your account settings and locate the cancellation option or reach out to our customer support team who will guide you through the cancellation process. Please let me know if you need any further assistance or have any other questions.

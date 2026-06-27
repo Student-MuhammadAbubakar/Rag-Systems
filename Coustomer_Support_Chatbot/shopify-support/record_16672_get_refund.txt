@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this product, assistance to receive a refund
+
+Answer: I understand your concern about receiving a refund for the ${{Refund Amount}} product you purchased. I apologize for any inconvenience you may have experienced. To assist you with this matter, I kindly ask you to provide me with some additional details. Could you please share the order number, purchase date, and any relevant information about the product? With this information, I will be able to review your request and guide you through the steps to initiate a refund. Rest assured, I am committed to resolving this issue promptly and ensuring your satisfaction.

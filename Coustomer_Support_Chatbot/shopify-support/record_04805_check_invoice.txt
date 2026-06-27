@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how can I check the fucking bill from {{Person Name}}?
+
+Answer: I apologize for the inappropriate language used in your instruction. As a valued customer, your satisfaction is our utmost priority. To assist you in checking the bill from {{Salutation}} {{Client Last Name}}, please provide me with the relevant details such as the date range or any other specific information related to the bill. This will enable us to locate and provide you with the necessary details promptly. Rest assured, we are here to help you with any billing inquiries you may have.

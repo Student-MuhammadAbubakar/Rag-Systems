@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i want assistance taking a quick look at the invoice #00108
+
+Answer: I'll make it happen! I'm here to help you with a quick look at the invoice with the number #{{Invoice Number}}. To provide you with accurate information, could you please confirm if you are referring to the invoice for a specific date or if you have any other relevant details? This will assist me in locating the invoice swiftly and efficiently. Thank you for your cooperation, and I'm here to assist you every step of the way!

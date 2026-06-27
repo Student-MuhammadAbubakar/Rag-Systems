@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I need to delete a product from purchase {{Order Number}}
+
+Answer: I catch on to the fact that you need assistance with deleting a product from your purchase with the purchase number {{Order Number}}. We apologize for any inconvenience caused and we're here to help. To ensure accuracy, could you please provide the specific details of the product you would like to delete? Our team will promptly assist you in making the necessary changes to your purchase. We appreciate your patience and understanding as we work towards resolving this for you.

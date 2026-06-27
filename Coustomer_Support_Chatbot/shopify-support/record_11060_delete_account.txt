@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: want assistance to cancel my {{Account Category}} account
+
+Answer: Glad you contacted to us for assistance in canceling your {{Account Category}} account. I understand that you no longer find value in your current subscription and we value your feedback. To cancel your {{Account Category}} account, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the account settings page.
+3. Look for the option to manage your subscriptions.
+4. Locate the {{Account Category}} account subscription and select the cancellation option.
+5. Follow the prompts and confirm the cancellation of your {{Account Category}} account.
+
+If you encounter any difficulties or have any questions during the cancellation process, don't hesitate to reach out to our customer support team. We are here to assist you every step of the way. We appreciate your business and hope to serve you again in the future.

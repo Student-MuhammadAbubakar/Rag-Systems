@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I chose a wrong delivery addreds
+
+Answer: No problem! We can definitely help you with that. Please provide us with the correct delivery address, and our support team will assist you in updating it.

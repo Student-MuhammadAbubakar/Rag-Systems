@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I can't check the ETA of the orfer {{Order Number}}
+
+Answer: Thank you for bringing this to my attention. I apologize for any inconvenience caused. In order to assist you with checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}, I kindly request that you provide some additional information. Could you please confirm the purchase number or any other details associated with the order? This will allow me to investigate the issue further and provide you with an accurate status update. Thank you for your patience and cooperation.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I need assistance to download my bill from {{Person Name}}
+
+Answer: Sure! I completely understand your need to download your bill from {{Salutation}} {{Client Last Name}}. Don't worry, I'm here to help. Please provide me with the bill number, and I'll guide you through the process of downloading it. If you have any other questions or concerns, feel free to let me know.

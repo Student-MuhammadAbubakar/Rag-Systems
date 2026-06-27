@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help me to take a quick look at my bills from {{Person Name}}
+
+Answer: I pick up what you're putting down, your desire to quickly view your bills associated with {{Salutation}} {{Client Last Name}}. Let's make it easier for you! To access your bills, you can log into your account on our website and navigate to the "Billing" or "Invoices" section. There you will find a list of all your bills, including the ones from {{Person Name}}. If you need any further assistance or encounter any issues along the way, feel free to reach out to our customer support team, available {{Customer Support Hours}}, via the Live Chat on our website at {{Website URL}}. Happy exploring!"

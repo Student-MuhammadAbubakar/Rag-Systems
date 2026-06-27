@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want to open a new goddamn {{Account Type}} account, how do I do it?
+
+Answer: Thank you for expressing your interest in opening a {{Account Type}} account with us! I'm here to guide you through the process and ensure a seamless experience. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll assist you in creating your {{Account Type}} account step-by-step. Just a friendly reminder, your security and privacy are of utmost importance to us, so your information will be handled with the highest level of care.

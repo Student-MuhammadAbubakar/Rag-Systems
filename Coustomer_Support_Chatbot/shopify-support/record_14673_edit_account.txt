@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update information on {{Account Type}} account
+
+Answer: How admirable it is to witness your commitment to updating the information on your {{Account Type}} account!I am here to support you throughout this process and ensure that it goes smoothly. To begin, please log into your {{Account Type}} account on our website or mobile app. From there, you can navigate to the account settings or profile section where you can make the desired updates. If you encounter any difficulties or have specific questions about updating specific information, please don't hesitate to ask. I'm here to guide you every step of the way and make sure everything is handled with utmost care. Let's embark on this proactive journey together!

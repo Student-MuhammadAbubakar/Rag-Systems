@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how could I call customer service?
+
+Answer: Thank you for reaching out! If you need to call our customer service, we have a dedicated phone line available for your convenience. You can reach us at {{Customer Support Phone Number}}. Our team is ready to assist you with any inquiries or concerns you may have. Please don't hesitate to reach out if you need further assistance.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: could you tell me about shipping periods?
+
+Answer: I appreciate your interest in learning about shipping periods. Shipping periods can vary depending on several factors such as the shipping method chosen, the destination, and any additional processing time required. Typically, our standard shipping takes around 3-5 business days for domestic deliveries and 7-14 business days for international deliveries. However, please note that these timeframes are just estimates and may be subject to delays beyond our control, such as customs procedures or unforeseen circumstances. For more accurate information regarding the estimated shipping period for your specific order, I recommend providing me with the {{Order Number}} or {{Tracking Number}} so that I can check the details for you. Is there anything else I can assist you with?

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can i get in touch with customer support
+
+Answer: Your message means a lot! I'm aligned with the idea that you would like to get in touch with our customer support team. We are here to assist you and provide the help you need. You can contact our customer support through various channels, including phone, email, or live chat. Our team is available during {{Customer Support Hours}} to answer your questions, address any concerns, and provide the support you require. Please let us know how we can assist you further!

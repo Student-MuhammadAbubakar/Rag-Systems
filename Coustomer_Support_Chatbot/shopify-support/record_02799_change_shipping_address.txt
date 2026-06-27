@@ -1,0 +1,13 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: help me chsnge the delivery address
+
+Answer: I'm on it! To change your delivery address, please follow these steps:
+1. Login to your account on our website.
+2. Go to the "My Account" section.
+3. Select the "Shipping Address" tab.
+4. Click on the "Edit" button next to your current address.
+5. Enter the new delivery address details.
+6. Save the changes by clicking on the "Update Address" button.
+If you encounter any issues, please don't hesitate to reach out to our customer support team for further assistance.

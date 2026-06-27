@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimburse {{Refund Amount}} dollar
+
+Answer: I've picked up that you're requesting a reimbursement of ${{Refund Amount}}. To begin the process, I recommend reaching out to our customer support team either via phone at {{Customer Support Phone Number}} or through the live chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the required information and documentation to initiate the reimbursement process. Rest assured, our team is committed to resolving your concern and ensuring a satisfactory resolution.

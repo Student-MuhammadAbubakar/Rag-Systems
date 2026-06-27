@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can't afford purchase {{Order Number}}
+
+Answer: I recognize that you're facing financial difficulties and are unable to afford purchase {{Order Number}}. I apologize for any inconvenience caused. Canceling the purchase might be an appropriate choice in this situation. Let me guide you through the process:
+
+1. Sign in to your {{Online Company Portal Info}}: Access our platform by logging into your account.
+2. Locate Your Order: Once signed in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Find Purchase {{Order Number}}: Look for the purchase with the corresponding order number. Click on it to view the details.
+4. Initiate Cancellation: Within the order details, you should find a '{{Online Order Interaction}}' option associated with purchase {{Order Number}}. Please select this option.
+5. Confirm and Complete: The system might ask you to confirm the cancellation and provide additional feedback. Complete the necessary steps as instructed.
+
+If you require any further assistance or have any additional questions, do not hesitate to reach out. Our dedicated team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We understand the importance of your financial situation and are here to support you.

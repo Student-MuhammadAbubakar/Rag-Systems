@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: need assistancetalking with customer service
+
+Answer: We're here to help! I take note that you require assistance in talking with our customer service team. Our team is here to help and address any concerns you may have. In order to connect with them, you can reach out to our customer service hotline at {{Customer Support Phone Number}} or visit our website and initiate a live chat with one of our support agents. They will be more than happy to assist you with any questions or issues. We value your time and look forward to providing you with the help you need.

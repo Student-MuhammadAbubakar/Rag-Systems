@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to update purchase {{Order Number}}, how could I do it?
+
+Answer: We understand that you need to update your purchase with the number #{{Order Number}}. Don't worry, we're here to assist you. To make any necessary changes to your purchase, please follow these steps:
+
+1. Visit our website and log in to your account.
+2. Navigate to the "My Orders" section.
+3. Locate the order with the number #{{Order Number}} that you would like to update.
+4. Select the option to modify or edit your purchase.
+5. Follow the prompts to make the desired changes to your order, such as updating quantities, removing or adding items, or modifying shipping information.
+6. Review the changes carefully and confirm the updates.
+7. Once the changes are confirmed, you will receive a confirmation email with the updated details of your purchase.
+
+If you encounter any difficulties during the process or have any further questions, please don't hesitate to reach out to our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website. We're available {{Customer Support Hours}} to assist you.

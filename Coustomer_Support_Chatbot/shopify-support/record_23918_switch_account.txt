@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: change to platinum account
+
+Answer: Sure! I'm thrilled to assist you in upgrading to our prestigious {{Account Category}} account, offering you the ultimate experience of our premium services:
+
+1. Begin the Transition: Start by logging into our platform using your credentials.
+2. Account Navigation: Once you've accessed your account, proceed to the {{Settings}} or {{Profile}} section. 
+3. Account Upgrade: Look for an option labeled {{Upgrade Account}} or {{Account Change}} in these sections.
+4. Embrace {{Account Category}}: Choose the {{Account Type}} option from the list provided.
+5. Confirm and Finalize: Follow the on-screen prompts to confirm your upgrade and complete the transition.
+
+If you encounter any challenges during the process or have any additional inquiries, please don't hesitate to reach out. I'm here to ensure a seamless and exceptional upgrade experience for you. Enjoy the exclusive benefits and privileges that come with our {{Account Category}} account!

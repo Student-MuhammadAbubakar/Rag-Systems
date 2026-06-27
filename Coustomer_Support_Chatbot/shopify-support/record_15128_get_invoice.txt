@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me bull from {{Person Name}}
+
+Answer: I understand your request to receive the bill from {{Salutation}} {{Client Last Name}}. Allow me a moment to retrieve the invoice for you. While I gather the necessary information, please feel free to let me know if there's anything else I can assist you with.

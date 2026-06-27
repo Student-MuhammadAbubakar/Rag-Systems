@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimbusre {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I acknowledge that you are looking to claim a reimbursement of ${{Refund Amount}}. To initiate this process, I recommend reaching out to our customer support team. They will guide you on the specific steps and requirements for claiming your reimbursement. They can be contacted through various channels such as phone, email, or live chat. Please provide them with all the necessary details and documentation related to your purchase and reimbursement request for a smooth and efficient resolution. If you have any further questions or need assistance, feel free to let me know.

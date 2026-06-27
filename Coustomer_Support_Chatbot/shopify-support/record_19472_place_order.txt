@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I need to acqire some of your item, can you help me?
+
+Answer: Thank you for your interest in acquiring our items! I'm here to assist you with the process. To start, could you please provide me with more details about the specific items you're looking to purchase? This will allow me to provide you with the most accurate information and guide you through the steps required to acquire them.

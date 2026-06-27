@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: how can i check the current status of my compensation
+
+Answer: We understand that you would like to check the current status of your compensation, and we're here to assist you. To provide you with the most accurate and up-to-date information, could you please provide us with your {{Compensation ID}} or any other relevant details? This will help us locate your file and provide you with the necessary updates. We appreciate your cooperation and look forward to resolving your query promptly.

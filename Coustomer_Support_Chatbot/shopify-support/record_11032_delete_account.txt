@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: remove {{Account Category}} account
+
+Answer: Appreciate your message about removing your {{Account Category}} account. I understand that you no longer find value in it and would like to proceed with the cancellation. To assist you with this process, I would recommend contacting our customer support team. They will guide you through the necessary steps and ensure a smooth cancellation experience. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to assist you. Please let us know if you have any further questions or if there's anything else we can assist you with.

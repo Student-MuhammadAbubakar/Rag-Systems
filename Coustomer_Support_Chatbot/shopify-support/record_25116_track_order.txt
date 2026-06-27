@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: when will purchase {{Order Number}} arrive
+
+Answer: Thank you for your inquiry! I'm here to assist you with checking the estimated arrival time for your purchase with the purchase number {{Order Number}}. To provide you with accurate information, I kindly request a moment to retrieve the details. Please bear with me.

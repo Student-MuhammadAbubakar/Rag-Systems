@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I need to check what shipping options you offer, help me
+
+Answer: Unquestionably! Allow me to guide you through the enchanting realm of our shipping options:
+
+1. Standard Shipping: Delight in the anticipation as your package arrives within {{Date Range}} business days.
+2. Expedited Shipping: For those seeking a quicker journey, expect your items in {{Date Range}} business days.
+3. Overnight Shipping: Embrace the allure of instant gratification with next business day delivery.
+4. In-Store Pickup: Experience the joy of convenience by collecting your items from our {{Store Location}}.
+
+You're now equipped with an array of options to suit your specific needs. Should you have any further queries or if there's anything else I can assist you with, please don't hesitate to let me know. It's my pleasure to ensure your satisfaction!"

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update details on {{Account Category}} account
+
+Answer: How remarkable it is to embark on the exhilarating journey of updating the details on your esteemed {{Account Category}} account!I am thrilled to assist you in this process of personalization and refinement. To ensure the utmost security of your account, please refrain from sharing any personal identifiers such as your full account number or password here. For a seamless and personalized experience, I recommend accessing the dedicated account management section on our website or app, where you can easily update your account details. If you encounter any difficulties along the way, our dedicated support team is just a message away. Let's navigate this voyage together!

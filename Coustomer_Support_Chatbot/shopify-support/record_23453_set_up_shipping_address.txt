@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: i have got to submit my deliery address
+
+Answer: I've realized you need to submit your delivery address, and I'm here to guide you through the process. Please follow these steps:
+
+1. Log in to your account or create a new account if you haven't already.
+2. Go to the 'My Account' or 'Profile' section.
+3. Look for the 'Shipping Addresses' or similar option.
+4. Click on 'Add New Address' or 'Edit Shipping Addresses'.
+5. Enter the required details of your delivery address, including the recipient's name, street address, city, state, and zip code.
+6. Double-check the accuracy of the entered information and click 'Submit' or 'Save' to finalize the process.
+
+If you encounter any issues or have specific questions during this process, please don't hesitate to ask. I'm here to provide any assistance you may need.

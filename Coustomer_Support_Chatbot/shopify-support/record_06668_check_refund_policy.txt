@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: check under which circumstances can I request my money back
+
+Answer: Assuredly! I understand your need for clear information about the circumstances in which you can request a refund. Here is a breakdown of some common situations:
+
+1. **Product/Service Defect:** If the product or service you purchased has a defect or does not meet the description provided, you are usually eligible for a refund.
+2. **Cancellation within Grace Period:** If you change your mind and decide to cancel your purchase within the specified grace period, a refund should typically be available.
+3. **Delivery Issues:** If you ordered a physical product that never arrived or was significantly delayed, you may be eligible for a refund.
+4. **Unauthorized Charges:** If you notice any charges on your account that you did not authorize, our team will investigate and assist you in obtaining a refund.
+5. **Invalid/Expired Coupon:** If you used a coupon code or discount that was expired, invalid, or not applicable to your purchase, you can reach out for a refund of the difference.
+6. **Event Cancellation:** If you purchased tickets for an event that gets canceled and no rescheduled date is announced, you may be entitled to a refund.
+7. **Duplicate Charges:** If you see multiple charges for the same purchase on your account, our team will help you resolve the issue and obtain a refund.
+
+Please keep in mind that these are general situations, and specific refund policies may vary depending on the product, service, or vendor. It's a good idea to review the terms and conditions or contact the customer support of the respective vendor for precise details related to your purchase. If you have any specific concerns or need assistance with a particular transaction, please provide the necessary details, such as the {{Order Number}} or relevant information, and I'll be glad to help you further.
+
+Is there anything else I can assist you with?

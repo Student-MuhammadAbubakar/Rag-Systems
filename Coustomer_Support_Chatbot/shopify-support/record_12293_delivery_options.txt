@@ -1,0 +1,20 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: would it be possibl to place a goddamn order from {{Delivery Country}}?
+
+Answer: I'm on it! I would be delighted to provide you with the information you need regarding placing an order from {{Delivery Country}}. Let me explain the available options to you.
+
+We offer shipping to {{Delivery Country}}, allowing you to place an order and have it delivered to your desired location. Our delivery options include:
+
+1. Standard Shipping: This option typically arrives within a certain number of business days, which may vary based on the specific location in {{Delivery Country}}. It is ideal for non-urgent items.
+
+2. Expedited Shipping: If you require faster delivery, our expedited shipping option ensures that your order reaches you in a shorter timeframe. The exact number of business days for delivery will also depend on your location within {{Delivery Country}}.
+
+3. Express Shipping: For those who need their order urgently, our express shipping option guarantees quick delivery within a specified number of business days. Please note that additional charges may apply for express shipping.
+
+4. In-Store Pickup: If you prefer to collect your order personally, we also offer the convenient option of in-store pickup. You can select a nearby store in {{Delivery Country}}, and once your order is ready, you can visit the store at your convenience to collect it.
+
+Please remember that the exact delivery time may vary depending on the specific item, availability, and other factors. During the checkout process, you will see the available shipping options for your order, along with the estimated delivery time.
+
+If you have any specific concerns or questions regarding placing an order from {{Delivery Country}}, please don't hesitate to let me know. I'm here to assist you every step of the way.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I do not know how I can speam with customer support
+
+Answer: Glad you contacted us! I'm clearly cognizant that you're unsure about how to speak with our customer support team. I'm here to guide you through the process. To get in touch with our customer support, you can reach us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or send us a message through the Live Chat on our website at {{Website URL}}. Our dedicated team is passionate about assisting you and will promptly address any questions or concerns you may have. How else can I assist you today?

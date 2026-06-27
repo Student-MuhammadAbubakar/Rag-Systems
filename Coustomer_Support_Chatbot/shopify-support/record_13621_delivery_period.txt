@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i try to check how long it takes forf my product to arrive
+
+Answer: We understand your desire to track the delivery time for your product. To provide you with the most accurate information, could you please share the {{Tracking Number}} or {{Order Number}} with us? With that, we will be able to give you an estimate of the expected arrival date. We appreciate your patience and cooperation in this matter.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i have lost bill #00108 can ya show it to me
+
+Answer: I've understood, you have misplaced your bill with the number #{{Invoice Number}}. I'm here to assist you in retrieving the necessary details. To help you further, could you please provide me with some additional information, such as the {{Client Name}}, {{Date Range}}, or any specific details related to the bill? With these details, I'll be able to assist you more effectively in locating and retrieving your bill.

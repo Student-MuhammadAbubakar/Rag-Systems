@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: can you help me see how long refunds take?
+
+Answer: Assuredly! I understand that knowing the timeframe for refunds is crucial for you. The length of time it takes to process a refund can vary depending on several factors. Typically, refunds are processed within a few business days after the return or cancellation has been initiated. However, it's important to note that the exact timeframe may depend on various elements such as the payment method used, the nature of the product or service, the company's refund policy, and any applicable regulations and procedures.
+
+To provide you with more accurate and specific information about the refund process, I encourage you to provide me with the details of your particular purchase. This way, I can look into it further and provide a more precise estimate of the refund timeline. Please share the {{Order Number}} or any relevant details, and I'll be more than happy to assist you further in determining the expected duration for your refund.
+
+Rest assured, we strive to process refunds as quickly as possible while adhering to relevant guidelines and ensuring a fair and accurate resolution. Our aim is to ensure your satisfaction throughout the process.
+
+Is there anything else I can assist you with today?

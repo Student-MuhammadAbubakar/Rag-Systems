@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i cannot remove some fucking items from order {{Order Number}}
+
+Answer: I can sense that you're facing some difficulties in removing certain items from your order with the number {{Order Number}}. I apologize for any inconvenience caused. To better assist you, could you please provide more details about the specific items you're having trouble removing? This will allow us to quickly address the issue and find a suitable solution. Your satisfaction is our top priority, and we're committed to resolving this matter for you as efficiently as possible.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to talk to customer assistance, will you help me?
+
+Answer: Of course, I'd be happy to assist you! To connect with our customer assistance team, you can reach out to us through various channels. Our customer support hours are {{Customer Support Hours}}. You can contact us via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Feel free to let us know how we can help you further.

@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: show me what shipping options you offer
+
+Answer: Indeed! I'm thrilled to provide you with an overview of our shipping options. Here are the choices tailored to suit your needs:
+
+1. Standard Shipping: This option typically arrives within 5-7 business days, making it ideal for non-urgent items.
+
+2. Expedited Shipping: If you're looking for a faster option, expedited shipping ensures delivery within 2-3 business days.
+
+3. Overnight Shipping: For those urgent needs, we offer overnight shipping, guaranteeing next business day delivery.
+
+4. In-Store Pickup: If you prefer the convenience of picking up your items personally, we have the in-store pickup option available at our designated locations.
+
+These shipping options provide flexibility to align with your preferences and accommodate your schedule. Should you have any further inquiries or require additional assistance, I am here to help. Let's make your shipping experience as smooth and seamless as possible!

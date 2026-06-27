@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: will umail me the invoicce from {{Person Name}}
+
+Answer: For sure! I understand that you're looking to receive the invoice from {{Salutation}} {{Client Last Name}} via email. To assist you further, could you please provide me with the email address where you would like us to send the invoice? Once I have that information, I'll ensure that the invoice is promptly emailed to you. Thank you!

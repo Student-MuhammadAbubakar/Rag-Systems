@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order from {{Delivery City}}
+
+Answer: How delightful! You're considering placing an order from the vibrant city of {{Delivery City}}! I'm pleased to inform you that we accept orders from {{Delivery City}} and offer shipping to your location. You can place an order through our website or contact our customer service team for further assistance. We'll be more than happy to help you with your purchase. If there's anything else I can assist you with, please let me know!

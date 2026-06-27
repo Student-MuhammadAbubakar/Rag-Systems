@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: what do i need to do to cancel a bloody platinum account
+
+Answer: Thank you for reaching out to us regarding the cancellation of your {{Account Category}} account. I understand that you are looking for guidance on the steps to cancel your account. I apologize for any inconvenience caused, and I'm here to assist you. To initiate the cancellation process, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the Account Settings or Preferences section.
+3. Look for the Account Cancellation or Close Account option.
+4. Follow any prompts or instructions provided.
+5. If necessary, confirm your decision to cancel the account.
+
+Once you have completed these steps, your {{Account Category}} account will be canceled. Please keep in mind that canceling your account may result in the loss of any benefits, rewards, or data associated with your account. If you have any further questions or concerns, please don't hesitate to let me know.

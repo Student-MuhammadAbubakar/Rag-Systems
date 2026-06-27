@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: getting invoice #12588
+
+Answer: I'm on your side your need to access invoice #{{Invoice Number}}. Just give me a moment to retrieve it for you. In the meantime, I want to thank you for reaching out for assistance. It's our priority to ensure a seamless experience for our customers like you. Rest assured, I'm here to help and provide the support you need.

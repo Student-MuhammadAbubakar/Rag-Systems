@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I'm calling to gt the bloody bills from {{Person Name}}
+
+Answer: I've got that you're calling to retrieve the bills from {{Salutation}} {{Client Last Name}}. Please allow me a moment to locate and access the bills for you. If you have any other questions or concerns, feel free to let me know. I'm here to assist you.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: delete {{Account Type}} account
+
+Answer: Thank you for your message with your request to delete your {{Account Type}} account. I understand that you have made the decision to remove your account, and I'm here to assist you with the process. To proceed with the deletion, please provide me with your account information such as the email address associated with the account or any other relevant details. Once I have the necessary information, I will be able to guide you through the account deletion process.

@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: can you show me what payment options are available ?
+
+Answer: I'll do my best! I'm here to assist you in exploring the payment options we offer. Let me guide you on how to access the list of available payment methods on our platform.
+
+1. Login to your account on our website or mobile app.
+2. Go to the "Payment" or "Billing" section. You might find it under "Account Settings" or a similar menu option.
+3. Look for the "Payment Methods" or "Manage Payment Options" tab.
+4. Click on it to view the complete list of payment methods available to you.
+
+If you encounter any difficulties or need further assistance, don't hesitate to reach out. We're always here to support you and provide any clarifications you may need.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i cant see the eta of purchase {{Order Number}}
+
+Answer: Honored to assist! I'm clued in that you are unable to see the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To assist you with this, could you please provide me with some additional details such as the platform or website you used to make the purchase? This information will help me guide you in the right direction and provide you with accurate instructions on how to view the ETA for your purchase.

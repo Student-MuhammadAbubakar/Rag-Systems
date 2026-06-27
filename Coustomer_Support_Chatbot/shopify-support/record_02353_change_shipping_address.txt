@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I chose a wrong address by mistake
+
+Answer: No problem at all! We can help you with that. Please provide us with the correct address, and we will make sure to update it for your delivery.

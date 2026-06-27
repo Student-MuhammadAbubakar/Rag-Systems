@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do i correct purchase {{Order Number}}
+
+Answer: We understand that you need assistance in correcting purchase number {{Order Number}}. To help you with this, please provide us with more details about the specific correction you would like to make. Are you looking to add, remove, or modify items in your purchase? Once we have a clear understanding of your request, we will guide you through the necessary steps to make the correction. Your satisfaction is our priority, and we are here to support you throughout the process.

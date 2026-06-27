@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need assistance deleting a {{Account Category}} account
+
+Answer: Happy to get your message about deleting your {{Account Category}} account. I understand that you need assistance with this process, and I'm here to help. To ensure a smooth account cancellation, I kindly request you to provide me with some specific details regarding your account. This may include your account username, email address, or any other relevant information that will help us locate and proceed with the deletion request. Rest assured that your privacy and data protection are of utmost importance to us, and we will handle your request with care and confidentiality. Please feel free to share the necessary information, and together, we'll make sure your {{Account Category}} account is successfully deleted.

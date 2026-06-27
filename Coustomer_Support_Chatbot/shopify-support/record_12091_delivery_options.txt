@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: delieries to {{Delivery City}}
+
+Answer: Assuredly! We provide delivery services to {{Delivery City}}, so you can conveniently receive your order in this vibrant and historic city. Whether you're looking for standard shipping, expedited options, or even in-store pickup, we have you covered. Our goal is to ensure that your experience with us is seamless and hassle-free. If you have any further questions or need additional assistance, please feel free to ask. We're here to help!

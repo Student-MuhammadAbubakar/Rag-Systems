@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: deleting {{Account Type}} account
+
+Answer: Thanks for dropping us a line to us with your request to delete your {{Account Type}} account. I understand that you would like to remove your account completely. Our team is here to assist you with this process. To proceed with the deletion of your {{Account Type}} account, please provide us with the necessary details such as your account username or email address associated with the account. Once we have verified your identity, we will proceed with the deletion request. Rest assured, your personal information will be handled securely and in accordance with our privacy policy.

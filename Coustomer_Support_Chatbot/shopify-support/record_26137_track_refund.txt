@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a reimbursement of {{Refund Amount}} dollras
+
+Answer: Firstly, I truly understand the importance of the expected reimbursement of {{Currency Symbol}}{{Refund Amount}} for you. Every dollar matters, and we want to ensure that you receive it as soon as possible. Let me quickly check the current status of your refund. While I gather the necessary information, may I ask if you have any specific concerns or questions regarding your reimbursement? Your insights are valuable as we work towards a resolution. Thank you for your patience and understanding.

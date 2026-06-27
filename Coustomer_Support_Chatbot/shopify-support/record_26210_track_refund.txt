@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a compensation of {{Refund Amount}} dollars
+
+Answer: I comprehend your anticipation in receiving a compensation of {{Currency Symbol}}{{Refund Amount}}. Each reimbursement is important, and we value your trust and patience. Let me swiftly check the status of your compensation. As I do that, may I kindly ask if you have previously received a compensation from us? Your experience and insights are valuable to us in ensuring your satisfaction. Rest assured, we are committed to providing you with the best resolution possible.

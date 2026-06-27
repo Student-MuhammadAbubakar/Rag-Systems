@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a goddamn compensation of {{Currency Symbol}}{{Refund Amount}}, was it processed
+
+Answer: I'm with you, your concern about the compensation of ${{Refund Amount}}. I apologize for any inconvenience caused, and I assure you that I'll do my best to assist you. Let me quickly check the status of your compensation and provide you with an update. Could you please provide me with any relevant details, such as the date or reference number of your compensation request? This will help me investigate further and give you accurate information about its processing status. Thank you for your cooperation and patience.

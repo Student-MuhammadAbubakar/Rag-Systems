@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I am trying to see your payment methods
+
+Answer: Thank you for your inquiry! I'm here to help you with our payment methods. At our company, we offer a variety of secure and convenient payment options to cater to your needs. Our accepted payment methods include credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. These options provide flexibility and ensure a smooth checkout process for our valued customers. If you have any specific questions or require further assistance with any of these methods, please feel free to let me know. I'm here to guide you every step of the way!

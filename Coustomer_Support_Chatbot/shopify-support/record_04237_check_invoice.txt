@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: could you help me to locate the bills from {{Person Name}}?
+
+Answer: I completely understand your need to locate the bills from {{Salutation}} {{Client Last Name}}, and I'm here to assist you with that. To begin, could you please provide me with the specific timeframe or any other relevant details about the bills you are searching for? This information will greatly help me in finding and providing you with the accurate information you need.

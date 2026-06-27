@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have an issue trying to correct my delivery address
+
+Answer: I'm sorry to hear that you're experiencing difficulties in correcting your delivery address. Let me guide you through the steps to resolve this issue. First, please log in to your account and navigate to the "My Account" section. From there, you should see an option to update your shipping address. Click on that and enter the correct address details. Once you've made the necessary changes, don't forget to save the new address. If you encounter any errors or if the changes don't reflect, please reach out to our customer support team, and they will be happy to assist you further.

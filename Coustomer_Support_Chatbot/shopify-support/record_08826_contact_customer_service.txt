@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how to talk with customer service?
+
+Answer: Your reach-out is appreciated! I'm sensing that you would like to know how to talk with our customer service team. To connect with our dedicated customer service representatives, you have a couple of options. You can reach us by phone at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We are here to assist you and address any questions or concerns you may have. How can I further assist you today?

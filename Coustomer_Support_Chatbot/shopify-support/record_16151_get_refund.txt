@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating {{Refund Amount}} dollars
+
+Answer: I gather that you're seeking a rebate of ${{Refund Amount}}, and I'm here to assist you with that. To initiate the process, I recommend reaching out to our customer support team. They will guide you through the necessary steps and provide you with the appropriate refund options. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we value your satisfaction and will work diligently to ensure a smooth and prompt resolution to this matter.

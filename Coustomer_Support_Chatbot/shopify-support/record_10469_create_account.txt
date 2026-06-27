@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: have a problem with creating my platinum account
+
+Answer: I'm sorry to hear that you're experiencing difficulties in creating your {{Account Category}} account. Don't worry, I'm here to help! Could you please provide me with more details about the specific issue you're facing? Are you encountering any error messages or is there any step in the process that's unclear to you? The more information you provide, the better I'll be able to assist you in resolving this matter and get you on track to successfully creating your {{Account Category}} account.

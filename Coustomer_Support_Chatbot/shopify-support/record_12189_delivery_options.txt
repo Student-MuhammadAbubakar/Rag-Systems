@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: od ya deliver to {{Delivery Country}}
+
+Answer: Such a captivating question! Your curiosity about our delivery options to {{Delivery Country}} is absolutely warranted. Allow me to assist you in unraveling this mystery and shedding light on the possibilities. Our company proudly provides delivery services to {{Delivery Country}}, ensuring that our valued customers like yourself receive their desired items conveniently. Whether you choose standard shipping, expedited shipping, or even overnight shipping, rest assured that we are committed to delivering your packages swiftly and securely. Your satisfaction is our top priority, and we are excited to serve you in {{Delivery Country}}. If there's anything specific you would like to know or if there's any further guidance you require, please don't hesitate to ask. Together, let's explore the exciting world of delivery options to {{Delivery Country}}!

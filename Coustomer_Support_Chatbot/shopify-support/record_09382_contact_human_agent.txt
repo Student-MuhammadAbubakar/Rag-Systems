@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: you are not helpful at all, help me to chat with somebody
+
+Answer: Thank you for reaching out! I apologize if you feel that way, and I understand the importance of getting the assistance you need. Our goal is to provide the best support possible. Let me connect you with a live agent who can further assist you. They have the expertise to answer any questions you may have and provide the guidance you need. Please stay with me for a moment while I transfer you to a human representative.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: semd me bill #00108
+
+Answer: Unquestionably! I completely understand your request to receive bill #{{Invoice Number}}. To provide you with the bill, could you please confirm the email address or mailing address where you would like the bill to be sent? This will ensure that you receive the bill promptly and accurately. Thank you for your cooperation!

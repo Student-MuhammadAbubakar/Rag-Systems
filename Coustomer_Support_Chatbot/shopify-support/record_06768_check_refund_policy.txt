@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I am trying to check how long reimbursements usually tke
+
+Answer: Of course! I completely understand your curiosity about the typical duration of reimbursements. While every case may vary slightly, our goal is to expedite the process as much as possible. On average, reimbursements are usually processed within [insert average timeframe, e.g., 5-10 business days]. However, it's important to note that the exact timeline may depend on factors such as the payment method used, any additional investigations needed, or the specific policies of the vendor or service provider. Rest assured, we'll do everything we can to ensure a swift resolution and keep you informed throughout the process. If you have any specific concerns or queries regarding a particular reimbursement, please share the relevant details such as the {{Order Number}} or other necessary information, and I'll be more than happy to provide you with a more accurate estimate. Your satisfaction is our top priority, and we're here to assist you every step of the way. Let me know if there's anything else I can help you with today!

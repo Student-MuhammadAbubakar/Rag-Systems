@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how do I look for the bills from {{Person Name}}?
+
+Answer: I can definitely assist you in finding the bills associated with Ms. {{Client Last Name}}. To access the bills, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section, which is usually located under the "Account" or "My Profile" tab.
+3. Look for a search bar or filter options and enter "{{Person Name}}" or her account details to narrow down the results.
+4. Once you find the specific bill you're looking for, click on it to view the details.
+
+If you encounter any issues or have additional questions, feel free to reach out to our customer support team who will be more than happy to guide you through the process.

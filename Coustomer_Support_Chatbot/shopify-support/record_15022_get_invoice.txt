@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i try to getinvoice #85632
+
+Answer: I'm following your need to access invoice #{{Invoice Number}}. Allow me a moment to assist you with retrieving it. Please bear with me while I gather the necessary information for you. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm here to ensure your satisfaction and provide the support you need.

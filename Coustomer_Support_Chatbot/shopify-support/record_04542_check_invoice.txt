@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know how to see the invoice #12588
+
+Answer: I've decoded that you're unsure about how to view the invoice with the number #{{Invoice Number}}. Let me guide you through the process. To access your invoice, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for an option to search or filter invoices by invoice number.
+4. Enter the invoice number #{{Invoice Number}} in the search or filter field.
+5. Click on the search or filter button to display the invoice.
+6. Once you have found the invoice, you can view or download it in a printable format.
+
+If you encounter any difficulties or require further assistance, please don't hesitate to let me know. I'm here to help you every step of the way.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I call to check how long it takes for the purchase to arrive
+
+Answer: We understand that you are eager to know the expected arrival time of your purchase. To provide you with accurate details, it would be helpful if you could provide us with the {{Tracking Number}} or {{Order Number}} associated with your purchase. With this information, our team can provide you with an estimated delivery date. Your patience is greatly appreciated as we work together to assist you.

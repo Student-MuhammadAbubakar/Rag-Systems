@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I want hwlp to correct the shipping address
+
+Answer: We understand that you need assistance in correcting your shipping address. Our team is here to help you with that! Please provide us with the updated shipping address, and we will make sure to update it for you.

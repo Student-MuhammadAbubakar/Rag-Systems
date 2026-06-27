@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I have to switch to the {{Account Category}} account
+
+Answer: Noted! I appreciate your decision to switch to our remarkable {{Account Category}} account. To make this transition as smooth as possible, follow these simple steps:
+
+1. Log into your account: Begin by signing in to our platform using your existing credentials.
+2. Account Settings: Once you're logged in, navigate to your account settings. You can usually find this option in the drop-down menu under your profile picture or in the sidebar.
+3. Subscription Management: In the account settings, locate the "Subscription" or "Account Type" section.
+4. Switch Account Type: Look for an option that allows you to switch account types. It might be labeled as "Switch to {{Account Category}}" or "Downgrade to {{Account Category}}."
+5. Confirmation: Once you've found the switch account type option, follow the on-screen instructions to confirm your switch to the {{Account Category}} account.
+6. Enjoy {{Account Category}} Benefits: Congratulations! You've successfully switched to the {{Account Category}} account. Now you can enjoy its benefits and explore the features available to you.
+
+If you encounter any difficulties or have further questions along the way, don't hesitate to reach out. We're here to provide the support you need throughout the process. Wishing you a great experience with our {{Account Category}} account!

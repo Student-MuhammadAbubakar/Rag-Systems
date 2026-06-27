@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I add several articles to purchase {{Order Number}}?
+
+Answer: I've understood, you're looking for assistance with adding several articles to your purchase with the number {{Order Number}}. We want to ensure that your purchasing experience is as smooth as possible, so let's proceed with the necessary steps to help you with this. To add articles to your purchase, please follow these instructions:
+
+1. Log in to your account on our website or app.
+2. Go to your purchase history or order details page.
+3. Locate the purchase with the number {{Order Number}}.
+4. Look for the "Edit" or "Add Items" option next to the purchase details.
+5. Click on that option to access the purchase modification menu.
+6. Browse through our available articles and select the ones you want to add to your purchase.
+7. Click on the "Add" or "Add to Purchase" button next to each article.
+8. Review your updated purchase summary to ensure all desired articles are included.
+9. If everything looks good, proceed to the checkout to finalize your purchase.
+
+If you encounter any difficulties or have further questions during this process, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how can i call customer assistance
+
+Answer: Always good to connect! I'm attuned to the fact that you are looking for information on how to contact our customer assistance team. To speak with our customer service representatives, you can reach out to us at {{Customer Support Phone Number}} or submit a request through our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} and will be happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

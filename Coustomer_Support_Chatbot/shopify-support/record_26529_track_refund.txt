@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a compensation of {{Refund Amount}} dollars
+
+Answer: Thank you for bringing up your expected compensation of {{Currency Symbol}}{{Refund Amount}}. I completely understand the importance of timely and accurate reimbursements. Let me quickly check the status of your compensation and provide you with an update. While I gather the information, I'd like to ask if this is your first time seeking compensation from us. Your insights will allow us to better support you. Please bear with me for a moment, and thank you for your patience.

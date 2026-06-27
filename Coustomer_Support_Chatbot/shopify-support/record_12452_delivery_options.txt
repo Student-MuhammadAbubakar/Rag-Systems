@@ -1,0 +1,15 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want to see what shipping options I have, how can I do it?
+
+Answer: Delightful! I can guide you through the process of exploring our shipping options. To see what shipping choices are available to you, simply follow these steps:
+
+1. Visit our website at {{Website URL}}.
+2. Browse through our products and add the items you wish to purchase to your cart.
+3. Proceed to the checkout page.
+4. On the checkout page, you will find the shipping options available for your location.
+5. Take your time to review and compare the different shipping methods, considering factors such as speed, cost, and convenience.
+6. Once you have decided on the best shipping option for you, select it and complete the checkout process.
+
+By following these steps, you will have a clear view of the shipping options available and can make an informed decision. If you encounter any uncertainties or need further assistance, please don't hesitate to reach out. I'll be glad to help you find the perfect shipping method for your needs. Happy shopping!

@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need to check the withdrawal fee
+
+Answer: I'm happy to help! I can assist you with checking the withdrawal fee for your account. Please provide me with your contract details, such as its start date and duration, so I can provide you with accurate information.

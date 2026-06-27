@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update personal data
+
+Answer: How exhilarating it is to embark on this transformative journey of updating your personal data!I'm absolutely thrilled to guide you through this empowering process and ensure that your personal information is accurate and up to date. To proceed with this endeavor, we kindly request you to securely log into your account on our {{Online Company Portal Info}} or reach out to our dedicated customer support team for personalized assistance. They will provide you with the necessary guidance and ensure a seamless experience throughout the process. Can you share which specific details you would like to update? We are here to assist you every step of the way and ensure that your personal data is kept current.

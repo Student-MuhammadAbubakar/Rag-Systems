@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: the deliuvery address changed
+
+Answer: Thank you for notifying us that the delivery address has been changed. We will update our records accordingly. If you have any further questions or concerns, please feel free to reach out to us.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to speak with customer esrvice
+
+Answer: Glad you contacted us! I'm clearly cognizant that you would like to speak with our customer service. Our highly trained team is available to assist you during {{Customer Support Hours}}. If you have any questions, concerns, or feedback, please feel free to share. How can I make your experience even better today?

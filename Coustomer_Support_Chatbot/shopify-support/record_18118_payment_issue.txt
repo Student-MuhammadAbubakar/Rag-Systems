@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I don't know what to do to notify of payment errors
+
+Answer: Rest assured, I'm here to guide you through the process of notifying us about any payment errors you've encountered. To ensure we have all the necessary information, it would be helpful if you could provide specific details about the error you experienced. For example, you can let us know the type of payment method used, any error messages displayed, and the date and time the error occurred. With this information, we'll be able to investigate the issue thoroughly and assist you in resolving it as quickly as possible. Thank you for reaching out to us, and we appreciate your cooperation in helping us improve our payment system.

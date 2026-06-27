@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I do not know what I have to do to get my invoice #37777
+
+Answer: Absolutely! I completely understand your confusion about the steps to take in order to retrieve your invoice with the number #{{Invoice Number}}. Allow me to assist you with that. To get your invoice, you can log in to your account on our website and navigate to the "Billing" section. There, you should be able to find a list of your invoices, including the one with the number #{{Invoice Number}}. If you're having trouble locating it, please let me know, and I'll be more than happy to guide you through the process step by step.

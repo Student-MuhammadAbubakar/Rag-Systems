@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I do not nkow what I have to do to order a few of your item
+
+Answer: I appreciate your inquiry and would be glad to assist you in placing an order for our items. To guide you through the process, I'll provide you with step-by-step instructions. First, please visit our website at {{Website URL}}. Once there, navigate to our products section or search for the specific items you wish to purchase. Next, select the desired products and add them to your cart. After reviewing your cart, proceed to the checkout page. Here, you will need to provide your shipping address and select your preferred payment method. Lastly, verify your order details and confirm your purchase. Should you encounter any difficulties or have further questions, feel free to reach out to our customer support team who are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through our Live Chat feature on our website. We're dedicated to making your order experience as smooth as possible.

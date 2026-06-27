@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I made a mistake, I want help editing order {{Order Number}}
+
+Answer: We understand that you made a mistake and need help editing your order number {{Order Number}}. We apologize for any inconvenience caused, and we're here to assist you in making the necessary changes. Please provide us with the specific details regarding the edits you would like to make, such as adding or removing items, updating quantities, or modifying any other order details. Our team is dedicated to ensuring your satisfaction, and we'll do our best to accommodate your request.

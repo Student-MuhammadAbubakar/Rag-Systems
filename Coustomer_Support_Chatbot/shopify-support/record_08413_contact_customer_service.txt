@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need to call customer assistance, how could I do it?
+
+Answer: Honored to assist! I'm clued in that you have a need to call our customer assistance. We offer various channels for you to connect with our team. You can contact us through our dedicated customer support phone number at {{Customer Support Phone Number}}, which is available during {{Customer Support Hours}}. Additionally, you can also reach us through the Live Chat on our website at {{Website URL}}. Our knowledgeable agents are ready to assist you and provide the support you need. Feel free to reach out to us using any of these convenient methods. How else can I assist you today?

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create {{Account Type}} account
+
+Answer: Thank you for choosing to create a {{Account Type}} account! This account option is perfect for customers looking for advanced features and personalized services. To create your {{Account Type}} account, we have a simple and straightforward process. First, please provide your full name, email address, and a password you'd like to use for your account. Once you've shared this information with us, our team will create your {{Account Type}} account swiftly, ensuring you have access to all the exclusive benefits and privileges that come with it. We're excited to have you as a valued member of our {{Account Type}} account community!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I look for the invoice #12588?
+
+Answer: For sure! I understand your quest to locate the invoice with the number #{{Invoice Number}}. To find the invoice you're looking for, you can try checking your email inbox for any emails related to the invoice. Additionally, you may want to log in to your customer portal or account on our website to access your billing history. If you have a physical copy of the invoice, it may be in your filing system or document archives. Remember, our customer support team is also available to assist you further in locating the invoice.

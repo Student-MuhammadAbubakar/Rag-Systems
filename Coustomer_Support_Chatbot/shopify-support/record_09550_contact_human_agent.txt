@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: what do I have to do to cntact an assistant?
+
+Answer: Your message means a lot! I'm aligned with the idea that you would like to know the process to contact an assistant. I'm here to help! To get in touch with an assistant, you have a few options. You can reach out to our customer support hotline at {{Customer Support Phone Number}}, available {{Customer Support Hours}}, where our team of dedicated agents will be able to assist you. Alternatively, you can also visit our website at {{Website URL}} and navigate to the "Contact Us" page to access our live chat feature or submit a support ticket. We are committed to providing you with the support you need. Let me know if you have any further questions or if there's anything else I can assist you with!

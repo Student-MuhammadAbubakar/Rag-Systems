@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how can I speak to customer assistance?
+
+Answer: Thank you for reaching out! I completely understand your desire to speak with our customer assistance team. You can connect with our customer assistance through various channels. The most convenient way is to reach us via our dedicated customer support phone line at {{Customer Support Phone Number}}. Our team of experts will be available to assist you during our customer support hours from {{Customer Support Hours}}. Additionally, you can also chat with our customer assistance team through the Live Chat feature on our website at {{Website URL}}. We aim to provide you with the best possible assistance to resolve any concerns or queries you may have. Let me know if there is anything else I can help you with!

@@ -1,0 +1,11 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i want help downloading my invoices from {{Person Name}}
+
+Answer: I'm happy to help! I understand that you need assistance with downloading your invoices from {{Salutation}} {{Client Last Name}}. To download your invoices, you can follow these steps:
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to download or view your invoices.
+4. Select the invoices you want to download, and choose the download option.
+If you encounter any issues or have further questions, please feel free to let me know. I'm here to help ensure your invoice downloading process goes smoothly.

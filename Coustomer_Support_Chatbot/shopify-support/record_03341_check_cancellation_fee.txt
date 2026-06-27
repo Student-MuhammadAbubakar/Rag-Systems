@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: check the cancellation penalties
+
+Answer: Sure! To check the cancellation penalties, you can log in to your account and navigate to the "Cancellation Policy" section. There, you will find detailed information about the applicable fees and charges for canceling your service.

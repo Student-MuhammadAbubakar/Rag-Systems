@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: help me seeing your accepted payment methods
+
+Answer: Certainly! I'd be delighted to assist you in viewing our accepted payment methods. Please allow me a moment to gather the information for you.

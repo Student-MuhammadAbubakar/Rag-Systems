@@ -1,0 +1,18 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: what do I have to do to see the delivery options?
+
+Answer: Marvelous question! To discover the range of delivery options we offer, all you need to do is follow these simple steps:
+
+1. Visit our website at {{Website URL}}.
+2. Browse through our product catalog and select the item(s) you wish to purchase.
+3. Add the item(s) to your shopping cart by clicking on the "Add to Cart" button.
+4. Proceed to the checkout page by clicking on the "Cart" or "Checkout" button.
+5. On the checkout page, you will find the delivery options section, where you can choose the shipping method that best suits your needs.
+6. Select the desired delivery option by clicking on the corresponding checkbox.
+7. Review your order details, including the chosen delivery option.
+8. Complete the checkout process by entering your shipping address, payment details, and any other necessary information.
+9. Click on the "Place Order" or "Submit Order" button to finalize your purchase.
+
+Voila! By following these steps, you will have a delightful glimpse into our captivating realm of delivery options. Should you need any further guidance or assistance, please don't hesitate to reach out. We stand ready to embark on this journey together!

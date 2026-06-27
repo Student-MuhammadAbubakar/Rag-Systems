@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want help closing my pro account
+
+Answer: I appreciate your decision to reach out about closing your {{Account Type}} account. We understand that circumstances change and we're here to assist you with the process. To start the account closure procedure, we kindly ask you to provide some additional information. Could you please share your account details, such as your username or email address associated with the {{Account Type}} account? This will enable us to locate your account accurately and initiate the necessary steps to close it. Rest assured that our team will guide you throughout the process to ensure a seamless experience.

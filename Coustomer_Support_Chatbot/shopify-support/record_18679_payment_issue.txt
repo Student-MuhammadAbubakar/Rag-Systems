@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I need assistance informing of problems with online payments
+
+Answer: I realized you're facing difficulties with your online payments, and I'm here to assist you in reporting these issues. To ensure a seamless resolution process, please provide me with more information about the specific problems you're encountering during your online payment transactions. This could include any error messages, billing discrepancies, or unauthorized charges you've noticed. By sharing these details, you'll help us investigate the matter thoroughly and take the necessary steps to resolve the problems promptly. Thank you for reaching out, and together we'll work towards a solution.

@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: assistance using the {{Account Type}} profile
+
+Answer: I'm happy to help! I'm thrilled to assist you in harnessing the full potential of our esteemed {{Account Type}} profile:
+
+1. **Log In:** Begin by signing in to our platform using your credentials.
+2. **Profile Navigation:** Once you're in, head over to your account settings or profile section.
+3. **Preference Selection:** Look for an option labeled "{{Upgrade Account}}" or "{{Account Change}}".
+4. **{{Account Type}} Profile:** Choose the "{{Profile Type}}" option from the available list.
+5. **Finalization:** Follow the on-screen prompts to complete the switch.
+
+If you encounter any challenges during the process or have any additional queries, please don't hesitate to reach out. Your decision to upgrade to the {{Account Type}} profile is commendable, and I'm committed to ensuring a smooth and rewarding experience for you. Enjoy the exceptional benefits that come with your {{Account Type}} status!

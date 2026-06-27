@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do ii modify order {{Order Number}}
+
+Answer: We appreciate your inquiry to us with your request to modify order number {{Order Number}}. We're here to assist you in making the necessary changes. To modify your order, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Orders" section or "Order History."
+3. Locate the specific order that you want to modify.
+4. Click on the order details to access the specific items.
+5. Look for the "Modify" or "Edit" option next to each product you wish to make changes to.
+6. Select the "Modify" or "Edit" option and follow the prompts to make the desired modifications, such as changing quantity, size, or color.
+7. Once you have made the necessary changes, review your order to ensure everything is accurate.
+8. Proceed to the checkout page to finalize your modified order.
+
+If you encounter any difficulties or require further assistance during the modification process, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We appreciate your business and are committed to ensuring your satisfaction.

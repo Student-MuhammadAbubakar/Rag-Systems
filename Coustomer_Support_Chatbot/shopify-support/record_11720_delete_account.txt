@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe freemium account
+
+Answer: Thank you for bringing up the matter of closing your {{Account Category}} account. I want to assure you that I'm here to assist you with the necessary steps. To proceed with the account closure, I will need some specific details from you. Could you please provide me with your account username or any other information that can help me locate your account? This will enable me to guide you through the closure process and ensure a smooth experience for you.

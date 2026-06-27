@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i can no longer pay fororder {{Order Number}} cancel it
+
+Answer: I realized that you are facing financial difficulties and are unable to proceed with the payment for order {{Order Number}}. Don't worry, I'm here to help you cancel it. To initiate the cancellation process, please follow these steps:
+
+1. Sign into Your Account: Access our platform by logging into your {{Online Company Portal Info}}.
+2. Navigate to Your Orders: Once logged in, go to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Locate the Order: Look for the order associated with the purchase {{Order Number}} and click on it for more details.
+4. Initiate Cancellation: You should find an option labeled '{{Online Order Interaction}}' associated with your purchase. Please select this to proceed with the cancellation.
+5. Confirm Cancellation: The system might ask you to confirm your cancellation request. Please go ahead and provide the necessary confirmation.
+
+If you face any difficulties or have additional questions, our dedicated team is available to assist you. You can contact us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We understand the challenging situation and are here to support you every step of the way.

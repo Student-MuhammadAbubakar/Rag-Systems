@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: need to change order {{Order Number}}
+
+Answer: We appreciate your request to modify order number {{Order Number}}. We understand that sometimes changes are necessary to ensure a seamless shopping experience. To better assist you, could you please provide more details on the specific changes you would like to make? Whether it's updating the items, quantities, or delivery information, we're here to help accommodate your needs. Your satisfaction is our priority, so please don't hesitate to provide any additional information that will help us make the necessary adjustments to your order.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i want assistance getting the  bloody bill from {{Person Name}}
+
+Answer: Indeed! I completely understand your need for assistance in obtaining the bill from {{Salutation}} {{Client Last Name}}. Let me quickly check our system to retrieve the bill for you. I'll make sure to provide you with the necessary steps to access it. If you have any other questions or concerns, please feel free to let me know. I'm here to help!

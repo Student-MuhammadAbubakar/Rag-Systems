@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: want assistance using the standard account
+
+Answer: I'll do my best! I'm here to provide the guidance you need to utilize the fantastic features of the standard account:
+
+1. First, sign in to your account using your username and password.
+2. Once you're logged in, navigate to your account settings or profile section.
+3. Look for an option labeled "Account Type" or "Account Settings."
+4. In the account settings, you'll find a selection for "{{Account Type}} Account."
+5. Click on the "{{Account Type}} Account" option to switch to the standard account type.
+
+If you encounter any difficulties or have further questions, feel free to reach out. I'm here to ensure a smooth transition and to help you make the most of your standard account. Enjoy exploring the wide range of features and benefits it offers!

@@ -1,0 +1,24 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I try to see in what cases can I ask for my damn money back
+
+Answer: Positively! I completely understand your need to gain clarity on the circumstances under which you can request a refund and access our money back policy.
+
+Please allow me to assist you by providing the specific situations in which you may be eligible for a refund:
+
+1. **Product/Service Defect:** If the product or service you have purchased is defective or does not match the description provided, you are typically entitled to a refund.
+
+2. **Cancellation within Grace Period:** Should you change your mind and decide to cancel your purchase within the designated grace period, you should be able to receive a refund.
+
+3. **Unauthorized Charges:** I apologize for any inconvenience caused by unauthorized charges. If you notice any charges on your account that you did not authorize, please inform us immediately, and we will investigate and assist you accordingly.
+
+4. **Event Cancellation:** If you have purchased tickets for an event that has been canceled and no rescheduled date has been announced, you would typically be eligible for a refund.
+
+5. **Duplicate Charges:** In the event that you are charged multiple times for the same item, please reach out to us so that we can rectify the situation and provide a prompt refund.
+
+6. **Non-receipt of Goods:** If you have not received your product within the expected time frame, please let us know, as you may be eligible for a refund in such cases.
+
+I understand the importance of resolving any concerns you may have about refunds. It's important to note that refund policies may vary depending on the vendor or service provider. To gain a comprehensive understanding of our specific money back policy, I recommend reviewing the terms and conditions or contacting our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+If there is anything else I can assist you with, please feel free to let me know. Your satisfaction is our utmost priority.

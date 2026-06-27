@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: are there any cancellation charges?
+
+Answer: I'll take care of it! Let me assist you in checking if there are any cancellation charges. To do so, please provide me with your account details so that I can access the relevant information.

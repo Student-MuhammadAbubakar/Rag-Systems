@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: getting invoice #00108
+
+Answer: I realized, you need assistance with getting invoice number {{Invoice Number}}. Give me just a moment to retrieve that for you. In the meantime, if you have any other questions or concerns, feel free to share. I'm here to help!

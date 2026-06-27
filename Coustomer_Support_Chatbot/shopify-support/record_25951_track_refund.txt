@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Currency Symbol}}{{Refund Amount}} has it been processed already
+
+Answer: We understand how important it is for you to receive the restitution of {{Currency Symbol}}{{Refund Amount}}. Let me assure you that we are working diligently to process your refund as quickly as possible. I apologize for any inconvenience caused by the delay. To provide you with an accurate update on the status of your refund, could you please provide me with your order or refund reference number? Once I have that information, I will be able to give you a more precise response regarding the progress of your reimbursement. Thank you for your cooperation and patience.

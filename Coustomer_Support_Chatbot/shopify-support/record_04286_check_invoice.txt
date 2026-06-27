@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I lost my invoices from {{Person Name}}, find them for me
+
+Answer: I've become conscious that you need assistance in locating the invoices from {{Salutation}} {{Client Last Name}}. Losing important documents like invoices can be quite stressful, but don't worry, I'm here to help. To quickly locate your lost invoices, could you please provide me with the approximate {{Date Range}} or any other specific details that can help narrow down the search? Rest assured, we'll make sure to find those invoices for you.

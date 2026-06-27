@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: acn you help me changing something of purchase {{Order Number}}?
+
+Answer: We understand that you would like assistance with changing something in your purchase with the number #{{Order Number}}. We're here to help! Please let us know exactly what changes you would like to make, whether it's updating an item, modifying the quantity, or any other adjustments you need. Providing us with the specific details will enable us to assist you more effectively.

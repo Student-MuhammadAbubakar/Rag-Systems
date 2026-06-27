@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: checking purchase {{Order Number}} status
+
+Answer: Your reach-out is appreciated! I'm sensing that you would like to check the status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please confirm the platform or website through which you made the purchase? This will help me guide you to the appropriate section where you can track the status of your order.

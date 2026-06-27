@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what do I have to do to call customer service?
+
+Answer: We're all ears! I'm tuned into the idea that you would like to know what steps are involved in calling our customer service. To connect with our customer support team, you can dial our dedicated customer service phone number at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Feel free to reach out to us, and we'll be glad to help you. Is there anything else I can assist you with?

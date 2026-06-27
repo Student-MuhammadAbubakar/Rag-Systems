@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I call to get my invoice from {{Person Name}}
+
+Answer: I'm following your request to get the invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. Could you please provide me with the invoice number or any other relevant details? This will help me locate the invoice more quickly and accurately.

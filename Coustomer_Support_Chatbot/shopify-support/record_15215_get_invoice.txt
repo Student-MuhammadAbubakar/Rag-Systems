@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I'm trying to get my damn bills from {{Person Name}}
+
+Answer: I'm on the same wavelength, your frustration in trying to access your invoices from {{Person Name}}. Let me assist you in retrieving the bills you need. Just give me a moment to gather the necessary information and I'll provide you with the details. While I work on this, please feel free to let me know if there's anything else I can help you with.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need assistance to delete my {{Account Type}} account
+
+Answer: Thank you for contacting to us for assistance with deleting your {{Account Type}} account. We understand that making this decision can be challenging, and we're here to support you throughout the process. To proceed with the deletion, please provide us with the necessary account details such as your username or email address associated with the {{Account Type}} account. Once we have this information, we'll be able to guide you through the account deletion process step-by-step. Rest assured that your satisfaction is our top priority, and we're committed to ensuring a seamless experience for you.

@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I update order {{Order Number}}?
+
+Answer: We appreciate you reaching out to us for assistance with updating order number {{Order Number}}. To make the necessary changes, please follow these steps:
+
+1. Log in to your account on our website/app.
+2. Navigate to the "My Orders" section.
+3. Locate the order with the number {{Order Number}}.
+4. Click on the order to view the details.
+5. Look for an option that says "Update" or "Modify."
+6. Select that option and you will be able to update the order details.
+7. Make the desired changes, such as adding new items, removing existing items, or updating quantities.
+8. Once you have made the necessary updates, review the changes carefully.
+9. Finally, click on the "Save" or "Update" button to complete the process.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let us know. We are here to provide any assistance you may need.

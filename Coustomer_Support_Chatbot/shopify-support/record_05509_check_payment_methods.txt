@@ -1,0 +1,18 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I want help seeing what payment options are allowed
+
+Answer: Positively! I'm thrilled to assist you in exploring our permitted payment options. At our company, ensuring a seamless and convenient payment experience is one of our top priorities. Here's a glimpse of our approved payment methods:
+
+- **Credit/Debit Cards:** We accept all major credit and debit cards like Visa, Mastercard, and American Express.
+
+- **PayPal:** A globally recognized and secure online payment platform.
+
+- **Bank Transfers:** Conveniently transfer funds directly from your bank account.
+
+- **Mobile Payment Apps:** Use popular mobile payment apps like Apple Pay and Google Pay for swift and contactless transactions.
+
+- **E-wallets:** Explore digital wallets such as Samsung Pay and Alipay for added convenience.
+
+Please note that availability and acceptance of payment methods may vary depending on your location. If you need more information about a specific payment method or have any further questions, feel free to let me know. I'm here to ensure a smooth and satisfactory payment experience for you!

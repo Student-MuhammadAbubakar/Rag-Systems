@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updatikng data on {{Account Category}} account
+
+Answer: We sincerely appreciate your proactive approach in keeping the information on your {{Account Category}} account up to date. It's crucial to ensure that your account reflects the most accurate and relevant details. To proceed with updating the data, I recommend accessing the dedicated portal for {{Account Category}} account holders or contacting our customer support team directly. They will guide you through the process and ensure that all changes are handled securely. Remember, your account is unique, and we're here to provide personalized assistance every step of the way. How may I assist you further in updating your {{Account Category}} account?

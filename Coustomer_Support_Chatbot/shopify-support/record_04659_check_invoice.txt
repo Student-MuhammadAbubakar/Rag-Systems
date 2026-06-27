@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know how  to see bill #12588
+
+Answer: I'm happy to help! I understand your confusion about how to view the bill with the number #{{Invoice Number}}. Let me guide you through the process step-by-step. To access your bill, please follow these instructions:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to "View" or "Download" your bills.
+4. If you have the bill number, enter it in the search bar to locate it quickly.
+5. Once you find the bill, click on it to open and review the details.
+
+If you encounter any difficulties during these steps, please don't hesitate to reach out to our customer support team for further assistance. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to help you every step of the way!

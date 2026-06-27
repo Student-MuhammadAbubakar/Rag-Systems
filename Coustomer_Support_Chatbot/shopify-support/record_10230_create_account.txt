@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I am not registered, how to open a pro account with you?
+
+Answer: Thank you for expressing your interest in opening a {{Account Type}} account with us! I'm thrilled to guide you through the process and help you make the most out of our exclusive features and services. To get started, let's gather a few key details from you. Could you please provide your full name, email address, and a preferred username? With these essential details, we'll proceed to create your {{Account Type}} account, ensuring a seamless experience every step of the way. Rest assured that your privacy and security are our top priorities, so you can confidently entrust us with your information. Feel free to ask any questions you might have during the process, as I'm here to assist and provide the support you need. How do you feel about embarking on this exciting journey with us?

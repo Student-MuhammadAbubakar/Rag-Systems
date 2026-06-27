@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help to get in touch with customer service
+
+Answer: Glad you contacted us! I'm clearly cognizant that you need assistance in getting in touch with our customer service team. Rest assured, I'm here to help you with that. You can reach our customer service by calling {{Customer Support Phone Number}} or by sending an email to {{Customer Support Email}}. Our team is highly committed to providing timely and helpful support for any inquiries or concerns you may have. Feel free to reach out to them, and they will be more than happy to assist you. Is there anything else I can assist you with?

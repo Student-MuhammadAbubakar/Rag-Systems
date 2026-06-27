@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: the shipping address has changed, can you correct it?
+
+Answer: I'll take care of it! To correct a changed shipping address, please contact our customer service team either through our website or by calling our helpline. They will assist you in updating the shipping address and ensuring a smooth delivery process.

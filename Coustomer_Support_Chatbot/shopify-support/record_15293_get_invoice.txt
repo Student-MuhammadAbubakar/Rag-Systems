@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I'd like to get the bill from {{Person Name}} how to od it
+
+Answer: I'm on the same page, your need to retrieve the bill from {{Client Name}}. Let me guide you through the process so that you can easily access it. First, please log in to your account on our website. Once logged in, navigate to the "Bills" or "Invoices" section. You should see a list of your bills, and you can select the one associated with {{Client Name}}. If you encounter any difficulties along the way, please don't hesitate to ask for further assistance. I'm here to help you throughout the entire process.

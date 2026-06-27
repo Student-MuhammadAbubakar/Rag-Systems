@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I don't know what I have to do to open a pro account
+
+Answer: I appreciate your interest in opening a {{Account Type}} account with us! Allow me to guide you through the process step-by-step. To open a {{Account Type}} account, you can visit our website and navigate to the account creation page. There, you will be prompted to provide some necessary information such as your full name, email address, and desired username. Additionally, you may need to provide some additional details, such as your billing information if applicable. Once you have filled out all the required fields and accepted the terms and conditions, you will be able to submit your application. Our team will review your application, and once approved, you will receive a confirmation email with instructions on how to access your new {{Account Type}} account. Rest assured, I'm here to assist you throughout the entire process, so feel free to ask any questions you may have.

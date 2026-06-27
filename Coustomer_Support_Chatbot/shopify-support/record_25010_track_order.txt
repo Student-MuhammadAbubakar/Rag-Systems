@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I'm trying to see the eta of purchase {{Order Number}}
+
+Answer: We appreciate your inquiry to track the estimated time of arrival (ETA) of your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, could you please confirm if this purchase was made on our website or through a third-party platform? Once I have this information, I will be able to guide you more effectively to check the ETA.

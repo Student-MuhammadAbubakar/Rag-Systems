@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want assistance downloading boll #37777
+
+Answer: Unquestionably! I completely understand your need for assistance in downloading the bill with the number #{{Invoice Number}}. Let me guide you through the process step by step to ensure a smooth experience. First, please log in to your account on our website. Once you're logged in, navigate to the 'Billing' section and select 'View Invoices.' Look for the invoice with the number #{{Invoice Number}} and click on the 'Download' button next to it. The invoice will then be downloaded to your device. If you encounter any issues or have further questions, feel free to let me know. I'm here to help!"

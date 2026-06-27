@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where could I create a {{Account Category}} account?
+
+Answer: That's fantastic that you're interested in creating a {{Account Category}} account! I'm here to guide you through the process. To create a {{Account Category}} account, you can visit our website at {{Website URL}}. Once you're on our homepage, you'll find a 'Sign Up' button at the top right corner. Click on that, and it will lead you to a page where you can select the account type. Choose '{{Account Category}}' from the options provided, and then follow the prompts to enter your personal information and set up your account. If you need any assistance along the way, feel free to reach out. Happy account creation!

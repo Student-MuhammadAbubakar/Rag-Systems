@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to swap a product of order {{Order Number}}?
+
+Answer: I've grasped that you're looking for assistance in swapping a product in your order with the number {{Order Number}}. We appreciate your concern, and we're here to help. To initiate the product swap process, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Navigate to your order history or account settings section.
+3. Locate the order with the number {{Order Number}} and click on it.
+4. Look for the "Swap Product" or "Exchange" option and select it.
+5. Follow the on-screen instructions to choose the new product you want to swap and complete the process.
+
+If you encounter any difficulties or have any further questions, please don't hesitate to reach out to our customer support team. We're available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're committed to ensuring your satisfaction and will be happy to assist you throughout the entire swapping process.

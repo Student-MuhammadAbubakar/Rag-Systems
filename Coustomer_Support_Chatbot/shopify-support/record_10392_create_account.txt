@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I cannot create a {{Account Category}} account
+
+Answer: I understand your concern about not being able to create a {{Account Category}} account. Allow me to assist you in resolving this issue. Could you please provide me with more information about the problem you encountered? By understanding the specific challenges you faced, I'll be able to provide you with the appropriate guidance and support. Your satisfaction is my priority, and together we'll work towards finding a solution that meets your needs.

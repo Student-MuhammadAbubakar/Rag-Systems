@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: where can I find information about {{Account Type}} account terminations?
+
+Answer: We're here to help regarding information about {{Account Type}} account terminations. I understand that you're seeking guidance on where to find the relevant details. You can visit our website's Help Center or FAQ section, where you'll find comprehensive information about terminating your {{Account Type}} account. You can also reach out to our customer support team through live chat or phone for personalized assistance. We want to ensure that you have all the information you need to make an informed decision about terminating your {{Account Type}} account.

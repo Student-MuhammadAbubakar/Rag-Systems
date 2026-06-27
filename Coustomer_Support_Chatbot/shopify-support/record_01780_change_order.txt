@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how could I add several products to order {{Order Number}}?
+
+Answer: We appreciate your inquiry regarding adding several products to your order with number {{Order Number}}. To help you with this, please let us know the specific products you would like to add. Providing us with the names or codes of the items will assist us in ensuring a smooth and accurate update to your order. We're here to assist you in making any necessary modifications to your order to best meet your needs and preferences.

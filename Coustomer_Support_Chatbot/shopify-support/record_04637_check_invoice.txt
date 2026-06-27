@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see invoice from {{Person Name}}
+
+Answer: Absolutely! I understand that you would like to view the invoice from {{Salutation}} {{Client Last Name}}. To assist you with this, I recommend accessing your account on our website. Once logged in, navigate to the "Invoices" section, where you should be able to view and download the invoice associated with {{Person Name}}. If you encounter any difficulties or need further assistance, please don't hesitate to let me know.

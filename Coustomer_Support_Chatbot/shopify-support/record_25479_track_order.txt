@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i cant see the status of order {{Order Number}}
+
+Answer: Always good to connect! I'm attuned to the fact that you're having trouble viewing the status of order number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide me with more details or let me know what steps you have already taken to check the order status? This will help me better understand the issue and provide you with the most accurate guidance.

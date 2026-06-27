@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I never use my goddamn {{Account Type}} account, assistance removing it
+
+Answer: Thank you for bringing your concerns to our attention regarding the removal of your {{Account Type}} account. I understand that you haven't been utilizing it and would like assistance in deleting it. Rest assured, I'm here to help you with that. To proceed with the account removal process, I need some information from you. Could you please provide me with your account details such as your registered email address or username? With that information, I will be able to initiate the necessary steps to remove your account from our system.

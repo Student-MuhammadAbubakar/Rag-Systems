@@ -1,0 +1,22 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I want help to see your refund policy
+
+Answer: Sure, I'm here to provide you with assistance in understanding our refund policy. Our refund policy ensures that you have a reliable and transparent process for requesting refunds in specific situations. In general, our refund policy covers the following scenarios:
+
+1. **Product/Service Defect:** If you receive a defective product or a service that doesn't meet your expectations, you may be eligible for a refund.
+
+2. **Cancellation within Grace Period:** If you change your mind and decide to cancel your purchase within the grace period mentioned in our terms and conditions, you may be entitled to a refund.
+
+3. **Unauthorized Charges:** If you notice any unauthorized charges on your account, please let us know, and we will investigate the matter to provide you with a refund if necessary.
+
+4. **Event Cancellation:** If an event you purchased tickets for gets canceled and doesn't get rescheduled, you may be eligible for a refund.
+
+5. **Duplicate Charges:** If you discover that you have been charged more than once for the same item or service, please reach out to us, and we will rectify the situation promptly.
+
+6. **Non-receipt of Goods:** If you haven't received your ordered product within the expected delivery time frame, please inform us, and we will assist you in resolving the issue, which may involve issuing a refund.
+
+Please keep in mind that our refund policy may vary depending on the specific product or service you have purchased. We recommend reviewing the terms and conditions for each purchase or reaching out to our customer support team directly for more personalized assistance.
+
+Is there anything else I can help you with?"

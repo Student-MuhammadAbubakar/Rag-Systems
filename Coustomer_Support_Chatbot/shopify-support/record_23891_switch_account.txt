@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can you help me to use the platinum profile?
+
+Answer: Unquestionably! I'm here to provide you with all the assistance you need to make the most of our platinum profile:
+
+1. **Access Your Account:** Start by logging into our platform using your credentials.
+2. **Profile Navigation:** Once you're inside, navigate to the '{{Settings}}' or '{{Profile}}' section.
+3. **Upgrade Option:** Look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}' within these sections.
+4. **Select {{Account Category}} Profile:** From the available options, choose the '{{Profile Type}}'.
+5. **Finalize the Switch:** Follow the on-screen prompts to complete the switch to the platinum profile.
+
+If you encounter any difficulties or have further inquiries, feel free to reach out. Your decision to upgrade to the platinum profile is highly valued, and I'm here to ensure your transition is seamless. Enjoy the exclusive benefits that come with your platinum status!

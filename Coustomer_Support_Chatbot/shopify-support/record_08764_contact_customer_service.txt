@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do youhave an e-mail address to contact customer service?
+
+Answer: Your message means a lot! I'm aligned with the idea that you would like to know if we have an e-mail address to contact our customer service. Yes, we do have an e-mail address for customer service. You can reach out to us at {{Customer Service Email Address}}. Our team is ready to assist you with any inquiries or concerns you may have. Feel free to connect with us via e-mail, and we'll be happy to help you. Is there anything else I can assist you with?

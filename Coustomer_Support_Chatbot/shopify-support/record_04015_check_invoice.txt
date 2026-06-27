@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I want assistance to see my invoices from {{Person Name}}
+
+Answer: I'll take care of it! I understand your request to see your invoices from {{Salutation}} {{Client Last Name}}. To assist you, we can guide you through our online portal where you can easily access and view your invoices. Alternatively, if you prefer, I can send you a digital copy of your invoices via email. Please let me know which option works best for you, and I'll be more than happy to proceed with the next steps!

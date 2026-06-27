@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need a user
+
+Answer: That's great! I'm here to help you create a new user. To get started, could you please provide me with some basic information such as the user's full name, email address, and a preferred username? Once I have these details, I can assist you in setting up the user account. Rest assured, the information you provide will be kept confidential and secure.

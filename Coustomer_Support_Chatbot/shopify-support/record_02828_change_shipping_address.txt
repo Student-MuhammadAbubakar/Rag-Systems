@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I need support trying to modify my address
+
+Answer: Sure! We are here to assist you with modifying your address. To begin, please provide us with your order number and the updated address you would like to use.

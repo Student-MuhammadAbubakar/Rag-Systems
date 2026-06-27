@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating {{Refund Amount}} dollars
+
+Answer: I acknowledge that you're seeking assistance with rebating ${{Refund Amount}}, and I'm here to help you with that. I apologize for any inconvenience caused by the need for a refund. To ensure a smooth and efficient process, could you please provide more details about the transaction? This will enable me to guide you through the necessary steps and ensure the refund is processed accurately and promptly. Your satisfaction is of utmost importance, and I will do my best to assist you in resolving this matter.

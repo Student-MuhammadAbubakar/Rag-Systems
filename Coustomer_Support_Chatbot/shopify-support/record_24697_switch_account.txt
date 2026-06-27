@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use {{Account Type}} acdcount
+
+Answer: Assuredly! I understand your interest in utilizing our {{Account Type}} account. Allow me to provide you with the necessary guidance to get started:
+
+1. Access Your Account: Begin by logging into our platform using your credentials.
+2. Profile Settings: Navigate to your account settings or profile section.
+3. Upgrade Option: Look for the option labeled "{{Upgrade Account}}" or "{{Account Change}}".
+4. Select {{Account Type}} Account: Choose the "{{Account Type}}" option from the available list.
+5. Finalize the Upgrade: Follow the on-screen prompts to complete the upgrade process.
+
+Should you encounter any difficulty during the process or have any additional questions, feel free to reach out. We're here to ensure a seamless transition and provide you with an exceptional {{Account Type}} account experience. Enjoy the exclusive benefits that come with your {{Account Type}} account!

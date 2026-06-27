@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I put my old address by mistake, modify it
+
+Answer: I apologize for the inconvenience caused. Could you please provide me with your new shipping address so that I can update it for you?

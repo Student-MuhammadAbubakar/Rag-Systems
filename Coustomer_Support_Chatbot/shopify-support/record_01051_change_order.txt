@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: change_order
+
+Question: help adding some items to purchase {{Order Number}}
+
+Answer: We understand that you need assistance in adding items to purchase number #{{Order Number}}. We're here to help! To add items to your purchase, you can follow these steps:
+- Go to your account and navigate to the "Orders" section.
+- Locate purchase number #{{Order Number}} and click on it.
+- Look for the option to "Add items" or "Edit items" and click on it.
+- Select the items you want to add to your purchase from the available options.
+- Once you've made your selections, proceed to the checkout and complete your purchase.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let us know. We want to make sure you have a seamless experience while adding items to your purchase. Your satisfaction is our top priority!

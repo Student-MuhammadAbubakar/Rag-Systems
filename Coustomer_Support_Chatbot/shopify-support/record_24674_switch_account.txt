@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me to use the premium account
+
+Answer: I'll make it happen! I'm excited to assist you in maximizing the incredible benefits that come with our {{Account Category}} account. Here's how you can make the most of it:
+
+1. **Access Your Account**: Start by logging into your account on our platform.
+2. **{{Account Category}} Features**: Once you're in, navigate to the section that displays all the features and options specific to the {{Account Category}} account.
+3. **Feature Exploration**: Take some time to explore the amazing resources and perks that are available exclusively to our {{Account Category}} members. This may include advanced filters, personalized recommendations, ad-free experience, and much more.
+4. **User Guides**: In case you need more detailed information on how to use any specific feature, feel free to refer to the user guides and tutorials provided on our website or in your account settings.
+5. **Expert Support**: If you have any questions or need further assistance, our dedicated support team is always here to help. You can reach out to them through our in-app messaging system or via email, and they'll be more than happy to address any queries you may have.
+
+Enjoy utilizing the {{Account Category}} account to its fullest and don't hesitate to reach out if you need anything else. We're grateful for your decision to upgrade, and we're committed to making your experience extraordinary.

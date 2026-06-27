@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how can i get information about creating a {{Account Type}} account
+
+Answer: Thank you for your interest in creating a {{Account Type}} account with us! I'm here to provide you with all the information you need. To get started, you can visit our website where you will find detailed instructions on how to create a {{Account Type}} account. Additionally, you can reach out to our customer support team through the Live Chat on our website or call our customer support line at {{Customer Support Phone Number}}. They will be more than happy to guide you through the account creation process, answer any questions you may have, and provide any necessary support along the way. We want to make creating a {{Account Type}} account as seamless and convenient as possible for you, so please don't hesitate to reach out for assistance.

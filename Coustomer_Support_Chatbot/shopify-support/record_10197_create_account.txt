@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new {{Account Type}} acount for wife
+
+Answer: We appreciate your decision to create a new {{Account Type}} account for your wife! It's great to see you taking advantage of our premium features and benefits. To proceed, could you please provide us with your wife's full name, email address, and a preferred username? Rest assured that we prioritize security and privacy, and all personal information will be treated with the utmost care. Once we have these details, we will guide you through the process, ensuring a smooth and effortless account creation experience. How does that sound to you?

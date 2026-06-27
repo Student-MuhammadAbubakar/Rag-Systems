@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to update order {{Order Number}}, how to do it?
+
+Answer: We're here for you to us regarding your need to update order number {{Order Number}}. We appreciate your proactive approach in ensuring your order is accurate and up to date. To assist you with this, I recommend contacting our customer support team directly. They will provide you with the necessary instructions and guidance on how to update your order. Our dedicated team is available {{Customer Support Hours}} and can be reached at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any changes you need to make to your order.

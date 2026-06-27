@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i have got ot use the freemium account how could i do it
+
+Answer: I appreciate your interest in using the {{Account Category}} account. Allow me to guide you through the process:
+
+1. Sign in: Start by logging into your account on our platform.
+2. Navigate to Account Settings: Once logged in, proceed to the "{{Settings}}" section on the website.
+3. Switch Account Type: Look for an option labeled "{{Account Change}}" or "{{Upgrade Account}}".
+4. Select {{Account Category}} Account: Choose the "{{Account Type}}" option from the available choices.
+5. Confirmation and Settings: Follow the prompts to complete the switch and customize your settings.
+
+If you encounter any difficulties or have any further questions, please don't hesitate to reach out. We're here to assist you every step of the way. Enjoy the benefits of your new {{Account Category}} account!

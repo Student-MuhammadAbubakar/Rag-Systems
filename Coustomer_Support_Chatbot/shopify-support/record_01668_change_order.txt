@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I change an article of purchase {{Order Number}}?
+
+Answer: We understand that you are looking to change an article from purchase number {{Order Number}}. Your satisfaction is our priority, and we are here to assist you. To better understand your request, could you please provide details about the article you would like to change and the desired replacement? This information will help us process your request accurately and ensure a seamless shopping experience for you.

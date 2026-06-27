@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating {{Refund Amount}} dollars
+
+Answer: I grasp your situation and the need to request a rebate of {{Refund Amount}} dollars. I assure you that I will do my best to assist you with this. To begin the process, could you kindly provide me with some more details regarding the transaction or purchase for which you are seeking the rebate? This information will enable me to guide you through the necessary steps and ensure a smooth resolution. Thank you for reaching out to us, and rest assured, we are committed to resolving this matter promptly for you.

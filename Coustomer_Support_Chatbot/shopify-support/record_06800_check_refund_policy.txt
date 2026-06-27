@@ -1,0 +1,19 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need to see your reimbursement policy, how do I do it?
+
+Answer: Of course! I completely understand your request to view our reimbursement policy. Allow me to guide you on where to find it.
+
+To access our reimbursement policy, you can follow these simple steps:
+
+1. Visit our company website at {{Website URL}}.
+2. Navigate to the 'Customer Support' or 'Help' section.
+3. Look for a tab or link labeled 'Refund Policy' or 'Reimbursement Policy'.
+4. Click on the tab or link to open the reimbursement policy document.
+
+Once you've accessed the reimbursement policy, you'll have comprehensive information about the cases in which you can request reimbursements, the process to follow, and any specific requirements or conditions.
+
+Should you have any specific questions or concerns regarding our reimbursement policy or need further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website.
+
+I hope this helps! Let me know if there's anything else I can assist you with.

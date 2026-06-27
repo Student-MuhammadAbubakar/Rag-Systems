@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: would it be possible to cancel a {{Account Category}} account?
+
+Answer: Thank you for getting in touch about canceling your {{Account Category}} account. We understand that circumstances may change, and we're here to assist you with the cancellation process. To proceed with cancelation, we kindly ask you to provide us with some additional information to verify your account. Once we have confirmed your details, we will guide you through the necessary steps to cancel your {{Account Category}} account. Your satisfaction is of utmost importance to us, and we appreciate your understanding and cooperation during this process.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refunding {{Refund Amount}}  dollars
+
+Answer: I acknowledge that you are seeking a refund of ${{Refund Amount}}, and I'm here to assist you with this process. To initiate the refund, you can follow the steps outlined on our website. Alternatively, you can reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}}, for personalized assistance in processing your refund request. Rest assured, we aim to make this process as seamless as possible, ensuring that you receive the refund you are entitled to in a timely manner.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe {{Account Type}} account
+
+Answer: Happy to get your message about closing your {{Account Type}} account. I understand that you want to cancel your {{Account Type}} account, and I'm here to assist you with that. To proceed with the account closure, I kindly request you to provide me with some additional information such as your account username or email address associated with the {{Account Type}} account. This will help me locate your account and initiate the necessary steps for the closure process. Once I have the required information, I will ensure that your {{Account Type}} account is closed successfully.

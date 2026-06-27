@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I am trying to hcange some articles of purchase {{Order Number}}
+
+Answer: Thank you for trusting to us regarding your request to change some articles in purchase number {{Order Number}}. We understand that it's crucial for you to have the products you desire. To assist you with this, could you kindly provide us with the specific articles you would like to change? By providing us with the details, we can promptly check the availability of the new articles and guide you through the necessary steps to make the desired modifications. We appreciate your patience and cooperation in this matter.

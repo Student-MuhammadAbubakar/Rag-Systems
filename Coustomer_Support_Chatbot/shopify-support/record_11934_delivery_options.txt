@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I place an order from {{Delivery City}}?
+
+Answer: Greetings from {{Delivery City}}! It's wonderful to hear that you're interested in placing an order with us. You'll be delighted to know that we offer delivery options to {{Delivery City}} and various other locations. Whether you're browsing our website, using our mobile app, or reaching out to our customer service team, you can easily place an order and have it delivered to your doorstep in {{Delivery City}}. Let me assure you that we prioritize your satisfaction and will do everything we can to ensure a smooth and timely delivery. If you have any specific questions about the order process or need assistance with anything else, feel free to let me know. I'm here to provide the guidance you need, every step of the way!

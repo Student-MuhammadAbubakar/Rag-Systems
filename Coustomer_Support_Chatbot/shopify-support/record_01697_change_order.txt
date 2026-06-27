@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot update purchase {{Order Number}}
+
+Answer: I understand the frustration you're experiencing with updating purchase number {{Order Number}}. Our team is committed to assisting you with resolving this issue. To better assist you, could you please provide more details about the specific update you would like to make? This will allow us to take the appropriate steps to help you with your request.

@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I do not know how I can locate my bills from {{Person Name}}
+
+Answer: I'm not mistaken your confusion about locating your bills from {{Salutation}} {{Client Last Name}}. Let me assure you, I'm here to help you with that. To locate your bills, you can try the following steps:
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for a filter option to search by name or date range.
+4. Enter the name "{{Person Name}}" or select the relevant date range.
+5. Click on the search or submit button to retrieve the list of bills associated with {{Person Name}}.
+
+If you are still unable to locate your bills, please provide me with more specific information or contact our customer support team, who will be happy to assist you further. Remember, we're always here to make things easier for you, and we're confident that together, we can find a solution.

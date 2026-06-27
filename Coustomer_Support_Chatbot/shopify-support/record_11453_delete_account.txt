@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with a pro account removal
+
+Answer: I apologize for any inconvenience you may be facing while trying to remove your {{Account Type}} account. Your satisfaction is of the utmost importance to us, and I'm here to assist you. Can you please provide me with more details about the issue you are experiencing? Understanding the specific problem will allow us to provide you with a suitable solution and ensure a smooth account removal process.

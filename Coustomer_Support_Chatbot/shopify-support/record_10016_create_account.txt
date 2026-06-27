@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where to open a {{Account Category}} account?
+
+Answer: Thank you for your interest in opening a {{Account Category}} account! We have several convenient options available for you to open your account. You can visit our website at {{Website URL}}, where you'll find a dedicated page for account opening. Alternatively, you can also visit any of our local branches near you. Our friendly staff will be more than happy to assist you with the account opening process. Let me know if there's anything else I can help you with!

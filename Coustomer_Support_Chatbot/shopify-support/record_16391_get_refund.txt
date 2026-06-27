@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimburse {{Refund Amount}} dollar
+
+Answer: I'm clearly cognizant your need to be reimbursed for the amount of ${{Refund Amount}}. Your request for a refund is important to us, and we are committed to addressing it promptly. To initiate the reimbursement process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and ensure that your request is processed efficiently. Rest assured, we value your satisfaction and will work diligently to resolve this matter to your utmost satisfaction.

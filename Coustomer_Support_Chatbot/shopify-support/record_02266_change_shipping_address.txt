@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: tell me about modifying  my address
+
+Answer: Of course! If you need to modify your address, please contact our customer service team. They will assist you in updating your delivery address to ensure your package is sent to the correct location.

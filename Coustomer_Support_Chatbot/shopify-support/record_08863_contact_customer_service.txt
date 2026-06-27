@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to talk to bloody customer support, I need help
+
+Answer: Glad you got in touch to us! I understand that you're feeling frustrated and in need of assistance from our customer support team. We are here to help you resolve any issues or concerns you may have. Our dedicated customer service team is available to assist you during {{Customer Support Hours}}. Please let me know how I can help you further.

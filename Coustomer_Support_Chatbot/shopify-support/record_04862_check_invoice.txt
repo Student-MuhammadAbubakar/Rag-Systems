@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check invoice from last purchase
+
+Answer: I understand your desire to retrieve the invoice from your most recent purchase. It's important to have those documents for your records. To assist you better, could you please provide me with the order number or any additional details related to your last purchase? With this information at hand, I'll be able to locate the exact invoice you're looking for and guide you accordingly.

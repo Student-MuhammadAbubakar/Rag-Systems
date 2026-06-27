@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: cnange info on standard account
+
+Answer: How fascinating it is to embark on this transformative journey of changing the information on your esteemed {{Account Type}} account!I am here to offer my unwavering support and guidance, ensuring that your account details accurately reflect your {{Account Type}} membership status and cater to your evolving preferences and needs. It's crucial to keep in mind that for your security, it's best not to disclose any personal or sensitive data here. If the changes you wish to make involve sensitive information, I recommend logging into our secure {{Online Company Portal Info}} or getting in touch with our dedicated customer support team who will be more than happy to assist you. Now, please share with me the specific details you would like to modify, and we will navigate through this process together.

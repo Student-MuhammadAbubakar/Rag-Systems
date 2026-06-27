@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: want assistance seeing bill #37777
+
+Answer: Grateful you reached out to us for assistance with viewing the bill with the number #{{Invoice Number}}. I understand how important it is to access your invoice and I'm here to help. To assist you accurately, could you please provide me with some additional information? Specifically, I would need the account holder's name associated with the bill and any relevant dates or details related to the billing period. Once I have these details, I'll be able to guide you through the process of accessing your bill. Rest assured, I'm committed to ensuring that your experience with us is smooth and satisfactory.

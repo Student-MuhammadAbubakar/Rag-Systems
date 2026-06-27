@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help to get my invoices from {{Person Name}}
+
+Answer: I understand your need to access invoices from {{Person Name}}. To assist you with that, could you please provide me with {{Person Name}}'s account details or any specific information related to these invoices? This will help me retrieve the relevant invoices for you quickly and accurately. Thank you for your cooperation!

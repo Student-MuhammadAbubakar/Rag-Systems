@@ -1,0 +1,12 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what to do to close my freemium account
+
+Answer: I've become conscious that you're unsure about the process of closing your {{Account Category}} account. Don't worry, I'm here to assist you every step of the way. To close your account, you can follow these simple steps: 
+1. Log in to your account on our website or app.
+2. Navigate to the account settings or profile settings section.
+3. Look for the "Close Account" or "Delete Account" option.
+4. Click on it and follow the instructions provided.
+5. Make sure to carefully review any warnings or consequences associated with closing your account.
+If you have any specific questions or encounter any difficulties during the process, please let me know. I'm here to ensure a seamless account closure experience for you.

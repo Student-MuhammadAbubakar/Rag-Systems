@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I change some products of order {{Order Number}}?
+
+Answer: We understand that you would like to change some products in your order with number {{Order Number}}. Rest assured, we are here to assist you with that. To make changes to your order, you can follow these steps:
+
+1. Visit our website and log into your account.
+2. Navigate to the "Orders" section or "Order History".
+3. Locate the order with number {{Order Number}} and click on it.
+4. Look for the option to modify or edit the items in your order.
+5. Click on that option and you'll be able to select the products you wish to change.
+6. Once you have selected the products, choose the appropriate action, such as "Remove" or "Replace".
+7. Follow the on-screen prompts to complete the process and save your changes.
+8. Review your order summary to ensure the modifications are accurate.
+9. If you have any difficulties or questions during the process, our customer support team is available to assist you further.
+
+We hope this information helps! If you need any further guidance or have any other concerns, please don't hesitate to reach out to us. Your satisfaction is our top priority.

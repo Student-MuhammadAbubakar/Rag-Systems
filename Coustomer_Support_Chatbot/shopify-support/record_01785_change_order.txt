@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I can't delete an article from order {{Order Number}}
+
+Answer: I've understood that you're having difficulty deleting an article from order {{Order Number}}. I apologize for the inconvenience this has caused you. To better assist you, could you please provide me with more details about the specific article you're trying to delete? Additionally, if there are any error messages or steps you've already taken, please let me know. We'll work together to find a solution and ensure your satisfaction.

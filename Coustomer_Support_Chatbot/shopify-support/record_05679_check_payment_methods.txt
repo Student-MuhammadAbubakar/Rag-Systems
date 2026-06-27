@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I try to list the payment options
+
+Answer: It's wonderful to see your enthusiasm for exploring our payment options! To provide you with an accurate list of the available payment methods, I would need a bit more information. Could you please let me know which country you are located in? This will help me tailor the list specifically to your region and ensure that you have access to the most relevant payment options. Thank you for your cooperation, and I look forward to assisting you further!

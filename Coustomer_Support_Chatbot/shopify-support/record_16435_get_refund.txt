@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating  {{Refund Amount}} dollars
+
+Answer: I've deduced from your message that you would like to receive a rebate of ${{Refund Amount}}. I apologize for any inconvenience you may have experienced in regard to this matter. To assist you further, could you please provide me with some additional details about the situation? Specifically, I would like to know the reason for the rebate request and any relevant order or transaction numbers. This information will enable me to better understand your situation and provide you with the appropriate guidance for resolving the issue. Thank you for your cooperation, and I look forward to assisting you in resolving this matter promptly.

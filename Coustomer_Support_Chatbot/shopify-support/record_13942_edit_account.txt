@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: change information on pro account
+
+Answer: We appreciate your proactive approach in wanting to change the information on your {{Account Type}} account. Your dedication to keeping your account up-to-date and tailored to your needs is commendable! To assist you with this, I recommend logging into your {{Account Type}} account on our {{Online Company Portal Info}}. There, you'll have full control over editing your account information, such as contact details, billing information, and preferences. If you encounter any difficulties or have any questions, our dedicated customer support team is available to provide personalized guidance. Just reach out and they'll be more than happy to assist you throughout the process.

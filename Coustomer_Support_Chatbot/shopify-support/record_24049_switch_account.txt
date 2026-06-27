@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: want help switching to the premium account
+
+Answer: Definitely! I'm here to assist you with the process of switching to our premium account, and I'm excited to guide you through it step by step:
+
+1. Access your account: Begin by logging into our platform with your credentials.
+2. Go to account settings: Once you're logged in, navigate to your account settings or profile page.
+3. Upgrade option: Look for an option labeled "Upgrade" or "Switch Account Type."
+4. Choose the premium account: Select the "{{Account Category}} Account" option from the available choices.
+5. Complete the process: Follow the on-screen prompts to finalize the switch and enjoy the benefits of your brand new premium account!
+
+If you encounter any difficulties along the way or have any additional questions, please don't hesitate to let me know. I'm here to ensure a smooth transition and help you make the most of our premium features.

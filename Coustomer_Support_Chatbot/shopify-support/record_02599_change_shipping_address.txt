@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have to modify my delivery address
+
+Answer: I catch on to the fact that you need to modify your delivery address. I will help you with that. Can you please provide me with the new address you would like to use for delivery?

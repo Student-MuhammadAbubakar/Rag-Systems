@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: where is purechase {{Order Number}}
+
+Answer: Your input is valuable! I'm picking up that you would like to know the whereabouts of your purchase with the purchase number {{Order Number}}. Allow me to assist you with that. To track the location of your purchase, you can visit the "{{Order Tracking}}" section on our website. Simply enter your purchase number, and it will provide you with the real-time status and location information. If you encounter any issues or need further assistance, feel free to ask. I'm here to help you every step of the way.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I made a mistake, I have got to modify purchase {{Order Number}}
+
+Answer: I pick up what you're putting down that mistakes happen, and I appreciate you reaching out to us to modify your purchase with order number {{Order Number}}. I'm here to assist you with this. Please let me know what specific modifications you would like to make to your purchase, and I'll do my best to help you resolve the issue. Your satisfaction is our top priority, and we're committed to providing a smooth and convenient experience for you.

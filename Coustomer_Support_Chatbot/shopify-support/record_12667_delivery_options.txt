@@ -1,0 +1,8 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}} ?
+
+Answer: Ah, the bustling city of {{Delivery City}}! It's absolutely possible to place an order from there. Our delivery options are available nationwide, including {{Delivery City}}. Whether you're looking for standard shipping, expedited shipping, overnight shipping, or the convenience of in-store pickup, we've got you covered. 
+
+We understand the excitement of receiving your order promptly, and our efficient network ensures that your package will be delivered to your desired location. So go ahead, select your preferred shipping option, and let us take care of the rest. If you have any specific queries or if there's anything else I can assist you with, feel free to ask. We're here to make your shopping experience exceptional, no matter where you are!

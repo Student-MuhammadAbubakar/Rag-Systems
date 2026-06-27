@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: mail me my invoice from {{Person Name}}
+
+Answer: I've understood, you would like to receive your invoice from {{Client Name}}. Just to confirm, could you please provide me with the email address where you would like us to send the invoice? Once I have that information, I will make sure that your invoice is sent to you promptly.

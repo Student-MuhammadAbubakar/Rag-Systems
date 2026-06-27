@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I am trying to get reimbursements of my money
+
+Answer: I get that you are currently seeking reimbursements for your money. I apologize for any inconvenience or frustration this may have caused. To assist you further with this matter, I kindly request you to provide me with some additional information regarding the nature of your reimbursement request. Specifically, if you could specify the transaction or purchase for which you are seeking reimbursement, it would greatly aid in expediting the process and ensuring that we address your concern accurately. Your satisfaction is our utmost priority, and I am here to guide you through the necessary steps to obtain the reimbursements you are entitled to.

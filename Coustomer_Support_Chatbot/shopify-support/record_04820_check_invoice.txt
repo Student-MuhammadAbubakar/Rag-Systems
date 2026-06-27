@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i do not know how i can find bill #00108
+
+Answer: Indeed! I understand your uncertainty about locating the bill with number #{{Invoice Number}}. Let me guide you through the process step by step. First, you can try accessing your account dashboard on our website. From there, navigate to the "Billing" or "Invoices" section. Look for options like "View Bill" or "Download Invoice" and click on them. If you're unable to find the bill using this method, our customer support team is available to assist you further. You can reach them by calling {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you track down your invoice and provide any necessary information. Don't worry, we're here to make sure you have all the details you need!

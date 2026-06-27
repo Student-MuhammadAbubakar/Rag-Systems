@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I'm trying to check what payment options are available
+
+Answer: Thank you for reaching out! I completely understand your curiosity about our payment options. Let me provide you with all the information you need. We offer a wide range of convenient payment methods to cater to your preferences. Here are some of the allowed payment options available:
+
+- **Credit/Debit Card:** You can securely use major card brands like Visa, Mastercard, and American Express for swift transactions.
+- **PayPal:** A widely recognized and trusted online payment platform that ensures both security and convenience.
+- **Bank Transfer:** Easily transfer funds from your bank account to make seamless payments.
+- **Digital Wallets:** Our system accepts popular digital wallets like Apple Pay and Google Pay for quick and hassle-free transactions.
+
+These methods are designed to provide flexibility and a convenient payment experience. If you have any further questions or if there's anything specific you'd like me to clarify, please let me know. I'm here to assist you every step of the way!

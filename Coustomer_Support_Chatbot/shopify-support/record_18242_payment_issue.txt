@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where do I notify of a payment problem?
+
+Answer: I can see that you're facing a payment problem and need to notify us about it. Our customer support team is available to assist you with reporting payment issues. You can reach out to them through our dedicated helpline at {{Customer Support Phone Number}} or by visiting our website and accessing the live chat feature for immediate assistance. Rest assured, {{Company Name}} is committed to resolving your payment problem promptly and ensuring your satisfaction. Thank you for bringing this matter to our attention.

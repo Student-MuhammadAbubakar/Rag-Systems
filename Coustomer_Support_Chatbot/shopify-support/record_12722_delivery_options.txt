@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible toorder from {{Delivery City}}
+
+Answer: I'm happy to help! We are delighted to accept orders from {{Delivery City}}. Whether you're in the vibrant heart of the city or its surrounding areas, rest assured that we have you covered with our seamless shipping services. You can place your order online or reach out to our friendly customer support team, available 24/7, to assist you with any queries or concerns. We're committed to making your shopping experience smooth and convenient, no matter where you're located.

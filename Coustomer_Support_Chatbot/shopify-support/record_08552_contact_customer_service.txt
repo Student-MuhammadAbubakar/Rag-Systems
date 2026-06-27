@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help me checking what hours customer support available is
+
+Answer: Happy to hear from you! I truly understand that you need assistance in checking the hours when our customer support is available. Our dedicated team is here to help you during our {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. I'm here to provide any further assistance you may need.

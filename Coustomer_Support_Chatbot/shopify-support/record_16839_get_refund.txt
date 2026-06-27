@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: help to obtain my money back
+
+Answer: I understand your frustration and the urgency in obtaining a refund for your money. It can be a challenging process, but I'm here to guide you through it. To start, I recommend reaching out to our customer support team directly. They have the expertise and authority to handle refund requests and provide you with the necessary information and assistance. You can contact our customer support team by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please rest assured that we value your satisfaction and will do everything we can to resolve this matter promptly.

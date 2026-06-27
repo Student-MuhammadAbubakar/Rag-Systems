@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: need to seee at what time i can contact customer support
+
+Answer: Glad you contacted us! I'm clearly cognizant that you would like to know the available hours when you can contact our customer support team. Our dedicated team is available to assist you during {{Customer Support Hours}}. We strive to be accessible whenever you need us. If you have any more questions or concerns, please feel free to let me know.

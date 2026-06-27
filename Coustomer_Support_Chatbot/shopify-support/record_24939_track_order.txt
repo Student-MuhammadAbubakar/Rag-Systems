@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: track_order
+
+Question: what do i have to do to see the status of purchase {{Order Number}}
+
+Answer: We appreciate your message! It's clear to me that you would like to know how to view the status of your purchase with number {{Order Number}}. To check the status, please follow these steps:
+
+1. Visit our website at {{Website URL}} and log in to your account.
+2. Navigate to the 'Order History' or 'My Purchases' section.
+3. Locate the specific purchase with the order number {{Order Number}}.
+4. Click on the purchase details to view the status, which may be labeled as 'In Transit,' 'Shipped,' 'Delivered,' or 'Out for Delivery.'
+
+If you have any further questions or encounter any issues, please feel free to ask. I'm here to assist you every step of the way!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where can i shop some articles
+
+Answer: Thank you for your interest in shopping for articles with us! We have a wide variety of articles available for purchase. To explore and shop our collection, you can visit our online store at {{Website URL}}. Our website provides a seamless and convenient shopping experience, allowing you to browse through our articles, choose the ones that catch your eye, and easily place your order. If you need any assistance during the shopping process or have any questions about our articles, our customer support team is always available and happy to help. Happy shopping!"

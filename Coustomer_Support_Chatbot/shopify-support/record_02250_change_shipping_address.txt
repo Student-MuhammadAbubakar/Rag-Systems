@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: assistance trying to edit the address
+
+Answer: I'm here to assist you with editing your address. Please provide me with the details of the address you would like to change, and I'll guide you through the process step by step.

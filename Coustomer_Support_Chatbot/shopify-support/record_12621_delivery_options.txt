@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship to {{Delivery City}}?
+
+Answer: Absolutely! We offer shipping services to {{Delivery City}}. Rest assured that we can deliver your items right to your doorstep. Should you have any specific concerns or questions about the shipping process, feel free to let me know. I'm here to assist you throughout the entire process.

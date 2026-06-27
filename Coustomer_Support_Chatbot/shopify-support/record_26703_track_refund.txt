@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a reimbursement of {{Refund Amount}} dollras
+
+Answer: I've taken note that you have been patiently waiting for a reimbursement of ${{Refund Amount}}. Your time and trust are valuable to us, and we appreciate your understanding. To provide you with a more accurate update on the current status of your reimbursement, I kindly request you to share some additional details with me. Could you please provide me with your name, email, and any relevant reference numbers associated with your reimbursement? Rest assured that once I have the necessary information, I will swiftly investigate your case and provide you with an update. Thank you for your cooperation.

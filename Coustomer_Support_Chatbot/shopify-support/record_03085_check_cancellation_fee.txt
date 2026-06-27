@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need to check the withdrawal charge
+
+Answer: Certainly, I can assist you in checking the withdrawal charge. Please provide me with your account details and I will look into this for you.

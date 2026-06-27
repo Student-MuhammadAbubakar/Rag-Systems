@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I would like to call customer service, how to do it?
+
+Answer: Thank you for reaching out! I completely understand your desire to connect with our customer service team. To call our customer service, simply dial {{Customer Support Phone Number}}. Our team will be more than happy to assist you over the phone. If you have any other questions or concerns, feel free to let me know. I'm here to help!

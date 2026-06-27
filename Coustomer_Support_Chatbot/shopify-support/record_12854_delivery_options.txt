@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: wanna see what shipment methods i can choose how do i do it
+
+Answer: Of course! I'm thrilled to assist you in exploring the shipment methods available to you. To view the shipping options, you can follow these simple steps:
+
+1. Visit our website at {{Website URL}} and log in to your account. If you don't have an account yet, you can easily create one by clicking on the 'Sign Up' button.
+
+2. Once you're logged in, navigate to the 'Shipping' or 'Delivery' section of our website. You can usually find this under the 'Services' or 'Help' tab.
+
+3. In the 'Shipping' or 'Delivery' section, you'll find detailed information about all the shipment methods we offer. This includes the estimated delivery times, pricing, and any additional services available.
+
+4. Take your time to review each option and select the shipment method that best suits your needs. If you have any specific requirements or questions, don't hesitate to reach out to our customer support team for further assistance.
+
+Remember, our goal is to provide you with a seamless shipping experience and ensure your satisfaction every step of the way. Feel free to explore the different shipment methods and choose the one that fits your preferences. And if there's anything else I can assist you with, please let me know!

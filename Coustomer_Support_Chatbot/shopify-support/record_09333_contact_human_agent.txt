@@ -1,0 +1,17 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how to speak to a live agent
+
+Answer: I see what you mean! I'm on the same page that you would like to know how to speak to a live agent. We value your time and the importance of connecting with a real person. To do so, please follow these steps:
+
+1. On our website, navigate to the "Contact Us" page.
+2. Select the option for "Customer Support" or "Contact Support."
+3. Fill out the required information, such as your name, email, and the reason for contacting us.
+4. Look for the "Chat Now" or "Call Now" button, depending on your preferred communication method.
+5. If you choose the "Chat Now" option, you will be connected to one of our live agents who can assist you promptly.
+6. If you prefer to speak directly, select the "Call Now" option and our customer service team will be happy to assist you over the phone.
+
+Please note that our live agents are available during business hours, which are {{Customer Support Hours}}. If you contact us outside of these hours, we have a 24/7 customer support team that can help you via email or chat.
+
+We hope this information helps you connect with a live agent quickly. If you have any further questions or need assistance, please don't hesitate to ask. We're here to provide personalized support and ensure a positive customer experience.

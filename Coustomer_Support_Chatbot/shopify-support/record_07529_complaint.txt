@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: how to file a claim against your organization?
+
+Answer: I sincerely apologize for any negative experience you may have had with our organization. To file a claim, we have a dedicated customer support team to assist you. You can reach out to them by visiting our website and looking for the "Customer Support" or "Contact Us" section. Alternatively, you can also call our customer support hotline at {{Customer Support Phone Number}} or send an email to {{Customer Support Email}}. Our team will guide you through the process and ensure that your claim is thoroughly reviewed and resolved.

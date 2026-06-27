@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about the cancellation of a gold account
+
+Answer: I appreciate your inquiry about canceling your {{Account Type}} account. We understand that circumstances may change, and we are here to assist you. To provide you with detailed information about the cancellation process, I kindly request you to provide me with your account details or any specific questions related to canceling your gold account. This will enable us to address your concerns accurately and guide you through the process smoothly. Your satisfaction is our utmost priority, and we are committed to ensuring a seamless experience for you. Please feel free to share any additional details, and we will gladly assist you.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: i have to change my personal data can ya help me
+
+Answer: We truly appreciate your proactive approach to personal data management. Rest assured, we're here to guide and assist you in changing your personal data. To ensure the utmost security of your information, we recommend accessing the dedicated personal data management section on {{Online Company Portal Info}}. There, you'll find all the necessary tools and resources to modify your personal data securely. If you need any further guidance or have any specific questions, feel free to let us know. We're more than happy to help you navigate this process.

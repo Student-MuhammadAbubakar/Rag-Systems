@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery Country}}
+
+Answer: Hola! I'm delighted to assist you with the delivery options to {{Delivery Country}}. Prepare to embark on a journey through our exceptional shipping choices tailored for your location:
+
+1. Standard Shipping to {{Delivery Country}}: Typically arrives within {{Date Range}} business days. This option is ideal for non-urgent items.
+2. Expedited Shipping to {{Delivery Country}}: A faster alternative that delivers your items to {{Delivery Country}} within {{Date Range}} business days.
+3. Express Shipping to {{Delivery Country}}: For urgent needs, ensuring faster delivery times within {{Date Range}} business days.
+4. International Courier Service to {{Delivery Country}}: A reliable option for secure and swift delivery to {{Delivery Country}}.
+
+Selecting the most suitable shipping option will ensure your package arrives promptly and safely. If you have any additional questions or require further guidance, don't hesitate to reach out. I'm here to make your experience seamless and enjoyable. ¡Adelante!

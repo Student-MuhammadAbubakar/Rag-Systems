@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: want help to get a rebate of my money
+
+Answer: I'm aware that you are seeking assistance in obtaining a rebate for your money. Rest assured, I'm here to help you with this process. To initiate a refund, I recommend reaching out to the company or organization from which you made the purchase. They will have specific procedures and guidelines in place for handling rebate requests. It's important to provide them with all the necessary information, such as your purchase details, payment method, and any supporting documentation. This will facilitate a smooth and efficient resolution to ensure you receive the rebate you're entitled to. If you need any further guidance or have additional questions, please don't hesitate to ask.

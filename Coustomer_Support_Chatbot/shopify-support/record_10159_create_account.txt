@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: problems wiuth creating a {{Account Category}} account
+
+Answer: I apologize for any inconvenience or difficulties you may have encountered while trying to create a {{Account Category}} account. Our goal is to ensure a seamless and hassle-free experience for all our customers. To better assist you, could you please provide more details about the specific issues you are facing? This will allow us to identify the problem and provide you with a tailored solution. Your feedback is invaluable to us, and we are committed to resolving any problems promptly and efficiently.

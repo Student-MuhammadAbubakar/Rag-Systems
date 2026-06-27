@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a reufnd of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Firstly, I completely understand the importance of the refund you are expecting, which amounts to {{Currency Symbol}}{{Refund Amount}}. Your satisfaction is our top priority, and we want to ensure a swift resolution for you. Allow me to look into the current status of your refund and provide you with an update. Please bear with me for a moment while I gather the necessary information. Thank you for your patience.

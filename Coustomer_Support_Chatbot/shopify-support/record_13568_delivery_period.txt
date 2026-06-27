@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i dont know what to do to see when mt order is gonna arrive
+
+Answer: We understand that you're uncertain about how to check the estimated arrival time of your order. Not to worry, we can guide you through the process. To get started, could you provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we'll be able to assist you in finding out when your order is expected to arrive. Your patience is greatly appreciated as we work together to resolve this.

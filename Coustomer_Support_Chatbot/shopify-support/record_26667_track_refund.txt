@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'd like to see if there is anything new on the refund
+
+Answer: I've got that you're eager to check for any updates on your refund. Rest assured, I'll provide you with the most up-to-date information. Let me retrieve the details for you, and thank you for your patience while I do so.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need assistance to create a {{Account Type}} account
+
+Answer: I'm here to help you create a {{Account Type}} account! Your decision to join us is greatly appreciated. To get started, you can visit our website and follow a few simple steps to create your account. If you encounter any difficulties or have any questions along the way, feel {{Account Type}} to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Creating an account is a quick and easy process, and I'm confident that you'll enjoy the benefits of being a member. Let me know if there's anything specific you need assistance with during the account creation process.

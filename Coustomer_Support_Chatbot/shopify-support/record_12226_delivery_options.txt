@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you edliver to {{Delivery Country}}?
+
+Answer: I'll make it happen! We're thrilled to deliver our products to {{Delivery Country}}, embracing the beauty of the Nordic region. Whether you reside in Helsinki, Tampere, or any other mesmerizing city, our shipping services are at your disposal. Let us bridge the distance and bring our offerings straight to your doorstep, enabling you to experience the joy of our products in the enchanting Finnish landscape. Feel free to explore our delivery options and choose the one that best suits your needs. Should you have any further questions or require assistance, I'm here to provide guidance every step of the way.

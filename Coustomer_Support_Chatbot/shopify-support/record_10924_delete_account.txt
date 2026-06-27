@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dontuse my {{Account Type}} account need assistance deleting it
+
+Answer: We're here for you to us regarding the deletion of your {{Account Type}} account. I understand that you no longer use this account and would like to have it removed. We apologize if you've faced any inconvenience in this process. To assist you further, I would need some additional information. Could you please provide the email address or username associated with your {{Account Type}} account? With this information, I will be able to locate your account and guide you through the deletion process. Rest assured that our team is here to support you every step of the way.

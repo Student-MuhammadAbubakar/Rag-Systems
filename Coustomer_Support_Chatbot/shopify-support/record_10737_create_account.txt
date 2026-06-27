@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open {{Account Type}} account
+
+Answer: Thank you for considering opening a {{Account Type}} account with us! We're excited to provide you with enhanced features and benefits. To initiate the process, please provide your full name, email address, and a username. Once we receive this information, we can guide you through the steps to create your {{Account Type}} account. Rest assured, your privacy and security are of utmost importance to us, and we'll handle your data with the highest level of care. How does this sound to you?

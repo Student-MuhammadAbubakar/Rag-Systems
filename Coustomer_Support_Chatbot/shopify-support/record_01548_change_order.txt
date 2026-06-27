@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me add some damn items to order {{Order Number}}
+
+Answer: We understand your request to add items to order number {{Order Number}}. We apologize for any inconvenience caused by the item(s) not being included originally. To assist you with this, please provide us with the specific items you would like to add to your order. We will ensure that the necessary adjustments are made and confirm the changes with you. We appreciate your patience and cooperation in resolving this matter.

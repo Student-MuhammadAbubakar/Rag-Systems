@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to talk with customer support, I need help
+
+Answer: Thanks for getting in touch! I grasp that you need assistance and want to talk with our customer support team. Our team is available {{Customer Support Hours}} to help you with any questions or concerns you may have. We're here to provide the support you need. How can I assist you further?

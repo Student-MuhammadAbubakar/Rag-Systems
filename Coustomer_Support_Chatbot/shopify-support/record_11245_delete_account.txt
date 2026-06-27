@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about the removal of a gold account
+
+Answer: Glad you contacted to us with your inquiry about removing your {{Account Type}} account. We are here to assist you with any questions or concerns you may have. To proceed with the removal process, please provide us with some additional information such as your account details or any specific requirements you may have. Once we have the necessary information, we will be able to guide you through the removal process and ensure a smooth transition for you. Rest assured, we are committed to providing you with the support you need during this process.

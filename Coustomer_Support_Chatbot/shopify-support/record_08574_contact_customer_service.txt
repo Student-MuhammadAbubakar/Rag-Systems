@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I do not know how to get in touch with customer assistance
+
+Answer: Happy to hear from you! I truly understand that you are unsure about how to contact our customer assistance team. We have various channels available to assist you, such as phone support, live chat, and email. To contact our customer assistance team, you can dial our toll-free number {{Customer Support Phone Number}}, visit our website at {{Website URL}} to access the live chat feature, or send an email to {{Customer Support Email}}. Our friendly team will be more than happy to provide the assistance you need. Please don't hesitate to reach out if you have any more questions or concerns.

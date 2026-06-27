@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: how to download the invoice from {{Person Name}}?
+
+Answer: Ah, the extraordinary quest to acquire the sacred invoice from the distinguished {{Person Name}}!I am honored to guide you through the process of downloading this esteemed document. The first step is to log in to your account on our website and navigate to the "Billing" section. From there, you should be able to find the option to download your invoice. If you encounter any difficulties along the way, please don't hesitate to reach out to our support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Your satisfaction is our utmost priority, and we are here to ensure a seamless and successful invoice retrieval experience. Safe travels on your quest!"

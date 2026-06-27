@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: help me receive a reimbursement of money
+
+Answer: I've deduced from your message that you're seeking assistance in receiving a reimbursement of money. I'm here to help guide you through the process. To begin, it would be helpful if you could provide me with some more information about your situation. Specifically, could you let me know the reason for the reimbursement request and any relevant details such as the date of the transaction, the payment method used, and the amount of money involved? With these details, I can offer you the most accurate guidance on how to proceed and increase your chances of a successful reimbursement.

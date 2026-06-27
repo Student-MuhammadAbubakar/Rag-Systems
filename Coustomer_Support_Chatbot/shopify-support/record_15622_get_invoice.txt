@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: download bills from {{Person Name}}
+
+Answer: I understand your need to download bills from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To access and download your bills, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to view or download your bills.
+4. Click on the desired bill you want to download.
+5. Save the file to your preferred location on your device.
+
+If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to help you every step of the way.

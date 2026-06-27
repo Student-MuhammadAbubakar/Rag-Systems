@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a rebate of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I certainly recognize the significance of expecting a rebate of {{Currency Symbol}}{{Refund Amount}}. It's important for us to keep you updated on the progress of your refund, so allow me to check the current status for you. Please give me a moment, and I'll provide you with the information you need. While I'm doing that, may I ask if you've encountered any issues with refunds in the past? Your insights and patience are highly valued as we work towards ensuring your satisfaction.

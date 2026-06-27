@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollafs
+
+Answer: Firstly, I want to assure you that I completely understand your situation and the importance of receiving your restitution of {{Currency Symbol}}{{Refund Amount}}. I apologize for any inconvenience caused. To better assist you, could you please provide me with some additional details? Specifically, could you let me know the reason for the restitution and any relevant receipts or documentation you may have? This will help us investigate and expedite the process to ensure a swift resolution. I appreciate your patience and cooperation in this matter.

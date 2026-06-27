@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creating {{Account Type}} account
+
+Answer: That's fantastic to hear that you're interested in creating a {{Account Type}} account with us! Free accounts are a great way to get started and explore our services without any initial financial commitment. To create a {{Account Type}} account, all you need to do is visit our website and navigate to the account creation section. There, you'll find step-by-step instructions to guide you through the process. If you have any questions or need assistance along the way, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Don't hesitate to reach out, and we'll be more than happy to help you get started on your journey with us!

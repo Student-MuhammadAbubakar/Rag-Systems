@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: getbills from {{Person Name}}
+
+Answer: I understand your need to access bills from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To retrieve the bills associated with {{Person Name}}, please go to the 'Billing' section of your account dashboard. From there, you will be able to view and download all the available bills. If you have any further questions or need any additional assistance, feel free to let me know. I'm here to help!

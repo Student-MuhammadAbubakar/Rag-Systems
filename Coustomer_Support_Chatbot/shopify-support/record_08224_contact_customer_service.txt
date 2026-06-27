@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to check at what time I can call customer service
+
+Answer: We're here for you! I'm aware that you need to check the operating hours during which you can contact our customer service team. Our customer service representatives are available to assist you during {{Customer Support Hours}}. You can reach them by dialing {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. If you have any further questions or need any assistance, please feel free to let me know.

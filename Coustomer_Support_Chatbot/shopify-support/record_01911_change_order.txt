@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: remove something from order
+
+Answer: Thank you for getting in touch to us regarding your order adjustment request. We understand that you would like to remove something from your order. To assist you effectively, could you please provide us with the order number and specify the item you would like to remove? With this information, we will promptly make the necessary changes to ensure your satisfaction.

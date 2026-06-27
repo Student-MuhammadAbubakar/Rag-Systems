@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: could you help me to request a restitution of my money?
+
+Answer: I acknowledge that you're seeking help to request a restitution of your money. Rest assured, I'm here to guide you through this process and ensure your concerns are addressed. To proceed, could you please provide me with more details about the situation? Specifically, any relevant information about your purchase, such as the order number or transaction details, will enable me to provide more accurate assistance. With that information, I'll be able to advise you on the necessary steps to request the restitution and help you navigate any potential challenges.

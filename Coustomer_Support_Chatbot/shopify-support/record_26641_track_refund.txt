@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a restitution of {{Refund Amount}} dollars
+
+Answer: I understand the importance of your waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}. It can be frustrating to have to wait for a resolution, but please know that our team is working diligently to process your request as quickly as possible. While I review the status of your refund, I'd like to thank you for your patience. Is there anything else I can assist you with in the meantime?

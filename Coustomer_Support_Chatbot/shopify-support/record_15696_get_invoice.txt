@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: is it possible to download my damn invoices from {{Person Name}}
+
+Answer: I'm on the same wavelength, your request to download your invoices from {{Salutation}} {{Client Last Name}}. Let me assure you that we have a dedicated system in place to easily access and download your invoices. In order to proceed, could you please provide me with some additional information? Such as the specific time frame or the invoice numbers you are looking to download. This will allow me to assist you more effectively. Thank you!

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery Country}}
+
+Answer: Definitely! I'm thrilled to let you know that we do offer delivery services to {{Delivery Country}}. We understand the importance of catering to our valued customers in different parts of the world, including {{Delivery Country}}. Whether it's Helsinki, Tampere, or any other city in {{Delivery Country}}, we've got you covered. You can explore our delivery options specific to {{Delivery Country}} during the checkout process on our website. If you have any specific concerns or questions regarding delivery to {{Delivery Country}}, feel free to ask. We're here to ensure a seamless shipping experience for you.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: what do I have to do to check the status of my rebate?
+
+Answer: To check the status of your rebate, you can follow a few simple steps. First, log in to your account on our website using your credentials. Once logged in, navigate to the 'My Account' section or a similar tab where you can find your recent transactions. Look for the specific rebate transaction and click on it to view the details. Here, you should be able to see the current status of your rebate, whether it's being processed, approved, or already issued. If you encounter any difficulties or have further questions, our customer support team is here to assist you. Just reach out to them through the Live Chat on our website or call {{Customer Support Phone Number}} during our {{Customer Support Hours}}. We'll be more than happy to help you track the progress of your rebate.

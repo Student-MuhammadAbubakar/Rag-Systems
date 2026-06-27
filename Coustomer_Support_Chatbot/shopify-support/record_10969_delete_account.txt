@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what I have to do to remove a damn {{Account Type}} account
+
+Answer: I appreciate you reaching out to us regarding the removal of your {{Account Type}} account. I understand that you're feeling frustrated, and I want to assure you that we're here to help. To assist you with the deletion process, could you please provide us with some additional information, such as your account username or any specific issues you've encountered? This will allow us to guide you through the necessary steps more effectively and resolve any difficulties you may have encountered.

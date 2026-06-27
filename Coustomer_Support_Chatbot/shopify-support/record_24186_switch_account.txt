@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how to use the {{Account Type}} profile?
+
+Answer: Thank you for your interest in accessing the {{Account Type}} profile! Let's go through the steps to get you started:
+
+1. Sign In: Begin by logging into our platform.
+2. Account Settings: Once logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Account Type: Within this section, look for an option that refers to your account type or account status.
+4. Select the Free Profile: Choose the option that mentions the '{{Profile Type}}'.
+5. Enjoy the Free Profile: After selecting the {{Account Type}} profile, you can start enjoying the features it offers!
+
+If you encounter any difficulties or have further questions, please let me know. I'm here to ensure a smooth experience as you explore the benefits of our {{Account Type}} profile.

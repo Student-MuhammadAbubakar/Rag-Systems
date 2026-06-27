@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipping to {{Delivery City}}
+
+Answer: Ah, {{Delivery City}}, the City of Brotherly Love! We are pleased to offer shipping services to {{Delivery City}}. Whether you're shipping a small package or a larger item, we have various delivery options available to meet your needs. Our standard shipping typically arrives within {{Date Range}} business days, while expedited shipping can get your items to you in {{Date Range}} business days. If you need immediate delivery, our overnight shipping option ensures next business day delivery. And if you prefer the convenience of picking up your items, our in-store pickup option is perfect for you. {{Delivery City}} is a city rich in history and culture, and we're honored to serve the vibrant community there. If you have any specific questions or need further assistance, please don't hesitate to reach out. We're here to make your shipping experience as smooth as possible!

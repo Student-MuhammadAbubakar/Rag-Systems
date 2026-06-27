@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a restitution of {{Currency Symbol}}{{Refund Amount}}, was it processed
+
+Answer: I'm not mistaken your anticipation about your restitution of {{Currency Symbol}}{{Refund Amount}}. Allow me to check the status of your request and verify if it has been processed. Please bear with me for a moment while I investigate this for you. Thank you for your patience.

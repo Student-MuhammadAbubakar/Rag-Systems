@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i dont know how i could talk to customer support
+
+Answer: Thank you for reaching out! I completely understand that you are unsure about how to contact our customer support. Rest assured, I'm here to guide you through the process. To reach our customer support team, you can either call our helpline at {{Customer Support Phone Number}} during our support hours, or you can visit our website at {{Website URL}} and use the live chat feature to connect with an agent. We're committed to providing you with the assistance you need. Is there anything else I can help you with today?

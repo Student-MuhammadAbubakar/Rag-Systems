@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to od to download my invoice #37777
+
+Answer: No problem! I completely understand your request to download your invoice with the number #{{Invoice Number}}. To download your invoice, you can follow these steps:
+1. Login to your account on our website/app.
+2. Navigate to the Billing section or Invoices section.
+3. Look for the option to view or download your invoices.
+4. Find the invoice with the number #{{Invoice Number}}.
+5. Click on the download or save button to save the invoice to your device.
+
+If you encounter any difficulties or have any further questions, please let me know. I'm here to assist you every step of the way!

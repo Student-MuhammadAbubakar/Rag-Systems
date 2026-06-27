@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modify details on pro account
+
+Answer: What a delight it is to accompany you on this exciting journey of modifying the details on your esteemed {{Account Type}} account!I am here to provide you unwavering support and guidance, ensuring that your account details accurately reflect your {{Account Type}} membership status and cater to your evolving preferences and needs. Let's dive into the specific details you would like to modify, and I'll be right by your side, assisting you at every step of the way. Remember, together, we can shape your {{Account Type}} account to perfection!

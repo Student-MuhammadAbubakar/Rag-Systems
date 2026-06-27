@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible toorder from {{Delivery City}}
+
+Answer: Greetings from our service center! I'm thrilled to inform you that yes, it is absolutely possible to place an order from {{Delivery City}}. We offer delivery services to {{Delivery City}} and various other locations across the United States. So you can confidently proceed with your purchase knowing that we are here to ensure a seamless delivery experience. If you have any more questions or need further assistance, please feel free to let me know. I'm here to help!

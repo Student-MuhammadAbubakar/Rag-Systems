@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i lost the bills from {{Person Name}} show them to me
+
+Answer: I'm clearly cognizant your situation and the need to retrieve the lost bills from Ms. {{Client Last Name}}. Let me guide you through the process of accessing and displaying the bills. First, please provide me with more specific information like the {{Date Range}} or any other relevant details that may help narrow down the search. Once I have these details, I will do my best to assist you in finding and showing the lost bills. Hang in there, we'll get through this together!

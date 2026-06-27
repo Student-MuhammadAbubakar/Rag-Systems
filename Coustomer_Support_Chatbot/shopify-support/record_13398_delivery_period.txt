@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: help me seeing how long it takes for the delivery to rarive
+
+Answer: We truly understand your eagerness to know the estimated time of arrival for your delivery. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can track your delivery and provide you with an update on its expected arrival time. Your patience is greatly appreciated as we work to assist you in the best way possible.

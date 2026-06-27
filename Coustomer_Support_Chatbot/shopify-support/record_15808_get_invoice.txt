@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: need assistance downloading my bill from {{Person Name}}
+
+Answer: Ah, the splendid pursuit of acquiring your bill from the esteemed {{Person Name}}! Fear not, for I shall provide you with the necessary guidance to download your revered document. Let me just take a moment to retrieve the bill from our system, and soon you shall be in possession of this coveted artifact. In the meantime, if you have any other queries or require further assistance, please do not hesitate to let me know. Your satisfaction is of utmost importance to us, and I am here to ensure a seamless experience for you.

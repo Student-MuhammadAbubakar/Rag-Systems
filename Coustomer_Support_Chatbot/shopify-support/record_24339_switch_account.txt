@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me to use the {{Account Type}} profile
+
+Answer: I'm happy to help! I'm thrilled to assist you in maximizing the benefits of our esteemed {{Account Type}} profile:
+
+1. Begin by accessing your account on our platform.
+2. Navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Look for an option that says '{{Profile Type}}' or '{{Account Change}}'.
+4. Select the '{{Profile Type}}' option from the available choices.
+5. Follow the on-screen instructions to complete the process.
+
+Should you encounter any difficulties or if you have further inquiries, please don't hesitate to reach out. We are here to ensure a seamless experience for you. Enjoy the exclusive advantages that come with your {{Account Type}} profile!

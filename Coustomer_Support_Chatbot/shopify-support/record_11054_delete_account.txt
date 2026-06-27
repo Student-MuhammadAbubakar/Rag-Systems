@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: removing {{Account Category}} acconut
+
+Answer: Appreciate you reaching out to us for assistance with removing your {{Account Category}} account. We understand that you are looking to cancel your account, and we are here to help you with the process. To ensure a smooth cancellation, please provide us with more information about your account, such as the account number or any specific concerns you have regarding the cancellation. Our team is committed to addressing your needs and making sure the cancellation process is as convenient as possible for you.

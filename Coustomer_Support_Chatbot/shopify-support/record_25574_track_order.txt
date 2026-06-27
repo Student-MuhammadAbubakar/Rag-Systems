@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: want hewlp locating order {{Order Number}}
+
+Answer: Your reach-out is appreciated! I'm sensing that you need assistance locating order number {{Order Number}}. I'm here to help you with that. To locate your order, please provide me with your full name and contact information so that I can access your account and provide you with the relevant details. Rest assured, I will guide you through the process and ensure that you have a seamless experience.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shiping to {{Delivery City}}
+
+Answer: Unquestionably! We provide shipping services to {{Delivery City}}, ensuring that your package reaches its destination safely and promptly. Our standard shipping option typically takes {{Date Range}} business days to arrive, while expedited shipping shortens the delivery time to {{Date Range}} business days. If you need your package urgently, we also offer overnight shipping for next business day delivery. Additionally, we have the convenient option of in-store pickup if you prefer to collect your items personally from our designated location in {{Delivery City}}. Let me know if you have any further questions or if there's anything else I can assist you with. It's a pleasure to be of service to you!

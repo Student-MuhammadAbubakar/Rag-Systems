@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am looking for shipping periods
+
+Answer: Thank you for your inquiry about shipping periods. I can understand the importance of knowing the estimated delivery time for your package. To provide you with accurate information, may I please have your {{Tracking Number}} or {{Order Number}}? Once I have that, I can assist you with the specific shipping period for your shipment. Your patience is greatly appreciated.

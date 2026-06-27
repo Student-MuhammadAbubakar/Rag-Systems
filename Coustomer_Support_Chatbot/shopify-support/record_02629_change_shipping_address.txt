@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: want assistance trying to change thd address
+
+Answer: We're here to assist you with changing your shipping address. Please provide us with the details of your current address and the new address you'd like to change it to, and we'll guide you through the process step by step.

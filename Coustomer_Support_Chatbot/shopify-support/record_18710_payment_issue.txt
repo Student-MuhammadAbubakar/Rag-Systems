@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: notify of payment issue
+
+Answer: Thank you for bringing this payment issue to our attention. Your willingness to notify us about the problem is greatly appreciated. To ensure we address the issue accurately, could you please provide more details about the specific payment problem you are facing? This information will allow our team to investigate and resolve the issue promptly. We apologize for any inconvenience this may have caused and assure you that we are committed to resolving this matter for you.

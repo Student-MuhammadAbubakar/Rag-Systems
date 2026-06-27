@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I do not know how to check your allowed payment methods
+
+Answer: No worries! I'm here to help you with that. Checking our allowed payment methods is easy. You can typically find this information on our website's payment page or during the checkout process. If you're having trouble finding it, I recommend reaching out to our customer support team who will be more than happy to guide you through the process. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Providing you with assistance and ensuring you have a seamless experience is our top priority!

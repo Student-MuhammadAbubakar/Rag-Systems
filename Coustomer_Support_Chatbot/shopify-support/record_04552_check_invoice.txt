@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what i need to do to look  for my bill #12588
+
+Answer: I'm with you, your uncertainty about the steps to take in order to locate the details of your bill with the number #{{Invoice Number}}. Let me guide you through the process! To find your bill, you can try accessing your online account on our website or mobile app. Look for the "Billing" or "Invoices" section, where you should be able to view and download your bill. If you're unable to locate it there, you may reach out to our customer support team who can further assist you in retrieving your bill. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Don't worry, we'll help you find your bill and ensure that you have all the information you need!

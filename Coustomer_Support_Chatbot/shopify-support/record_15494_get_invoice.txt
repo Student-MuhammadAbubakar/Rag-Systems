@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me bills from {{Person Name}}
+
+Answer: Sure! I understand that you would like to receive bills from {{Client Name}}. I apologize for any confusion, but my role is to provide assistance and answer any questions you may have. However, I don't have access to personal information or the ability to send bills directly. I recommend reaching out to our customer support team or logging into your online account to retrieve the bills you need. They will be more than happy to assist you with this request. Let me know if there's anything else I can help you with.

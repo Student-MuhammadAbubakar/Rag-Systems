@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: can uhelp me  looking for the bills from {{Person Name}}
+
+Answer: For sure! I understand your need to locate the bills from {{Client First Name}} {{Client Last Name}}. To assist you better, could you please provide me with any specific details such as the {{Date Range}} or any other relevant information about the bills? By doing so, we can streamline the process and find the information you need efficiently. Don't worry, I'm here to help every step of the way and make sure you have a seamless experience.

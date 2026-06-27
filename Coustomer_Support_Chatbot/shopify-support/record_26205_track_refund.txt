@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: where to see the current status of the reimbursement
+
+Answer: We understand that you're interested in tracking the current status of your reimbursement. To assist you, you can find the most up-to-date information by visiting our website and logging into your account. Once logged in, navigate to the "My Orders" or "Order History" section, where you should be able to locate the specific order or transaction related to your reimbursement. Here, you will be able to see if the refund has been processed, its current status, and any relevant updates. If you require further assistance or encounter any difficulties, our dedicated customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help and ensure that your reimbursement concerns are addressed promptly.

@@ -1,0 +1,20 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me using the standard profile
+
+Answer: Indeed! I'm delighted to guide you through utilizing our versatile standard profile:
+
+1. Feature Exploration: Take a moment to familiarize yourself with the various features and functions of our standard profile. This will help you better understand its capabilities.
+
+2. Account Access: Sign in to your existing account using your credentials. If you don't have an account yet, you can create one by following the registration process on our website.
+
+3. Profile Navigation: Once you're logged in, navigate to your account settings or profile section. This is typically located under your profile picture or username.
+
+4. Switching Options: Look for an option that allows you to switch or change your account type. It may be labeled as "Switch Account Type" or "Upgrade/Downgrade Account."
+
+5. Selection Process: Within the account type options, choose the "{{Account Type}} Profile" to switch to this account type.
+
+6. Confirmation: Follow the instructions or prompts provided to confirm your selection and complete the switching process.
+
+If you encounter any difficulties during this process or have any questions, please feel free to reach out to our support team. We're here to assist you every step of the way. Enjoy the enhanced experience with our standard profile!

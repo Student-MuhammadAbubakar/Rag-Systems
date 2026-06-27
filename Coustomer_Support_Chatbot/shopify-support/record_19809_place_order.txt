@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I try to order a product
+
+Answer: Thank you for your message and expressing your interest in ordering a product from us! I'm here to assist you in this process. To help me provide you with the best guidance, could you please provide me with more details about the specific product you would like to order? This information will allow me to offer tailored assistance and ensure a seamless ordering experience for you.

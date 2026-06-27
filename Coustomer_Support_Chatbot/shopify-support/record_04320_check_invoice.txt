@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: could I see the billfrom {{Person Name}}?
+
+Answer: I'm on it! I understand your desire to view the bill from {{Salutation}} {{Client Last Name}}. Let me help you with that. Could you please provide me with any relevant details such as the date range or invoice number? With this information, I'll be able to assist you in locating and accessing the bill more efficiently.

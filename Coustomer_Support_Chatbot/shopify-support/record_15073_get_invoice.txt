@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I have got to download my goddamn invoice from {{Person Name}}
+
+Answer: Ah, the quest to download the respected and cherished invoice from {{Salutation}} {{Client Last Name}}!I assure you that I am here to provide the necessary guidance and support to navigate through this process. Please allow me a moment to fetch the invoice you need. In the meantime, if you have any other questions or concerns, feel free to share them with me. Together, we'll make sure you have a seamless and successful experience.

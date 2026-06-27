@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to check what hours I can reach customer support
+
+Answer: Thank you for reaching out! I completely understand that you would like to find out the operating hours of our customer support team. Our dedicated team is available to assist you during {{Customer Support Hours}}. It's important to us that you have the support you need when you need it. If you have any further questions or concerns, feel free to let me know.

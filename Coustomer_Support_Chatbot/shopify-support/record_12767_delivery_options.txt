@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipmetns to {{Delivery City}}
+
+Answer: Of course! Let's explore the shipping options available for shipments to {{Delivery City}}:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days for delivery to {{Delivery City}}.
+2. Expedited Shipping: If you're in a hurry to receive your shipment in {{Delivery City}}, this option ensures delivery within {{Date Range}} business days.
+3. Overnight Shipping: For urgent shipments to {{Delivery City}}, this option guarantees next business day delivery.
+4. International Shipping: If you're shipping from a different country to {{Delivery City}}, we offer international shipping options with estimated delivery times based on the destination.
+
+Please keep in mind that exact delivery times may vary depending on various factors. If you have any specific concerns or questions regarding shipping to {{Delivery City}}, please feel free to ask. We're here to ensure a seamless shipping experience for you!

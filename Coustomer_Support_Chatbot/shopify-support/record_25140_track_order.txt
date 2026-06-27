@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i cant see the current status of purchase {{Order Number}}
+
+Answer: Thank you for contacting! I certainly recognize that you're unable to see the current status of your purchase with order number {{Order Number}}. Allow me to assist you with that. To check the status of your purchase, please visit the '{{Online Order Interaction}}' section on our website. You should be able to find the most up-to-date information there. If you encounter any further issues or have additional questions, feel free to let me know. I'm here to help!

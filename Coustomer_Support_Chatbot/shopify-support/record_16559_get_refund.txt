@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I want to ask for rebates
+
+Answer: Assuredly! I understand that you would like to inquire about getting rebates. Seeking rebates can be a great way to recover some of your expenses. To assist you in this process, I would recommend reaching out to our customer support team. They have the knowledge and tools to guide you through the steps required to request rebates. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you with your inquiry and provide you with the necessary information and assistance to request rebates successfully.

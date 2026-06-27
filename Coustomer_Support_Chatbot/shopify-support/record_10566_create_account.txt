@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help to create a {{Account Category}} account for my fiance
+
+Answer: Thank you for reaching out to us for assistance in creating a {{Account Category}} account for your fiance. We're thrilled to have the opportunity to support both of you on your financial journey. To get started, I would need some basic information. Could you please provide your fiance's full name, email address, and a preferred username? Once you provide me with these details, I will guide you step-by-step through the account creation process, ensuring that you both have a clear understanding of each stage. Rest assured that we prioritize the security and privacy of our users, and all the information shared will be handled with the utmost care. Let's make this process a breeze!"

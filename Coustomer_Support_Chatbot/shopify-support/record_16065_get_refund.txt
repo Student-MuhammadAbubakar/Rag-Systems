@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating {{Refund Amount}} dollars
+
+Answer: I'm cognizant of the fact that you're seeking assistance in rebating ${{Refund Amount}}. I'm here to guide you in the process of obtaining the refund you deserve. To ensure an efficient resolution, could you please share some additional details about the situation? This will help me provide you with the most accurate information and offer suitable solutions. Rest assured, I'll do my utmost to assist you throughout this process and ensure a satisfactory outcome.

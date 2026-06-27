@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebate  {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm sensitive to the fact that you are seeking assistance in obtaining a rebate of ${{Refund Amount}}. Rebates can be a great way to save money or receive a refund for a specific purchase. To help you with this, I would recommend reaching out to the company or organization from which you made the purchase. They should be able to provide you with the necessary instructions and guidelines to apply for the rebate. If you need any specific information or have questions about the process, feel free to provide more details, and I'll be happy to assist you further.

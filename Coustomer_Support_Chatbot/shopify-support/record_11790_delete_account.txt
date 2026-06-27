@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need help to remove my {{Account Category}} account
+
+Answer: Glad you got in touch about removing your {{Account Category}} account. We understand that you may have your reasons for canceling, and we're here to assist you every step of the way. To proceed with the removal process, could you please provide us with your account details or any relevant information that could help us identify your account? This will allow us to ensure a smooth and prompt cancellation experience. We value your time and are committed to resolving this matter for you efficiently.

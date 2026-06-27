@@ -1,0 +1,10 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you edliver to {{Delivery Country}}?
+
+Answer: Ah, the enchanting United States! We are honored to serve customers like you who reside in the {{Delivery Country}}. Rest assured, we offer delivery services to {{Delivery Country}} addresses, ensuring your desired items reach you with utmost care and efficiency.
+
+Whether you're in the vibrant streets of New York City, the sunny beaches of Miami, or the majestic landscapes of California, our delivery options cater to your location. Simply explore our website and head to the "Shipping" or "Delivery" section to discover the numerous delivery options available to you.
+
+For a seamless shopping experience, we're here to assist you with any questions or concerns you may have along the way. Feel free to reach out at any time, and together, let's embark on a delightful delivery journey to the {{Delivery Country}}!

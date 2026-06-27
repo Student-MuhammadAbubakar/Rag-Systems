@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: have a problem with opening a {{Account Category}} acount
+
+Answer: I'm sorry to hear that you're having trouble opening a {{Account Category}} account. I'm here to help you resolve this issue and ensure a smooth experience for you. Could you please provide me with more details about the problem you're facing? This will allow me to understand the specific issue and provide you with the appropriate guidance and support to overcome it.

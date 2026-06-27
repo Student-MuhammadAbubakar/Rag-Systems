@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me to delete an artile from purchase {{Order Number}}
+
+Answer: We understand that you need assistance with deleting an article from purchase number {{Order Number}}. We're here to help! To ensure accurate and efficient service, could you please provide us with the specific details of the article you would like to delete? This will allow us to take the necessary steps to update your purchase. We appreciate your cooperation and look forward to resolving this matter for you.

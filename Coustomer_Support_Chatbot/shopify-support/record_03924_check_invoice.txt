@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i need assistance giving a quick look at the bvill #37777
+
+Answer: Assuredly! I understand that you require assistance in quickly reviewing the bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To view the bill, please log in to your account on our website and navigate to the "Invoices" section. There, you should be able to locate the bill with the designated number {{Invoice Number}}. If you encounter any difficulties or have further questions, feel free to let me know. I'm available to help you every step of the way.

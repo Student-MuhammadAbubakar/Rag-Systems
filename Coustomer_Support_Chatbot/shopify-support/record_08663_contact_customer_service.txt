@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can ya show me at what time customer service available is
+
+Answer: Honored to assist! I'm clued in that you would like to know the operating hours of our customer service team. Our dedicated customer service representatives are available to assist you during {{Customer Support Hours}}. It's essential for us to be here when you need us. Is there anything else I can assist you with today?

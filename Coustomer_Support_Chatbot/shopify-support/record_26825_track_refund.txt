@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect an restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Firstly, I truly understand how important the restitution of {{Currency Symbol}}{{Refund Amount}} is for you. Every dollar matters, and we're committed to ensuring your satisfaction. I want to assure you that we take your reimbursement seriously. Let me quickly check the current status of your restitution. While I do that, can you please confirm if you have provided all the necessary documentation and information related to your claim? Your assistance in this matter will help us expedite the process. Rest assured, we're here to support you every step of the way.

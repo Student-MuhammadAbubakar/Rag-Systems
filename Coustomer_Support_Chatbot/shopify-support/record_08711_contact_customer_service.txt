@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want help calling customer support
+
+Answer: Happy to get your message to us for assistance with calling our customer support. I'm here to guide you through the process and provide you with the necessary information. To connect with our customer support team, you can dial our dedicated helpline at {{Customer Support Phone Number}} during our operating hours. Alternatively, you can also reach out to us through the Live Chat feature on our website at {{Website URL}}. We are committed to providing you with the support you need. Please let me know if there's anything else I can assist you with.

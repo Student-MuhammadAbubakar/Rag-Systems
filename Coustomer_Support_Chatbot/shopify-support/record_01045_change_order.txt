@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I delete some articles from order {{Order Number}}?
+
+Answer: We understand that you would like to delete some articles from your order with the number #{{Order Number}}. We're here to assist you with that. Could you please provide us with the specific articles you would like to remove? This will enable us to make the necessary adjustments to your order and ensure your satisfaction.

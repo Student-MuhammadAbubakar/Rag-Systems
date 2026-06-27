@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I find the invoice from {{Person Name}}?
+
+Answer: I understand your need to locate the invoice associated with {{Salutation}} {{Client Last Name}}, {{Person Name}}. Let me guide you through the process. To find the invoice, please visit the "Billing" or "Invoices" section of your online account. If you're unable to locate it there, you can also reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. They will be more than happy to assist you further in finding the invoice.

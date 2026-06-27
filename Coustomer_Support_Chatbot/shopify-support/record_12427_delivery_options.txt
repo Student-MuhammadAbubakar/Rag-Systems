@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order frrom {{Delivery Country}}
+
+Answer: Thank you for your inquiry about ordering from {{Delivery Country}}! We value your interest in our products. We do offer international shipping options to many countries, including {{Delivery Country}}. You can conveniently place your order online and have it delivered right to your doorstep in {{Delivery Country}}. If you encounter any issues or have any specific questions about the shipping process or estimated delivery times, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way to ensure a seamless and satisfying shopping experience. Happy shopping from {{Delivery Country}}!

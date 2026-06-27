@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where can i check how soon can i expect the package
+
+Answer: We completely understand your eagerness to track the delivery of your package. To quickly obtain an update on the estimated arrival time, I recommend visiting our website and logging into your account. Once logged in, navigate to the "Order History" or "Track My Order" section. There, you'll find the most up-to-date information on the status and expected delivery date of your package. If you're unable to locate this information or require further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Ensuring your satisfaction and providing you with accurate information during this process are our top priorities.

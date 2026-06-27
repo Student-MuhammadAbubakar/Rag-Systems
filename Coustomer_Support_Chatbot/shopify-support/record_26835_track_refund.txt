@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a damn rebate of {{Refund Amount}} dollars
+
+Answer: Firstly, I want to assure you that we understand how crucial the {{Currency Symbol}}{{Money Amount}} rebate is for you. We value your trust and aim to provide the best assistance possible. Let me quickly check the status of your rebate to ensure that everything is on track. While I do that, could you please let me know if there are any specific concerns or questions you have regarding your rebate? Your insights are valuable, and we want to address any doubts or issues you may have. Thank you for your patience, and I'll provide you with an update shortly.

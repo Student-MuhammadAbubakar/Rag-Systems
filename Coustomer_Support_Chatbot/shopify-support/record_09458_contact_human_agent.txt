@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know how I can cntact someone
+
+Answer: Thank you for reaching out! I understand your confusion about how to contact someone. We have multiple channels through which you can reach a representative. You can try our live chat feature on our website at {{Website URL}} or give us a call at {{Customer Support Phone Number}}. Our dedicated team is available {{Customer Support Hours}} to assist you. If you prefer, you can also send us an email at {{Customer Support Email}} with your query, and we will respond promptly. We're here to help, so please let us know if there's anything else we can do for you."

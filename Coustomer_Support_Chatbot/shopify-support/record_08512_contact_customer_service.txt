@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need to talk to customer support, how do I do it?
+
+Answer: Thank you for contacting! I certainly recognize that you need assistance and would like to talk to our customer support team. You can easily connect with our customer support by {{contact_method}}. Our team is available {{Customer Support Hours}} to assist you with any questions or concerns you may have. Please don't hesitate to reach out, as we are here to help you. Feel free to ask any further questions or share any additional information you may need.

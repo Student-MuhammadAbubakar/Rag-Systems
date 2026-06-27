@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: assistance to check the reimbursement status
+
+Answer: It's understandable that you need assistance in checking the status of your reimbursement. Rest assured, we are here to support you. To provide you with accurate information, could you please provide me with the relevant details such as your order number or any reference number associated with your reimbursement? Once I have this information, I will be able to quickly check the status for you.

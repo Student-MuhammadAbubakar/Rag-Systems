@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: whereto acquire something
+
+Answer: We're all ears! I'm tuned into the idea that you're looking for information on where to acquire a specific item. To better guide you, could you please provide me with more details about the item you wish to acquire? Once I have the necessary information, I'll be able to assist you in finding the best place to acquire it.

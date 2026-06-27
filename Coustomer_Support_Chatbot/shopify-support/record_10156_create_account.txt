@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need assistance creating a {{Account Type}} account for my dad
+
+Answer: Thank you for contacting us for assistance in creating a {{Account Type}} account for your dad. I'm here to help you every step of the way. To get started, could you please provide me with your dad's full name, email address, and a preferred username for his account? With this information, we can quickly create his account and ensure that all the necessary details are accurate. Rest assured that we prioritize the security and privacy of our users, so his information will be handled with the utmost care. Once we have the required details, we can proceed with setting up the account and guiding your dad through the entire process. Let me know how I can assist you further!

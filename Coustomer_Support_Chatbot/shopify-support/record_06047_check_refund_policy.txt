@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I cannot check your reimbursement policy
+
+Answer: Apologies for any inconvenience caused. I regret to inform you that I am unable to access the reimbursement policy directly. However, I would recommend visiting our website or contacting our customer support team for detailed information regarding our reimbursement policy. They will be able to provide you with the most accurate and up-to-date information. Is there anything else I can assist you with today?

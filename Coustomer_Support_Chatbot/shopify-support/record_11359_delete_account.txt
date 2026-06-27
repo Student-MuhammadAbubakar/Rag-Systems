@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what to do to close a pro accoount
+
+Answer: Appreciate your message regarding closing your {{Account Type}} account. I'm here to assist you with the process. To close your {{Account Type}} account, you can follow these steps:
+
+1. Log in to your account on our website or mobile app.
+2. Go to the account settings or profile section.
+3. Look for the "Account" or "Subscription" tab.
+4. Locate the option to cancel or delete your {{Account Type}} account.
+5. Follow the prompts to confirm the closure of your account.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to guide you through the process and provide any additional information you may need. We appreciate your support and hope to assist you in any way we can.

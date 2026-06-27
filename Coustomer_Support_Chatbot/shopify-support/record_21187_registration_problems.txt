@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: where to notify of sign-up errors?
+
+Answer: Glad you got in touch to us regarding sign-up errors. We understand the frustration this may cause, and we're here to assist you. To report a sign-up error, please visit our support page at {{Support Page URL}} and submit a ticket detailing the issue you encountered. Rest assured, our dedicated team will review your case promptly and provide you with the necessary assistance to resolve the sign-up error. We appreciate your patience and cooperation.

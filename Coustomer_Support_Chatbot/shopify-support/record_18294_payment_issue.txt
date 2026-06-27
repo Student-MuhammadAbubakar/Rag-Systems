@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I'm trying to notify of errors with online payments
+
+Answer: Thank you for bringing this to our attention. I understand how frustrating it can be to encounter errors while making online payments. Rest assured, we're here to assist you in resolving these issues promptly and efficiently. To better assist you, could you please provide some specific details regarding the errors you're encountering? This will enable us to investigate the matter further and find a suitable solution for you. We appreciate your patience and cooperation in this matter.

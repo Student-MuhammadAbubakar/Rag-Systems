@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: want hrlp locating my invoice from {{Person Name}}
+
+Answer: I'll make it happen! I understand your need to locate your invoice from {{Salutation}} {{Client Last Name}}. Could you please provide me with any additional details such as the {{Date Range}}, invoice number, or any other relevant information? This will assist me in quickly finding the invoice you are looking for and ensuring a smooth resolution. Rest assured, I'm here to help you every step of the way!

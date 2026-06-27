@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a rebate fo {{Refund Amount}} dollars
+
+Answer: Glad you contacted to us regarding your rebate. I understand your anticipation and the importance of timely updates. Let me quickly check the status of your rebate for you. While I do that, could you please confirm the email address or any other information associated with your rebate application? This will enable me to provide you with the most accurate and relevant information. Your patience is greatly appreciated, and I assure you that we are working diligently to resolve this matter for you.

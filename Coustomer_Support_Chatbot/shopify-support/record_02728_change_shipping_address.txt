@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: the shipping address has changed, how can I correct it?
+
+Answer: We apologize for any inconvenience caused by the change in your shipping address. To correct it, please follow these steps: log in to your account, go to the "My Account" section, select "Shipping Address," and update the necessary details. If you encounter any difficulties, please let us know, and we'll be more than happy to assist you further.

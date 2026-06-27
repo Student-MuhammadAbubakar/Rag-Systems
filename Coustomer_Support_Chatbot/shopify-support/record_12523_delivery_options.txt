@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipnents to {{Delivery Country}}
+
+Answer: Ah, shipping to {{Delivery Country}}! You're in luck, we offer several shipment options for deliveries to {{Delivery Country}}. Here are our available shipping methods:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days to reach {{Delivery Country}}. It's ideal for non-urgent shipments.
+2. Expedited Shipping: If you're in a hurry, we have expedited shipping available. It can get your items to {{Delivery Country}} within {{Date Range}} business days.
+3. Express Shipping: For time-sensitive deliveries, express shipping ensures your package arrives in {{Delivery Country}} quickly, typically within {{Date Range}} business days.
+
+Please note that the exact delivery times may vary based on the specific location in {{Delivery Country}} and any other factors that may affect the shipment. If you have any further inquiries or need assistance with placing an order or tracking a shipment, please feel free to ask. Your satisfaction is our top priority!

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do uhave a toll-free number to talk to customer assistance
+
+Answer: Thank you for your query! For your convenience, we do have a toll-free number for customer assistance. You can reach our customer service team at {{Toll-Free Number}}. They are available to assist you with any questions or concerns you may have. We also offer other contact options such as email support and live chat on our website at {{Website URL}}. So, whether you prefer to speak with someone directly or choose a different method, we're here to help! Let me know if there's anything else I can assist you with.

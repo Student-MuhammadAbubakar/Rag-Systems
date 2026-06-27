@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: track_order
+
+Question: what do I need to do to track order {{Order Number}}?
+
+Answer: Thank you for your question! To track the status of your order with the order number {{Order Number}}, you can follow these simple steps:
+
+1. Visit our website and log into your account using your credentials.
+2. Navigate to the "Order History" section, which should be easily accessible from the main menu.
+3. Once you're on the "Order History" page, locate the specific order number ({{Order Number}}) you want to track.
+4. Click on the order number, and you'll be redirected to a detailed order summary page.
+5. On the order summary page, you should find the current status of your order, along with any relevant tracking information such as shipping carrier and tracking number.
+6. If you have any further questions or encounter any issues while tracking your order, don't hesitate to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+I hope this helps! Let me know if there's anything else I can assist you with.

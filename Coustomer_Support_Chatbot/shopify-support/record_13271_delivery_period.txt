@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can uhelp me see how sooj can i expect the product
+
+Answer: We understand that you are eager to know the estimated arrival date of your product. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we will be able to give you a precise estimate of when your product will arrive. We appreciate your patience and look forward to assisting you further.

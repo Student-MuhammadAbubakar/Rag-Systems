@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what to do to look for bill #37777
+
+Answer: I'm on the same page, your frustration when facing difficulties in searching for your bill with the number #{{Invoice Number}}. Allow me to guide you through the process step by step, ensuring a smooth experience. To begin, let's navigate to the "Billing" section of our platform, where you should find an option to "Search Bill." Once you click on that, you'll be prompted to enter the bill number. Simply input #{{Invoice Number}} in the designated field, and our system will generate the details for you. In case you encounter any issues during this process, don't hesitate to reach out to our dedicated customer support team for immediate assistance. We're here to support you every step of the way.

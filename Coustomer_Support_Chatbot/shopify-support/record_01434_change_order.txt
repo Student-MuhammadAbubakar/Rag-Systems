@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot add a product to purchase {{Order Number}}
+
+Answer: Thank you for bringing this issue to our attention. I understand that you're experiencing difficulties adding a product to your purchase with order number {{Order Number}}. I apologize for any inconvenience this may have caused. To better assist you, could you please provide more details about the error message or steps you've taken so far? Our team is committed to finding a solution and making sure your purchase is as seamless as possible.

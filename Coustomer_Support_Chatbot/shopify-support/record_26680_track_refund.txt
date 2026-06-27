@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: what is my rebate status?
+
+Answer: I've noticed that you would like to know the status of your rebate. I'll be glad to assist you with this. To provide you with accurate information, could you please provide me with your {{Rebate ID}} or any other relevant details?

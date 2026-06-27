@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect an rebate of {{Refund Amount}} dollars
+
+Answer: We truly appreciate your anticipation of a rebate amounting to {{Currency Symbol}}{{Refund Amount}}. We understand how important this rebate is to you, and we are committed to providing you with the necessary assistance. Allow me to check the status of your rebate and provide you with the most up-to-date information. I just need a moment to gather the relevant details. Thank you for your patience.

@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use pro account
+
+Answer: Unquestionably! I'm thrilled to help you optimize your experience with our {{Account Type}} account:
+
+1. Log In: To begin, access our platform by logging in to your account.
+2. Navigate: Once you're in, head over to the '{{Settings}}' or '{{Profile}}' section.
+3. Upgrade Option: Within these sections, you'll find an option labeled '{{Upgrade Account}}' or '{{Account Change}}'.
+4. Select {{Account Type}}: Choose the '{{Account Type}}' option to unlock all the powerful features.
+5. Follow the Prompts: Simply follow the on-screen instructions to complete the upgrade process.
+
+Should you encounter any challenges or have further questions, feel free to reach out to me. I'm here to ensure a smooth transition and assist you every step of the way. Get ready to maximize your experience with our amazing {{Account Type}} account benefits!

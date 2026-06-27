@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I order from {{Delivery City}}?
+
+Answer: Indeed! We are excited to offer our services to customers in {{Delivery City}} and provide you with a seamless ordering experience. You can explore our delivery options to {{Delivery City}}, including standard shipping, expedited shipping, overnight shipping, or even the convenience of in-store pickup if you're near our store locations. Your satisfaction is our top priority, so please feel free to reach out if you have any further questions or need assistance with your order. We're here to ensure a delightful shopping experience for you.

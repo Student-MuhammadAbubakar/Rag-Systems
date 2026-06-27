@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: find information about opening a {{Account Type}} account
+
+Answer: Thank you for expressing interest in opening a {{Account Type}} account! {{Account Type}} accounts offer a wide range of exclusive benefits, including higher transaction limits, priority customer support, and access to premium features. To learn more about the process and requirements for opening a {{Account Type}} account, I recommend visiting our website or contacting our customer support team. They will be happy to provide you with all the necessary information and guide you through the application process step-by-step. You can reach our customer support team through our website's live chat or by calling our dedicated helpline. Happy to assist you further!

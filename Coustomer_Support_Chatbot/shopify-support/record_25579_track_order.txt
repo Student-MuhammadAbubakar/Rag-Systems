@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I need assistance to locate order {{Order Number}}
+
+Answer: Happy to hear from you! I truly understand that you need assistance in locating your order with the order number {{Order Number}}. I apologize for any inconvenience caused by the confusion. To help you with this, I kindly request you to provide me with some additional information such as the name associated with the order or any other relevant details. Once I have this information, I will be able to assist you further in locating your order successfully.

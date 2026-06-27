@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i need assistance to check how long the shipping tazkes
+
+Answer: We understand that you need assistance in checking the estimated shipping duration. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? This will enable us to determine the expected delivery period for your shipment. Thank you for your cooperation as we strive to assist you in the best possible way.

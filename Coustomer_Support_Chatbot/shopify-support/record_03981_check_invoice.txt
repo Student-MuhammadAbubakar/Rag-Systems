@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I do not know how to locate the bills from my last purchase
+
+Answer: I understand your concern about locating the bills from your recent purchase. Allow me to help clarify the process for you. To find the bills associated with your last purchase, you can go to your account dashboard or transaction history page. There, you should find a section labeled "Invoices" or "Bills," which will provide a comprehensive list of your recent purchases along with their corresponding invoices. If you're still having trouble, our customer support team is available to assist you further. Just reach out to them through our website or contact them at our {{Customer Support Phone Number}} during {{Customer Support Hours}}. We are here to ensure a seamless experience for you.

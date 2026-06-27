@@ -1,0 +1,10 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I am calling to check what delivery methods are available
+
+Answer: Thank you for contacting to us to inquire about the available delivery methods. I'm delighted to assist you in finding the options that best suit your needs.
+
+To provide you with an accurate answer, could you please provide me with your location? This will allow me to give you the most relevant information regarding the delivery options available in your area.
+
+I appreciate your patience and cooperation in providing your location. Once I have this information, I will be able to guide you through the available delivery methods.

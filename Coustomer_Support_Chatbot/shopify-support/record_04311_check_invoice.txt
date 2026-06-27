@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see the bill #37777
+
+Answer: I'm following your desire to view the bill with the number #{{Invoice Number}}. Allow me to assist you in locating it. Please provide me with some additional information or any specific details related to the bill. With this information, we can streamline the process and find the bill you're looking for more efficiently. Rest assured, I'm here to guide you and ensure you have a seamless experience.

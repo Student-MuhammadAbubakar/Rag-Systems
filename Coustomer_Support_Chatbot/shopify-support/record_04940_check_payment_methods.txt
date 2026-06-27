@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: can I pay with PayPal?
+
+Answer: Positively! I'm glad you asked. We do accept PayPal as one of our payment methods. It's a secure and widely used online payment platform that offers convenience and peace of mind. You can easily make payments through PayPal by selecting it as an option during checkout. If you have any further questions or if there's anything else I can assist you with, feel free to let me know. We're here to make your payment process smooth and hassle-free!

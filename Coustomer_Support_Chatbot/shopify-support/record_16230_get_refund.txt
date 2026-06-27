@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I need to obtain a rebate
+
+Answer: I've come to understand that you're looking to obtain a rebate. Rebates can be a great way to save money on your purchases. To assist you further, could you please provide me with more details about the rebate you're seeking? Specifically, if you have any information regarding the purchase, such as the order number, receipt, or any rebate terms and conditions, it would greatly help in facilitating the process. Once I have these details, I can guide you on the necessary steps to obtain the rebate successfully.

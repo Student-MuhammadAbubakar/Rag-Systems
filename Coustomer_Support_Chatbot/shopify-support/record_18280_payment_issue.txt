@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: report payment issues
+
+Answer: Thank you for bringing this payment issue to our attention. I understand the importance of resolving these issues promptly to ensure a seamless payment experience for our valued customers like you. Could you please provide more details about the specific problem you encountered during the payment process? This information will greatly assist our team in investigating and addressing the issue. Your feedback is highly appreciated, and we are committed to resolving this matter for you as quickly as possible.

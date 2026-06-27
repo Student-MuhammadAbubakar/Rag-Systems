@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place an order from {{Delivery Country}}
+
+Answer: For sure! We are delighted to inform you that we accept orders from {{Delivery Country}}. Our international shipping services ensure that you can conveniently place an order and have it delivered to your desired location. You can explore the various shipping options available on our website to choose the one that best fits your needs. We strive to provide a seamless and hassle-free experience for all our valued customers, regardless of their location. If you have any further questions or need assistance with the ordering process, feel free to ask. We're here to help make your shopping experience a delightful one!

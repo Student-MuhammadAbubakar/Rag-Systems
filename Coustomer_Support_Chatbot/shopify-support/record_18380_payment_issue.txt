@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I need help to notify of errors with payment
+
+Answer: I'm sorry to hear that you're experiencing errors with your payment. Rest assured, I'm here to help you report the issue and find a solution. To provide the necessary details, please let me know the specific errors you encountered during the payment process. Your feedback is highly valuable in improving our system and preventing future occurrences. Thank you for bringing this to our attention, and together, we will work towards resolving the payment errors you've encountered.

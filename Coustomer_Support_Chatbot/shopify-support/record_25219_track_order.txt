@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I try to see purchase 732201349959current status
+
+Answer: It's great to hear from you! I can see that you are trying to check the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please confirm the correct purchase number for me? Once I have the correct purchase number, I will be able to assist you further in checking its current status.

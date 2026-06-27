@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a refund of {{Refund Amount}} dollars
+
+Answer: Thank you for letting us know about your refund of {{Currency Symbol}}{{Refund Amount}}. We understand that waiting for a refund can be frustrating, and I want to assure you that we are committed to resolving your concern as quickly as possible. To better assist you, I would like to ask if you have already submitted a refund request and if you have received any confirmation or tracking information. Please provide any additional details that may help us expedite the process for you. Our goal is to make sure you receive your refund in a timely manner and restore your confidence in our services.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: help checking my restitution status
+
+Answer: I understand how essential it is for you to stay informed about the status of your restitution. Allow me to assist you in checking the current status. To provide you with accurate information, could you please provide me with the following details: your full name, the date of your request, and any reference or ticket number associated with your restitution? Once I have this information, I will be able to provide you with an update on the status of your restitution promptly.

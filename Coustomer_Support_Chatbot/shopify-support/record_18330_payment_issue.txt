@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: i dont know what i have to do to report issues with payments
+
+Answer: No problem at all! I'll be more than happy to guide you on how to report any issues with your payments. To begin the process, it's best to reach out to our dedicated customer support team. They are available round-the-clock at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By contacting them, you can provide them with the necessary details about the issue you encountered, such as the error message received, the payment method used, and any other relevant information. Our team will promptly escalate your concern to the appropriate department for resolution. Rest assured, we're committed to swiftly addressing any payment issues you may have and ensuring a seamless experience for you. Thank you for bringing this to our attention and giving us the opportunity to assist you.

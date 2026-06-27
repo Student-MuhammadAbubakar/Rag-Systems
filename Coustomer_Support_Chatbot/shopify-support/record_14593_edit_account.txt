@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modify information on {{Account Type}} account
+
+Answer: Your commitment to modifying and enhancing the information on your {{Account Type}} account is truly commendable. It's great to see you taking proactive steps towards personalizing your account. To modify the information on your {{Account Type}} account, you can log into your account dashboard and navigate to the account settings section. From there, you should be able to update various details such as your name, address, email, or any other relevant information. If you encounter any challenges or need further guidance during the process, our dedicated customer support team will be more than happy to assist you. Remember, your satisfaction is our top priority, and we're here to ensure a seamless account modification experience for you.

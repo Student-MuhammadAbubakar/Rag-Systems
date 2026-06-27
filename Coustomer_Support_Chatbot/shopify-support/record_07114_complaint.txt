@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I am unsatisfied with your services, how to file a claim?
+
+Answer: I'm sorry to hear that you're unsatisfied with our services and want to file a claim. Your feedback is important to us, and we strive to address any concerns promptly. To help you with the claim process, our customer service team is available to assist you. They will guide you through the necessary steps and gather the relevant information to initiate a claim. Please contact our customer support at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to ensure that your voice is heard and that we can work towards a satisfactory resolution.

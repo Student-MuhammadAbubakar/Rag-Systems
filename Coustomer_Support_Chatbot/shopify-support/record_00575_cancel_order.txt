@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i can no longer arford purchase {{Order Number}}
+
+Answer: I gather that you are facing financial constraints and are unable to afford the purchase with the order number {{Order Number}}. We apologize for any inconvenience caused. 
+
+To assist you further with the cancellation process, please follow these steps:
+
+1. Sign into Your Account: Go to our {{Online Company Portal Info}} and log in using your credentials.
+2. Locate Your Order: Navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Find the Specific Purchase: Look for the purchase associated with the order number {{Order Number}} and click on it.
+4. Initiate Cancellation: There should be an option labeled '{{Online Order Interaction}}' or similar. Please select that to begin the cancellation process.
+5. Follow Any Additional Instructions: Depending on the products or services, there might be additional steps or information required. Please provide the necessary details as requested.
+
+If you encounter any difficulties or have any questions along the way, our dedicated customer support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}}. You can also reach out to us through the Live Chat on our {{Website URL}}.
+
+We value your satisfaction and will do our best to assist you with canceling your purchase.

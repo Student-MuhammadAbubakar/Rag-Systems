@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: call customer support
+
+Answer: Thank you for reaching out! If you would like to speak directly with our customer support team, you can contact them at {{Customer Support Phone Number}}. They will be more than happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me to add several products to order {{Order Number}}
+
+Answer: I'll make it happen! I understand that you need assistance in adding several products to your order with the number {{Order Number}}. We're here to help you make the necessary adjustments to ensure your satisfaction. Could you please provide me with the details of the products you would like to add? Feel free to ask any questions or share any concerns you may have.

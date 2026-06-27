@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I'm trying to check the payment modalities
+
+Answer: For sure! I'm here to assist you in checking our available payment modalities. We offer various convenient options to cater to your preferences. Here's a list of our accepted payment methods:
+
+- **Credit/Debit Card:** We accept major card brands like Visa, Mastercard, and American Express.
+- **PayPal:** A secure and widely used online payment method.
+- **Bank Transfer:** Directly transfer funds from your bank account.
+- **Apple Pay:** An easy and quick payment method for Apple users.
+- **Google Pay:** Conveniently make payments using your Google account.
+
+If you need more information or have any specific questions regarding these payment modalities, please feel free to ask. We're here to help and ensure your payment experience is seamless and hassle-free.

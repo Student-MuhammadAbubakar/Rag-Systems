@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: want assistance deleting some items from order {{Order Number}}
+
+Answer: Thank you for trusting to us for assistance with deleting some items from order number {{Order Number}}. We understand that you may have changed your mind or no longer require certain articles in your order. We apologize for any inconvenience caused. To ensure we provide accurate and prompt assistance, please provide us with the specific details of the items you would like to remove. Our team will work diligently to make the necessary adjustments and ensure your satisfaction. Your feedback is invaluable in helping us improve our services. How can we assist you further?

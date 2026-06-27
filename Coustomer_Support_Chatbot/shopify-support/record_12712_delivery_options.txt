@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipping to {{Delivery City}}
+
+Answer: Certainly! When it comes to shipping to {{Delivery City}}, we have a range of options available to ensure your package arrives safely and on time. Our standard shipping option typically takes around {{Standard Delivery Time}} business days to reach {{Delivery City}}. If you need your package sooner, we also offer expedited shipping, which can deliver your items within {{Expedited Delivery Time}} business days. For urgent needs, we have an overnight shipping option that guarantees delivery the next business day. Additionally, if you prefer a more hands-on experience, you can choose the in-store pickup option at one of our {{Store Location}} in {{Delivery City}}. We understand the importance of reliable and efficient shipping, so please let me know if you have any specific questions or if there's anything else I can assist you with. We're here to make sure your shipping experience is smooth and hassle-free!

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I  do not know how I can talk to customer support
+
+Answer: I hear you! I'm following you that you are unsure about how to connect with our customer support team. It's important to us that you can easily reach out for assistance. To talk to our customer support, you can reach us through our toll-free number at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Our dedicated team is always ready to help and guide you through any questions or concerns you may have. Don't hesitate to reach out - we're here for you!

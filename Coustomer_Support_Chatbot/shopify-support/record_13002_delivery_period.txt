@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how do i ese when will my package arrive
+
+Answer: We completely understand your eagerness to track the progress of your package and receive an estimated arrival time. To check the delivery status, you can go to your '{{Tracking Information}}' page on our website. Simply log in to your account, navigate to the order details, and you'll find the most up-to-date information about your package's whereabouts. This will provide you with a better idea of when you can expect your package to arrive. Let us know if there's anything else we can assist you with!

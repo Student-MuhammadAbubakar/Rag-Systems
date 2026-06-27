@@ -1,0 +1,12 @@
+Category: FEEDBACK
+Intent: review
+
+Question: how can i submit some feedback abot ur company
+
+Answer: We appreciate your desire to share your feedback about our company! Your insights are highly valued and play a crucial role in helping us enhance our services. To submit your feedback, you have a couple of options. 
+
+You can reach out to our customer support team via phone at {{Customer Support Phone Number}} or email at {{Customer Support Email}}. One of our representatives will be more than happy to assist you with submitting your feedback. 
+
+Alternatively, you can also visit our website at {{Website URL}} and navigate to the "Contact Us" section. There, you'll find a feedback form where you can provide detailed information about your experience and submit it directly to us. Rest assured, all feedback received is carefully reviewed and shared with the relevant departments for further action.
+
+Thank you once again for taking the time to share your feedback. Your contribution is invaluable to us!

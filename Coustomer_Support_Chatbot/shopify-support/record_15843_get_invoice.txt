@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do I need to do to get my goddamn bill from {{Person Name}}?
+
+Answer: I'm on the same wavelength, your frustration in trying to obtain your bill from Mr. {{Salutation}} {{Client Last Name}}. To assist you with this, please provide me with some additional information. Could you please let me know the specific period or date range for the bill you are looking for? This will help me locate the bill more accurately and ensure a speedy resolution for you. Thank you for your cooperation, and I apologize for any inconvenience caused.

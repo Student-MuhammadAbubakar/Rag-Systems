@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help with creating my {{Account Type}} account
+
+Answer: I'm thrilled to assist you in creating your {{Account Type}} account! Your decision to upgrade to {{Account Type}} indicates your interest in accessing premium features and benefits. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I will guide you step-by-step through the account creation process, ensuring that you have all the necessary information. Rest assured that your security and privacy are of utmost importance to us, and your data will be handled with the utmost care.

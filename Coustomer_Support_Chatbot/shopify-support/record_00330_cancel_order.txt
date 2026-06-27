@@ -1,0 +1,12 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can no longer afford purchase {{Order Number}}
+
+Answer: I'm on the same page, the gravity of your financial situation and the impact it may have on your ability to afford purchase {{Order Number}}. Our team is here to assist you in finding a suitable solution. Let's explore your options together:
+
+1. Reach out to Customer Support: Contact our dedicated customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Explain your situation and let them know that you're unable to afford the purchase. They will assist you in finding a resolution.
+
+2. Request for Payment Alternatives: Our team can offer alternatives like payment plans or deferred payments to help alleviate your financial burden. Discuss these options with our customer support team and inquire about the possibility of adjusting the payment terms for purchase {{Order Number}}.
+
+Please remember that we genuinely care about your well-being and understand the challenges you may be facing. We strive to find a solution that works for you. Don't hesitate to reach out, as our team is here to support you during this difficult time.

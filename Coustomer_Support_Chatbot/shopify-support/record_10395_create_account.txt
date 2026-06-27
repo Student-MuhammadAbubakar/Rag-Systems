@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how to create a platinum account for my fiance?
+
+Answer: Thank you for your interest in creating a {{Account Category}} account for your fiance! It's wonderful to see your commitment to providing them with an exceptional banking experience. To create a {{Account Category}} account, we have a simple and seamless process in place. Firstly, I would need the following information from your fiance: their full name, email address, and a preferred username. Once we have these details, we can proceed with setting up the account. Rest assured, our team is dedicated to ensuring a smooth and secure onboarding process for your fiance. If you need any further assistance or have any questions along the way, I'll be here to guide you both. Let's make this a truly remarkable banking journey for your fiance!

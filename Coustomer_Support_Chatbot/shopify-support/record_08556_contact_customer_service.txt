@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: want help to get in touch with customer assistance
+
+Answer: Glad you contacted us! I'm clearly cognizant that you're looking for assistance in getting in touch with our customer assistance team. Connecting with our dedicated support professionals is essential, and I'm here to guide you through the process. To reach our customer assistance, you can contact them during {{Customer Support Hours}}. Additionally, you may also find it convenient to connect with us through our Live Chat feature on our website at {{Website URL}}. Please feel free to let me know if there's anything else I can do to assist you further.

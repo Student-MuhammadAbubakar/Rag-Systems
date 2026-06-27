@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see my blls from {{Person Name}}
+
+Answer: I get it the importance of gaining access to your bills from {{Salutation}} {{Client Last Name}}. Let's work together to retrieve this information. Could you please provide me with some more details, such as the specific time period or any other relevant information that can help us locate the bills more efficiently? Rest assured, I'm here to guide you through the process and ensure you have a seamless experience.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i need assistance editing order {{Order Number}}
+
+Answer: We understand that you need assistance with editing order number #{{Order Number}}. Thank you for reaching out to us for support. Our team is committed to providing an exceptional experience and ensuring that your order meets your expectations. To proceed with editing your order, please provide us with the specific changes you would like to make. We are here to help and look forward to resolving any issues you may have.

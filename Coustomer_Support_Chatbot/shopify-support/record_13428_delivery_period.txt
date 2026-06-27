@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: need to check how soon can i ezpect my package
+
+Answer: We completely understand your curiosity and eagerness to know when your package will arrive. To provide you with an accurate estimate, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can check the status of your package and give you a precise delivery date. Your patience is greatly appreciated, and we are here to assist you throughout the process.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I do not know how to find invoice #85632
+
+Answer: I'm on your side your concern about finding the invoice with the number #{{Invoice Number}}. It's not uncommon to feel unsure or confused about locating specific invoices, especially if you're still familiarizing yourself with our platform. Not to worry, I'm here to guide you through the process step by step. Can you please provide me with some additional information? For example, any specific date range, client name, or any other details related to the invoice that can help me assist you more effectively. Your satisfaction is my top priority, and together, we'll make sure you find the invoice you're looking for.

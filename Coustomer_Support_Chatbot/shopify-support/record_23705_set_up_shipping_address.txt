@@ -1,0 +1,14 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: can I enter my secondary delivery address?
+
+Answer: Indeed! I understand that you would like to enter your secondary delivery address. To do so, please follow these steps:
+
+1. Log in to your account.
+2. Navigate to the 'Shipping Addresses' or 'Manage Addresses' section.
+3. Look for the option to add a new address.
+4. Fill in the required fields with the details of your secondary delivery address, such as the street, city, state, and ZIP code.
+5. Once you have entered all the necessary information, click 'Save' or 'Confirm' to store the new address.
+
+If you encounter any issues or if the process differs on your platform, please let me know, and I'll be happy to assist you further!"

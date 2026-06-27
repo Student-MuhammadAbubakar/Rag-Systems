@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont know what i need to do to cancel my standard account
+
+Answer: We appreciate your inquiry to us regarding the cancellation of your {{Account Type}} account. I understand that you're unsure about the steps involved, and I'm here to guide you through the process. To cancel your account, please follow these steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile page.
+3. Look for the option to manage or cancel your subscription.
+4. Follow the prompts to complete the cancellation process.
+
+If you encounter any difficulties or need further assistance, please don't hesitate to ask. We're here to ensure a smooth and hassle-free experience for you.

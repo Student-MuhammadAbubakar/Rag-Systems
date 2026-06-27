@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want help to open a {{Account Type}} account
+
+Answer: That's fantastic! I'm thrilled to provide you with the necessary support to open a new {{Account Type}} account. Our team is committed to making this process as seamless as possible for you. To get started, you can visit our website at {{Website URL}} and navigate to the account opening section. Alternatively, you can reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website. We're here to guide you through each step and address any questions or concerns you may have along the way. Let's embark on this exciting journey together!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checkbill #00108
+
+Answer: I can relate to the understanding that you are seeking assistance with checking the bill number #{{Invoice Number}}. Let me help you with that. Could you please provide me with any additional information or details about the bill? This will enable me to assist you more effectively in locating the specific bill you are looking for.

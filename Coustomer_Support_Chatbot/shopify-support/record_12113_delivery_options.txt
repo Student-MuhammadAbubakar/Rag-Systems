@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I see the shipping options?
+
+Answer: Look no further! Let's explore our wide array of shipping options tailored to meet your needs:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days to deliver your items. It's perfect for those who are not in a rush.
+2. Expedited Shipping: Need your package sooner? Expedited Shipping ensures a faster delivery within {{Date Range}} business days.
+3. Overnight Shipping: For urgent needs, our Overnight Shipping guarantees delivery by the next business day.
+4. International Shipping: We also offer international shipping to various countries, including Japan, Canada, Finland, and many more.
+
+Feel free to select the option that works best for you, and rest assured that our team is dedicated to ensuring a seamless delivery experience. If you have any additional questions or require further assistance, please don't hesitate to ask. We're here to assist you every step of the way!

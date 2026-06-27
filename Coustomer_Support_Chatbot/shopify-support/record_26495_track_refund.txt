@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expecdt a refund of {{Refund Amount}} dollars
+
+Answer: I grasp the importance of your expected refund of {{Currency Symbol}}{{Refund Amount}}. Every dollar counts, and I want to ensure that your concerns are addressed promptly. Let me quickly investigate the current status of your refund. While I gather the necessary information, may I ask if you have previously received a refund from us? Your insight is valuable, and we are committed to providing the best possible support and resolving any issues you may have. Thank you for your patience, and I'll be with you shortly.

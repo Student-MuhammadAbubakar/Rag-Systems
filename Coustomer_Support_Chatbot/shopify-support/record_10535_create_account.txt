@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I do not know how I can create a gold account
+
+Answer: We've received your message for assistance on creating a {{Account Type}} account. I'll be glad to guide you through the process. To start, please visit our website and locate the "Sign Up" or "Create Account" button. Click on it to proceed. You will then be prompted to provide your personal details, such as your full name, email address, and a preferred username. Once you've filled in these details, select the account type as "{{Account Type}}" and proceed to set a secure password. Review the terms and conditions, and if you agree, accept them by checking the corresponding box. Finally, click on the "Submit" or "Create Account" button, and voila! You'll have successfully created your {{Account Type}} account. Should you encounter any difficulties during this process, don't hesitate to reach out. I'm here to help you every step of the way.

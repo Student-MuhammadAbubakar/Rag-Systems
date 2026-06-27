@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: can ya help me getting hte bloody invoice from {{Person Name}}
+
+Answer: I'm picking up what you're putting down, your need to access the invoice from {{Salutation}} {{Client Last Name}}. Give me a moment to retrieve it for you. By the way, is there anything else I can assist you with? I'm here to ensure your satisfaction.

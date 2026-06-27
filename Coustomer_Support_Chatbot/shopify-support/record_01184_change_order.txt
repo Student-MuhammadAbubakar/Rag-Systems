@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: remove product from purchase {{Order Number}}
+
+Answer: Thank you for bringing your concern to our attention. We understand that you want to remove a product from purchase order number {{Order Number}}. We apologize for any inconvenience this may have caused. To assist you better, could you please provide us with the details of the product you wish to remove? Knowing the specific product will help us take immediate action to address your request and ensure your complete satisfaction.

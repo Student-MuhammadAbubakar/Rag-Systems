@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i do not use my {{Account Category}} cacount i want help removing it
+
+Answer: I'm sorry to hear that you no longer use your {{Account Category}} account and would like assistance with removing it. Your satisfaction is our utmost priority, and I'm here to help guide you through the process. Could you please provide me with some additional information about your account, such as your account number or any specific concerns you have? This way, I can ensure that we address your request accurately and efficiently.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a compensqtion of {{Refund Amount}} dollars
+
+Answer: Firstly, I truly understand how pivotal the {{Currency Symbol}}{{Refund Amount}} compensation is for you. Every dollar counts, and we’re here to ensure your satisfaction. Let me swiftly check the progress and current status of your compensation for you. While I gather the necessary information, I would love to hear if you have any previous experience with our compensation process. Your insights are truly valued, and I appreciate your patience as we work towards a resolution that meets your expectations.

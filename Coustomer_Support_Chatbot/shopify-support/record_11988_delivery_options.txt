@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: cn I place an order from {{Delivery City}}?
+
+Answer: Greetings from our bustling city! I'm delighted to inform you that you can indeed place an order from {{Delivery City}}. We offer shipping options to numerous locations, including {{Delivery City}}, ensuring that you have access to our products and services. Whether you're looking for standard shipping, expedited shipping, or even in-store pickup, our team is here to assist you every step of the way. So go ahead and explore our wide range of products, place your order, and let us take care of the rest. We can't wait to serve you and make your shopping experience a memorable one!

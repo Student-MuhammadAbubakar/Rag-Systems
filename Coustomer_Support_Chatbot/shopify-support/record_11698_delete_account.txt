@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont know what to do to remove my {{Account Type}} account
+
+Answer: Glad you contacted to us with your question about removing your {{Account Type}} account. I understand that you may be unsure of the steps involved and I'm here to assist you through the process. To remove your {{Account Type}} account, you can follow these steps: [Provide clear, step-by-step instructions on how to remove the {{Account Type}} account]. If you encounter any issues or require further clarification, please don't hesitate to let me know. Your satisfaction is our top priority, and we're committed to helping you with your account removal.

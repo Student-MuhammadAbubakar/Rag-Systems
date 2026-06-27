@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i need help to ese what hours i can reach customer support
+
+Answer: Glad you contacted us! I'm clearly cognizant that you need assistance in determining the hours during which you can reach our customer support team. Our customer support is available to assist you during our regular business hours, which are {{Customer Support Hours}}. You can reach out to us through phone, email, or live chat during these hours. Is there anything else I can help you with?

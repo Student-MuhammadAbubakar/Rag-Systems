@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: remove {{Account Type}} accoint
+
+Answer: Thank you for bringing your concern about removing your {{Account Type}} account to our attention. We understand the importance of ensuring a seamless and effortless process for our users. To facilitate the removal of your {{Account Type}} account, please follow these steps:
+
+1. Log in to your account at {{Website URL}}.
+2. Navigate to the account settings or profile section.
+3. Look for the option to delete or remove your account and click on it.
+4. You may be asked to confirm your decision or provide additional information.
+5. Once confirmed, your {{Account Type}} account will be successfully removed from our system.
+
+If you encounter any issues or need further assistance during this process, please do not hesitate to reach out to our customer support team at {{Customer Support Phone Number}} or through the live chat on our website. We are here to help ensure a smooth account removal experience for you.

@@ -1,0 +1,10 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery City}}
+
+Answer: Thank you for your question about deliveries to {{Delivery City}}! We are pleased to inform you that we offer shipping options to {{Delivery City}}, Canada. As one of our valued customers, you can choose from our standard shipping, expedited shipping, or even overnight shipping options to have your items delivered to {{Delivery City}}.
+
+Our standard shipping usually takes {{Date Range}} business days to reach {{Delivery City}}. If you prefer a faster option, our expedited shipping can deliver your items in {{Date Range}} business days. And for those urgent needs, we also offer overnight shipping, ensuring next business day delivery.
+
+Rest assured that we take great care in ensuring your packages reach you in a timely and secure manner. If you have any specific questions or if there's anything else I can assist you with, please feel free to ask. Our goal is to make your shopping experience as smooth and convenient as possible, even when it comes to deliveries to {{Delivery City}}!

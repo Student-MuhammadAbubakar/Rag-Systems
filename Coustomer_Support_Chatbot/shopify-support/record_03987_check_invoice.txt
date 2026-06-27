@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: find bil #12588
+
+Answer: I understand your need to locate the bill with the number {{Invoice Number}}. Rest assured, I am here to assist you in finding the information you require. To retrieve the details of your bill, please provide me with additional information such as the date of the bill, the name associated with the bill, or any other relevant details you may have. With this additional information, I'll be able to guide you more effectively and ensure a quick resolution.

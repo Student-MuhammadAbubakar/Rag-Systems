@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: where can I report issues with sign-up?
+
+Answer: We appreciate you bringing up the issues you encountered during the sign-up process. Your feedback is essential for us to continuously improve our services. To report the sign-up issues, you can reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will be more than happy to assist you in resolving the sign-up problems and ensuring a smooth experience for you. Thank you for your patience and understanding as we work to address this matter promptly.

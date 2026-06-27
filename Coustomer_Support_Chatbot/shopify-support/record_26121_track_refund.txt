@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollars
+
+Answer: I understand the significance of the restitution you are expecting, amounting to {{Currency Symbol}}{{Refund Amount}}. Restitutions are crucial, not only in terms of the financial aspect but also for the overall peace of mind. Let me assure you that I am committed to providing you with the latest updates on your restitution. Rest assured, I will quickly check the current status of your reimbursement and provide you with the necessary information. While I gather the details, could you please confirm the preferred method of communication for sharing the updates? Whether it's via email or phone, we want to ensure seamless communication throughout this process. Thank you for your understanding, and I will be right back with an update shortly.

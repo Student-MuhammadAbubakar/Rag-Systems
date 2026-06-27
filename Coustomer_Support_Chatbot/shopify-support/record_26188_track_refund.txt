@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I try to see if there are any news on the reimbursement
+
+Answer: I realized you would like to check if there are any updates on your reimbursement. Your reimbursement is important to us, and we want to keep you informed every step of the way. Let me quickly check the latest status for you. Please bear with me for a moment while I fetch the information. Thank you for your patience.

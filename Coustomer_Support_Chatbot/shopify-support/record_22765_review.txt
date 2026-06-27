@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: is there a method to send feedback for a product?
+
+Answer: Absolutely! We value your feedback on our products as it helps us enhance our offerings. To send your feedback, you can visit our website and navigate to the "Contact Us" page. There, you will find a form specifically designed to gather product feedback. Alternatively, you can send an email to our dedicated product feedback team at {{Product Feedback Email}}. We look forward to hearing your thoughts and suggestions!

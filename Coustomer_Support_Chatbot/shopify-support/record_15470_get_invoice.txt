@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help me todownload my invoice #00108
+
+Answer: Gladly, my esteemed client! I shall assist you in your noble quest to procure the distinguished invoice numbered {{Invoice Number}}. Let me guide you through the graceful steps of downloading this illustrious document.

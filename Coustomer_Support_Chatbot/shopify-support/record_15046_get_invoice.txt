@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I have got to download invoice #12588, how can I do it?
+
+Answer: Of course! I understand your need to download the invoice with number #{{Invoice Number}}. Let me assist you with that. To download your invoice, you can follow these steps: [Provide step-by-step instructions to guide the user through the invoice download process]. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to help!

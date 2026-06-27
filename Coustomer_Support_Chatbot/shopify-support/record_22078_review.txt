@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: is tere an e-mail to send a comment about a product
+
+Answer: I'll make it happen! We greatly appreciate your interest in sharing your comment about our product. To ensure that your feedback reaches the appropriate department, please send your comment to our dedicated email address for product feedback. Our email address for product feedback is {{Product Feedback Email}}. We look forward to hearing from you and thank you for taking the time to provide your valuable input!

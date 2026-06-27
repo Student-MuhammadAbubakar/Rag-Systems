@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: help me checking what payment options are allowed
+
+Answer: Sure! I'm here to provide you with the information you need. To check the payment options available, you can follow these steps:
+
+1. Visit our website and navigate to the "Payment Methods" section.
+2. On the Payment Methods page, you will find a comprehensive list of all the payment options we accept.
+3. Take a moment to review the list and see which options suit your needs best.
+
+If you encounter any difficulties or have any questions, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+We strive to offer a wide range of payment options to ensure your convenience. Your satisfaction is our priority, so please don't hesitate to let us know if there's anything else we can assist you with.

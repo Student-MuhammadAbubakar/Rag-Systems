@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I cannot pay, help notifying of a problem with payment
+
+Answer: I'm sorry to hear that you're unable to make a payment and need assistance in notifying us about the problem. Your payment is important to us, and I understand the significance of resolving this issue promptly. To provide you with the appropriate support, could you please specify the specific problem you encountered during the payment process? Any details or error messages you can provide will help us to better assist you. We appreciate your patience and cooperation as we work together to address and resolve this payment issue.

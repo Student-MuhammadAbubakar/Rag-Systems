@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: give me information aout editing order {{Order Number}}
+
+Answer: I acknowledge that you're seeking information regarding editing order number {{Order Number}}. Making changes to an existing order is an important aspect of our service, and we want to ensure that you have all the necessary information to proceed. Could you please provide more specific details about the changes you'd like to make? This will allow us to give you accurate and personalized guidance on how to edit your order successfully. We're here to assist you every step of the way.

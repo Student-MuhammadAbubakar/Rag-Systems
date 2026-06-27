@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: help me to see when my purchase is gonn arrive
+
+Answer: We understand your anticipation to track the progress of your purchase and estimate its arrival time. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With these details, we'll be able to give you a precise update on the delivery date. Thank you for your cooperation and patience!

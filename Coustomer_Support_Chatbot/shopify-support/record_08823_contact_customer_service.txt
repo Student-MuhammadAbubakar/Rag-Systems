@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I try to talk to customer assistance
+
+Answer: We're listening! I'm keyed into the fact that you have been attempting to connect with our customer assistance team. I apologize for any inconvenience you may have experienced. Our team is available during {{Customer Support Hours}} to address your concerns and provide assistance. If you are still encountering difficulties in reaching us, please let me know and I will ensure that your issue is resolved promptly.

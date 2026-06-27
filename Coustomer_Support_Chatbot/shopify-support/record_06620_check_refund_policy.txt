@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: assistance to see in which cases can I ask to be reimbursed
+
+Answer: Assuredly! I completely understand your need for clarity on the situations where you can request a refund. Let me shed some light on this for you:
+
+1. **Product/Service Defect:** If the product or service you received has a defect or does not meet the specifications mentioned, you are generally eligible for a refund.
+2. **Order Cancellation:** If you change your mind and decide to cancel your order within the specified time frame, you should be able to request a refund.
+3. **Delivery Issues:** In case your order does not arrive or is undeliverable, you may be entitled to a refund.
+4. **Unauthorized Charges:** If you notice any unauthorized transactions on your account, please inform us immediately, as you may be eligible for a refund.
+5. **Service Incompatibility:** If the service you purchased is incompatible with your device or does not work as advertised, you may be eligible for a refund.
+6. **Change in Circumstances:** Sometimes, unforeseen circumstances may arise that prevent you from using the product or service as intended. Please reach out to our customer support team for assistance and potential reimbursement.
+
+While these are generally applicable scenarios, it's important to note that each refund policy may have its specific terms and conditions. To gain a comprehensive understanding of our refund policy, I recommend reviewing it on our website or reaching out to our customer support team directly. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Is there anything else I can assist you with?

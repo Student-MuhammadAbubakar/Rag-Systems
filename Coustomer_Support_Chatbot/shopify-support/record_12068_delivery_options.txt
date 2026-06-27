@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya ship toJapan
+
+Answer: Sure! We are thrilled to announce that we offer shipping services to {{Delivery Country}}. Fulfilling your needs and delivering our products to your doorstep in {{Delivery Country}} is our pleasure. Whether you're looking for standard or expedited shipping, we've got you covered. Rest assured that our team strives to ensure a seamless shipping experience for all our valued customers in {{Delivery Country}}. If you have any specific questions or concerns, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Let us be your trusted partner in shipping to {{Delivery Country}}!

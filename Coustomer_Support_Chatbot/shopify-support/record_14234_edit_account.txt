@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: change details on {{Account Type}} account
+
+Answer: We're excited to assist you in changing the details on your {{Account Type}} account! Your commitment to personalizing your account reflects your dedication to enhancing your experience with us. As we proceed, please remember not to share any personal identifiers like your full account number or password to ensure the utmost security. Could you kindly provide more specific information regarding the details you would like to update on your {{Account Type}} account? Let's work together to make the necessary modifications and customize your account to meet your needs.

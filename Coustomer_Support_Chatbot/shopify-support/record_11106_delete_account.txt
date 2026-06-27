@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dnt use my {{Account Category}} account want help to delete it
+
+Answer: Thank you for getting in touch about deleting your {{Account Category}} account. I understand that you no longer use it and would like assistance with the deletion process. Rest assured, I'm here to help guide you through this. To proceed with the account deletion, please provide me with the necessary account details or any specific instructions you may have. Together, we will ensure that your {{Account Category}} account is deleted securely and efficiently.

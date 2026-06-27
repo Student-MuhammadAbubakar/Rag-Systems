@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I do not want the item I purchased, can I cancel the order?
+
+Answer: I'm following your situation and the desire to cancel your order because you no longer want the item you purchased. We are here to assist you with the cancellation process. To cancel your order, please follow these steps:
+
+1. Access Your Account: Log in to your {{Online Company Portal Info}} using your username and password.
+2. Navigate to Your Orders: Once you are logged in, go to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Identify the Order: Look for the order that contains the item you no longer want.
+4. Initiate Cancellation: Within the order details, you should find an option labeled '{{Online Order Interaction}}'. Click on it to start the cancellation process.
+5. Confirm Cancellation: The system may ask you to confirm your decision before proceeding. Please provide the necessary confirmation.
+
+If you encounter any difficulties or have additional questions, our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us by phone at {{Customer Support Phone Number}} or through the Live Chat feature on our {{Website URL}}. We want to ensure your satisfaction and will do our utmost to assist you throughout the cancellation process.

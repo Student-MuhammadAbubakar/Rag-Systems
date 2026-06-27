@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correcting information on {{Account Category}} account
+
+Answer: It's great to see your dedication to keeping your {{Account Category}} account information accurate and up to date. To ensure the security of your personal data, please refrain from sharing any sensitive information, such as your account number or password, here. To make the necessary corrections to your {{Account Category}} account, I recommend logging into the {{Online Company Portal Info}} directly. If you require any guidance or encounter any issues during the process, our dedicated customer support team is available to provide personalized assistance. Together, we'll make sure your {{Account Category}} account information is corrected promptly and accurately.

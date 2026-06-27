@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: wanna know more about delivery period find some information
+
+Answer: We appreciate your interest in learning more about the delivery period. At our company, we prioritize providing timely and reliable information to our valued customers. The delivery period can vary based on various factors such as the shipping method, destination, and current shipping conditions. To help you get accurate information about the delivery period for your order, please provide us with the {{Order Number}} or {{Tracking Number}}. With that information, our team will be able to assist you promptly and provide you with the specific details regarding the estimated delivery timeframe. Thank you for choosing our services!

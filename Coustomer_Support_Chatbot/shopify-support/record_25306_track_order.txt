@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: lcate order {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you with locating the order with order number {{Order Number}}. To help you with this, could you please provide me with some additional details such as your name or any other relevant information associated with the order? This will allow me to quickly find the order in our system and provide you with the necessary information.

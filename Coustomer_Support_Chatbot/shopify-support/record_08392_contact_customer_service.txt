@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you help me get in touch with customer service?
+
+Answer: We're all ears! I'm tuned into the idea that you're looking to get in touch with our customer service team. Our dedicated representatives are available to assist you during {{Customer Support Hours}}. You can reach us through the following channels: {{Customer Support Phone Number}} or via Live Chat on our website at {{Website URL}}. If you have any other questions or concerns, please don't hesitate to let me know. How else may I assist you today?

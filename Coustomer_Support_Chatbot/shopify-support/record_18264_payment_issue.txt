@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know how to inform of errors with online payments
+
+Answer: I grasp your concern about how to inform us about errors with online payments. Don't worry, I'm here to guide you through the process. To report any errors or issues with online payments, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our experts will be more than happy to assist you and provide the necessary steps to resolve the issue. Thank you for bringing this to our attention and allowing us to help you.

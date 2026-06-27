@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery Country}}?
+
+Answer: Absolutely! We are delighted to offer delivery services to the United States, catering to a wide range of locations. Allow me to share with you the delivery options available for shipments to the {{Delivery Country}}:
+
+1. Standard Shipping: This option usually takes {{Date Range}} business days for delivery, making it an ideal choice for non-urgent items.
+2. Expedited Shipping: If you're in need of quicker delivery, this option guarantees your items will arrive within {{Date Range}} business days.
+3. Overnight Shipping: For those urgent needs, our overnight shipping ensures next business day delivery.
+4. In-Store Pickup: If you prefer a more personalized experience and live near one of our {{Store Location}}, you can choose to pick up your items directly from the store.
+
+Remember, delivery times may vary depending on the exact location and other factors. Should you have any specific questions or if there's anything else I can assist you with, don't hesitate to let me know. Your satisfaction is our priority!

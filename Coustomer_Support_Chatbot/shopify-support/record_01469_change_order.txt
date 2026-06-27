@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: change_order
+
+Question: how can I delete some products from purchase {{Order Number}} ?
+
+Answer: We genuinely understand your need to delete some products from purchase number {{Order Number}}. To assist you with this, you can follow these steps:
+
+1. Log in to your account and navigate to the "Order History" section.
+2. Locate the specific order with purchase number {{Order Number}}.
+3. Click on the order details to view a list of products included in the purchase.
+4. Identify the products you wish to delete and click on the "Remove" or "Delete" option next to each item.
+5. Confirm your action when prompted to ensure the removal of the selected products.
+6. Review your updated purchase details to verify that the desired changes have been made.
+
+Feel free to reach out to our customer support team if you encounter any difficulties during this process. We are here 24/7 to assist you in every step of the way. Rest assured, we are committed to providing you with excellent service and ensuring your complete satisfaction.

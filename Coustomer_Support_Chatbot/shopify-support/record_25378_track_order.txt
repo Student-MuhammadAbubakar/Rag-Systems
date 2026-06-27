@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have got to see purchase {{Order Number}} current status
+
+Answer: Your message means a lot! I'm aligned with the idea that you would like to check the current status of your purchase with the number {{Order Number}} {{Order Number}}. To view the latest updates on your purchase, I recommend visiting the '{{Order Status}}' section on our website. There, you will find real-time information about the status of your purchase, such as processing, shipped, or out for delivery. Should you have any further questions or require assistance with anything else, feel free to let me know. I'm here to help!

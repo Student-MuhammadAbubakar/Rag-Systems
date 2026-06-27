@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: where to check your payment modalities?
+
+Answer: Great question! To find the available payment methods, you can visit our website. Once you navigate to the checkout or payment section, you will be presented with a list of payment options to choose from. Can I assist you with anything else?

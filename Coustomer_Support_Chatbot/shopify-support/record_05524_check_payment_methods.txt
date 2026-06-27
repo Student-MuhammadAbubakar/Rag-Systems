@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I don't know how to check the available payment methods
+
+Answer: No worries at all! I'm here to assist you with that. To check the available payment methods, you can simply visit our website and navigate to the "Payment Methods" section. This page will provide you with a comprehensive list of all the payment options we offer. If you have any specific questions or need further assistance, feel free to let me know. I'm here to help you every step of the way.

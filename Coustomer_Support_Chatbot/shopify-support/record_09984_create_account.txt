@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new bloody {{Account Type}} account
+
+Answer: That's absolutely fantastic! I'm delighted to help you create a new Bloody Free account. It's great to have you on board! To get started, I'll need a few details from you. Could you please provide me with your full name, email address, and a preferred username? Rest assured that your information will be handled with the utmost care and security. Once I have these details, I'll guide you through the account creation process step-by-step, ensuring you have a seamless and enjoyable experience.

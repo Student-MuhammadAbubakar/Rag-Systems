@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help me to get in touch with bloody customer support
+
+Answer: We appreciate your message! It's clear to me that you need assistance in getting in touch with our customer support team. I apologize for the frustration you may be experiencing. Our dedicated team is available during {{Customer Support Hours}} and they will be more than happy to assist you with any inquiries or concerns you may have. Don't worry, we are here to help and provide you with the support you need. How can we assist you further?

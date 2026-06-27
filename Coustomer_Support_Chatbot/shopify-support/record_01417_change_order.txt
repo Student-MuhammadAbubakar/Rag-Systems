@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: edtiing order {{Order Number}}
+
+Answer: Thank you for contacting us regarding the editing of order number {{Order Number}}. I apologize for any inconvenience caused by the need for modifications. To assist you further, could you please provide specific details about the changes you would like to make to this order? Your satisfaction is our priority, and we appreciate your patience and collaboration in ensuring that your order meets your expectations.

@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I need help checking what bloody delivery methods are there
+
+Answer: Absolutely! Let's dive into the world of delivery methods together and explore the options available to you. Here are the different delivery methods we offer:
+
+1. Standard Shipping: This method typically takes {{Date Range}} business days to deliver your items. It's great for non-urgent purchases.
+2. Express Shipping: If you're in a hurry, this option ensures your items will arrive within {{Date Range}} business days.
+3. Same-Day Shipping: For those urgent needs, choose this option to receive your items on the same day.
+4. Store Pickup: If you prefer to collect your items in person, you can select this option and pick them up from our nearest store.
+
+I hope this helps! If you have any further questions or need assistance with anything else, feel free to let me know. I'm here to make your shopping experience a bloody good one!

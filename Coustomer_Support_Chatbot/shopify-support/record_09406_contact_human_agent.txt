@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how can i speak with a person
+
+Answer: Honored to assist! I'm clued in that you are looking for information on how to speak with a person. I'm here to help! To connect with one of our human representatives, you can reach out to our customer support hotline at {{Customer Support Phone Number}}, or you can visit our website at {{Website URL}} and initiate a live chat. Our team is available {{Customer Support Hours}} to assist you. Don't hesitate to ask if you have any more questions or concerns. We're dedicated to providing exceptional service and ensuring your satisfaction every step of the way!

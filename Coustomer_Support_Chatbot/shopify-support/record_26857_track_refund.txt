@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i xepect a refund of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm not mistaken how important it is for you to receive a refund of {{Currency Symbol}}{{Refund Amount}}. Your satisfaction is our priority, and we want to provide you with the assistance you need. I'll investigate the status of your refund right away to ensure that everything is on track. While I do that, please let me know if there's anything else I can help you with. Rest assured, I'm here to support you throughout this process.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: i do not know how to inform of an error with payments
+
+Answer: I've got that you're unsure of how to inform us about an error with your payments. Don't worry, I'm here to guide you through the process. To notify us about the error, you can reach out to our customer support team via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further and provide you with the necessary steps to report the error. Thank you for your patience and for bringing this to our attention.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: what do I have to do to request a restitution of money?
+
+Answer: I get it your need to request a restitution of your money. To initiate this process, I recommend reaching out to our customer support team who will guide you through the necessary steps. They have the expertise to handle refund requests and will ensure that your concerns are addressed promptly and accurately. You can contact them through our {{Live Chat Support}}, such as phone, live chat, or email, depending on your convenience. Rest assured, our goal is to assist you in obtaining the restitution you deserve and to make this process as smooth and hassle-free as possible.

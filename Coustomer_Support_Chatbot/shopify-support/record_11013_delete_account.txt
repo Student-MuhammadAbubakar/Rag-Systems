@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i do not know how i can cancel my {{Account Category}} account
+
+Answer: Glad you contacted to us regarding the cancellation of your {{Account Category}} account. I understand that you're unsure about the process, and I'm here to assist you every step of the way. Canceling an account can sometimes be confusing, but rest assured, I'll guide you through the necessary steps to ensure a smooth cancellation experience. Let's start by verifying some information and then I'll provide you with detailed instructions on how to cancel your {{Account Category}} account.

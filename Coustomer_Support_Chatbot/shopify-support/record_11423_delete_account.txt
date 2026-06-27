@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I never use the pro account, I want to delete it
+
+Answer: Thank you for bringing your concern about deleting your {{Account Type}} account to our attention. We understand that you no longer find value in using the {{Account Type}} account, and we want to ensure a smooth process for you. To proceed with the deletion, please follow the steps outlined below:
+
+1. Log in to your account using your credentials.
+2. Navigate to the account settings or preferences section.
+3. Look for the option to manage or delete your account.
+4. Click on the delete account option and follow the prompts to confirm the deletion.
+
+Please note that deleting your {{Account Type}} account is permanent and cannot be undone. Also, ensure that you have backed up any important data or files associated with your account before proceeding with the deletion. If you require any further assistance or have any additional questions, please don't hesitate to ask. We're here to help you through the process and ensure your complete satisfaction.

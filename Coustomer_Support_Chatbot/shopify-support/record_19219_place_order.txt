@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where do I buy several products?
+
+Answer: Thank you for considering purchasing several products from us! I'm here to guide you on where to make your purchase. Our products are available for purchase on our official website at {{Website URL}}. Simply visit our website, browse through our wide range of products, and add the items you want to your cart. Once you have selected all the products you wish to purchase, proceed to the checkout page and follow the instructions to complete your order. If you encounter any issues or have any further questions, please don't hesitate to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website. Happy shopping!

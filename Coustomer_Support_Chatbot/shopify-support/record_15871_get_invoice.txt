@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help me getting the bill from {{Person Name}}
+
+Answer: For sure! I understand your need to get the bill from {{Salutation}} {{Client Last Name}}. Allow me a moment to locate the bill for you. In the meantime, please let me know if there's anything else I can assist you with. I'm here to help!"

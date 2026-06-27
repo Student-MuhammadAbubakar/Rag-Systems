@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have entered a wrong fucking delivery address, correct it
+
+Answer: We apologize for any inconvenience caused by the incorrect delivery address. To assist you in correcting it, please provide us with the correct address details, including the street, city, state, and postal code. Once we have the accurate information, we will promptly update your delivery address and ensure your package is sent to the correct location. Thank you for your understanding and cooperation.

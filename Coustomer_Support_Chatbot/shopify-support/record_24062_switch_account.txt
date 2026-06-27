@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i have to use the standard account i need help
+
+Answer: Of course! I'm thrilled to support you in utilizing our reliable {{Account Type}} account:
+
+1. Access Your Account: First, log in to our platform using your credentials.
+2. Navigate to Account Settings: Once you're in, head over to the "Account Settings" section.
+3. Choose the {{Account Type}} Account: Look for an option labeled "Switch Account Type" or "Upgrade" and select the "{{Account Type}} Account" from the available options.
+4. Confirm the Switch: Follow the on-screen instructions to confirm your switch to the {{Account Type}} account.
+5. Enjoy the Benefits: Once the switch is complete, you'll have access to all the features and benefits of our reliable {{Account Type}} account.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out. I'm here to guide you on this journey, ensuring a seamless experience. Enjoy the enhanced features and functionality of your {{Account Type}} account!

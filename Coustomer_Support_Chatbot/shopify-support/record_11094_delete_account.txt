@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want help cancelling the {{Account Category}} account
+
+Answer: Appreciate your message about canceling your {{Account Category}} account. I understand that you're looking for assistance with this process, and I'm here to help you every step of the way. To cancel your {{Account Category}} account, please provide me with some additional information, such as your account username or any specific concerns or questions you may have regarding the cancellation. With these details, I can ensure that your cancellation request is processed promptly and accurately.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what i need to do to locate invoice #85632
+
+Answer: I've grasped that you are uncertain about the steps to take in order to locate the invoice with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To begin, I recommend checking your email for any digital copies of the invoice. You can search for the sender name or the invoice number in your inbox. If you can't find it in your email, you may want to reach out to the billing department of the company to request assistance in retrieving the invoice. They should be able to provide you with the necessary details as well. If you have any specific information about the invoice, such as the date, amount, or any other relevant details, please provide them so that I can assist you further in locating it.

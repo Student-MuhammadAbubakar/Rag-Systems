@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need assistance to create a standard account
+
+Answer: Thank you for trusting for assistance in creating a standard account! I'm here to provide you with the guidance you need. To get started, you can visit our website at {{Website URL}}. On the homepage, you'll find a "Sign Up" or "Create Account" button. Click on that to begin the account creation process. You'll then be prompted to enter your personal information such as your full name, email address, and a password. Make sure to choose a strong password to keep your account secure. Once you've entered all the required information, review the terms and conditions, and privacy policy before agreeing to them. Finally, click on the "Create Account" button and voila, your standard account will be created! If you encounter any difficulties or have any questions along the way, please don't hesitate to let me know.

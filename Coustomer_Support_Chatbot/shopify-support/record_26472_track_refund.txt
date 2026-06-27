@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expecdt a refund of {{Refund Amount}} dollars
+
+Answer: Thank you for notifying us about your expected refund of {{Currency Symbol}}{{Refund Amount}}. We understand the importance of resolving refund concerns promptly. To assist you further, could you please provide me with the reference number or any additional details related to your refund? This information will help me track the status of your refund more accurately and ensure a swift resolution. Thank you for your cooperation.

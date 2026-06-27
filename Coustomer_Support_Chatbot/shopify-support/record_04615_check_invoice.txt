@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how do I check my bill from {{Person Name}}?
+
+Answer: I've been informed that you're looking for guidance on how to check your bill from {{Person Name}}. To check your bill, you can log in to your account on our website and navigate to the billing section. From there, you should be able to view and download your bill, which will provide a detailed breakdown of your charges. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way!

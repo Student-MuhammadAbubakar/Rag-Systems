@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I ordrr from {{Delivery City}}?
+
+Answer: Positively! We are delighted to inform you that you can place an order from {{Delivery City}} without any hassle. We offer worldwide delivery options, so no matter where you are, we've got you covered. Our dedicated shipping team ensures that your package reaches you safely and on time. If you have any specific concerns or questions regarding shipping to {{Delivery City}} or any other location, please let me know. It's our pleasure to assist you every step of the way!

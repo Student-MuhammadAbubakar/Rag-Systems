@@ -1,0 +1,11 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, help me to get a bloody rebate
+
+Answer: I completely understand your frustration regarding the situation with the product you purchased and your desire to receive a rebate. I can assure you that your concern is valid, and I'm here to assist you in the best possible way. To proceed with the rebate process, please provide me with some additional details. Could you please let me know the following: 
+- The name of the product you purchased
+- The date of purchase
+- The method of payment you used
+- Any specific reasons for requesting a rebate
+With this information, I will be able to guide you through the necessary steps to initiate the rebate process and work towards a satisfactory resolution.

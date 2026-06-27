@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: where do I get my damn bills from {{Person Name}}?
+
+Answer: I see what you mean your frustration in locating your bills from {{Person Name}}. Allow me to assist you with this. To access your bills, you can log in to your online account on our website or check your email, as we often send electronic copies of invoices. If you're unable to find them via these methods, I recommend reaching out to our customer support team. They will be more than happy to assist you in obtaining the necessary bills from {{Person Name}}. Let me know if there's anything else I can help you with.

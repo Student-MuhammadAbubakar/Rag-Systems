@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: changing to {{Account Type}} account
+
+Answer: Assuredly! I'm thrilled to guide you through the process of upgrading to our prestigious {{Account Type}} account, providing you with exclusive access to our top-tier services:
+
+1. Access Your Account: Start by logging into our platform using your credentials.
+2. Account Settings: Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Upgrade Option: Look for an option that says '{{Upgrade Account}}' or '{{Account Change}}'.
+4. {{Account Type}} Account Selection: Choose the '{{Account Type}}' option from the available choices.
+5. Confirm and Finalize: Follow the prompts on the screen to confirm your upgrade and finalize the process.
+
+If you encounter any difficulties or have any further questions, please don't hesitate to reach out. Your decision to upgrade is deeply valued, and I'm here to ensure a seamless and fulfilling experience with your new {{Account Type}} account!

@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how can i get information about updating order {{Order Number}}
+
+Answer: We understand your desire to obtain information about updating order number {{Order Number}}. To assist you with this, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Orders" section or a similar option, where you can view your order history.
+3. Locate the specific order number (in this case, {{Order Number}}).
+4. Click on the order number to access the order details.
+5. Look for the option to update or modify the order. This might be labeled as "Edit Order" or "Modify Order."
+6. Click on the appropriate button or link to initiate the update process.
+7. Follow the on-screen instructions to make the desired changes to the order.
+
+If you encounter any difficulties or need further assistance during this process, our customer support team is available to help. You can reach them through our website's live chat or contact them at {{Customer Support Phone Number}}. They will gladly provide you with the necessary information and guidance to update your order successfully.
+
+Please let us know if there's anything else we can assist you with. We're here to ensure your satisfaction.

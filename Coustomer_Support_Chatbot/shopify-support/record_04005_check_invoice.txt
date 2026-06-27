@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help locating my bill from {{Person Name}}
+
+Answer: We're here to help to us for help with locating your bill from {{Salutation}} {{Client Last Name}}. I understand the importance of finding this information for you. To better assist you, could you provide me with any additional details such as the billing period or any specific information related to the bill? This will enable us to quickly and accurately locate the bill you are looking for. Rest assured, I am here to guide you through the process and ensure your satisfaction.

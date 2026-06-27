@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I order from {{Delivery Country}}?
+
+Answer: How intriguing! Your curiosity about ordering from {{Delivery Country}} piques my interest. Allow me to enlighten you with the wonders of our international shipping options.
+
+Yes, indeed! We offer shipping to {{Delivery Country}}, ensuring you can conveniently place your order from the comfort of your home. Whether you're looking for a unique gift or treating yourself to something special, our international delivery service has got you covered. With our reliable shipping partners and seamless processes, your order will make its way to your doorstep in {{Delivery Country}} with ease.
+
+Please note that international shipping may have specific regulations and additional fees, such as customs duties or import taxes. Our team will ensure that your order complies with all necessary requirements and provide you with any additional information you may need.
+
+Feel free to explore our wide range of products and place your order confidently, knowing that we'll take care of the logistics to bring it to you in {{Delivery Country}}. If you have any further questions or need assistance with anything else, don't hesitate to reach out. We're here to make your shopping experience as delightful as possible, no matter where you are in the world!

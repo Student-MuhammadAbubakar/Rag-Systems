@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i need assistance to create a standard account
+
+Answer: Thank you for trusting to us for assistance in creating a standard account. I'm here to guide you through the process and ensure a seamless experience. To get started, may I kindly ask for your full name, email address, and a preferred username? With this information, we can begin the account creation process swiftly and securely. Rest assured that your data privacy is of utmost importance to us, and we have measures in place to protect your personal information. If you have any questions or need further assistance along the way, please feel free to ask. Let's get you started on your {{Account Type}} account journey!

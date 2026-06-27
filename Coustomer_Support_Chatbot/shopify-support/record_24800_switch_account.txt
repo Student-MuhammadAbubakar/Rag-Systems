@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: want assistance switching to the {{Account Type}} account
+
+Answer: Assuredly! I'm excited to assist you in making the transition to our prestigious {{Account Type}} account. It's a choice that brings exclusive perks and superior privileges, and I'm here to make the process seamless for you.
+
+Here's what you need to do:
+1. Log in to your account using your credentials.
+2. Navigate to the Account Settings or Profile section, typically found in the upper right-hand corner of the screen.
+3. Look for an option labeled "Upgrade" or "Switch Account Type". Select it.
+4. Within the available options, choose the "{{Account Type}} Account" designation.
+5. Follow the on-screen instructions to finalize the switch.
+
+If you encounter any challenges or have further questions during the process, remember that I'm here to provide guidance and support. Embrace the opportunities that await you with our exceptional {{Account Type}} account, and enjoy the elevated experience it brings your way!

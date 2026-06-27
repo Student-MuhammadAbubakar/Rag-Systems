@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i do not know how i could create a {{Account Type}} account
+
+Answer: I'm here to help you with creating a {{Account Type}} account! Don't worry, the process is quite simple and I'll guide you through it step-by-step. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll assist you in setting up your {{Account Type}} account and ensuring a smooth experience. Let's get you started on unlocking all the premium features and benefits that come with a {{Account Type}} account!

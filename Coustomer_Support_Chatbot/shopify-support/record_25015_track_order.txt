@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: checking order {{Order Number}} stagus
+
+Answer: Thank you for reaching out! I'm here to assist you in checking the status of your order with the order number {{Order Number}}. To provide you with accurate information about your order's status, please allow me a moment to gather the necessary details.

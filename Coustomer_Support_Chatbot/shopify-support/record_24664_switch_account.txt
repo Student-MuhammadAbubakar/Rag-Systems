@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I do not know how I can change to the platinum account
+
+Answer: I comprehend your uncertainty about how to switch to the {{Account Category}} account. Let me assist you with the step-by-step process:
+
+1. Login: Start by logging into your account on our platform.
+2. Account Settings: Once you're logged in, navigate to the '{{Settings}}' section.
+3. Upgrade Options: Look for the '{{Upgrade Account}}' or '{{Account Change}}' button within the Account Settings.
+4. {{Account Category}} Selection: Choose the '{{Account Type}}' option from the available upgrade choices.
+5. Final Steps: Follow the on-screen prompts to complete the switch to the {{Account Category}} account.
+
+If you encounter any difficulties or have additional questions, don't hesitate to reach out. Your decision to upgrade to {{Account Category}} is highly appreciated, and I'm here to ensure a smooth transition. Get ready to enjoy the exclusive benefits that come with the {{Account Category}} account!

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I do not know how I can check when will my package arrive
+
+Answer: We understand that tracking your package and knowing its estimated arrival time is important to you. To assist you, we recommend visiting our website and navigating to the "Order Tracking" section, where you can enter the {{Tracking Number}} or {{Order Number}} to get real-time updates on the status of your package. If you have any further questions or need additional assistance, please feel free to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're here to help you every step of the way in ensuring your package arrives safely and promptly.

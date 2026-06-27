@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: have a problem with canceling order {{Order Number}}
+
+Answer: I've understood, you're experiencing some difficulties with canceling order {{Order Number}}. I apologize for any frustration this may have caused. To assist you further, I will need some additional information. Could you please provide more details about the problem you're encountering? This will allow me to identify the issue and provide you with the appropriate solution. Thank you for your cooperation, and I look forward to resolving this matter for you.

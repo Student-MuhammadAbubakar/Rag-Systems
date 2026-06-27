@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: contact customer service
+
+Answer: Thank you for contacting us regarding your need to reach our customer service. We understand the importance of providing timely assistance and resolving any concerns you may have. Our customer service team is available to assist you during our {{Customer Support Hours}}. You can reach us through our toll-free number {{Customer Support Phone Number}} or by visiting our website and accessing the live chat feature. Please don't hesitate to reach out if you have any further questions or require any assistance. We're here to help!

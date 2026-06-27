@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where to ask for a rebate of money
+
+Answer: I can sense that you're looking for information on where to ask for a rebate of money. To ensure you receive the necessary assistance, I recommend reaching out to our customer support team. They are well-equipped to handle refund requests and guide you through the process. You can contact them by calling {{Customer Support Phone Number}} or by visiting our website at {{Website URL}} and initiating a live chat session. Rest assured, our team will be dedicated to addressing your concerns and helping you with your refund request.

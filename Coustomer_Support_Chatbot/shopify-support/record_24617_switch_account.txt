@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I want to use the standard profile, I need help
+
+Answer: Definitely! I'm delighted to offer my assistance as you explore the remarkable features of our standard profile:
+
+1. Access Your Account: Begin by signing in to our platform.
+2. Profile Management: Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Switching Accounts: Within these sections, look for an option like '{{Account Change}}' or '{{Upgrade Account}}'.
+4. Select {{Account Type}} Profile: Choose the '{{Profile}}' from the list provided.
+5. Finalize the Transition: Follow the on-screen prompts to complete the process.
+
+If you encounter any challenges or if you have further inquiries, please don't hesitate to reach out. I'm here to ensure a smooth transition and assist you every step of the way. Enjoy the benefits of your new standard profile!

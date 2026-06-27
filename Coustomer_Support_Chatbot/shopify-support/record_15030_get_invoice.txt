@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: mail me my bill #37777
+
+Answer: I understand your request to receive your bill {{Invoice Number}} by mail. To ensure the security of your information, I'd recommend verifying your mailing address on file with us. Once we have confirmed your address, we'll be happy to mail your bill to you. Is there anything else I can assist you with?

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery City}} ?
+
+Answer: Wonderful choice in exploring our delivery options for {{Delivery City}}! We are pleased to inform you that we do offer delivery services to this energetic and dynamic city. Rest assured, we will make sure your package reaches you safely and on time. If you have any specific concerns or if there is anything else I can assist you with, please feel free to let me know. I'm here to ensure your delivery needs are met seamlessly.

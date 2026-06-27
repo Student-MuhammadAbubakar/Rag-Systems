@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know how I can cancel my {{Account Category}} account
+
+Answer: We appreciate your inquiry to us with your question about canceling your {{Account Category}} account. I understand that you may be unsure about the process, and I'm here to help. To cancel your {{Account Category}} account, you can follow a few simple steps. First, log in to your account on our website or app. Then, navigate to the account settings or profile section. Look for the option to manage your subscription or cancel your account. If you have any difficulties finding this option, please don't hesitate to let me know, and I'll provide you with more detailed steps. We value your membership and want to ensure a smooth cancellation experience for you.

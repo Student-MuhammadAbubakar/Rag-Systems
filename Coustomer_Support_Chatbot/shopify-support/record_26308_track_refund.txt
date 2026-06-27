@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollafs
+
+Answer: Thank you for informing us about your expected restitution of {{Currency Symbol}}{{Money Amount}}. I understand how important it is to receive the reimbursement promptly. Rest assured, I'll do everything I can to assist you in checking the current status of your refund. While I investigate this for you, please let me know if you have any other questions or if there's anything else I can help you with.

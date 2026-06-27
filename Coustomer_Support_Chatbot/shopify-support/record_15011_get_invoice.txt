@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: getting invoices from last month
+
+Answer: I completely understand your need to access invoices from last month. To retrieve the invoices from the previous month, you can go to your account dashboard and navigate to the "Invoices" section. From there, you'll be able to filter the invoices by date and select the desired month. If you need any further assistance or have any other questions, please feel free to let me know. I'm here to help!

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I would like to contact customer support, could you help me?
+
+Answer: We value your outreach! I'm in tune with the fact that you would like to contact our customer support. We have a dedicated team available to assist you with any inquiries or concerns. You can reach out to our customer support through various channels such as phone, email, or live chat. Our customer support team operates during {{Customer Support Hours}}. Please let me know which method works best for you, and I'll provide you with the necessary contact information.

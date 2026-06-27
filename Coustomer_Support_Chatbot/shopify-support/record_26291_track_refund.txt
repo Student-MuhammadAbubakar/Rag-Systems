@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a damn restitution of {{Refund Amount}} dollars was it processed
+
+Answer: Thank you for contacting us about your expected {{Currency Symbol}}{{Money Amount}} restitution. I apologize if you're feeling frustrated. I'll do everything possible to assist you. Let me quickly check the processing status of your restitution to provide you with accurate information. While I gather the details, may I kindly ask if you received any notification or confirmation of the restitution? Your input will help me better understand the current situation and expedite the resolution process. Thank you for your cooperation, and I appreciate your patience.

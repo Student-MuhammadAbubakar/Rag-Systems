@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correct details on {{Account Category}} account
+
+Answer: We truly appreciate your commitment to ensuring that the details on your {{Account Category}} account are accurate. Your proactive approach to correcting any discrepancies is highly commendable as it allows us to provide you with the best possible experience. To assist you further, could you please specify the specific details you would like to correct on your account? Your input will help us address your concerns effectively and efficiently.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i cant change an item of purchase {{Order Number}}
+
+Answer: I understand your concern about changing an item in your purchase with the purchase number {{Order Number}}. It's important to us that you have control over the items you receive. To assist you further, could you please provide more details about the item you wish to change? This will help us find the best solution for your request.

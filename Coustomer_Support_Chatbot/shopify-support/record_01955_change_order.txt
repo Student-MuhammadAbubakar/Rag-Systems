@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: upddate order {{Order Number}}
+
+Answer: We appreciate you reaching out to us regarding your request to update order number {{Order Number}}. We are here to assist you in making changes to your order. Could you please provide specific details on the updates you would like to make? This will help us ensure that we accurately process your request and provide you with the best possible solution. Your satisfaction is our top priority, and we are committed to making sure your order meets your expectations.

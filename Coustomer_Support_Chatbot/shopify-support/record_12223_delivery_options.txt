@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery City}}
+
+Answer: Indeed! {{Delivery City}}, a vibrant and bustling city indeed. Let me provide you with insights into our delivery options specifically for {{Delivery City}}:
+
+1. Standard Shipping: Typically arrives within {{Date Range}} business days. Perfect if you're not in a rush and want to enjoy the anticipation of your package's arrival.
+2. Expedited Shipping: With this option, your items will be delivered to you in {{Date Range}} business days, ensuring a faster delivery experience.
+3. Priority Shipping: For those who prioritize speedy delivery, this option guarantees {{Date Range}} business day arrival to {{Delivery City}}.
+4. Same-day Shipping: Shipping items on the same day is possible if you select this option. With {{Carrier Name}}, you can expect your package within a few hours.
+
+Please note that delivery times may vary depending on factors such as item availability and any unforeseen circumstances. Remember, I'm here to help if you have any further questions or need additional information. Your satisfaction is our top priority!

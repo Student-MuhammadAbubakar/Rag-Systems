@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i exepct a restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Firstly, I genuinely understand the significance of the restitution you are expecting, amounting to {{Currency Symbol}}{{Refund Amount}}. It's important to us that we address your concerns promptly and accurately. Let's work together to ensure that we provide you with the information you need to track the status of your restitution. I'll quickly look into this for you. While I fetch the necessary details, may I ask if you have any other concerns or questions related to the restitution? Your insights and patience are highly appreciated as we strive to meet your expectations and ensure your satisfaction.

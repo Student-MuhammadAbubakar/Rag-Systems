@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i have to call customer assistance how to do ti
+
+Answer: Grateful for your contact! I get the sense that you need guidance on how to call our customer assistance team. To do so, you can dial {{Customer Support Phone Number}} during the designated customer support hours. Our team will be ready to assist you with any queries or concerns you may have. If you prefer an alternative method, you can also reach out to our customer support via email at {{Customer Support Email}} or through the Live Chat on our website at {{Website URL}}. Don't hesitate to let me know if there's anything else I can assist you with!

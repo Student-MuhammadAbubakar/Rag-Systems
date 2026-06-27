@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I want to know more about shipping periods
+
+Answer: We understand that you are interested in learning more about shipping periods. Shipping periods typically refer to the estimated time it takes for a package to be delivered from the time it leaves our warehouse to when it arrives at your doorstep. The duration can vary depending on several factors such as the shipping method selected, the destination, and any potential customs processing. To provide you with accurate information specific to your order, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we can give you a more precise estimate of your shipping period. We appreciate your patience and look forward to assisting you further!

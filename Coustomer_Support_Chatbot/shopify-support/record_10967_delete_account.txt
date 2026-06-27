@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: cancel pro account
+
+Answer: Thank you for getting in touch about canceling your {{Account Type}} account. I understand that you no longer wish to continue with this account type. Please allow me to assist you in the cancellation process and ensure a smooth experience. Could you please provide me with your account details or any specific concerns you have regarding the cancellation? Rest assured, I am here to guide you through every step and address any questions or issues you may have to make this process as convenient as possible for you.

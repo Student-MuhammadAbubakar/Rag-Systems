@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: editing info on standard account
+
+Answer: We appreciate your proactive approach in updating the information on your {{Account Type}} account. Your commitment to keeping your account details accurate and relevant is commendable. Let's work together to make the necessary changes. Could you please provide me with the specific details you would like to edit? Rest assured, we'll guide you through the process step by step.

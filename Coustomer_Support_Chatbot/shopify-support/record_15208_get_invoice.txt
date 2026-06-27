@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to do to get my invoices from {{Person Name}}
+
+Answer: I see your request to access invoices from {{Person Name}}. To get your invoices, you can follow these steps:
+1. Log in to your account on our website.
+2. Navigate to the "Invoices" section.
+3. Select the option to filter invoices by customer.
+4. Enter the name "{{Person Name}}" in the search bar or filter options.
+5. Click on the search or filter button.
+6. You should now see all the invoices associated with {{Person Name}}.
+If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

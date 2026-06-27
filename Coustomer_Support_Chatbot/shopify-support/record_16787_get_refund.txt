@@ -1,0 +1,15 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for these articles, where do I obtain a rebate?
+
+Answer: I fathom that you paid ${{Refund Amount}} for these articles and you would like to know where you can obtain a rebate. I apologize for any inconvenience you may have faced. To request a rebate, you can follow these steps:
+
+1. Visit our website and log in to your account.
+2. Navigate to the "My Orders" section.
+3. Locate the specific order for which you would like to request a rebate.
+4. Click on the order details and look for the option to request a rebate.
+5. Follow the prompts and provide any necessary information or documentation required for the rebate request.
+6. Once your request is submitted, our team will review it and process the rebate accordingly.
+
+If you encounter any difficulties or have any additional questions, please do not hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to assist you and ensure a smooth process for obtaining your rebate.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: help me see what payment options ya accept
+
+Answer: Of course! I'd be more than happy to assist you in discovering the payment options we accept. At our company, we offer a diverse range of payment methods to cater to your convenience. Some of the accepted options include credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. These options ensure you have flexibility when making your purchase. If you need any further information or have any specific questions, feel free to let me know. I'm here to help!

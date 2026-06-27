@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do Ispeak with customer service?
+
+Answer: Thank you for contacting! I certainly recognize that you would like to connect with our customer service team. Rest assured, we have multiple channels available for you to reach out to us. You can speak with our customer service representatives by dialing our dedicated helpline at {{Customer Support Phone Number}}. Alternatively, you can also reach us through the live chat feature on our website at {{Website URL}}. Our knowledgeable team is ready to assist you with any questions, concerns, or issues you may have. We are here to provide you with the support you need. How may I further assist you today?

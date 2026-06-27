@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: wanna see the withdrawalcharge
+
+Answer: Sure! Let me provide you with the details of the withdrawal charge.

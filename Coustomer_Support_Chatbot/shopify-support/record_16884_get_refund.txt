@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebate {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I've become conscious that you are seeking a rebate of ${{Refund Amount}}, and I'm here to assist you in this process. To begin, could you please provide me with more information about your situation and explain why you believe you are eligible for a rebate? This will allow me to better understand your request and guide you through the necessary steps to obtain your rebate. Thank you for reaching out, and I look forward to helping you further.

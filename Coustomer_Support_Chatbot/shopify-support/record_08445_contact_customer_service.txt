@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help to contact damn customer support
+
+Answer: Thank you for reaching out! I completely understand that you are in need of assistance in contacting our customer support team. We apologize for any frustration or inconvenience you may have experienced. Our team is dedicated to resolving your concerns and providing the support you need. To contact our customer support, you can reach us during our {{Customer Support Hours}} at {{Customer Support Phone Number}}. Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. We are here to listen and assist you every step of the way. How else may I assist you today?

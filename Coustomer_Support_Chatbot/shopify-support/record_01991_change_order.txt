@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wanna change some items of order {{Order Number}}
+
+Answer: I can certainly assist you in updating the items for order number {{Order Number}}. It's great that you're looking to make changes to ensure your complete satisfaction! To get started, can you please provide me with the specific items you would like to change? This way, we can promptly process your request and make the necessary adjustments to your order. Your feedback is incredibly valuable to us, so thank you for reaching out.

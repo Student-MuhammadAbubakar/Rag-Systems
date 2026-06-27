@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checking invoices from 9 months ago
+
+Answer: Sure! I understand that you need assistance in checking invoices from {{Timeframe}}. To proceed, could you please provide me with any additional details such as the specific month or any other relevant information that could help us locate the invoices more efficiently? Rest assured, I'm here to guide you through the process and ensure you have a positive experience.

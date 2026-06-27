@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I need to get a rebate
+
+Answer: I'm conscious of the reality that you're looking to get a rebate. Rebates are a great way to recoup some of the money you've spent. To assist you with that, I would recommend reaching out to our customer support team. They will be able to guide you through the rebate process and provide you with all the necessary information to successfully obtain your rebate. You can contact them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you with your request and ensure that you receive the rebate you're entitled to.

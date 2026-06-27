@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: closing  {{Account Category}} account
+
+Answer: Thanks for dropping us a line to us regarding the closure of your {{Account Category}} account. We understand that you no longer require this account and we are here to assist you. Can you please provide us with some more details about your account so that we can guide you through the cancellation process? Rest assured, we will make sure to provide you with a smooth and hassle-free experience.

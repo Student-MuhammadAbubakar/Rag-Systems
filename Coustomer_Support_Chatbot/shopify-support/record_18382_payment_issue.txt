@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know how to infgorm of payment problems
+
+Answer: I've understood you may feel uncertain about how to inform us about the payment problems you're facing. Don't worry, I'm here to guide you through the process. To report the payment problems, you can reach out to our customer support team through our helpline at {{Customer Support Phone Number}} or by visiting our website and using the Live Chat feature. They will be able to assist you further and provide you with the necessary steps to inform us about the payment problems. Rest assured, we are committed to resolving these issues and ensuring a smooth payment experience for you.

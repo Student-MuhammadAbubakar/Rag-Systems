@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open platinum cacount for wife
+
+Answer: I truly appreciate your decision to open a {{Account Category}} account for your wife with us. It's an excellent choice for her to enjoy the benefits and privileges that come with this account. To get started, could you please provide me with her full name and email address? Once I have these details, I will guide you through the process step by step, ensuring a seamless experience. Rest assured, we take the security and privacy of our customers' information very seriously, so you can trust that her data will be protected with the utmost care. If you have any questions or need further assistance, feel free to let me know.

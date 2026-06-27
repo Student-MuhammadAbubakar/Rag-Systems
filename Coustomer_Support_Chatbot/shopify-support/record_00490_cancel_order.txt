@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I want help cancellkng purchase {{Order Number}}
+
+Answer: I see what you mean your need for assistance in canceling your purchase with the purchase number {{Order Number}}. Our priority is to ensure a seamless experience for you, so let's address this together:
+
+1. **Access Your Account**: Begin by logging in to your {{Online Company Portal Info}}. This will grant you access to all your transactions with us.
+2. **Locate Order Details**: Once inside, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section. Your purchase details will be available there.
+3. **Identify the Relevant Purchase**: Look for the purchase associated with the purchase number {{Order Number}}. Click on it to delve into the specifics.
+4. **Initiate the Cancellation Process**: In the purchase details, you should find an option labeled '{{Cancel Purchase}}' or something similar. Please select it.
+5. **Follow Any Additional Steps**: Our system may require further input or confirmation to proceed with the cancellation. Kindly provide the necessary information.
+
+Should you encounter any difficulties or have additional questions, our dedicated support team is just a call or chat away. Reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We appreciate your trust in us and are committed to ensuring your satisfaction throughout the cancellation process.

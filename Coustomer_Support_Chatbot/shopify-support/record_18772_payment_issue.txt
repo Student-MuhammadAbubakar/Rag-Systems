@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: inform of problems with payments
+
+Answer: I'm here to assist you in reporting any problems or issues you're facing with your payments. To ensure that we can address your concerns effectively, please provide us with specific details about the problem you're experiencing. This could include any error messages, unsuccessful transactions, or any other information that will help us investigate and resolve the issue promptly. Your feedback is vital, and we appreciate your cooperation in helping us improve our payment system. Rest assured, our dedicated support team is working diligently to assist you throughout this process. Thank you for reaching out to us.

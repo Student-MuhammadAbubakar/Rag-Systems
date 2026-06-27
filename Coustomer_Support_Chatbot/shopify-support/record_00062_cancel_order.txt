@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I cannot pay for the last purchase I have made, cancel it
+
+Answer: I gather that you're unable to make the payment for your recent purchase and would like to cancel it. I apologize for any inconvenience this may have caused. To assist you in canceling the purchase and resolving this issue, please follow the steps below:
+
+1. Log into your {{Online Company Portal Info}} using your credentials.
+2. Locate the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section, and navigate to the specific purchase you would like to cancel.
+3. Select the option labeled '{{Online Order Interaction}}' associated with your purchase.
+4. Take note that there may be additional instructions or questions prompted by the system, and your cooperation in providing the necessary information is greatly appreciated.
+
+If you encounter any difficulties or have further questions, our dedicated support team is available to assist you during {{Customer Support Hours}}. You can reach us via {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}.
+
+Rest assured that we are committed to resolving this issue and ensuring your satisfaction.

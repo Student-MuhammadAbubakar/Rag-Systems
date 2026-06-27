@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I need support trying to update my delivery address
+
+Answer: We are here to help you with updating your delivery address. Please provide us with your current shipping address and the correct address you would like to change it to. We will assist you in making the necessary modifications to ensure your package is delivered to the right location.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I don't know how to speak to customer assistance
+
+Answer: I've understood that you're unsure about how to speak to our customer assistance team. Don't worry, I'm here to guide you through the process. To reach our customer service representatives, you can either call our dedicated helpline at {{Customer Support Phone Number}} during our customer support hours or you can visit our website at {{Website URL}} and initiate a live chat session with one of our agents. We're here to assist you and address any concerns or questions you may have. Let me know if there's anything else I can do to support you.

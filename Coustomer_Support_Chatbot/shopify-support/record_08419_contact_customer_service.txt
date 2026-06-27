@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you help me call fucking customer sujpport?
+
+Answer: I see what you mean! I'm on the same page that you need assistance in contacting our customer support team. I apologize if you are experiencing any frustration or inconvenience. Rest assured, I'm here to help you resolve this issue. To reach our customer support team, you can dial {{Customer Support Phone Number}} during our customer support hours of operation. Alternatively, you can also connect with us through the Live Chat on our website at {{Website URL}}. Please let me know if there is anything else I can assist you with.

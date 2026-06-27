@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have to see my bill, help me
+
+Answer: I'll do my best! I'm here to assist you in viewing your bill. Could you please provide me with any relevant details such as the bill number, client name, or date range? This information will help me locate and generate your bill promptly. Rest assured, I'll guide you every step of the way to ensure you have a seamless experience.

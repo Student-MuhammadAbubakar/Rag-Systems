@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I call to check when my delivery is going to arrive
+
+Answer: We understand your curiosity about the estimated arrival time of your delivery. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can track your delivery and give you the most up-to-date status as well as an estimated delivery date. Your cooperation is greatly appreciated!

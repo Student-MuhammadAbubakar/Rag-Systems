@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have a question about creating a {{Account Category}} account
+
+Answer: Glad you contacted to us with your question about creating a {{Account Category}} account. I'm here to provide you with the answers you need! Please go ahead and ask your question, and I'll do my best to assist you and address any concerns you might have.

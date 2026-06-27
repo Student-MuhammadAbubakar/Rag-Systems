@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can you help me to check the methods for shipment?
+
+Answer: Of course! I'm here to assist you in exploring our shipping methods. Allow me to guide you through the steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the 'Shipping' or 'Delivery Options' section.
+3. You will find detailed information about our various shipping methods, including estimated delivery times and any associated costs.
+4. Take your time to review the options and choose the one that best suits your needs.
+
+If you encounter any difficulties or have further questions while navigating our website, feel free to reach out to our customer support team at {{Customer Support Phone Number}}. They will be more than happy to provide you with the necessary guidance. Happy browsing!

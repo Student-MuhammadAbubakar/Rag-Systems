@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with the cancellation of my {{Account Type}} account
+
+Answer: Thank you for contacting us regarding the cancellation of your {{Account Type}} account. We appreciate your patience and apologize for any inconvenience caused. To assist you better, could you please provide some more details about the issue you are facing? This will help us understand the problem more accurately and provide you with the appropriate solution. We are here to support you throughout the cancellation process and ensure a smooth experience.

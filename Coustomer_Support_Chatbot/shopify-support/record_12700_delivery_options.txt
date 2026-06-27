@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do uship to {{Delivery City}}
+
+Answer: Howdy! We absolutely provide shipping services to {{Delivery City}}, one of the magnificent cities we serve. Whether you're placing an order or need a package delivered, we've got you covered. {{Delivery City}}, with its rich history and vibrant culture, is just a shipping request away from experiencing the joy and convenience we offer. Feel free to explore our delivery options and shipping details, and if you have any specific questions or concerns, please don't hesitate to let me know. It would be my pleasure to assist you further!

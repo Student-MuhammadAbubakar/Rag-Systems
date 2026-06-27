@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing data on {{Account Category}} account
+
+Answer: How remarkable it is to see your eagerness in modifying the data on your {{Account Category}} account! I'm thrilled to assist you in this process. To change the data on your {{Account Category}} account, please follow these simple steps: 
+
+1. Login to your {{Online Company Portal Info}} account using your credentials.
+2. Navigate to the 'Account Settings' or 'Profile' section.
+3. Look for the 'Edit' or 'Update' option next to the data you wish to modify.
+4. Click on the respective option and make the necessary changes.
+5. Review your changes and ensure they are accurate.
+6. Save or Update your account information.
+
+If you encounter any issues or need further guidance, don't hesitate to reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to make this process as smooth as possible for you. Let's get started!

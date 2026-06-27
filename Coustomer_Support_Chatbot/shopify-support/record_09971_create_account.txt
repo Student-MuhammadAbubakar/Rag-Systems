@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create gold account
+
+Answer: Certainly! I'm thrilled to assist you in creating a {{Account Type}} account. {{Account Type}} accounts come with a host of exclusive benefits, including enhanced rewards, priority customer support, and access to premium features. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the account creation process step by step, ensuring you have all the information you need. Your privacy and security remain our top priorities, and your personal information will be handled with the utmost care.

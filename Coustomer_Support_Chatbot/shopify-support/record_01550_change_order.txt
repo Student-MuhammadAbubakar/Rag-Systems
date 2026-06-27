@@ -1,0 +1,11 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to remove something from order {{Order Number}}?
+
+Answer: I'm on the same wavelength, the importance of removing something from order {{Order Number}} for you. To make this adjustment, you can follow these steps:
+1. Go to your '{{Order Number}}' page.
+2. Locate the item or items you wish to remove.
+3. Click on the option to remove or delete the selected item(s).
+4. Review the changes and confirm the removal.
+By following these steps, you will be able to successfully remove the item(s) from your order. If you encounter any difficulties or have further questions, don't hesitate to ask. We're here to provide you with the assistance you need.

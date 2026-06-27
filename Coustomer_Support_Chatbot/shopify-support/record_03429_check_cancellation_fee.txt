@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: helpme seeing the early exit fee
+
+Answer: Sure! To check the early exit fee, you can log in to your account and go to the "Termination Charges" section. There, you will find all the information regarding the fees associated with cancelling your service before the contract period ends. Let me know if you need any further assistance!

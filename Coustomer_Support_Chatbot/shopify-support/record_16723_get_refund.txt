@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: wqhere to obtain rebates of money
+
+Answer: I appreciate your inquiry about where to obtain rebates for your money. To assist you in this matter, I would suggest reaching out to our customer support team. They are trained to handle refund requests and can provide you with the necessary guidance and instructions on how to proceed. Our customer support hours are {{Customer Support Hours}} and you can reach them at {{Customer Support Phone Number}}. Additionally, you can also check our website at {{Website URL}} for any specific refund policies or procedures that may be applicable. Rest assured, our team is dedicated to ensuring a smooth refund process and will do their best to assist you.

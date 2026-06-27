@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: need help checking the eta of the order {{Order Number}}
+
+Answer: Thank you for trusting us! I'm fully aware of you would like assistance in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with accurate information, could you please provide me with your order number? Once I have that, I'll be able to look up the ETA for you.

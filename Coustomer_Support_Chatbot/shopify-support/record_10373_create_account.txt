@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can  i create a {{Account Category}} account
+
+Answer: I'll take care of it! You can definitely create a {{Account Category}} account. We appreciate your interest in upgrading to our premium account option. To get started, I would require some basic information from you such as your full name, email address, and a preferred username. Once I have these details, I can guide you through the process step-by-step. The {{Account Category}} account offers exclusive benefits and enhanced features to provide you with a truly exceptional banking experience. Let's get started on creating your {{Account Category}} account and unlocking a range of amazing privileges and rewards!

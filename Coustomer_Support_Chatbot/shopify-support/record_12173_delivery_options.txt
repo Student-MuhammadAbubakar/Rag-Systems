@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order from {{Delivery City}}
+
+Answer: Of course! Our ordering system extends its reach to the beautiful city of {{Delivery City}}. You can easily place your order from the comfort of your home, office, or anywhere in {{Delivery City}}. We strive to make your order placement process seamless and hassle-free. If you have any specific concerns or questions regarding the ordering process or any other aspect, feel free to ask. It would be a pleasure to assist you further!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i cannot find bill #37777 mail it to me
+
+Answer: I understand your frustration in not being able to locate bill #{{Invoice Number}}. I apologize for the inconvenience caused. To address your concern, I will ensure that a copy of the bill is sent to you via mail. Please provide me with your preferred email address so that I can assist you further. Thank you for your patience and understanding as we work towards resolving this issue.

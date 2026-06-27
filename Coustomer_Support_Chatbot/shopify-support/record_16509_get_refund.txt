@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: what do i have to do to receive a compensation of my money
+
+Answer: I gather that you're seeking guidance on how to receive compensation for your money. I apologize for any inconvenience or dissatisfaction you may have experienced. To initiate the process, I recommend reaching out to our customer support team, either via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further with your specific situation and provide you with the necessary steps to request compensation. Rest assured, our team is dedicated to resolving any issues you may have and ensuring your satisfaction.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help me to locate the invoice #37777
+
+Answer: Definitely! I understand your need to locate the invoice with the number #{{Invoice Number}}. I'm here to assist you in finding the information you are looking for. To begin, could you please provide me with some additional details? This could include any relevant dates, client names, or any other information that could help me narrow down the search. With your cooperation, we'll work together to retrieve the invoice you need.

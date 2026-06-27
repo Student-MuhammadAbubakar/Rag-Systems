@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: how much will ya charge me if i cancel the contract
+
+Answer: Thank you for reaching out! In order to determine the exact cancellation fee for your contract, please log in to your account and visit the "Cancellation Fees" section. There you will find the specific charges associated with canceling your contract early. If you have any further questions or need assistance, feel free to let me know!

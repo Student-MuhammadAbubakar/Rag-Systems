@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do I have to do to locate the bill from {{Person Name}}?
+
+Answer: I understand your eagerness to locate the bill from {{Salutation}} {{Client Last Name}}. To find the invoice, I suggest logging into your account on our website. Once you're logged in, navigate to the "Invoices" or "Billing" section. There, you should be able to view and download your bill from {{Person Name}}. If you're having trouble locating it, please let me know, and I'll be happy to guide you through the process step by step.

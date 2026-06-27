@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deoiver to {{Delivery City}}
+
+Answer: Definitely! We offer delivery services to {{Delivery City}}, ensuring that customers like you can receive their orders conveniently. Our shipping options are designed to cater to a wide range of needs and preferences, providing a seamless experience when shopping with us. Whether you choose standard shipping for a more relaxed delivery timeline or expedited shipping for faster arrival, you can trust that we have you covered. We understand the importance of timely and reliable shipping, and we strive to make your shopping experience exceptional from start to finish. If you have any further questions or if there's anything else we can assist you with, please let us know. We're here to help!

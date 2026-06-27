@@ -1,0 +1,16 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: can you help me submit a new delivery address?
+
+Answer: I'm on it! I'm here to assist you in submitting your new delivery address. Please follow these steps:
+
+1. Log in to your account.
+2. Navigate to the 'My Account' or 'Profile' section.
+3. Look for the 'Shipping Addresses' or similar option.
+4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.
+5. Enter the details of your new delivery address in the provided fields.
+6. Double-check the accuracy of the information you've entered.
+7. Save the changes.
+
+If you encounter any difficulties or if the process differs, please provide more specific details about the issue you're facing, and I'll be more than happy to provide further assistance.

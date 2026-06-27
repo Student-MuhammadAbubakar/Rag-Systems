@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit info on {{Account Type}} account
+
+Answer: It's fantastic to see your proactive approach in editing the information on your {{Account Type}} account! We understand that keeping your account details up to date is crucial for a seamless experience. To assist you effectively, could you please provide more specific details about the information you would like to edit? Our team is here to guide you through the process and ensure that your {{Account Type}} account reflects the most accurate and relevant information.

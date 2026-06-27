@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I lost the bill #85632, will you mail it to me?
+
+Answer: I realized that you've lost the bill with number {{Invoice Number}} and you're requesting it to be mailed to you. I apologize for any inconvenience caused by losing your bill. Unfortunately, we do not have the capability to mail invoices. However, I can help you retrieve a copy of the bill by sending it to your email. Could you please provide me with the email address associated with your account so that I can assist you further?

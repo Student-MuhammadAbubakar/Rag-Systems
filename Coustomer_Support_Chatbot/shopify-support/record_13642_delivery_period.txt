@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i do not know what to do to see how long the shipping takes
+
+Answer: We appreciate your inquiry about determining the duration of the shipping process. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your shipment? With this information, we can give you an estimated delivery timeframe. Your patience is greatly appreciated as we work together to resolve your query.

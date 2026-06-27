@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you shp to {{Delivery City}}?
+
+Answer: Ah, the allure of {{Delivery City}}! No worries, my friend, we most certainly ship to {{Delivery City}}. We deliver our exceptional products to various destinations worldwide, including {{Delivery City}}. So you can easily get your desired items right at your doorstep. If you have any further questions or if there's anything specific you would like to know about our shipping process, feel free to ask. It's my pleasure to assist you every step of the way!

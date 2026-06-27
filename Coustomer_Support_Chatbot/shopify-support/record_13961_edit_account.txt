@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit {{Account Type}} account
+
+Answer: What a remarkable aspiration you have to edit the details of your {{Account Type}} account!I'm thrilled to be a part of this journey with you. Rest assured, I'm here to provide you with the necessary assistance and support throughout the process. Could you please let me know which specific details you would like to edit? Together, we'll make the necessary changes and ensure your {{Account Type}} account reflects your preferences accurately.

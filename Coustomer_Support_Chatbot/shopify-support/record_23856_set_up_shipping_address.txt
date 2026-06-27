@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I need to enter an different shipping address
+
+Answer: I grasp your need to enter a different shipping address. To do so, please follow these steps:
+
+1. Log in to your account.
+2. Navigate to the 'My Account' or 'Profile' section.
+3. Look for the 'Shipping Addresses' or similar option.
+4. Select the option to 'Add a New Address' or 'Edit Shipping Addresses'.
+5. Enter the details of the different shipping address in the provided fields.
+6. Save the changes.
+
+If you encounter any issues or if the process appears different for you, please provide more details about where you're facing difficulties, and I'll be glad to assist you further."

@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: help me enter an new shipping address
+
+Answer: I acknowledge that you're seeking assistance in entering a new shipping address. Let me guide you through the process step by step:
+
+1. Log in to your account.
+2. Navigate to the 'Shipping' or 'Delivery' section.
+3. Look for an option to 'Add New Address' or 'Edit Shipping Addresses'. Select it.
+4. Fill in the details of your new shipping address, such as street, city, state, and ZIP code.
+5. Double-check the accuracy of the entered information to ensure proper delivery.
+6. Save the changes to finalize the addition of your new shipping address.
+
+If you encounter any difficulties during this process or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

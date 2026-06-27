@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to swap some products of purchase {{Order Number}}
+
+Answer: I've understood, you need assistance in swapping some products for purchase number {{Order Number}}. Our team is here to help you make the necessary changes. Please provide us with the details of the products you would like to swap, including the specific items you want to exchange them with. This will allow us to process your request accurately and efficiently. We are committed to ensuring your complete satisfaction with your purchase. Let us know how we can assist you further.

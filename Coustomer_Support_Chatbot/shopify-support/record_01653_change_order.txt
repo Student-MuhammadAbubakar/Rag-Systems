@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: add item to order {{Order Number}}
+
+Answer: Thank you for contacting! I certainly recognize that you would like to add an item to order number {{Order Number}}. I'm here to help you with that. Could you please provide me with the details of the item you wish to add? It could be the name, quantity, and any other relevant information. This way, I can assist you promptly in updating your order to meet your expectations. Your satisfaction is our top priority!

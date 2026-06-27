@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i need help changing a product of purchase {{Order Number}}
+
+Answer: We appreciate you reaching out to us for assistance in changing a product in your purchase with the number {{Order Number}}. Rest assured, we are here to help you make the necessary adjustments. To ensure we provide you with accurate guidance, could you kindly specify the particular product you would like to change? Once we have the details, we will promptly guide you through the process. Your satisfaction is our priority, and we will do our best to meet your expectations. How can I assist you further?

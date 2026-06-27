@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: pudate pro account
+
+Answer: I'm thrilled to witness your passion for updating the details on your {{Account Type}} account!my mission is to support you in this process and ensure a seamless experience. To get started, could you please provide me with the specific information you would like to update? Together we will make sure that your {{Account Type}} account is up-to-date and perfectly tailored to your needs.

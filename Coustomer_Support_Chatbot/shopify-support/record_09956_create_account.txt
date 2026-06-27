@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: give me information about opening {{Account Type}} accounts
+
+Answer: I'm delighted that you're interested in opening a {{Account Type}} account with us! It's an excellent choice if you're looking for a no-cost option with basic features. To provide you with the necessary information, I'd like to confirm a few details. Could you please let me know which specific type of account you're interested in? Additionally, is there any particular service or feature you'd like to know more about? Once I have these details, I'll be able to give you a comprehensive overview of the account opening process and answer any questions you may have.

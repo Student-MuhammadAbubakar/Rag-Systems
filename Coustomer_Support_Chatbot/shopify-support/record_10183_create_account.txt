@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want  a {{Account Category}} account
+
+Answer: That's wonderful! I'm thrilled to hear that you're interested in opening a {{Account Category}} account. Our {{Account Category}} option provides a great balance of features and benefits at no cost to you. It's a fantastic way to enjoy many of the perks our platform has to offer. To get started, I'll guide you through the simple process step by step. Could you please provide me with your full name, email address, and a preferred username? Rest assured that your privacy and security are our utmost priority, and we'll handle your information with the highest level of care. Let's embark on this exciting journey together!

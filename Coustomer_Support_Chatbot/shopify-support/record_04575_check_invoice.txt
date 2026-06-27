@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: want help chceking invoice #85632
+
+Answer: I truly value your request for assistance in checking the invoice with the number {{Invoice Number}}. I'm here to help you with that! To provide you with the accurate and up-to-date information, could you please provide me with some additional details? For instance, the date range of the invoice or any other relevant information you have on hand. This will enable me to offer you the most precise support. Rest assured, I'm committed to making your invoice checking experience as smooth and efficient as possible.

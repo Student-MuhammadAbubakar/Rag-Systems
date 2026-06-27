@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: can uhelp me taking a quick look at my invoice #37777
+
+Answer: We've received your message to us for assistance with quickly checking the invoice with the number #{{Invoice Number}}. I completely understand your eagerness to obtain the details of your invoice, as it allows you to keep track of your expenses and maintain a clear financial record. Rest assured, I am here to help you with this. To provide you with prompt and accurate information, could you please confirm your account details, such as your name and email address associated with the invoice? Once we have that information, we can proceed to locate your invoice and assist you further.

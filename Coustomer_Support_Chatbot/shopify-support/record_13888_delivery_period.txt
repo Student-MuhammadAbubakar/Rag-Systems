@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can you help me to see how long the delivery takes?
+
+Answer: Understanding your desire to have visibility on the delivery timeframe is our priority. To provide you with accurate information, I kindly request you to provide the {{Tracking Number}} or {{Order Number}} associated with your package. Once we have this information, we can determine the estimated delivery time for you. Thank you for your cooperation and trust in our services.

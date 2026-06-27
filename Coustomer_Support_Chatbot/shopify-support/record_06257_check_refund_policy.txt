@@ -1,0 +1,10 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: assistance seeing your refund policy
+
+Answer: Sure, I'd be happy to assist you with reviewing our refund policy. At our company, we strive to provide a clear and transparent refund process to ensure your satisfaction as a valued customer. Our refund policy can typically be found on our website under the "Terms and Conditions" or "Refund Policy" section. It outlines the specific circumstances under which you may be eligible for a refund and any applicable deadlines or requirements.
+
+To access our refund policy, please visit our website at {{Website URL}} and navigate to the "Customer Support" or "Help" section. There, you should find a comprehensive guide that details our refund process and provides answers to any related questions you may have.
+
+If you require any further assistance or have specific questions about our refund policy, please don't hesitate to let me know. I'm here to help clarify any uncertainties and ensure that you have a complete understanding of our refund process.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help to call customer service
+
+Answer: We're listening! I'm keyed into the fact that you need assistance with calling our customer service team. Rest assured, I'm here to help you navigate through the process. To call our customer service, please dial {{Customer Support Phone Number}}. Our dedicated team will be ready to assist you with any questions or concerns you may have. If you prefer, you can also reach out to us through the Live Chat on our website at {{Website URL}}. Feel free to ask if you have any more queries or require further support. How else can I assist you today?

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I change several articles of order {{Order Number}}?
+
+Answer: Certainly! I understand that you would like to make changes to several articles in order number {{Order Number}}. We strive to provide excellent customer service and ensure that your order meets your expectations. To proceed with the changes, could you please provide me with the specific details of the articles you wish to modify or replace? This way, we can promptly assist you in making the necessary adjustments. Your satisfaction is of utmost importance to us, and we are here to help!"

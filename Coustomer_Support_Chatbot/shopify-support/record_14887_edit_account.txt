@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correcting info on {{Account Category}} aqccount
+
+Answer: We appreciate your enthusiasm for correcting the information on your {{Account Category}} account, and we're here to assist you! To ensure the security and accuracy of your account, please refrain from sharing any personal identifiers such as your full account number or password. For personalized assistance, I recommend securely logging into our {{Online Company Portal Info}} or reaching out to our dedicated customer support team. Could you please provide more details about the specific information you'd like to correct? Rest assured, we'll work together to ensure everything is up to date and accurate on your {{Account Category}} account.

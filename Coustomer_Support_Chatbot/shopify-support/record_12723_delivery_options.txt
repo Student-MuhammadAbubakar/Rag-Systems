@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery Country}}
+
+Answer: I'm happy to help! We are thrilled to offer delivery options to our valued customers in {{Delivery Country}}. Whether you are in Vancouver, Toronto, Montreal, or any other city, we've got you covered. Our shipping options ensure that your package arrives safely and on time. Feel free to explore the various delivery options available, including standard shipping, expedited shipping, and even express delivery. Each option offers its own timeframe and benefits, so you can choose the one that best suits your needs. If you have any specific concerns or questions about delivery to {{Delivery Country}}, please let me know. I'm here to help make your shopping experience as seamless as possible, eh?

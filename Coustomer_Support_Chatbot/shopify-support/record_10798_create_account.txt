@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i aint registered yet could i open a pro account withyou
+
+Answer: I recognize that you haven't registered yet and are interested in opening a {{Account Type}} account with us. Thank you for considering us for your account needs! To get started, I would need a few details from you, such as your full name, email address, and a preferred username. Once I have this information, I can guide you through the process and ensure a smooth account creation experience. Rest assured that your security and privacy are of utmost importance to us, and we will handle your information with the utmost care. Let's make this happen and get you set up with your {{Account Type}} account!

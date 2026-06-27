@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: delieries to {{Delivery City}}
+
+Answer: Ah, {{Delivery City}}! A city full of cultural heritage and vibrant energy. Allow me to present to you the shipment options available to {{Delivery City}}:
+
+1. Standard Shipping: Typically arrives within {{Date Range}} business days. A reliable option for non-urgent deliveries to {{Delivery City}}.
+2. Expedited Shipping: If time is of the essence, this will get your package to {{Delivery City}} in {{Date Range}} business days.
+3. Overnight Shipping: For those urgent needs, guaranteeing next-day delivery to {{Delivery City}}.
+4. In-Store Pickup: Perfect if you happen to be near one of our local stores in {{Delivery City}} and prefer to collect your items personally.
+
+These options are tailored to ensure a seamless delivery experience to {{Delivery City}}. Please feel free to ask if you have any further questions or need assistance with anything else. Your satisfaction is our utmost priority!

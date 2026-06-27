@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I don't know what I have to do to switch to the {{Account Type}} account
+
+Answer: Sure! I understand that you're looking for guidance on switching to the {{Account Type}} account. Allow me to assist you with the steps:
+
+1. Log in: Start by signing in to your existing account.
+2. Account Settings: Navigate to the '{{Settings}}' section.
+3. Account Type: Look for an option that says '{{Account Change}}'.
+4. Switch to Free Account: Select the '{{Account Type}}' option from the list.
+5. Confirm: Follow the on-screen instructions to confirm the switch.
+
+If you encounter any difficulties or require further assistance, don't hesitate to reach out. I'm here to ensure a smooth transition to the {{Account Type}} account. Let me know if there's anything else I can help you with.

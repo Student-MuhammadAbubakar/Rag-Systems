@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: the address changed, could I update it?
+
+Answer: Sure! If your address has changed, we can definitely help you update it. Please provide us with the new address, and we'll make sure to update it in our system for you.

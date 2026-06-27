@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checkmy invoice #37777
+
+Answer: Of course! I understand your need to locate your invoice with the number #{{Invoice Number}}. Let me guide you on how you can find it. Please go to the "Billing" section on our website or app and then search for the invoice number #{{Invoice Number}}. You should be able to view and download it from there. If you encounter any issues or need further assistance, please don't hesitate to let me know. I'm here to help!

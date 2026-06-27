@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I do not know how to buy several of your product
+
+Answer: We're here for you! I'm aware that you're unsure about the process of purchasing several of our products, and I'm here to help. Don't worry; I'll guide you step-by-step through the ordering process. To get started, may I know which specific products you're interested in? Once I have that information, I can provide you with all the necessary details on how to make a successful purchase.

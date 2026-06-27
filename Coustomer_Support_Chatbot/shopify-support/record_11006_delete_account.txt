@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not use the damn {{Account Category}} account, help canceling it
+
+Answer: Happy to get your message regarding the cancellation of your {{Account Category}} account. I apologize if you're dissatisfied with the account. Please provide me with more details so that I can assist you properly. Specifically, could you please clarify why you want to cancel the {{Account Category}} account and any issues you may be facing? We are here to help and ensure your satisfaction throughout the process.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where do I check when will my purchase arrive?
+
+Answer: We understand your eagerness to track the progress of your purchase and determine its estimated arrival time. To provide you with the most accurate information, we kindly request you to provide us with the {{Tracking Number}} or {{Order Number}}. Alternatively, you can visit our website and go to the "{{Order Tracking}}" page. There, you will be able to enter your order details and access real-time updates about your delivery. Thank you for your cooperation in helping us assist you better.

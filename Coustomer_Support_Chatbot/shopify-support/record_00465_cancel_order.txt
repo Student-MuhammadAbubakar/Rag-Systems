@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I cannot afford order {{Order Number}}
+
+Answer: I'm conscious of the reality that affordability is a concern for you regarding order {{Order Number}}. We appreciate your openness in sharing this information. Our team is here to assist and explore possible alternatives or solutions that may better suit your financial situation. Please reach out to our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. Together, we can work towards finding a resolution that meets your needs and ensures your satisfaction.

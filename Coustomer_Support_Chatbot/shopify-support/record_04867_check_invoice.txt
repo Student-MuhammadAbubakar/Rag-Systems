@@ -1,0 +1,11 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checking invoice from 4 purchases ago
+
+Answer: I'll get right on it! I'm here to assist you in checking the invoice from your purchase made 4 purchases ago. To provide you with accurate information, could you please provide me with the following details: 
+1. Your full name.
+2. The approximate date of the purchase.
+3. Any additional information that can help me locate the invoice, such as the product or service purchased.
+
+Once I have these details, I'll do my best to help you locate the invoice from your purchase 4 purchases ago.

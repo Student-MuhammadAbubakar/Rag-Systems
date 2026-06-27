@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I want help to give a quick look at the invoice #00108
+
+Answer: I certainly recognize your need to quickly review the invoice with the number {{Invoice Number}}. Let's take a moment to assist you with that. To provide the most accurate information, could you please verify the date range when the invoice was issued? Additionally, if you have any other specific details or questions regarding the invoice, feel free to let me know. Rest assured, I'm here to support you every step of the way and ensure your satisfaction.

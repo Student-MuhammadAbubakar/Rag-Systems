@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about the cancellation of a {{Account Type}} account
+
+Answer: We've received your message to us for information regarding the cancellation of your {{Account Type}} account. We are here to assist you every step of the way. In order to better understand your specific situation, could you please provide some more details about your account and the reason for cancellation? This will enable us to provide you with the most accurate information and guide you through the cancellation process effectively. Your satisfaction is our top priority, and we look forward to helping you with your account cancellation.

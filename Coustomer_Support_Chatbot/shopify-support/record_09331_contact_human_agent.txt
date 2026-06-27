@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how do i speak with an agent
+
+Answer: Thank you for reaching out! I completely understand your need to speak with an agent. Let me guide you through the steps to connect with someone who can assist you further. Firstly, please check our website for any available customer support options, such as live chat or a contact form. Alternatively, you can reach out to our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team of agents is available to help you with any questions or concerns you may have. We appreciate your patience, and we're here to provide you with the assistance you need.

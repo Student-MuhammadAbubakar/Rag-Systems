@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i no lomger need my damn gold account can uhelp me delete it
+
+Answer: We appreciate your inquiry to us regarding the cancellation of your {{Account Type}} account. I understand that you no longer need it and I'm here to assist you with the account deletion process. We value your experience and want to ensure that this transition is as seamless as possible. Could you please provide me with the necessary account details so that I can proceed with the deletion? Rest assured that we will take care of your request with utmost priority and ensure your satisfaction throughout this process.

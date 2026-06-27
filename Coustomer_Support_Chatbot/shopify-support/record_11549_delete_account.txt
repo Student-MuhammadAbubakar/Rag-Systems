@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not need the {{Account Category}} account, help to delete it
+
+Answer: I've decoded that you would like assistance with deleting your {{Account Category}} account. We appreciate your decision and we're here to help! To proceed with the deletion, please provide me with your account details such as the email address or username associated with your {{Account Category}} account. Once we have verified your account information, we will guide you through the deletion process step by step. Rest assured that we respect your choice and are committed to providing you with a smooth experience.

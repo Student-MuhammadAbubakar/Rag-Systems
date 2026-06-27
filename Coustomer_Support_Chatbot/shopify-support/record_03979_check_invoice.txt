@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need assistance taking a quick look at my bill #12588
+
+Answer: Absolutely! I'm here to help you take a quick look at your bill with the number #{{Invoice Number}}. To access it, you can log in to your account on our website and navigate to the "Billing" or "Account" section. Once you're there, you should be able to find a list of your invoices or statements. Look for the invoice labeled with the number #{{Invoice Number}}. If you're having trouble locating it, please let me know, and I'll be glad to guide you further.

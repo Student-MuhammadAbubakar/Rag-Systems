@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can you show me how soon can I expect my purchase?
+
+Answer: We completely understand your eagerness to know the estimated delivery date for your purchase. To provide you with accurate information, could you please provide us with the {{Order Number}}? With this, we can track your order and give you an update on the expected delivery date. Thank you for your patience and cooperation.

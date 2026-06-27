@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I have lost bill #37777, could you send it to me?
+
+Answer: Not a problem at all! I completely understand how frustrating it can be to misplace an important document like bill #{{Invoice Number}}. I'm here to assist you in retrieving it. Give me just a moment to access our system and locate that specific bill for you. While I work on that, please feel free to let me know if you have any other questions or concerns. Helping you with this request is my top priority!

@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: i want help listing the available payment options
+
+Answer: I'll get right on it! I'm here to assist you with listing the available payment options. Our company offers a diverse range of payment methods to ensure convenience for all our valued customers. Here are the various payment options we provide:
+
+- Credit/Debit Card: We accept major cards like Visa, Mastercard, and American Express.
+- PayPal: A secure and widely-used online payment method.
+- Bank Transfer: Make direct payments from your bank account.
+- Apple Pay: An easy and quick payment method for Apple users.
+- Google Wallet: Google's payment system for fast and convenient checkouts.
+
+If you have any questions or need further guidance on any specific payment method, feel free to let me know. Your satisfaction is our priority, and we're here to support you every step of the way!

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how can I see how long it takes for the damn item to arrive?
+
+Answer: We deeply understand your frustration and the urgency of wanting to know the estimated delivery time for your item. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} for your purchase? With those details, we will be able to give you an update on the expected delivery date. Your patience is greatly appreciated, and we are here to assist you every step of the way.

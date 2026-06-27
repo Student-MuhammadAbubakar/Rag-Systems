@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I call to check how long it takes for ym article to arrive
+
+Answer: Understandably, you're curious about the estimated delivery time for your article. To provide you with accurate information, could you please provide me with the {{Tracking Number}} or {{Order Number}} for your package? With that information, I'll be able to give you an estimated arrival time. We appreciate your patience and understanding.

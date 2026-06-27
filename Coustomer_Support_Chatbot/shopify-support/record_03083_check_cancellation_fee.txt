@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I don't know what I have to do to see the withdrawal pemalty
+
+Answer: No worries! To view the withdrawal penalty, you can simply log in to your account and navigate to the "Cancellation Fees" section. This will provide you with all the details regarding any penalties associated with withdrawing your service.

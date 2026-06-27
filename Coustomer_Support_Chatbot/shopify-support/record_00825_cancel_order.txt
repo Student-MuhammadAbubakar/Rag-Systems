@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can't afford purchase {{Order Number}}
+
+Answer: I hear you loud and clear your financial concerns regarding purchase {{Order Number}}. Let's work together to find a suitable solution for you. Here are a few options to consider:
+
+1. **Return and Refund**: If the purchase hasn't been shipped yet, you may be eligible for a return and full refund. I recommend checking the return policy on our website or reaching out to our customer support team for assistance.
+2. **Exchange or Store Credit**: Some companies offer the option to exchange the purchase for a more affordable item or receive store credit that can be used on a future purchase. This could be a great way to find an alternative product within your budget.
+3. **Delayed Payment**: In certain cases, companies may offer the option to delay the payment or set up a payment plan. It's worth reaching out to our customer support team to inquire about any available flexibility in payment terms.
+4. **Discounts and Promotions**: Keep an eye on our website and social media channels for any ongoing discounts or promotions that may help reduce the cost of the purchase. Our customer support team can also provide you with information on any current offers.
+
+Remember, we're here to support you through this process. Feel free to reach out to our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or via live chat on our website at {{Website URL}}. Together, we'll find a solution that works for you.

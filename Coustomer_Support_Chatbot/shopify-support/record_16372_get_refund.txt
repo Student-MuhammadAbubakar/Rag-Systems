@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where to obtain a refund of my money?
+
+Answer: I'm on the same page, your need to locate where to obtain a refund for your money. To ensure the process is seamless for you, I recommend reaching out to our customer support team. They have the expertise and resources to guide you through the refund process and provide you with the necessary information. You can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in obtaining your refund and address any additional concerns you may have.

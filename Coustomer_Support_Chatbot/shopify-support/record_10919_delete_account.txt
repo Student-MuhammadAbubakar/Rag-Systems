@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want help to close a standard account
+
+Answer: Appreciate your message to us regarding the closure of your standard account. We understand that you may have your reasons for wanting to close your account, and we want to assist you in the best way possible. To initiate the process, I recommend contacting our customer support team directly. They will guide you through the necessary steps and provide any additional information you may require. Our team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please don't hesitate to reach out for further assistance.

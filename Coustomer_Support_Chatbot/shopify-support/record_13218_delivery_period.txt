@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how do I check when my shipment is going to arrive?
+
+Answer: We can definitely assist you with tracking the arrival of your shipment. To check the estimated delivery time, you will need to have either your {{Tracking Number}} or {{Order Number}}. Once you have that information, you can visit our website and go to the "Track Order" or "Order Status" page. There, you can enter your tracking number or order number, and it will provide you with the latest updates on the status and expected delivery date of your shipment. If you have any trouble or need further assistance, please don't hesitate to let us know. We're here to help!

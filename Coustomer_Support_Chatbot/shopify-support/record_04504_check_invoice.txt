@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need help taking a quick look at invoice #12588
+
+Answer: Thank you for trusting to us for assistance with taking a quick look at invoice #{{Invoice Number}}. I understand the importance of addressing your query promptly. To provide you with accurate information, could you please provide me with any other relevant details such as the date range or any specific items on the invoice that you would like to focus on? With this additional information, we can quickly locate the invoice and address your concerns.

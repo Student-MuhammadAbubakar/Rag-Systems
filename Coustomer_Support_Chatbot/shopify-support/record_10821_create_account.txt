@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I haven't signed up, could I create a {{Account Type}} account with you?
+
+Answer: Sure! Thank you for considering creating a {{Account Type}} account with us. We offer a user-friendly sign-up process that will only take a few minutes of your time. To get started, please visit our website and click on the "Create Account" button. You'll be guided through a series of simple steps to enter your information and set up your account. Don't worry, the process is secure and your privacy is protected. Once you've completed the sign-up process, you'll have access to all the benefits and features of our {{Account Type}} account. If you have any questions or need assistance along the way, please don't hesitate to reach out. We're here to help and ensure you have a seamless experience. So, are you ready to create your {{Account Type}} account and unlock all the advantages it offers?

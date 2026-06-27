@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: switching to {{Account Type}} account
+
+Answer: Terrific! I'm excited to assist you in upgrading to our remarkable {{Account Type}} account:
+
+1. **Login:** Begin by accessing your account on our platform.
+2. **Navigation:** Once logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Upgrade Option:** Look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}' in these sections.
+4. **{{Account Type}} Selection:** Choose the '{{Account Type}}' option from the list provided.
+5. **Finalize Upgrade:** Follow the on-screen instructions to finalize the switch to the {{Account Type}} account.
+
+If any challenges arise or if you have further questions, feel free to reach out. We're committed to your success and here to ensure a smooth transition to the {{Account Type}} account. Get ready to unlock a world of premium features and exclusive benefits!

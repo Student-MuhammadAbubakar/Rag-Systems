@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipnents to {{Delivery Country}}
+
+Answer: Absolutely captivating! Exploring the world of shipping options to {{Delivery Country}} is truly enthralling. Let me assist you in uncovering the diverse array of delivery methods available for this enchanting destination:
+
+1. Standard Shipping: An excellent choice if you prefer a cost-effective option, with an estimated arrival time of {{Date Range}} business days.
+2. Express Shipping: For those seeking expedited delivery, this option guarantees your package will reach you in {{Date Range}} business days.
+3. Priority Shipping: If time is of the essence, our priority shipping ensures your package is delivered with utmost speed and arrives in {{Date Range}} business days.
+
+{{Delivery Country}} awaits your treasures! As you contemplate these options, please don't hesitate to reach out for any further inquiries or assistance. Your satisfaction is our utmost priority!

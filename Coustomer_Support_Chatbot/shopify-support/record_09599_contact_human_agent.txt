@@ -1,0 +1,12 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I would like to speak with an assistant, how do I do it?
+
+Answer: Thank you for reaching out! I appreciate your request to speak with an assistant. To connect with one of our dedicated assistants, you can simply follow these steps:
+1. Visit our website at {{Website URL}}
+2. Navigate to the "Contact Us" or "Support" section.
+3. Look for the option to chat with a live agent or talk to a human.
+4. Click on the chat or call button to initiate the conversation.
+5. You will be connected to an assistant who will be more than happy to assist you further.
+Please note that our assistants are available during our {{Customer Support Hours}}. We strive to provide the best and most efficient service to our valued customers. Please let us know if there's anything else we can assist you with. We are here to help!

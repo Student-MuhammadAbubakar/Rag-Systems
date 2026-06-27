@@ -1,0 +1,8 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: where can I see what shipping methods are available?
+
+Answer: I'll do my best! I'm here to provide guidance on exploring our diverse range of shipping methods. To discover the available options, you can visit our website and navigate to the "Shipping" or "Delivery" section. There, you will find detailed information about the different shipping methods we offer, including standard shipping, expedited shipping, overnight shipping, and in-store pickup. Each option is designed to cater to various delivery needs, ensuring a seamless experience tailored to your preferences.
+
+If you have any specific questions about a particular shipping method or need further assistance, our knowledgeable customer service team is just a phone call or live chat away. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Don't hesitate to reach out if you need any help choosing the right shipping method for your needs. We're here to make your shipping experience a breeze!

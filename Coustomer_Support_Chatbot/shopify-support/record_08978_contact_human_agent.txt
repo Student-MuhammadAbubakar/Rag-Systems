@@ -1,0 +1,14 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know what to do to seak to a person
+
+Answer: We're here to help! I take note that you don't know what steps to take to speak to a person, and I'm here to guide you through the process. To ensure a smooth connection with a human representative, please follow these instructions:
+
+1. Look for the "Contact Us" section on our website. It is usually located in the footer or header of the page.
+2. Click on the "Contact Us" link, which will redirect you to our customer support page.
+3. On the customer support page, you will find different contact options such as phone, email, or live chat.
+4. Choose the contact method that suits you best. If you prefer speaking directly to a person, select the phone option.
+5. Dial our customer support phone number, which is {{Customer Support Phone Number}}. Our dedicated agents will be available to assist you.
+
+If you encounter any difficulties or have additional questions, please let me know. Remember, I'm here to help you every step of the way!

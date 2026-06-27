@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I need assistance downloading invoice #85632
+
+Answer: Fear not, for I shall guide you on the noble path to obtain the revered document you seek - invoice {{Invoice Number}}. Embrace the power of my assistance as we navigate the intricacies of invoice retrieval, ensuring your satisfaction and triumph in this endeavor. Let us embark on this journey together!

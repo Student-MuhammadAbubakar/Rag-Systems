@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing details on pro account
+
+Answer: We appreciate your eagerness to modify the details of your {{Account Type}} account. We understand that keeping your account information up-to-date is important to you. To ensure the accuracy and security of your account, we recommend logging into our {{Online Company Portal Info}} where you can easily update your account details. If you require any assistance during the process, our dedicated customer support team is always ready to help. Your commitment to managing your {{Account Type}} account demonstrates your proactive approach to maintaining the highest level of satisfaction. Together, we can make the necessary changes to enhance your account and meet your specific needs.

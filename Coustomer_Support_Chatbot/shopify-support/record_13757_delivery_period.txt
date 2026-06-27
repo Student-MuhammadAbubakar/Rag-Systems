@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am looking for information about the delivery period
+
+Answer: We completely understand your need for information regarding the delivery period. To provide you with the most accurate details, could you please provide us with the {{Tracking Number}} or {{Order Number}}? This will enable us to fetch the specific information about your delivery and give you an estimated delivery date. We appreciate your cooperation in this matter.

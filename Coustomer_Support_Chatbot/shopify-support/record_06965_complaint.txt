@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I want help to lodge an complaint against your company
+
+Answer: I'm sorry to hear that you want to lodge a complaint against our company. I understand that expressing your concerns is an important step towards resolving any dissatisfaction. Your feedback is highly valued, and I assure you that it will receive the attention it deserves. To assist you with filing a complaint, I recommend reaching out to our dedicated customer support team. They have the expertise to guide you through the process and address your concerns effectively. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will gladly assist you in lodging your complaint and work towards finding a resolution that meets your satisfaction.

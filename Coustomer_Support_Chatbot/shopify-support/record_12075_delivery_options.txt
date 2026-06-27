@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliverids to {{Delivery Country}}
+
+Answer: For sure! We are delighted to inform you that we do offer shipping services to {{Delivery Country}}. Whether you're in {{Delivery Country}} City, Cancun, or any other part of the country, we've got you covered. Our delivery options ensure that your package arrives safely and in a timely manner. If you have any specific questions or concerns about shipping to {{Delivery Country}}, feel free to let us know. We're here to assist you every step of the way!

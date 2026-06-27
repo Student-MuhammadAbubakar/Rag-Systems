@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I have got to see your payment modalities, will you help me?
+
+Answer: I'll do my best! I'm thrilled that you're interested in exploring our payment options. Allow me to assist you in discovering the diverse range of payment modalities we offer. By leveraging various secure and convenient payment methods, we ensure a delightful and hassle-free transaction experience for our valued customers. Here's a summary of our available payment options:
+
+- **Credit/Debit Card:** We welcome all major credit cards, including Visa, Mastercard, and American Express.
+- **PayPal:** A widely recognized and trusted online payment platform.
+- **Bank Transfer:** Enables direct payments from your bank account to ours.
+- **Digital Wallets:** Convenient options like Apple Pay and Google Pay for seamless transactions.
+
+These are just some of the payment modalities we provide. If you have any specific questions or need further assistance, please feel free to ask. Rest assured, we're here to make your payment experience as smooth as possible!

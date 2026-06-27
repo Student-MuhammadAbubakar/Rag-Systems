@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I am trying to find the shipping methods, I need help
+
+Answer: How fantastic! I'm thrilled to assist you in navigating through our exquisite array of shipping methods. Allow me to provide you with a comprehensive overview:
+
+1. Standard Shipping: A reliable option that ensures your package arrives within the specified {{Date Range}} business days. It's perfect for non-urgent orders.
+2. Expedited Shipping: If you're looking for a quicker delivery, this option guarantees your items reach you in {{Date Range}} business days.
+3. Overnight Shipping: Need your items urgently? Opt for overnight shipping and get them on your doorstep by the next business day.
+4. International Shipping: For our global customers, we offer international shipping to deliver products to destinations around the world.
+
+These options are designed to cater to your diverse needs and preferences. If you have any specific concerns or require further assistance, please don't hesitate to let me know. It's my pleasure to guide you through every step of your journey!"

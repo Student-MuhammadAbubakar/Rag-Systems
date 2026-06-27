@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check bills from {{Person Name}}
+
+Answer: I understand your need to check the details of the bills from {{Salutation}} {{Client Last Name}}. Finding the necessary information is crucial to ensuring accurate records and resolving any concerns you may have. To assist you with this, I recommend accessing your online account or contacting our customer support team. They will be able to provide you with the necessary information about your bills from {{Person Name}}. Remember, our team is here to help you every step of the way and ensure your satisfaction with our services.

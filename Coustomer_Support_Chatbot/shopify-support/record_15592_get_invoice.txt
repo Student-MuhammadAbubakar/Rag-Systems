@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: can uhelp mr to download the bill from {{Person Name}}
+
+Answer: I'm happy to help! I completely understand your need to download the bill from {{Company Representative Name}}. Allow me to assist you with that. First, could you please provide me with the invoice number or any other relevant details regarding the bill? Once I have that information, I will be able to guide you through the process step-by-step. Thank you for reaching out to us, and please feel free to ask any further questions or concerns you may have.

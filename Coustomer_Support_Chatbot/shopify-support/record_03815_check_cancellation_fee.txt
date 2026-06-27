@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I have to check the termination fees, help me
+
+Answer: I'm on it! To check the termination fees, you can log in to your account and go to the "Account Details" or "Fees and Charges" section. There you will find the information regarding the termination fees.

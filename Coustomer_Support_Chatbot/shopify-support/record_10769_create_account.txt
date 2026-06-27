@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where do i open a standard account
+
+Answer: Thank you for your interest in opening a {{Account Type}} account with us! To get started, you can easily open a {{Account Type}} account online through our website. Simply visit our homepage and look for the "Open Account" or "Sign Up" button. Click on it, and you will be guided through a step-by-step process to create your {{Account Type}} account. If you prefer, you can also visit any of our branch locations, where our friendly staff will be happy to assist you in opening a {{Account Type}} account. We are committed to making the account opening process convenient and hassle-free for you! What other questions or concerns do you have about opening a {{Account Type}} account?

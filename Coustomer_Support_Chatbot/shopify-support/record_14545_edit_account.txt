@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating information on {{Account Type}} account
+
+Answer: How wonderful it is to see your dedication to updating information on your {{Account Type}} account!I'm honored to assist you in this process. To ensure the utmost security and privacy of your personal data, I kindly recommend accessing your account through our secure portal or contacting our dedicated support team for personalized assistance. They'll be delighted to guide you through the steps needed to update the information on your {{Account Type}} account. What specific details would you like to modify? Remember, we're here to support you every step of the way!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help to add some products to purchjase {{Order Number}}
+
+Answer: Thank you for reaching out! We understand that you need assistance with adding some products to purchase number {{Order Number}}. We apologize for any inconvenience caused by the inability to make changes directly to an existing purchase. However, we can certainly help you place a new order for the additional products you would like to add. Our customer service team is available to assist you in placing the new order and ensuring that the products are added correctly. Please let us know if you would like us to initiate the process for you.

@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i have to sue the {{Account Type}} profile how can i do it
+
+Answer: Thank you for reaching out! I'm here to guide you on how to switch to the {{Account Type}} profile with ease:
+
+1. Log into your account: Start by signing in to our platform using your credentials.
+2. Account settings: Once you're logged in, navigate to your account settings or profile section.
+3. Account type: Look for an option labeled "Account Type" or "Profile Type."
+4. Switch to {{Account Type}} profile: Select the "Free Profile" option from the list of available choices.
+5. Confirmation: Follow the on-screen prompts to confirm the switch to the {{Account Type}} profile.
+
+If you encounter any difficulties or have further questions, don't hesitate to let me know. I'm here to ensure a smooth transition for you. Enjoy the features and benefits of our {{Account Type}} profile!

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i dont use m platinum account i try to remove it
+
+Answer: Thank you for contacting us about removing your {{Account Category}} account. I understand that you no longer use the account and would like to cancel it. We apologize for any inconvenience you may have experienced. To assist you further, could you please provide the specific details of the account you wish to remove? This information will help us locate your account and guide you through the cancellation process efficiently. Rest assured, we are here to help you and ensure a seamless experience.

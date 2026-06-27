@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a restitution of {{Currency Symbol}}{{Refund Amount}}, was it processed already
+
+Answer: Your expectation of a ${{Refund Amount}} restitution is crucial to us, and we deeply understand how important it is to know the processing status. Let me quickly check and provide you with the most up-to-date information on whether the reimbursement has been processed. While I gather the details, I'm curious to know if you have previously encountered any delays or issues with reimbursements. We value your insights and appreciate your patience as we work towards ensuring your satisfaction and trust.

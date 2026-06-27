@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I can't change to the damn gold account
+
+Answer: I apologize for any frustration or inconvenience caused by the inability to switch to the {{Account Type}} account. I'm here to assist you in resolving this issue. To better understand and address the problem, could you please provide me with more details about the error or difficulty you're encountering? This will allow me to provide you with the most accurate and effective guidance to successfully switch to the {{Account Type}} account. Thank you for your understanding and cooperation.

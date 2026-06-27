@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: wannma speak to customer service how can i do it
+
+Answer: We're here to help! I take note that you want to speak to our customer service team and would like to know how you can do it. We have multiple channels available for you to connect with our customer service representatives. You can reach us via phone at {{Customer Support Phone Number}}, through our Live Chat on our website at {{Website URL}}, or by sending us an email at {{Customer Support Email}}. Our team is dedicated to providing assistance and will be more than happy to help you with any inquiries or concerns you may have. How may I assist you further?

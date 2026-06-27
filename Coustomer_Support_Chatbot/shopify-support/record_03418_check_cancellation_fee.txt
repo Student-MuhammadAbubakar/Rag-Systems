@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I don't know how to check the early termination penalty
+
+Answer: To check the early termination penalty, you can log in to your account and navigate to the "Termination Fees" section. There you will find the information regarding the penalty for terminating your account early.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want help speaking with customer assistance
+
+Answer: We appreciate your message! It's clear to me that you're looking for assistance in speaking with our customer service team. Our team is dedicated to providing support and guidance to our valued customers. To ensure that you receive the help you need, I recommend reaching out to our customer assistance helpline at {{Customer Support Phone Number}}. Our knowledgeable representatives will be happy to assist you with any questions or concerns you may have. Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. We're here to help and ensure a smooth and satisfactory experience for you. Let me know if there's anything else I can assist you with.

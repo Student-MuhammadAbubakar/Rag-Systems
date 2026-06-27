@@ -1,0 +1,19 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do i swap several articles of purchase {{Order Number}}
+
+Answer: I've understood you want to swap several articles for purchase number {{Order Number}}. Making changes to your order is important, and I'm here to help. To proceed with the swapping process, please follow these steps:
+
+1. Visit the order details page for purchase number {{Order Number}} on our website/app.
+2. Locate the list of articles in your order.
+3. Identify the articles you wish to swap and make note of their details.
+4. Find the option or button labeled "Swap" or "Change", usually located next to each article.
+5. Click on the "Swap" or "Change" button next to the articles you want to replace.
+6. A new window or prompt will appear, allowing you to search for alternative articles.
+7. Search for the desired replacement articles using keywords or filters that match your preferences.
+8. Select the new articles you wish to add to your order and proceed to confirm your changes.
+9. Review the summary of your order to ensure the changes have been applied correctly.
+10. If everything looks good, proceed to checkout and complete the payment process if necessary.
+
+Please note that availability and pricing may differ for the replacement articles. If you encounter any difficulties or have further questions, our customer support team will be happy to assist you. Just reach out to them through our website/app, or call {{Customer Support Phone Number}}. Happy swapping!

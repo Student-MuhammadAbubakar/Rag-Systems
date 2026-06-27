@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update data on {{Account Category}} cacount
+
+Answer: We are thrilled to see your commitment to keeping the information on your {{Account Category}} account up to date. Your dedication to ensuring the accuracy and relevance of your account details is admirable. To update the data on your {{Account Category}} account, you can access the account settings section within your {{Online Company Portal Info}}. There, you will find options to modify various data fields such as contact information, billing details, and preferences. If you need any specific guidance or encounter any challenges during the process, our dedicated support team will be more than happy to assist you. Let us know if there's anything else we can do to enhance your experience with our services. We're here to help!

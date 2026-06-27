@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: find the bills from {{Person Name}}
+
+Answer: I appreciate your request to locate the bills tied to {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you. To find the bills from {{Person Name}}, I would recommend checking your account dashboard or transaction history. This way, you can filter the search results and find all the relevant bills associated with {{Person Name}}. If you need any further guidance or run into any issues, please feel free to let me know.

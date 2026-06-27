@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening gold account for wife
+
+Answer: First of all, thank you for considering opening a {{Account Type}} account for your wife. It's a great choice that comes with fantastic benefits and rewards. To get started, I'd recommend verifying if your wife already has an existing account with us. If she does, we can simply upgrade her account to {{Account Type}} and transfer any existing rewards or points. If not, we'll need to create a new account for her. Please provide me with her full name, email address, and a preferred username. Rest assured that we'll handle her personal information with the utmost care and ensure her privacy. Additionally, please let me know if there are any specific features or perks you would like to include in her {{Account Type}} account.

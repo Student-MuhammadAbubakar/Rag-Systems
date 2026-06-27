@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: need assistance downloading my invoice{{Invoice Number}}
+
+Answer: I've decoded that you need assistance with downloading your invoice with number #{{Invoice Number}}. Let me guide you through the process. First, please log in to your account on our website. Then, navigate to the "Billing" or "Invoices" section. Look for the invoice with the number #{{Invoice Number}} and click on the download button next to it. If you encounter any difficulties or have further questions, please let me know. I'm here to help you every step of the way.

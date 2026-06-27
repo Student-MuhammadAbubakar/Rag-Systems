@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to call customer service, how can I do it?
+
+Answer: Happy to hear from you! I truly understand that you would like to connect with our customer service via a phone call. To assist you with this, you can reach our customer service team at our dedicated toll-free number, which is {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}} to provide you with the assistance you need. Feel free to give them a call, and they will be more than happy to help you. Is there anything else I can assist you with?

@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: changkng to platinum account
+
+Answer: It's great to hear that you're interested in upgrading to our {{Account Category}} account! I'm here to assist you in making this change smoothly. To switch to a {{Account Category}} account, please follow these steps:
+
+1. Login: Start by logging into your account on our platform.
+2. Account Settings: Once logged in, navigate to your account settings or profile section.
+3. Upgrade Option: Look for the option that says "Upgrade" or "Switch Account Type" within these sections.
+4. {{Account Category}} Selection: Choose the "{{Account Category}} Account" option from the available list of account types.
+5. Confirmation and Finalize: Follow the on-screen prompts to confirm your selection and finalize the switch to a {{Account Category}} account.
+
+If you encounter any difficulties or have any questions along the way, feel free to reach out to our customer support team for further assistance. We're here to ensure that your upgrade to the {{Account Category}} account is a seamless and rewarding experience. Enjoy the exclusive benefits that come with your new account status!

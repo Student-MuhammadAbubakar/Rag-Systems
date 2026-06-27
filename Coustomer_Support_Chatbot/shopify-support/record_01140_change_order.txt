@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot swap several articles of order {{Order Number}}
+
+Answer: We understand your concern about swapping several items in order number {{Order Number}}. To assist you with this request, could you please provide us with more details about the specific articles you'd like to swap? This information will enable us to find the best solution and ensure your satisfaction.

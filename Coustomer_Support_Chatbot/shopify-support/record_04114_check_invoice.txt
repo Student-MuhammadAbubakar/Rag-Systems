@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check invoices from two purchases ago
+
+Answer: I'm following your request to check invoices from two purchases ago. To assist you with this, could you please provide me with the {{Date}} of the two purchases you are referring to? With this information, I will be able to locate the invoices you need and provide you with the necessary details. Thank you for your cooperation!

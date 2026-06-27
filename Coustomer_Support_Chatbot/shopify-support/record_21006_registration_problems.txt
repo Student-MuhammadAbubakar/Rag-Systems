@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: I do not know what to do to inform of an issue with a signup
+
+Answer: Thank you for reaching out to us for assistance. I understand that you're unsure of how to inform us about an issue with the signup process. Don't worry, I'm here to help guide you through the process. To report an issue with signup, you can either reach out to our customer support team directly or submit a ticket on our website. Our support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or you can access the Live Chat on our website at {{Website URL}}. They will be able to assist you further and ensure that your issue is promptly addressed. Your feedback is important to us, and we appreciate you taking the time to inform us about any problems you encounter. Please let me know if there's anything else I can assist you with.

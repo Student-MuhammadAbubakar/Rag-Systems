@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: delieries to {{Delivery City}}
+
+Answer: Ah, {{Delivery City}}, a city rich in history and culture! Rest assured, we offer deliveries to {{Delivery City}}, Ireland. Our shipping options are designed to meet your needs and ensure a seamless delivery experience. From standard shipping to expedited and even in-store pickup, we have options that cater to your preferences. So whether you're ordering a special gift or treating yourself to something delightful, we've got you covered. Let me know if there's anything else I can assist you with during your shopping journey. Enjoy your delivery to beautiful {{Delivery City}}!

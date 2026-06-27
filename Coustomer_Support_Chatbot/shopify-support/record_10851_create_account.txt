@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where do I create a gold account?
+
+Answer: Great choice! To create a {{Account Type}} account, you can visit our website and click on the "Sign Up" or "Create Account" button. This will take you to the account creation page where you can choose the {{Account Type}} account option. Alternatively, you can also reach out to our customer service team who will be more than happy to guide you through the process and create a {{Account Type}} account for you. Remember, we're here to make this experience seamless and enjoyable for you!

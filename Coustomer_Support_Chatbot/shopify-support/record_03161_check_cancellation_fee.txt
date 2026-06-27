@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: could uhelp me check the cancellation penalty
+
+Answer: Of course! I'm here to assist you in checking the cancellation penalty. Please provide me with your account details, and I'll gather the necessary information for you.

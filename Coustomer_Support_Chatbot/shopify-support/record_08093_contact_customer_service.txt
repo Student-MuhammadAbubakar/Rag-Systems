@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to call customer support, how could I do it?
+
+Answer: Thank you for trusting us! I'm fully aware of you have an urgent need to call our customer support team and require guidance on how to proceed. Rest assured, I'm here to assist you. To contact our customer support, you can reach out to us during our {{Customer Support Hours}} at {{Customer Support Phone Number}}. Alternatively, you can also connect with us through the Live Chat option available on our website at {{Website URL}}. Please feel free to reach out with any other questions or concerns. How else can I be of assistance to you today?

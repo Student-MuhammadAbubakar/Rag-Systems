@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i want help taking a quick look at the bill #85632
+
+Answer: Indeed! I'm here to assist you in quickly reviewing the details of bill #{{Invoice Number}}. To access the bill, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to search or view invoices.
+4. Enter the bill number #{{Invoice Number}} in the search bar.
+5. Click on the "View" or "Details" button next to the bill.
+
+If you encounter any issues or need further assistance, feel free to let me know. I'm here to make your experience as seamless as possible.

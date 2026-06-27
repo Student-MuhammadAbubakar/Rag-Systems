@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i no longer need my fucking pro account help me to remoe it
+
+Answer: Thank you for bringing up your concern about canceling your {{Account Type}} account. I apologize for any frustration you may be experiencing. I understand that you no longer need the account and would like assistance with removing it. I assure you that I will do my best to help you through this process. To proceed with the account removal, I kindly request you to provide some additional information, such as your account username or email address, so that I can locate and assist you with canceling your {{Account Type}} account effectively. Your cooperation is highly appreciated, and I'm here to support you throughout the entire process.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebate {{Refund Amount}} dollarx
+
+Answer: I've taken note that you are requesting a rebate of ${{Refund Amount}}. To process your request, I will need some additional information. Could you please provide details about the purchase or transaction that qualifies for the rebate? Additionally, it would be helpful if you could provide any relevant documentation, such as receipts or order numbers. With this information, I can assist you in the proper procedure to apply for the rebate and ensure a smooth resolution. Thank you for your cooperation.

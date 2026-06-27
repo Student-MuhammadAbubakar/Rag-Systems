@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I never use the {{Account Type}} account, I need help canceling it
+
+Answer: Thank you for letting us know about your desire to cancel your {{Account Type}} account. It's important to us that you have complete control over your account preferences. To assist you with the cancellation process, please provide us with a few more details, such as your account username or any specific concerns you might have. We want to ensure that we address your request promptly and accurately. Your satisfaction is our top priority, and we're here to support you every step of the way.

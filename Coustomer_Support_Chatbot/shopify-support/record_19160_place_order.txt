@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I have got to purchase several of your item
+
+Answer: Thank you for expressing your desire to purchase several of our items! I'm delighted to help you with your order. To ensure a smooth purchasing process, could you please provide me with more details about the specific items you would like to purchase? Once I have the information, I can assist you further in completing your order successfully.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where to locaet my invoice #00108
+
+Answer: I truly appreciate your inquiry regarding the location of your invoice with the number #{{Invoice Number}}. To assist you in finding it, could you please provide me with some additional information such as the date of the invoice, the client's name, or any other relevant details? This will help me narrow down the search and locate the invoice you are referring to. Thank you for your cooperation, and I'm here to support you every step of the way.

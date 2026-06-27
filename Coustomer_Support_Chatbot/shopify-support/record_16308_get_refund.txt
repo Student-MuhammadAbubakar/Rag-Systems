@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where to request refunds
+
+Answer: I appreciate that you're looking for information on where you can request refunds. Rest assured, I'm here to guide you. To initiate the refund process, you can visit our website and navigate to the "Refunds" section. There, you'll find a detailed step-by-step guide and the necessary forms to fill out. If you prefer a more personal touch, our customer service team is available {{Customer Support Hours}} via {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any questions or concerns you may have about the refund process.

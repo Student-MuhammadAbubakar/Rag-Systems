@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need to give a quick look at the invoice from {{Person Name}}
+
+Answer: I've realized that you're looking for a quick way to view the invoice from {{Salutation}} {{Client Last Name}}. To assist you promptly, I recommend accessing your account dashboard, where you should find a section dedicated to invoices. If you encounter any difficulties, please feel free to ask for further guidance. Your satisfaction is my top priority!

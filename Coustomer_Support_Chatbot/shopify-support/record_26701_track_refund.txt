@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a  compensation of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I've taken note that you are eagerly waiting for your compensation of {{Currency Symbol}}{{Refund Amount}}. Rest assured, I am here to assist you in tracking the status of your reimbursement. Please allow me a moment to check the current progress. Thank you for your continued patience.

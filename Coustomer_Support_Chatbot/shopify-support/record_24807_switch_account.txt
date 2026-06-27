@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I need hepp using the standard account
+
+Answer: Unquestionably! I'm here to assist you in making the most of our {{Account Type}} account:
+
+1. Starting Point: Begin by logging into your account.
+2. Account Navigation: Once you're logged in, look for the "{{Settings}}" or "{{Profile}}" section.
+3. Feature Exploration: Within this section, you'll find various features and settings related to your account.
+4. Account Type: Verify that you are currently using the "{{Account Type}}" option.
+5. Utilizing Features: Familiarize yourself with the different features available in the {{Account Type}} account, such as "{{Feature 1}}", "{{Feature 2}}", and "{{Feature 3}}".
+6. Troubleshooting: If you encounter any issues or have specific questions about using the {{Account Type}} account, don't hesitate to reach out to our support team via our "{{Live Chat}}" option or the "{{Customer Support Phone Number}}".
+
+Remember, I'm here to support you every step of the way, so feel free to ask any further questions or express any concerns you may have. Together, we'll ensure you have a seamless experience with your {{Account Type}} account.

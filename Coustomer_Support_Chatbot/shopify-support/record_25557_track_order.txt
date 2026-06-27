@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: ETA of order {{Order Number}}
+
+Answer: Thank you for your query! I understand that you would like to know the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. The ETA for your order is {{ETA}}. It is expected to arrive on {{Delivery Date}}. If you have any other questions or need further assistance, please let me know. I'm here to help!

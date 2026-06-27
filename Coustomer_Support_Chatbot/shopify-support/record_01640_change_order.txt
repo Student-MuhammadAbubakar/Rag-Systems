@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me to switch several articles of order {{Order Number}}
+
+Answer: We're here for you to us for assistance in switching several articles within your order with order number {{Order Number}}. We understand the importance of having the right items in your order, and we're here to help you make the necessary changes. To ensure we provide you with accurate assistance, please let us know which specific articles you would like to switch. By providing us with this information, we can quickly process your request and make the necessary adjustments. We appreciate your patience, and we're committed to ensuring your satisfaction.

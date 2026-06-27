@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}}?
+
+Answer: I'm happy to help! We facilitate orders from {{Delivery City}}, ensuring that customers like you can conveniently place their orders from the comfort of their location. Our delivery options are designed to cater to customers nationwide, including {{Delivery City}}. So you can confidently place your order and have it delivered to your doorstep. If you have any specific concerns or questions regarding {{Delivery City}} orders, please feel free to let me know. I'm here to assist you every step of the way.

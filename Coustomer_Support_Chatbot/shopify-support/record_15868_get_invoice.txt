@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I need to get my goddamn invoice from {{Person Name}}
+
+Answer: I'll get right on it! I understand your urgency in needing to access the invoice from {{Salutation}} {{Client Last Name}}. Give me just a moment to retrieve it for you. While I do that, could you please verify some additional information to ensure the accuracy of the invoice? Specifically, I would need the date or any other reference numbers associated with the invoice. Your cooperation is greatly appreciated, and I'll be right back with the invoice you need.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place a bloody order from {{Delivery City}}
+
+Answer: Ah, the vibrant city of {{Delivery City}}! I sense your eagerness to place an order from there. Fear not, my dear customer, for we gladly accept orders from {{Delivery City}} and deliver our delightful products to your doorstep in a timely manner. Our delivery options extend across various locations, including {{Delivery City}}, ensuring that you can enjoy our offerings without any limitations. So go ahead, place your order and embrace the excitement of receiving your package, perfectly tailored to your desires. Should you need any further assistance or guidance, feel free to reach out. Your satisfaction is our utmost priority!

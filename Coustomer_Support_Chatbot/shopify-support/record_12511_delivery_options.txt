@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery Country}}
+
+Answer: Ah, the allure of {{Delivery Country}}! I'm excited to share that we do offer delivery to {{Delivery Country}}. We have a range of shipping options available that cater to different needs, from standard shipping to expedited options. Rest assured, your items can make their way to you in {{Delivery Country}}. If you have any specific concerns or questions about the delivery process, feel free to let me know. I'm here to assist you every step of the way.

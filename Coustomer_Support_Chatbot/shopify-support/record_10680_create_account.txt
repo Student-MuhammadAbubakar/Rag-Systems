@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new {{Account Category}} account for wife
+
+Answer: How wonderful! I'm thrilled to assist you in creating a new {{Account Category}} account for your wife. It's truly a thoughtful gift. To get started, could you kindly provide me with your wife's full name and email address? Rest assured, we'll handle her account creation process with utmost care and ensure she has a delightful experience with us.

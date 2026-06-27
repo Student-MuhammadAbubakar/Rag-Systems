@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: uhave a free of charge number to talk with customer support
+
+Answer: Thank you for reaching out! I completely understand that you are looking for a toll-free number to contact our customer support. We value your time and want to make it as convenient as possible for you to connect with us. Currently, we do offer a toll-free number to reach our customer support team. You can dial {{Toll-Free Number}} to speak with one of our representatives. They will be more than happy to assist you with any questions or concerns you may have. We strive to provide exceptional support to our customers, and we appreciate your choice to reach out to us. Let me know if there's anything else I can help you with!

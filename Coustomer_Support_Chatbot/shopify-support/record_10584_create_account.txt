@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help me opening a new goddamn {{Account Type}} acconut
+
+Answer: I apologize if you're feeling frustrated. I'd be delighted to assist you in opening a new {{Account Type}} account. To get started, please provide me with your full name, email address, and a preferred username. Once I have these details, I'll guide you through the account creation process step by step. Rest assured that the security and privacy of your information are of utmost importance to us. We prioritize protecting every piece of data you share with us.

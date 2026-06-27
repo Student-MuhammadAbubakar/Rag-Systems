@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I'm trying to contact customer service
+
+Answer: Happy to hear from you! I truly understand that you're trying to contact our customer service team. I'm here to assist you with that. Our customer service representatives are available during {{Customer Support Hours}}. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Feel free to let me know if there's anything else I can help you with.

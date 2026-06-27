@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order from {{Delivery Country}}
+
+Answer: Of course! We are thrilled to inform you that we are happy to accept orders from {{Delivery Country}}. Our commitment to serving customers globally means that we strive to provide convenient and reliable shipping options to customers like you in {{Delivery Country}}. Whether you're looking for standard shipping or expedited delivery, we've got you covered. So go ahead and explore our wide range of products, and let us take care of delivering them to you in {{Delivery Country}}. If you have any specific questions or need further assistance, feel free to ask. We're here to help make your ordering experience seamless and delightful!

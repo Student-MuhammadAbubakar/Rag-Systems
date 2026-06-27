@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: cancel order
+
+Answer: I've realized that you're seeking assistance in canceling an order. I'll be happy to guide you through the process. Could you please provide me with the order number or any relevant details about the order you would like to cancel? With that information, I'll be able to provide you with the specific steps to cancel your order successfully.

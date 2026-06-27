@@ -1,0 +1,10 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where can i look for bill #00108
+
+Answer: I'll make it happen! I'm here to guide you on where you can find the bill with the number #{{Invoice Number}}. To locate your bill, I suggest checking your email inbox first. Our system automatically sends out email copies of all invoices to our customers. Please search for an email from our company with the subject line "Invoice for Bill {{Invoice Number}}" or something similar. 
+
+If you don't find the email, don't worry! You can also view and download your invoices from your online account. Simply log in to your account on our website and navigate to the "Billing" or "Invoices" section. There, you should be able to access all your past invoices, including the one with the number {{Invoice Number}}. If you're having trouble finding it, please let me know, and I'll be more than happy to assist you further.
+
+I hope this information helps you locate your bill! If you have any other questions or need any further assistance, please feel free to ask.

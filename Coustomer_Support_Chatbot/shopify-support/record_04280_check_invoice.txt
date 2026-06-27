@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how can I look for my bill #37777?
+
+Answer: I'm happy to help! I can help you with that. To look for the details of your bill with the number #{{Invoice Number}}, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the search bar or filters option.
+4. Enter the bill number #{{Invoice Number}} or use the search parameters to filter and find the specific bill.
+5. Once you have located the bill, you can click on it to view the detailed information, including the amount, due date, and any itemized charges.
+
+If you encounter any difficulty during this process or need further assistance, please don't hesitate to let me know. I'm here to help you every step of the way!

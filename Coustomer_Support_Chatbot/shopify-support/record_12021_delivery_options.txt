@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: od ya deliver to {{Delivery Country}}
+
+Answer: I'll make it happen! We offer shipping services to {{Delivery Country}}, allowing you to conveniently receive your items in the Land of the Rising Sun. Whether you're looking to send a gift, purchase a product, or fulfill any other shipping needs, we've got you covered. Our delivery options are designed to ensure a seamless and hassle-free experience, ensuring your packages reach you safely and on time. If you have any other questions or need further assistance, please feel free to let me know. I'm here to help!"

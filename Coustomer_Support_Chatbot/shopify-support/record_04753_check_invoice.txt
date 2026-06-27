@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need to give a quick look at bill #00108
+
+Answer: I understand your urgency to quickly access and review the bill with the number #{{Invoice Number}}. Let me assist you in locating and retrieving the necessary details. Please provide me with a moment while I retrieve the bill for you.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I don't know what to do to buy somethinb
+
+Answer: Glad you contacted us! I'm clearly cognizant that you're unsure about the process of purchasing something. Don't worry, I'm here to help you navigate through the steps. To begin, could you please provide me with more details about what you would like to buy? Once I have a clear understanding of your needs, I'll be able to guide you on how to proceed with the purchase.

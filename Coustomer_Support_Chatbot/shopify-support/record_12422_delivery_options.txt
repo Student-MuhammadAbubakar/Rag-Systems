@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an oeder from {{Delivery City}}
+
+Answer: Ah, the allure of international orders! Let's explore the wonders of placing an order from {{Delivery City}}. Our global reach allows customers from all around the world to enjoy our products and services. To confirm if we can fulfill your order from {{Delivery City}}, I kindly request you to provide me with the specific items you wish to purchase. This way, I can check if they are available for shipping to your location. Once I have this information, I will be more than happy to guide you through the process and ensure a seamless ordering experience. Feel free to let me know how I can assist you further.

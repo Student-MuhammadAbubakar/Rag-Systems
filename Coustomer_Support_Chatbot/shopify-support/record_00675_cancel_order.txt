@@ -1,0 +1,20 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: problems with canceling purchase {{Order Number}}
+
+Answer: I truly understand that you're experiencing difficulties in canceling your purchase with the order number {{Order Number}}. I apologize for any inconvenience this has caused you. Our team is committed to resolving this issue and assisting you in the best possible way.
+
+To address the problems you're facing, I suggest the following steps:
+
+1. Double-Check the Order Details: Make sure that the order number you entered is correct and matches the purchase you want to cancel. It's possible to mistakenly input the wrong number, so let's verify the details.
+
+2. Customer Support Assistance: Reach out to our dedicated customer support team for immediate assistance. They have the expertise and resources to help you troubleshoot and resolve any issues you're facing with canceling your purchase. You can contact them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or use the Live Chat feature on our {{Website URL}}.
+
+3. Provide Specific Details: When contacting customer support, be prepared to provide specific details about your purchase. This includes the order number, the name of the item, and any error messages or error codes you encountered during the cancellation process. The more information you can provide, the better equipped our team will be to assist you effectively.
+
+4. Alternative Cancellation Methods: If the standard cancellation process is not working for you, our customer support team can explore alternative methods to cancel your purchase. They may be able to guide you through alternative steps or assist you with manual cancellations.
+
+5. Ongoing Support: Rest assured that our team is dedicated to resolving this issue and providing you with the necessary support throughout the cancellation process. We appreciate your patience and understanding as we work to find a solution.
+
+If you have any further questions or concerns, please do not hesitate to reach out to our customer support team. They are available to assist you every step of the way. We value your business and are committed to your satisfaction.

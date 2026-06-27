@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about the removal of my platinum account
+
+Answer: Happy to get your message to us regarding the removal of your {{Account Category}} account. I understand that you need information on how to proceed with the account removal process. Our team is here to assist you and provide guidance every step of the way. To ensure that I provide you with the most accurate information, could you please clarify if you would like to permanently delete your account or if you are looking to downgrade to a different account type? Once I have more details, I will be able to provide you with the necessary instructions to complete the removal process successfully and answer any questions you may have.

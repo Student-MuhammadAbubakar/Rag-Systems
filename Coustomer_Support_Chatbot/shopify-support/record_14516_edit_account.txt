@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update information on {{Account Category}} account
+
+Answer: We are thrilled to support you in updating the information on your {{Account Category}} account! At {{Company Name}}, we value your commitment to keeping your account details current and accurate. To ensure the security of your account, please avoid sharing personal identifiers such as your full account number or password. You can easily update your information by logging into your account on our website or reaching out to our dedicated customer support team. They will be more than happy to guide you through the process and address any questions or concerns you may have. Let's work together to personalize your {{Account Category}} account to suit your preferences and needs!

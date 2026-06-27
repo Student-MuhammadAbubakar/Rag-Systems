@@ -1,0 +1,16 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I need to get my bill from {{Person Name}}, how can I do it?
+
+Answer: Unquestionably! I completely understand your need to get your bill from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process. To access your bill, please follow these steps:
+
+1. Log in to your account on our website/app.
+2. Navigate to the "Billing" or "Account" section.
+3. Look for an option like "View/Download Invoice" or "Billing History."
+4. Click on that option to open the list of invoices.
+5. Locate the specific invoice you need, which should be associated with {{Person Name}}.
+6. Click on the invoice to open it.
+7. You can now view and download the bill in PDF format.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you throughout the process."

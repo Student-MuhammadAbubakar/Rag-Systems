@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: assistance to see your available payment options
+
+Answer: Sure! I'm here to assist you in exploring the various payment options we have available for you. To view our available payment methods, you can visit the "Payment" section on our website or mobile app. Once you are on the payment page, you'll find a comprehensive list of the payment options we accept. Our goal is to provide you with a seamless and convenient payment experience, so if you have any questions or need further assistance while exploring the payment options, please don't hesitate to reach out. We're here to help you every step of the way!

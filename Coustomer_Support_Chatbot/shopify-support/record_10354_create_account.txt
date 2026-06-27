@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: problems with creating my pro account
+
+Answer: I'm sorry to hear that you're experiencing difficulties while creating your {{Account Type}} account. Our team is here to assist you and ensure a smooth process. Could you please provide some specific details about the issues you're encountering? This will help us better understand the problem and provide you with targeted solutions. Rest assured, we'll do our best to resolve any problems you're facing and guide you through the account creation journey.

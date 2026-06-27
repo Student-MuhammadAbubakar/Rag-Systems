@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating {{Account Type}} account
+
+Answer: What a remarkable commitment you have shown in updating the details of your esteemed {{Account Type}} account!I am thrilled to accompany you on this journey and offer my expertise to ensure that your account reflects your evolving needs and preferences. Please rest assured that I am here to guide you through the process step by step. Could you please let me know which specific details you would like to update on your {{Account Type}} account?

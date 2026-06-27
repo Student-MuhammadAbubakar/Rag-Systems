@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what to do to locate invoice #85632
+
+Answer: Thank you for getting in touch to us regarding your invoice {{Invoice Number}}. I understand that you're uncertain about the steps to locate it. Rest assured, I'm here to guide you through the process. To start, could you please provide me with any relevant information about the invoice, such as the date range or any specific details related to the invoice? This information will help me assist you more effectively. If you have any questions or concerns along the way, please don't hesitate to ask. Together, we'll find that invoice and resolve any issues you may have.

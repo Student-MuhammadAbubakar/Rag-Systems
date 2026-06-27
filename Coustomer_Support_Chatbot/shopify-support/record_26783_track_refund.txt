@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i need assistance to track the restitution
+
+Answer: I'm conscious of the reality that you're seeking assistance to track the restitution. Rest assured, I'm here to help. To provide you with accurate and up-to-date information, could you please provide me with some details regarding your restitution? Specifically, I would need the {{Order Number}} or any other relevant information that can help us locate your case in our system. Once I have the necessary information, I'll quickly look into it and provide you with the current status. Thank you for your cooperation, and I appreciate your patience.

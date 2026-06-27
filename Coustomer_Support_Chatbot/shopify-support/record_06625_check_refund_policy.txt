@@ -1,0 +1,16 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: what do I need to do to check your money back guarantee?
+
+Answer: Assuredly! We appreciate your interest in checking our money back guarantee. To do so, I recommend following these steps:
+
+1. **Read the terms and conditions:** Start by reviewing the terms and conditions on our website or in the documentation provided at the time of purchase. This will give you specific details about our money back guarantee policy.
+
+2. **Contact customer support:** If you still have questions or need further clarification, don't hesitate to reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be happy to assist you with any inquiries regarding our money back guarantee.
+
+3. **Provide necessary details:** When you get in touch with our customer support team, make sure to have your purchase details, such as the order number or invoice number, readily available. This will help expedite the process and ensure that we can provide you with accurate information about your eligibility for a refund.
+
+Remember, our money back guarantee may have specific conditions and time limits. So it's essential to familiarize yourself with the terms and conditions to maximize your chances of obtaining a refund if necessary.
+
+If you have any other questions or need further assistance, please don't hesitate to let me know.

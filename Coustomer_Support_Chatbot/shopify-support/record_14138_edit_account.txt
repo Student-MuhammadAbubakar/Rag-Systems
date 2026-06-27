@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating details on {{Account Category}} account
+
+Answer: We appreciate your dedication to personalizing your {{Account Category}} account and keeping your information up to date. Rest assured, we are here to guide you through the process of updating your details. To get started, please log into your account on our {{Website URL}} and navigate to the account settings or profile section. From there, you should be able to edit and save any changes to your personal information, such as your name, email address, or contact number. If you encounter any difficulties or have specific questions along the way, don't hesitate to reach out to our customer support team, available {{Customer Support Hours}} via {{Live Chat Support}}. Remember, we're here to assist you every step of the way, ensuring your account reflects your preferences accurately. Let's make your {{Account Category}} account truly yours!

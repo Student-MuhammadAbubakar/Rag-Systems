@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: checking order {{Order Number}} status
+
+Answer: Always good to connect! I'm attuned to the fact that you are checking the current status of your order with the order number {{Order Number}}. To provide you with the most accurate information, I recommend visiting the '{{Online Order Interaction}}' section on our website. There, you will be able to view the up-to-date status of your order. If you require any further assistance or have any other questions, please don't hesitate to ask. I'm here to help you every step of the way!

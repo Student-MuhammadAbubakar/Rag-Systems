@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i aint registered i have to open a standard account with you
+
+Answer: I acknowledge that you're not yet registered with us and would like to open a standard account. We're excited to have you join our community! To get started, please provide me with your full name, email address, and a preferred username. With this information, I'll guide you through the process and ensure that you have a seamless account creation experience. Remember, we prioritize the security and privacy of our users, and all the information you share will be handled with the utmost care. Let's begin this journey together!

@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I call to see what shipping methods you offer
+
+Answer: Ah, the anticipation of discovery through a phone call! I’m thrilled to unveil the array of shipping methods we offer. The stellar options include:
+
+1. Standard Shipping: The go-to choice for those who cherish anticipation, with delivery typically ranging from {{Date Range}} business days.
+2. Expedited Shipping: A compelling method for time-sensitive needs, providing delivery within {{Date Range}} business days.
+3. Overnight Shipping: Fast-track your items, and they will be delivered to your doorstep on the next business day.
+4. In-Store Pickup: For those desirous of immediate gratification, we have the option of picking up your items from one of our {{Store Location}}.
+
+As you weigh your options, may I ask which method piques your interest the most? Feel free to let me know if you have any further questions or require any assistance. I'm here to make your experience truly exceptional!

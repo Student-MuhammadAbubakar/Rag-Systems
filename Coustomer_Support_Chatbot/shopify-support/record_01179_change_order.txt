@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I correct purchase {{Order Number}}?
+
+Answer: We understand that you have concerns about correcting your purchase with order number {{Order Number}}. We apologize for any inconvenience this may have caused you. To assist you in making the necessary corrections, could you please provide us with specific details about what needs to be corrected? This will enable us to take immediate action and ensure that your purchase is corrected to your satisfaction. Thank you for your patience and cooperation as we work together to resolve this issue.

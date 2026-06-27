@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: can you help me locating order {{Order Number}}?
+
+Answer: Thank you for reaching out! I'm here to assist you in locating your order with the order number {{Order Number}}. To provide accurate information, could you please confirm if you made this purchase on our website or through one of our authorized partners? Knowing this will help me guide you to the right place for order tracking.

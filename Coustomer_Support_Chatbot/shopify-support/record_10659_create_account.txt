@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i dont know how i can create a {{Account Category}} account
+
+Answer: No worries at all! I'm here to guide you through the process of creating a {{Account Category}} account. {{Account Category}} accounts offer exclusive features and benefits, so it's great that you're interested in upgrading. To get started, you can visit our website and look for the "Sign Up" or "Create Account" button. Once you click on it, you will be prompted to provide some basic information such as your name, email address, and a password. Make sure to choose the "{{Account Category}}" option when selecting the type of account you want. If you need any further assistance or encounter any issues during the process, don't hesitate to reach out. I'll be more than happy to help you along the way. How does that sound?

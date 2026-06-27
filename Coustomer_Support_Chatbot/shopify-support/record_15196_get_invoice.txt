@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i dont know how i can get the invoice #37777
+
+Answer: I'm on the same wavelength, your confusion about locating the invoice with the number #{{Invoice Number}}. Allow me to assist you in retrieving your bill. To access your invoice, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. Alternatively, you can reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}} for further assistance. Rest assured, we are committed to helping you retrieve your invoice and resolve any concerns you may have.

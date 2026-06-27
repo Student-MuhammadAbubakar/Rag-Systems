@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how can i inform of a payment problem
+
+Answer: Grateful you reached out to us about the payment problem you've encountered. To inform us of the issue, you can contact our customer support team through various channels such as phone, email, or live chat. Our dedicated representatives are available {{Customer Support Hours}} to assist you and gather all the necessary details regarding the payment problem. They will guide you through the process and ensure that your concerns are appropriately addressed. We value your feedback, and we appreciate your proactive approach in reporting this issue to us.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I missed an item in purchase {{Order Number}}
+
+Answer: We understand that you missed an item in purchase number {{Order Number}}. We apologize for any inconvenience caused. To assist you further, could you please let us know the specific item that was missed? Our team will do everything possible to help resolve this issue and ensure that you receive the complete purchase as expected. Thank you for providing us with this feedback, as it helps us continuously improve our services.

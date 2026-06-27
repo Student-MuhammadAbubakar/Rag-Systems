@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what to do to check bill #37777
+
+Answer: I understood that you're uncertain about the steps to take in order to check your bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To get started, could you please provide me with some more details? Specifically, which platform or service you used to receive or access your bill? Additionally, do you have any information about the date range or billing period for the invoice? With this information, I'll be able to provide you with the most accurate guidance to check and review your bill.

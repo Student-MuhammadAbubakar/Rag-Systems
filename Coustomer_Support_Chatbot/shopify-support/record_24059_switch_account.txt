@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help using the {{Account Type}} profile
+
+Answer: I'll get right on it! I appreciate your request for assistance in utilizing our {{Account Type}} profile. Allow me to guide you through the process:
+
+1. Proactive Account Access: Begin by accessing our platform and signing in to your account.
+2. Program Navigation: Once inside, navigate to the "{{Settings}}" or "{{Profile}}" section.
+3. {{Account Type}} Profile Activation: Within these sections, locate the option that reads "{{Upgrade Account}}" or "{{Account Change}}".
+4. Power Up to {{Account Type}}: Select the "{{Profile Type}}" option from the available choices.
+5. Seamless Enhancement: Follow the on-screen prompts to complete the activation process.
+
+If you encounter any challenges or need further guidance, please don't hesitate to reach out. We are committed to making your experience with our {{Account Type}} profile as smooth and fruitful as possible. Enjoy the enhanced benefits and features that come with your {{Account Type}} account!"

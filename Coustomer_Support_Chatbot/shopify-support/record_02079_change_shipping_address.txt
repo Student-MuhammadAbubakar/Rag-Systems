@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I am trying to change my address
+
+Answer: I've observed that you are trying to change your address. To update your address, please log into your account and navigate to the profile or settings section. There, you should find an option to edit your personal information, including your address. If you encounter any difficulties or have further questions, please don't hesitate to reach out to our customer service team for assistance.

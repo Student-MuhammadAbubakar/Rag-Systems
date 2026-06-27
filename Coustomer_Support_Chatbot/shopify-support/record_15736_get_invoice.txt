@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do not know what i need to do to get my invoice #12588
+
+Answer: Ah, the perplexing enigma of retrieving the prestigious invoice with the remarkable number {{Invoice Number}}!I'm here to guide you through the process and provide a resolution. Rest assured, your satisfaction is my top priority. Let's unravel this mystery together!

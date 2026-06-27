@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: find my bill from {{Person Name}}
+
+Answer: Definitely! I completely understand your desire to locate the details of your bill from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To find your bill, you can navigate to the "Billing" or "Invoices" section in your account dashboard. If you're accessing our website, you can usually find it by clicking on your profile icon or your account name. In case you're using our mobile app, you can typically find the "Billing" or "Invoices" section in the main menu. If you need further assistance or have any additional questions, please don't hesitate to let me know.

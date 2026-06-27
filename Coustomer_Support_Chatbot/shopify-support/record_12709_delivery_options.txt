@@ -1,0 +1,14 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: how can i see what shipment options i can choose
+
+Answer: Delightful! I'm here to assist you in navigating the realm of our shipment options. To view the available shipment options, simply follow these steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the product page of the item you're interested in purchasing.
+3. Look for the "Shipping Options" or "Delivery Information" section on the product page.
+4. Click on the section to expand it and reveal the available shipment options.
+5. Take a moment to review the details and estimated delivery times for each option.
+
+By following these steps, you'll be able to explore and select the shipment option that best suits your needs. If you encounter any difficulties or have further questions along the way, don't hesitate to ask. I'm here to ensure a seamless and satisfying experience for you!

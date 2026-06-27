@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do i edit purchase {{Order Number}}
+
+Answer: We understand that you would like to edit your purchase with the order number {{Order Number}}. To assist you with this, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Navigate to the "My Orders" or "Order History" section.
+3. Locate the purchase with the order number {{Order Number}}.
+4. Click on the "Edit" or "Modify" option next to the purchase.
+5. Review the available editable fields such as product quantity, color, size, or any other applicable parameters.
+6. Make the necessary changes to the purchase details as per your requirements.
+7. Double-check the modifications you made to ensure accuracy.
+8. Once you are satisfied with the changes, click on the "Save" or "Update" button.
+9. Your purchase with the order number {{Order Number}} will now be updated with the edits you made.
+
+If you encounter any difficulties or require further assistance during this process, please feel free to let us know. We're here to help!"

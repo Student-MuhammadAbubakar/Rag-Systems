@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: want help closing a {{Account Category}} account
+
+Answer: Thank you for trusting to us for assistance with closing your {{Account Category}} account. We understand that this may be a significant decision, and we are here to support you through the process. To proceed with the account closure, please provide us with the necessary details, such as your account username or email associated with the {{Account Category}} account. Once we have the information, our team will assist you further and guide you through the necessary steps to close your account.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need help to deelete a pro account
+
+Answer: Thank you for your message regarding the deletion of your {{Account Type}} account. I understand that you may have some concerns or questions about this process. Rest assured, I'm here to assist you every step of the way. Could you please provide me with some additional details or specific information about your {{Account Type}} account? By gathering this information, we can ensure that we address all your concerns and provide you with the most accurate assistance.

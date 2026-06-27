@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i have paid {{Currency Symbol}}{{Refund Amount}} for an item help me obtain a refund
+
+Answer: I've noticed that you're seeking assistance on obtaining a refund for the item you purchased for ${{Refund Amount}}. I apologize for any inconvenience this has caused you. To proceed with your refund request, I would recommend reaching out to our customer support team. They will guide you through the necessary steps and help facilitate the refund process. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to assist you. Rest assured, we are committed to resolving this matter promptly and ensuring your satisfaction.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how can i inform of problems with online payment
+
+Answer: I've grasped that you are facing problems with your online payment, and I'm here to help you resolve this issue. To inform us about the problems you're experiencing, you can reach out to our customer support team through various channels. You can contact our dedicated helpline at {{Customer Support Phone Number}} or send us an email at {{Customer Support Email}}. Additionally, you can also submit a ticket on our website by visiting the "Contact Us" page. Providing detailed information about the problems you encountered, such as error messages or any specific error codes, will assist our team in identifying the root cause more efficiently and providing you with a quick solution. Thank you for bringing this to our attention, and we appreciate your cooperation in resolving this matter.

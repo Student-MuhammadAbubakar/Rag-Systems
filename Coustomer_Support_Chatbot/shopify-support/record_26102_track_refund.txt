@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a refund of {{Refund Amount}} dollars
+
+Answer: Thank you for bringing up your refund inquiry. I understand the importance of the {{Currency Symbol}}{{Money Amount}} refund for you. Rest assured, I will do my best to assist you in checking the current status. While I look into this, have you recently had any similar refund experiences with us? Your feedback is valuable to us. Please bear with me for a moment, and I appreciate your patience.

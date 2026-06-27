@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open a premium account
+
+Answer: How fantastic! I'm absolutely thrilled to assist you in opening a premium account. {{Account Category}} accounts offer a range of exclusive benefits and enhanced features designed to elevate your banking experience. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step-by-step, ensuring that you're well-informed and empowered every step of the way. And remember, your privacy and security are of utmost importance to us, so you can be confident that your information is in safe hands. Let's embark on this journey together and unlock the premium benefits that await you!

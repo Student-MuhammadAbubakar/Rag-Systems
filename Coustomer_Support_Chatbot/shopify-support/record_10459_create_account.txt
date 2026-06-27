@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need assistance opening a pro account for my daughter
+
+Answer: That's wonderful! I'm here to provide you with all the assistance you need to open a {{Account Type}} account for your daughter. First, I will need some information to get started. Could you please provide me with your daughter's full name, email address, and date of birth? This will help us create a personalized and secure account for her. Rest assured that we prioritize the security and privacy of our users. Once I have this information, I will guide you step-by-step through the process, making sure you are fully informed and confident throughout. Let's make this experience seamless and enjoyable for both you and your daughter!

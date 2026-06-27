@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: could uhlep me to check how soon can i expect the damn order
+
+Answer: We understand your frustration and eagerness to receive your order. To provide you with an accurate estimate of the delivery time, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we'll be able to determine the expected arrival time and keep you updated on the progress of your order. Your patience is greatly appreciated as we work to ensure a smooth delivery process.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i have paid {{Currency Symbol}}{{Refund Amount}} ofr this product i need my money back
+
+Answer: I understand your frustration and concern regarding obtaining a refund for the product you purchased for ${{Refund Amount}}. Rest assured, I'm here to assist you in resolving this matter. To proceed, could you please provide me with some additional details about your purchase? Specifically, I would need the order number or any other relevant information that can help me locate your transaction in our system. Once I have the necessary information, I will guide you through the refund process and ensure that you receive the appropriate reimbursement. Your satisfaction is our utmost priority, and we will work diligently to resolve this issue for you.

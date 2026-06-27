@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I don't know how I can check my compensation status
+
+Answer: I'm on your side your concern about not knowing how to check the status of your compensation. Let me guide you through the process. To check your compensation status, you can log in to your account on our website and navigate to the "My Account" or "Settings" section. Look for a tab or link that mentions "Compensation" or "Refunds." Click on it to access the details of your compensation, including the current status. If you're unable to locate it or need further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to ensure that you stay informed every step of the way.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refund {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I've been informed that you are requesting a refund of ${{Refund Amount}}. I apologize for any inconvenience or issue that led to this situation. To assist you further, could you please provide me with some additional details regarding the transaction? Specifically, I would need information such as the date of the transaction, the payment method used, and any relevant order or account numbers. With this information, I will do my utmost to escalate the matter and ensure that your refund is processed as quickly as possible. Thank you for your patience and cooperation as we work towards resolving this issue and refunding your money.

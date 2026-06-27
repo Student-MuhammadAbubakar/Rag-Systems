@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to correct roder {{Order Number}}
+
+Answer: I understand your need to correct order number {{Order Number}}. To assist you with this, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Go to the "My Orders" section.
+3. Locate order number {{Order Number}} and click on it to open the order details.
+4. Look for the "Edit Order" or "Modify Order" option and select it.
+5. You will be able to make changes to the items in your order, such as removing or adding products.
+6. Review your changes and confirm the modifications.
+7. If there are any additional charges or refunds associated with the changes, the system will prompt you to proceed with the payment or issue a refund.
+8. After confirming the changes and completing any necessary payment, your order will be updated with the corrected information.
+
+Please note that the availability of the "Edit Order" or "Modify Order" option may vary depending on the specific order status and our company's policies. If you encounter any difficulties or require further assistance, please don't hesitate to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}}, or through the Live Chat on our website at {{Website URL}}. We are here to help ensure your order is accurate and meets your expectations.

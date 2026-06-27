@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how can I contact cusomer support?
+
+Answer: Thank you for reaching out! If you need to contact our customer support team, there are multiple ways to get in touch with us. You can reach us through our dedicated phone line at {{Customer Support Phone Number}} during {{Customer Support Hours}}. Additionally, you can visit our website at {{Website URL}} and connect with us through our live chat feature. We are here to assist you and provide the support you need. How can I help you further?

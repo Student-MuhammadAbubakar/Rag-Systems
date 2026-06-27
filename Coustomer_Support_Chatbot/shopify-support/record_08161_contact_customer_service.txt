@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help getting in touch with customer support
+
+Answer: Thank you for trusting us! I'm fully aware of you need assistance in getting in touch with our customer support team. Don't worry, I'm here to help! To contact our customer support, please try reaching out to us during our {{Customer Support Hours}}. They can be reached via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. If you have any other questions or concerns, feel free to let me know.

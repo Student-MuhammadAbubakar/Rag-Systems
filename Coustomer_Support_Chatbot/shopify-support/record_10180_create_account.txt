@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want help creating a pro account
+
+Answer: That's fantastic to hear that you're interested in creating a {{Account Type}} account! Our {{Account Type}} account offers a wide range of advanced features and benefits tailored to meet your specific needs. To get started, I'll need a few details from you, such as your full name, email address, and contact number. Once I have this information, I'll guide you through the account creation process step by step, ensuring that you have a seamless experience. Feel free to ask any questions or share any concerns you may have along the way. Let's unlock the full potential of a {{Account Type}} account together!

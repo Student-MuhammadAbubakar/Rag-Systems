@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: changkng to {{Account Type}} account
+
+Answer: Certainly! I'm here to guide you through the process of switching to our esteemed {{Account Type}} account:
+
+1. Start by logging into your account.
+2. Navigate to the '{{Settings}}' or '{{Profile}}' section.
+3. Look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}'.
+4. Select the '{{Account Type}}' option from the list.
+5. Follow the on-screen instructions to complete the switch.
+
+Should you encounter any difficulties or if you have any further questions, don't hesitate to let me know. I'm committed to helping you make a seamless transition to our {{Account Type}} account, unlocking even more exclusive features and benefits.

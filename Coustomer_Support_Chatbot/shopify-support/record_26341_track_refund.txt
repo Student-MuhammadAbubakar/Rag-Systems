@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a restitution oof {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm on your side the significance of waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}. It's important to us that you receive the compensation you deserve in a timely manner. Let me investigate the current status of your restitution for you. While I do that, I would love to hear if you have any previous experience with waiting for a restitution and how it was resolved. Your insights and patience are highly valued as we work towards ensuring your satisfaction and trust.

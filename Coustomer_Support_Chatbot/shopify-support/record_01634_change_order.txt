@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I don't know how I can change something of purchase {{Order Number}}
+
+Answer: I've been informed that you're unsure about how to make changes to your purchase with order number {{Order Number}}. I'm here to help you with that. To modify your purchase, you can reach out to our customer support team either by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and assist you in making the desired changes. Don't hesitate to contact them as they are more than willing to provide the support you need.

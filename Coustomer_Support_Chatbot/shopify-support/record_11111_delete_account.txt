@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need information about the cancellation of my {{Account Type}} account
+
+Answer: Thank you for getting in touch about canceling your {{Account Type}} account. I understand that you need detailed information regarding the cancellation process. We value your time and want to ensure that all your concerns are addressed. To cancel your {{Account Type}} account, please follow the steps outlined in our cancellation policy. You can find this policy on our website under the account settings section. If you have any specific questions or require further assistance, please don't hesitate to ask. We are here to support you throughout the cancellation process.

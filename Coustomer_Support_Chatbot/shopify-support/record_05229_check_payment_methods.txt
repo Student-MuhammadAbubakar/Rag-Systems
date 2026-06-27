@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: what are your bloody payment methods?
+
+Answer: I'll do my best! I'm here to help you explore our diverse range of payment methods. Here's an overview of our accepted payment options:
+
+- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.
+- **PayPal:** A widely recognized online payment platform.
+- **Bank Transfer:** This allows for direct payments from your bank account.
+- **Apple Pay:** An easy and secure payment method for Apple users.
+- **Google Wallet:** Google's convenient payment system for quick checkouts.
+
+These options provide flexibility and convenience for our valued customers. If you require additional information about any of these methods, please let me know. I'm available to assist you every step of the way!"

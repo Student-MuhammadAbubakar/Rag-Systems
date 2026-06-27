@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can no longer afford purchase {{Order Number}}
+
+Answer: I realized you're facing financial difficulties and can no longer afford to proceed with your purchase. I apologize for the inconvenience this may have caused. We're here to assist you. You have a few options:
+
+1. Reach out to Customer Support: Contact our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}}, or use the live chat feature on our website {{Website URL}}. Our team will guide you through the cancellation process and explore possible alternatives based on your specific situation.
+ 
+2. Check for Cancellation Policies: Review our cancellation policies, terms, and conditions, as they might offer insights into your available options. Look for sections like "{{Cancellation Policy}}" or "{{Refund Policy}}" on our website FAQs or Help Center.
+
+3. Explore Refund or Return Options: If cancelling your purchase is not feasible, you might consider exploring our refund or return policies. Look for sections such as "{{Refund Policy}}" or "{{Return Policy}}" on our website for detailed instructions on how to proceed.
+
+4. Explore Flexible Payment Options: We understand that financial circumstances may change. We offer flexible payment options to help our customers during challenging times. Contact our customer support team to discuss possible solutions tailored to your needs.
+
+Remember, we are committed to ensuring your satisfaction, and our goal is to find the best possible resolution for you. Reach out to us, and we will work together to address your concerns and assist you in the most appropriate way.

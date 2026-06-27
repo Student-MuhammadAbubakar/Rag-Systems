@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: mail me the bills from {{Person Name}}
+
+Answer: Sure! I understand that you would like to receive the bills from {{Person Name}} by email. To assist you further, could you please provide me with the email address where you would like the bills to be sent? Once I have that information, I will ensure that you receive the bills promptly. Thank you for your cooperation!

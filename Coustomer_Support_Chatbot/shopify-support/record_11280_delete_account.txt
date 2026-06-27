@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: how can I find information about a {{Account Type}} account termination?
+
+Answer: We're here to help regarding the termination of your {{Account Type}} account. I completely understand the importance of finding the necessary information to proceed with the cancellation process. To provide you with accurate and detailed instructions, could you please provide me with your account details or any specific concerns you have about terminating your {{Account Type}} account? With this information, I will be able to guide you step-by-step and ensure a smooth termination process.

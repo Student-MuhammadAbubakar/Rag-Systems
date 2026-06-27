@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i have paid {{Currency Symbol}}{{Refund Amount}} for these products i want my money back
+
+Answer: I'm sensitive to the fact that you have paid ${{Refund Amount}} for these products and you are seeking a refund. I'm here to assist you in the process of obtaining your money back. In order to proceed, could you please provide me with some more details about the purchase? Specifically, I would need the order number or any other relevant information that can help me locate your transaction. With this information, I can guide you through the necessary steps to initiate the refund process and ensure a smooth resolution. Rest assured, I'll do my best to expedite this process and provide you with the assistance you need.

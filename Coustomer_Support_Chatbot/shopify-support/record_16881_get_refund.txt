@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimbursing {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I've got that you are seeking reimbursement for the amount of ${{Refund Amount}}. I apologize for any inconvenience caused and I assure you that I am here to assist you. To initiate the reimbursement process, I kindly request you to provide me with the necessary details such as the transaction reference number, the date of the transaction, and any supporting documentation you may have. With this information, I will be able to expedite the reimbursement process and ensure that you receive your refund as soon as possible. Rest assured, I will do everything in my power to resolve this matter to your satisfaction.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refund {{Refund Amount}} dollars
+
+Answer: I appreciate that you're requesting a refund of ${{Refund Amount}}. Please allow me a moment to review your account information and verify the details of your refund request. While I do that, I want to assure you that I'll do my best to expedite this process for you and provide a resolution as soon as possible. Thank you for your patience.

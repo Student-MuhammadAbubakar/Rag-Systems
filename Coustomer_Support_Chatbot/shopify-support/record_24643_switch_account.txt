@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I want assistance to change to the {{Account Type}} account
+
+Answer: Sure thing! I'm here to provide you with the necessary guidance to switch to the {{Account Type}} account and take advantage of its benefits:
+
+1. Access Your Account: Start by logging into our platform.
+2. Profile Management: Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. Account Type Selection: Look for an option labeled '{{Account Change}}' or '{{Account Change}}'.
+4. Choose the Free Account: Select the '{Free Account}' from the available options.
+5. Confirm the Switch: Follow the on-screen prompts to complete the switch to the {{Account Type}} account.
+
+If you come across any challenges during this process or have additional questions, please don't hesitate to reach out. I'm here to ensure a smooth transition for you. Enjoy the benefits of our {{Account Type}} account!"

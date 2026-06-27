@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use freemium account
+
+Answer: You're headed in the right direction with your decision to use the {{Account Category}} account! Allow me to assist you with the necessary steps to harness its incredible features:
+
+1. Sign In: Start by logging into our platform using your existing account credentials.
+2. Account Settings: Once you're inside, navigate to your profile or account settings section.
+3. Account Type: Look for an option labeled "Account Type" or "Profile Type."
+4. Switch to {{Account Category}}: Select the "{{Account Category}}" account type from the available options.
+5. Save Changes: Be sure to save your changes, and you'll now have access to the exciting benefits of our {{Account Category}} account.
+
+Should you encounter any challenges or have further questions along the way, please don't hesitate to reach out. I'm here to make this transition a smooth and enjoyable experience for you. Happy exploring with the {{Account Category}} account!

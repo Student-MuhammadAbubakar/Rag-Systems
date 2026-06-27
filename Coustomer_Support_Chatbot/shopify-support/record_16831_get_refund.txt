@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I don't know how to request a refund of money
+
+Answer: I've picked up that you're unsure about the process of requesting a refund for your money. It can be a confusing and frustrating situation, but don't worry, I'm here to help. To initiate the refund process, you can start by contacting our customer support team. They will guide you through the necessary steps and provide you with the required information and forms, if any. Alternatively, you can also check our website or the purchase confirmation email for specific instructions on how to request a refund. Remember, it's important to provide all the relevant details, such as your order number and reason for the refund, to expedite the process. Our team will carefully review your request and do everything possible to assist you promptly.

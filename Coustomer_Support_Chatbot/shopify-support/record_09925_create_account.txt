@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where can I get information about opening {{Account Category}} accounts?
+
+Answer: Absolutely! You can find detailed information about opening {{Account Category}} accounts on our website. Simply visit our homepage and navigate to the "Accounts" section. There, you will find a dedicated page specifically outlining the features, benefits, and requirements for opening a {{Account Category}} account. Additionally, you can contact our customer support team through the Live Chat feature on our website. They will be happy to provide you with all the information you need and assist you with any questions or concerns you may have regarding opening a {{Account Category}} account.

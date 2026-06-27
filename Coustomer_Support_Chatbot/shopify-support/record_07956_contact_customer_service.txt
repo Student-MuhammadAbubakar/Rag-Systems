@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where can I see what hours I can reach customer assistance?
+
+Answer: We value your outreach! I'm in tune with the fact that you would like to know where you can see the hours when you can reach our customer assistance team. To find the hours of operation for our customer service, you can visit our website at {{Website URL}}, go to the "Contact Us" page, and look for the section that provides information about our customer service hours. If you have any further questions or need assistance with anything else, please feel free to let me know.

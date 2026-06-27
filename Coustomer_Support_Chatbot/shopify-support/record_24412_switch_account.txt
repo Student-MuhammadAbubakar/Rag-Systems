@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how to use the standard account
+
+Answer: Thank you for your interest in learning how to utilize our {{Account Type}} account. Allow me to guide you step by step to make the most of this option:
+
+1. Login: Begin by accessing our platform using your credentials.
+2. Navigation: Once logged in, familiarize yourself with the platform's interface.
+3. Features: Explore the various features and tools available with the {{Account Type}} account.
+4. Profile Customization: Personalize your profile by adding a profile picture and updating your information.
+5. Account Settings: In the account settings section, you can configure preferences, update your password, and manage notification settings.
+6. Usage Guidelines: Familiarize yourself with the terms of use and guidelines for the {{Account Type}} account.
+7. Support and Resources: Should you have any further questions or require assistance, our support team is available to help you navigate the platform.
+
+Remember that using the {{Account Type}} account allows you to access a wide range of features and benefits. Feel free to explore and experiment with the tools at your disposal.

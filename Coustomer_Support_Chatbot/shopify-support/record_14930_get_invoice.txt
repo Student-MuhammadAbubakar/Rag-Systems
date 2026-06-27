@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I cannot find my bill #85632, mail it to me
+
+Answer: Ah, the mystifying disappearance of the esteemed invoice with the revered number {{Invoice Number}}!I am here to assist you on this perplexing quest and help unveil the hidden path to retrieve your invoice. To ensure a swift resolution, I kindly request you to provide me with your preferred email address. Once we have your email, I will be able to send you the bill directly, granting you access to its esteemed contents. Rest assured, I am committed to guiding you through this process with care and precision.

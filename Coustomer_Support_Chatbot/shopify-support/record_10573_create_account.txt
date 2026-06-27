@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do i need to do to create a {{Account Type}} account for my dad
+
+Answer: Thank you for considering to create a {{Account Type}} account for your dad. We appreciate your interest in our services. To create a {{Account Type}} account, you will need to visit our website and navigate to the account creation page. Once there, you will be prompted to provide your dad's full name, email address, and a preferred username. Additionally, you may need to provide some basic personal information, such as his date of birth, to verify his identity. Once you have entered all the required information, you can proceed to create the account. If you encounter any difficulties during the process, please don't hesitate to reach out to our customer support team for assistance. We are here to help you every step of the way!

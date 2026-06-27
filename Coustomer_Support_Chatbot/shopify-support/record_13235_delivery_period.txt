@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: help me see when my damn article is going to arrive
+
+Answer: We understand your frustration and eagerness to track the progress of your shipment. Please provide us with the necessary details like the {{Tracking Number}} or {{Order Number}} so that we can check the status and estimated arrival time of your article. We apologize for any inconvenience caused and appreciate your patience as we work to resolve this issue.

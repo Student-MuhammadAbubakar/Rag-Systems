@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i dont know what i have to do to obtain a compensation
+
+Answer: I catch on to the fact that you're unsure about the steps required to obtain compensation. Allow me to guide you through the process and provide you with the necessary information. The first step is to gather all relevant details regarding your issue, such as the date of purchase, order number, and a clear description of the problem you encountered. Once you have these details, I recommend reaching out to our customer support team either through our helpline at {{Customer Support Phone Number}} or via live chat on our website at {{Website URL}}. Our dedicated representatives will assist you further, ensuring a smooth and satisfactory experience. Remember, we are here to support you every step of the way.

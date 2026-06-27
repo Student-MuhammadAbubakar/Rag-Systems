@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: need to see what hours customer assistance available is
+
+Answer: It's great to hear from you! I can see that you would like to know the operating hours of our customer assistance team. Our dedicated team is available to help you during {{Customer Assistance Hours}}. They are committed to addressing your concerns and ensuring your satisfaction. If you have any other questions or need further assistance, please feel free to ask.

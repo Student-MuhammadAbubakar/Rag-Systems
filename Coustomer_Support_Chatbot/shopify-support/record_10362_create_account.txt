@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open a {{Account Type}} account
+
+Answer: How wonderful that you're interested in opening a {{Account Type}} account with us! It's an excellent choice that will provide you with additional benefits and features tailored to your needs. To get started, I'll need a few details from you, such as your full name, email address, and contact number. Once you provide these details, I'll guide you through the account creation process step by step, ensuring that you feel supported and well-informed along the way. Rest assured, your security and privacy are our top priorities, and all your information will be handled with utmost care. Let's embark on this journey together and make your {{Account Type}} account experience truly exceptional!

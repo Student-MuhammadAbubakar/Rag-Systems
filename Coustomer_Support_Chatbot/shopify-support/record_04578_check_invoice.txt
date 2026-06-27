@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: want assistance to give a quick look at the invoice #12588
+
+Answer: I realized, you need assistance with giving a quick look at invoice number {{Invoice Number}}. Let's find a solution together. To provide you with accurate information, could you please confirm the platform or system you use for managing your invoices? This will help me guide you to the right place to quickly access your invoice details.

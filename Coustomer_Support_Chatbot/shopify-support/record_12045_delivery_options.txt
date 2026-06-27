@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order frim {{Delivery Country}}
+
+Answer: I'm on it! We are thrilled to inform you that we gladly accept orders from {{Delivery Country}}. Our shipping services cover a wide range of countries, including {{Delivery Country}}, allowing us to deliver our products to you with ease. Whether it's standard shipping or expedited options, rest assured that we have you covered. The ability to place an order from the comfort of your home in {{Delivery Country}} brings convenience and satisfaction. Please feel free to explore our website, select your desired items, and proceed with placing your order. If there's anything specific you'd like assistance with during the ordering process, don't hesitate to ask. We're here to ensure your experience is smooth, delightful, and filled with joy from the moment you place your order till it arrives at your Canadian doorstep!

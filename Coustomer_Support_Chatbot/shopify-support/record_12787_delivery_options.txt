@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship  to {{Delivery Country}}?
+
+Answer: Indeed! We offer shipping options to various locations in the {{Delivery Country}}, ensuring that our services reach you wherever you are. From major cities to states, we've got you covered. Our goal is to make sure your items are delivered safely and on time. Should you have any specific questions or concerns about the shipping process or the available options, feel free to let me know. I'm here to assist you in making the best shipping decision for your needs.

@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to check what delivery options are there?
+
+Answer: For sure! Allow me to assist you in exploring our wide range of delivery options:
+
+1. Standard Shipping: Our standard shipping option takes approximately {{Delivery Time}} business days to reach your destination. It is ideal for non-urgent items.
+
+2. Express Shipping: If you prefer a faster delivery, our express shipping option can get your items to you in {{Express Delivery Time}} business days.
+
+3. Same-Day Delivery: For those urgent needs, we offer same-day delivery in select areas. Simply place your order by {{Cut Off Time}} to qualify for this service.
+
+4. In-Store Pickup: If you prefer to collect your order personally, we offer in-store pickup at our {{Store Location}}. Once your order is ready, you can simply drop by and pick it up at your convenience.
+
+These are some of our key delivery options, but we also offer specialized services like international shipping and scheduled deliveries. If you have any specific concerns or questions, feel free to let me know. I'm here to assist you in finding the perfect delivery option that suits your needs.

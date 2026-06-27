@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to speak to fucking ucstomer support
+
+Answer: I see what you mean! I'm on the same page that you have a pressing need to speak with our customer support team. I apologize for any inconvenience you may have experienced. Our team is available to assist you during {{Customer Support Hours}}. May I know how I can be of assistance to you?

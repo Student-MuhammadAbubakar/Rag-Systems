@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: there are problems correcting my address
+
+Answer: We apologize for the inconvenience you're experiencing while trying to correct your address. To assist you further, please provide us with specific details about the problem you are encountering, and we will do our best to resolve it for you promptly.

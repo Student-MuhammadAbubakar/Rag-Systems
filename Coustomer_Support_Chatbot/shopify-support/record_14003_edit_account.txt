@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update details on pro account
+
+Answer: How marvelous it is to embark on this momentous journey of updating the esteemed details on your {{Account Type}} account!I'm thrilled to provide you with the necessary guidance and support to navigate through this empowering experience. Rest assured, together we will ensure that your {{Account Type}} account reflects your ever-evolving needs and preferences. Please let me know which specific details you would like to modify, and I'll be more than happy to assist you every step of the way.

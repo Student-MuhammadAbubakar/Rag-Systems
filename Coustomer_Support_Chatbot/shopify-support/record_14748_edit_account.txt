@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correct info on {{Account Type}} account
+
+Answer: Congratulations on your decision to correct the information on your {{Account Type}} account!I'm here to support you in this endeavor and ensure that your account reflects accurate and up-to-date details. Let's dive into the process together. Please provide me with the specific information you would like to correct, and I will guide you through the necessary steps. Your commitment to accuracy is truly commendable, and I'm excited to assist you in achieving a flawless account.

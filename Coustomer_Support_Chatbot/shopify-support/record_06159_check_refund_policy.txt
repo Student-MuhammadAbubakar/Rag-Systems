@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: assistance to check in which cases can i request a refund
+
+Answer: Certainly! I understand your need for clarity regarding the situations in which you can request a refund. Here are some common scenarios:
+
+1. **Product/Service Dissatisfaction:** If you are not satisfied with the quality, functionality, or performance of a product or service, you may be eligible for a refund.
+2. **Delivery Issues:** If your order was not delivered or was delivered significantly late, you may be entitled to a refund.
+3. **Incorrect Product/Service:** If you receive the wrong product or service that you did not order, you can request a refund.
+4. **Unforeseen Circumstances:** In certain cases, such as illness, accidents, or other unforeseen circumstances, you may be able to request a refund for a canceled or rescheduled event or travel reservation.
+5. **Billing Errors:** If you notice any billing errors, such as double charges or incorrect pricing, you can request a refund for the excess amount.
+6. **Subscription Cancellation:** If you decide to cancel a subscription, you may be eligible for a refund based on the vendor's cancellation policy.
+
+Please note that refund policies may vary depending on the specific vendor or service provider. It's always a good idea to review their terms and conditions or reach out to their customer support for detailed information. If you have any specific concerns or need assistance with a particular order or situation, please provide me with the necessary details, such as the {{Order Number}} or other relevant information, and I'll be glad to assist you further.
+
+Is there anything else I can help you with today?

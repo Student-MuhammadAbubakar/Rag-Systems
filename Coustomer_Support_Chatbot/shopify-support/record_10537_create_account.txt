@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: could you help me to open a platinum account for my dad?
+
+Answer: That's fantastic that you're interested in opening a {{Account Category}} account for your dad! We appreciate your choice and aim to provide him with a premium banking experience. To begin the process, I'll need some basic information about your dad, such as his full name, date of birth, and contact details. Rest assured that the privacy and security of his information are of utmost importance to us. Once we have these details, we can move forward with creating the {{Account Category}} account and customizing it to meet his unique financial needs.

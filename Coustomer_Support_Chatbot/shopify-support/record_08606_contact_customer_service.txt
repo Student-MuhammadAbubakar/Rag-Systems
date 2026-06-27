@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: were do I see at what time I can reach customer service?
+
+Answer: Your reach-out is appreciated! I'm sensing that you are looking for information on where to check the operating hours to reach our customer service team. You can find this information on our {{Website URL}} under the 'Contact Us' or 'Support' section. Additionally, you can also find the operating hours mentioned in our email correspondence or on our social media platforms. Is there anything else I can assist you with?

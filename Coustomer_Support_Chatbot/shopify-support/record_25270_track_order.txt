@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: track_order
+
+Question: what do I need to do to locate purchase {{Order Number}}?
+
+Answer: I see what you mean! I'm on the same page that you would like to know what steps you need to take to locate your purchase with the number {{Order Number}}. To find the location of your purchase, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the 'Order History' or 'My Purchases' section.
+3. Look for the option to search or filter your orders.
+4. Enter the purchase number {{Order Number}} in the search or filter bar.
+5. Click on the 'Search' or 'Filter' button.
+6. Your purchase with the specified number should be displayed, along with its current status and tracking information.
+
+If you encounter any difficulties or have further questions, please don't hesitate to ask. I'm here to assist you every step of the way to ensure you have a seamless experience locating your purchase.

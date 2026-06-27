@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I need to file a customer reclamation, how do I do it?
+
+Answer: I'm sorry to hear that you need to file a customer reclamation. To initiate the process, I recommend contacting our customer support team directly. They will guide you through the necessary steps and provide assistance in filing your reclamation. You can reach out to them through our dedicated customer service hotline at {{Customer Support Phone Number}} or send an email to our support team at {{Customer Support Email}}. Please provide them with all the relevant information regarding your reclamation, such as your name, contact details, order number, and a detailed description of the issue you encountered. Our team will work diligently to address your concerns and ensure a timely resolution to your reclamation. Thank you for bringing this matter to our attention, and we appreciate your patience throughout this process.

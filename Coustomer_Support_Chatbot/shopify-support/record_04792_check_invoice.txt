@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where can I locate the invoice #37777?
+
+Answer: I understand your need to locate the details of invoice #{{Invoice Number}}. To find the invoice {{Invoice Number}}, you can navigate to the "Billing" section of your account dashboard. Look for the "Invoices" tab, where you should be able to search for and locate the specific invoice you are looking for. If you require any further assistance or have any additional questions, feel free to let me know.

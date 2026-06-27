@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I want assistance to ask for a refund of money
+
+Answer: I've ascertained that you need assistance in requesting a refund for your money. I'm here to guide you through the process and ensure you have a smooth experience. To begin, could you please provide me with the details of your purchase, such as the date of purchase, the amount paid, and any order or transaction numbers? Having this information will enable me to provide you with accurate instructions on how to proceed with your refund request. Rest assured, I'm committed to helping you resolve this matter to your satisfaction.

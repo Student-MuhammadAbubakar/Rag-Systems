@@ -1,0 +1,9 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: information about the termination of my {{Account Category}} account
+
+Answer: Glad you contacted to us to gather information about terminating your {{Account Category}} account. We understand that account termination can be an important decision, and we are here to guide you through the process. To provide you with accurate details, could you please provide the following information: 
+1. The email address associated with your {{Account Category}} account.
+2. The reason for termination.
+Once we have these details, we will be able to assist you further and ensure a smooth termination process. Your satisfaction is our top priority, and we are committed to making this experience as convenient as possible for you.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i havent signed up yet how do i open a {{Account Type}} account wirh you
+
+Answer: That's wonderful that you're interested in signing up for a {{Account Type}} account with us! Opening a {{Account Type}} account is quick and easy. To get started, you can visit our website and click on the "Sign Up" button. This will take you to the account registration page where you'll need to provide some basic information like your name, email address, and desired username. Once you've filled out the required fields, you'll receive an email with further instructions to complete the account activation process. If you have any questions or need assistance at any point, don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We can't wait to welcome you as a new member of our {{Account Type}} account community!

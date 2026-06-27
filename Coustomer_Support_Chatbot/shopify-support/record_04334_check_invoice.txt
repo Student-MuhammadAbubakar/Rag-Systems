@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: need assistance to find the fucking invoices from {{Person Name}}
+
+Answer: I realized that you need assistance with finding the invoices from {{Salutation}} {{Client Last Name}}. I apologize for the language used in your message, but I'm here to help you resolve this issue. To locate the invoices, could you please provide me with a specific date range or any additional details that might assist me in narrowing down the search? Rest assured, I'm committed to providing you with the support you need.

@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: will ushow me the early terminarion charges
+
+Answer: For sure! I will provide you with the details on the early termination charges. Please give me a moment to check the information for you.

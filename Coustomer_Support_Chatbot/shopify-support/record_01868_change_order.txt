@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I change a product of order {{Order Number}}?
+
+Answer: We're here for you to us regarding your request to change a product in order number {{Order Number}}. We understand that sometimes changes are necessary, and we're here to assist you with that. Could you please provide us with the specific details of the product you would like to change? This will enable us to process your request accurately and efficiently. We appreciate your patience and cooperation as we work together to ensure your satisfaction.

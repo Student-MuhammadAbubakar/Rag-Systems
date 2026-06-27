@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i exepct a restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: We understand how important the restitution of {{Currency Symbol}}{{Refund Amount}} is to you. Rest assured, we are committed to resolving this matter as quickly as possible. To better assist you, could you please provide me with any relevant details such as the date of the payment or any reference numbers associated with the transaction? This will help us investigate and track down the status of your restitution more efficiently. We appreciate your patience and cooperation in this process.

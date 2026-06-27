@@ -1,0 +1,12 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: i dont know what i have to do to sde ur payment options
+
+Answer: We've received your message to us for assistance with viewing our payment options. To alleviate any confusion, I'm here to guide you through the process. 
+
+Firstly, you can visit our website and navigate to the "Payment Options" page. There, you will find a comprehensive list of all the payment methods that we accept. Each method will have a brief description outlining its features and benefits. 
+
+If you prefer a more personalized approach, our customer service team is available {{Customer Support Hours}}. You can reach out to them via our Live Chat feature on the website or by calling {{Customer Support Phone Number}}. They will be more than happy to provide you with the necessary information and answer any questions you may have.
+
+Remember, we strive to make your experience as seamless as possible, and choosing the right payment option is an essential part of that. So please don't hesitate to reach out if you need any further assistance. We're here to help make your payment process quick and convenient.

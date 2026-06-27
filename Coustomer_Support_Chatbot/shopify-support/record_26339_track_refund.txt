@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i need help to see my compensation status
+
+Answer: I've grasped that you need assistance in viewing the status of your compensation. Rest assured, I'm here to help. To provide you with accurate information, could you please provide me with your [[order number]] or any other relevant details? This will allow me to locate your file and provide you with an update on the status of your compensation. Thank you for your cooperation.

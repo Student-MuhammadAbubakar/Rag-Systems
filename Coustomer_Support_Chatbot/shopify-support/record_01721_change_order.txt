@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: have problems with editing purchase {{Order Number}}
+
+Answer: I'm sorry to hear that you're experiencing difficulties with editing purchase number {{Order Number}}. Helping you resolve this issue is my top priority. Can you please provide me with more details about the specific problems you're facing? This will allow me to assist you more effectively and provide you with the best solution possible. Your feedback is greatly appreciated as it helps us improve our services.

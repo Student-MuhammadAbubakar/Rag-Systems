@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I haven't signed up, I try to create a freemium account
+
+Answer: It's great to hear that you're looking to create a {{Account Category}} account with us! I'm here to assist you in the account creation process and ensure you have a seamless experience. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through the process and address any questions or concerns you may have. Your privacy and security are of utmost importance to us, so you can trust that your information will be protected. Let's get you started on your {{Account Category}} account journey!

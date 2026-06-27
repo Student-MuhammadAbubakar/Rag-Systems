@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problems wiuth changing order {{Order Number}}
+
+Answer: Thank you for bringing this issue to our attention regarding changing order number {{Order Number}}. We apologize for any inconvenience caused. To better assist you, could you please provide more details about the problems you're experiencing with the order changes? This will help us identify the issue and find a suitable solution for you as quickly as possible. Your satisfaction is our priority, and we're here to help!

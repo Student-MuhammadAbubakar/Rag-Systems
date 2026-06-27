@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i have to check what hours i can reach customer service
+
+Answer: We're here for you! I'm aware that you would like to know the hours during which you can reach our customer service. Our dedicated team is available to assist you during {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. I'm here to help!

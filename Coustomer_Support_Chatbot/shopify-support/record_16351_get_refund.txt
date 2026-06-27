@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this product, I need to get a rebate
+
+Answer: I understand your frustration and desire to receive a rebate for the ${{Refund Amount}} purchase you made. To assist you in this process, I recommend reaching out to our customer support team or visiting our website for information on our rebate procedures. They will guide you through the necessary steps to submit your rebate request and provide any additional documentation required. It's important to gather all the relevant details about your purchase, such as the order number, product details, and proof of payment, as this will expedite the process. Our team will review your request promptly and communicate the status of your rebate. Rest assured that we value your satisfaction and are committed to resolving this matter to your utmost satisfaction.

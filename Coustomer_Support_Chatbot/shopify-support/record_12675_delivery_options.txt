@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I order from {{Delivery Country}}?
+
+Answer: Absolutely! We're delighted to serve customers from all around the world, including {{Delivery Country}}. You can place your order on our website and select {{Delivery Country}} as your shipping destination during the checkout process. Our international shipping options will ensure that your items are safely delivered to your doorstep. If you have any specific concerns or questions regarding international orders, feel free to reach out to our customer support team, who will be more than happy to assist you. Happy shopping!

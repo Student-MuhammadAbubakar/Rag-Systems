@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: is it possible to speak to goddamn customer service?
+
+Answer: Thank you for trusting to us! I understand that you're frustrated and would like to speak to our customer service team. Our team is here to help address your concerns and provide assistance. You can reach our customer service by calling {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are committed to resolving any issues you may have. How can I assist you further?

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: where can I find information about my pro account removal?
+
+Answer: I'm fully aware of your need for information about removing your {{Account Type}} account. To find detailed instructions and information regarding the removal process, I recommend visiting our website's support page. There, you will find a dedicated section specifically addressing {{Account Type}} account removal. Additionally, you can reach out to our customer support team via live chat or phone for personalized assistance in guiding you through the account removal process. We are committed to ensuring that you have all the information you need and that the account removal process is as smooth as possible for you. Remember, we're here to support you at every step of the way.

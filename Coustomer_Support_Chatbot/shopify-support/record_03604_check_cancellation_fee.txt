@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: can you show me the early termination fee?
+
+Answer: I'll do my best! Let me help you find the information regarding the early termination fee.

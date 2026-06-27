@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: closing platinum account
+
+Answer: Glad you contacted about closing your {{Account Category}} account. Our team is here to assist you throughout this process and ensure a smooth experience. To initiate the account closure, please provide us with your account details, such as your account number or any other identifying information. Once we have the necessary information, we will proceed with the account closure and guide you through any remaining steps.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I want to see the status of my rebate, help me
+
+Answer: I see what you mean your eagerness to check the status of your rebate. Your satisfaction is our utmost priority, and I'm here to assist you. To provide you with accurate and up-to-date information, I kindly request your {{Order/Invoice Number}} or {{Customer ID}}. Please share this information with me, and I'll promptly look into the status of your rebate and provide you with the details you seek.

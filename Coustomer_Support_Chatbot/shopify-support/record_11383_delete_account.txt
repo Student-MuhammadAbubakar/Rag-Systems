@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't need the damn {{Account Type}} account, how can I close it?
+
+Answer: Thank you for letting us know that you no longer need your {{Account Type}} account and would like to close it. I apologize for any frustration this may have caused you. We are here to assist you in resolving this matter. To proceed with the closure of your {{Account Type}} account, could you please provide me with your account details or any specific concerns you have regarding the closure process? This will allow us to guide you through the necessary steps to close your account effectively and efficiently.

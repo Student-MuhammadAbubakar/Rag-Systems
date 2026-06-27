@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: need hepl looking for my invoices from {{Person Name}}
+
+Answer: I understand your need to locate your invoices from {{Salutation}} {{Client Last Name}}. It's essential to access your financial records efficiently. To proceed with the search, could you please provide me with a {{Date Range}} or any additional details that may help narrow down the results? Rest assured that I'm here to assist you every step of the way, ensuring a smooth and satisfying experience.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do you have a free phone number to contact customer service?
+
+Answer: Thank you for reaching out to us! I completely understand your need for a free phone number to contact our customer service team. We do provide a toll-free number for your convenience. You can reach us at {{Toll-Free Number}} during our customer support hours. Our knowledgeable representatives will be happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

@@ -1,0 +1,10 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know what to do to talk with an operator
+
+Answer: I see what you mean! I'm on the same page that you're unsure about the steps to take in order to speak with an operator. Allow me to guide you.
+
+To talk with an operator, you have a few options. One way is to reach out to our customer support team directly by phone at {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} to assist you. Alternatively, you can visit our website at {{Website URL}} and look for the "Contact Us" or "Support" section, where you may find a Live Chat feature that connects you with an operator in real-time.
+
+Please let me know if you need any further assistance or if there's anything else I can do to help. Your satisfaction is our top priority, and we are here to support you every step of the way.

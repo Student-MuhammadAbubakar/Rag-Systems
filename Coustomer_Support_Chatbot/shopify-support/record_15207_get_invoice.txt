@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i lost the fucking bill from {{Person Name}} mail it to me
+
+Answer: I hear you loud and clear your frustration about losing the bill from {{Salutation}} {{Client Full Name}}. I'm sorry to hear that. I'll assist you in retrieving a copy of the bill and sending it to you via email. Please provide me with the necessary details, such as the bill number or any other relevant information, to help me locate and forward the bill promptly. Thank you for reaching out, and I appreciate your patience.

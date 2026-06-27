@@ -1,0 +1,16 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know how to contact an agent
+
+Answer: Thanks for getting in touch! I grasp that you're unsure about how to contact an agent, and I'm here to guide you. To initiate contact with one of our helpful agents, you can try one of the following methods:
+
+1. Phone Support: Our customer support helpline, available at {{Customer Support Phone Number}}, is an excellent option for speaking directly with an agent. They will be able to assist you promptly and address any queries you may have.
+
+2. Live Chat: You can reach out to our support team through the Live Chat feature on our website at {{Website URL}}. This enables real-time communication with an agent who can provide immediate assistance.
+
+3. Email: If you prefer written communication, you can send an email to our support team at {{Customer Support Email}}. Be sure to mention your specific query or concerns, and our agents will respond as soon as possible.
+
+4. Social Media: Another way to get in touch with us is through our official social media channels. You can send us a direct message or leave a comment, and our team will be there to assist you.
+
+I hope these options help you connect with an agent. If you have any further questions or need additional support, please don't hesitate to let me know.

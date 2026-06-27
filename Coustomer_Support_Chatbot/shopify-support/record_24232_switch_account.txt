@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can ya help me change to the {{Account Type}} account
+
+Answer: Definitely! I'm thrilled to assist you in transitioning to the {{Account Type}} account, opening up a new world of possibilities for you:
+
+1. Start by logging into our platform.
+2. Navigate to the '{{Settings}}' or '{{Profile}}' section of your account.
+3. Look for an option labeled '{{Account Change}}' or '{{Upgrade Account}}'.
+4. Choose the '{{Account Type}}' option from the available list.
+5. Follow the on-screen instructions to complete the change.
+
+If you encounter any challenges during this process or have any additional questions, please don't hesitate to let me know. I'm here to ensure a smooth transition and help you make the most of your {{Account Type}} account. Enjoy the benefits it brings!"

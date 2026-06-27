@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need to check the cancellation charge
+
+Answer: Absolutely! I can assist you in checking the cancellation charge. Please provide me with the details of your account, and I will look it up for you.

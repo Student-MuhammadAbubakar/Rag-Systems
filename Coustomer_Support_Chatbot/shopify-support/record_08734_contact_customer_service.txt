@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what time can I get in touch with customer assistance?
+
+Answer: Your message means a lot! I'm aligned with the idea that you would like to know the specific time when you can get in touch with our customer assistance team. Our customer assistance is available during {{Customer Support Hours}}. You can reach out to us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to assist you with any inquiries or concerns you may have. How else may I help you today?

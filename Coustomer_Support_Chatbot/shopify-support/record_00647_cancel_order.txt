@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can't pay  for order {{Order Number}}
+
+Answer: I'm not mistaken your frustration about not being able to pay for order {{Order Number}}. Our team is here to assist you in finding a solution. Here's what you can do:
+
+1. Double-check Payment Information: Make sure all the payment details you've entered are accurate, including the card number, expiration date, CVV, and billing address. A small error in any of these fields could disrupt the payment process.
+
+2. Try a Different Payment Method: If the issue persists, you may want to try using a different payment method. We offer multiple payment options, such as credit/debit cards, mobile wallets, or alternative payment platforms. Select the method that works best for you.
+
+3. Contact Your Bank or Payment Provider: If the problem persists despite entering correct payment details or trying different payment methods, it's advisable to contact your bank or payment provider. They can provide insights into any issues with your account or transaction.
+
+4. Engage with our Customer Support: Our dedicated customer support team is available to assist you further. Reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}}. We're here to help troubleshoot the payment issue and guide you through the process.
+
+Rest assured that we'll do everything possible to resolve the payment issue and ensure a smooth transaction experience. Your satisfaction is of utmost importance to us.

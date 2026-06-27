@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help me to open a {{Account Type}} account
+
+Answer: Grateful you reached out to us for assistance in opening a {{Account Type}} account! We appreciate your interest in upgrading your account to enjoy our premium features and benefits. To initiate the process, I kindly request you to provide your full name, email address, and a preferred username. Once I have these details, I will guide you through the step-by-step procedure, ensuring you have a seamless experience. Rest assured that your security and privacy are of utmost importance to us, and we will handle your information with the utmost care and confidentiality. Looking forward to helping you start your {{Account Type}} account journey!

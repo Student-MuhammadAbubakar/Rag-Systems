@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: I do not know how I can send some feedback for your company
+
+Answer: Thank you for reaching out! I'd be more than happy to assist you with sending feedback to our company. We value your thoughts and appreciate your willingness to share them with us. To send your feedback, you can visit our website and look for the "Contact Us" section. There, you will find various ways to get in touch with us, such as filling out a feedback form or sending us an email. Alternatively, you can also reach out to our customer service team through our helpline, which is available {{Customer Support Hours}} at {{Customer Support Phone Number}}. They will be able to provide you with specific guidance on how to send your feedback. Once again, thank you for taking the time to provide us with your valuable insights.

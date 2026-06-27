@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want help to remove my freemium account
+
+Answer: I'm glad you contacted us about removing your freemium account. I understand that you are looking for assistance in this process, and I'm here to help you every step of the way. To ensure a smooth experience, could you please provide me with your {{Account ID}} or any other relevant information that will help us identify your account? Once I have the necessary details, I will be able to guide you through the account removal process and address any additional concerns you may have.

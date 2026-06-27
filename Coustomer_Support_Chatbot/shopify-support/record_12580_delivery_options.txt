@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: how to check what delivery methods I have?
+
+Answer: Of course! I'd be thrilled to guide you on how to check the available delivery methods. Here's what you need to do:
+
+1. Visit our website at {{Website URL}} and log in to your account.
+
+2. Navigate to the "Shipping" or "Delivery" section. It might be located under your account settings or during the checkout process.
+
+3. Once you're in the "Shipping" or "Delivery" section, you'll find a list of available delivery methods. Each option will provide a brief description and estimated delivery time.
+
+4. Take your time to review each option and select the one that best suits your needs.
+
+If you encounter any difficulties or need further assistance while checking the delivery methods, please don't hesitate to reach out. We’re here to make your experience seamless and enjoyable!

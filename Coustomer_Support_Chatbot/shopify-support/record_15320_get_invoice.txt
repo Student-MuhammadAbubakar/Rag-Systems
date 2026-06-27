@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I lost the bill from {{Person Name}}, mail it to me
+
+Answer: Positively! I understand your concern about losing the bill from {{Salutation}} {{Client Last Name}}. Unfortunately, I don't have access to your personal information here, but I can guide you on how to retrieve the bill yourself. To get a copy of the bill, please log in to your account on our website and navigate to the "Billing" or "Invoices" section. From there, you should be able to view and download the bill. If you encounter any difficulty or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way!

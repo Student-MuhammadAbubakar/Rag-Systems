@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modifying info on {{Account Type}} account
+
+Answer: How absolutely amazing it is to embark on the journey of modifying the information on your esteemed {{Account Type}} account!I am delighted to assist you through this transformative process and ensure that your account reflects accurate and up-to-date information. Please refrain from sharing any personal identifiers, such as your account number or password, to protect your privacy and security. Could you please let me know which specific information you would like to update? I'm here to guide you every step of the way.

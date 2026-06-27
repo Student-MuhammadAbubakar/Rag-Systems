@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can no longer afford order {{Order Number}}
+
+Answer: I understand your concern about no longer being able to afford order {{Order Number}}, and I'm here to assist you. We value your satisfaction, and we're committed to finding a suitable solution for you. Here are a few options we can explore together:
+
+1. **Review the Order Details**: Take a closer look at the order details to see if there are any opportunities for adjustments or modifications that may align better with your budget.
+
+2. **Contact Customer Support**: Reach out to our dedicated customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They can provide personalized assistance and explore possible alternatives, such as rescheduling the order or discussing payment options.
+
+3. **Consider Refunds or Returns**: Depending on the circumstances and the specific product or service you've ordered, there may be refund or return options available. Our customer support team can guide you through the process if applicable.
+
+4. **Explore Discount or Promotional Offers**: Our team can also provide information on any current promotions or discounts that may help make your purchase more affordable.
+
+Remember, we're here to support you and find the best solution that fits your needs. Please don't hesitate to reach out to us. Your satisfaction is our top priority.

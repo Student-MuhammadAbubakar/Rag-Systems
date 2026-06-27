@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how long does it take for a shipment to arrive
+
+Answer: We understand your curiosity about the delivery time for your shipment. To provide you with an accurate estimate, could you please provide the {{Tracking Number}} or {{Order Number}}? This information will enable us to track the progress of your shipment and give you the most precise information about its arrival time. Thank you for your cooperation in advance.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where do i notify of a problem with online payments
+
+Answer: We appreciate you bringing the problem you're experiencing with your online payments to our attention. To ensure that your concern is promptly addressed, I recommend reaching out to our dedicated customer support team. Our knowledgeable representatives will guide you through the resolution process and provide the necessary assistance. You can contact them via our website's live chat feature or by calling our customer support hotline at {{Customer Support Phone Number}}. Rest assured, we're here to support you every step of the way and resolve any issues you may be facing with your online payments.

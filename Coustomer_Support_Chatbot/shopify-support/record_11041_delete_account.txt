@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: give me information about the cancellation of a gold account
+
+Answer: We've received your message to us for information about canceling your {{Account Type}} account. We understand the importance of providing you with the details you need to make an informed decision. To initiate the cancellation process for your {{Account Type}} account, please contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our expert representatives will guide you through the cancellation procedure, answer any specific questions you may have, and ensure a smooth and seamless experience for you. We appreciate your trust in our services and are here to support you every step of the way.

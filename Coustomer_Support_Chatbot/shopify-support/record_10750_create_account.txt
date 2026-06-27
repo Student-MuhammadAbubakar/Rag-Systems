@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: need to open a {{Account Type}} account
+
+Answer: Thank you for expressing your interest in opening a {{Account Type}} account with us! We have a simple and straightforward process to help you get started. To begin, please provide me with your full name, email address, and a preferred username. Once I have these details, I'll guide you through the necessary steps to create your {{Account Type}} account. Rest assured, your information will be kept secure and confidential throughout the process. If you have any questions or need further assistance, feel {{Account Type}} to let me know.

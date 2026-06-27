@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I can't see the damn status of order {{Order Number}}
+
+Answer: I apologize for the inconvenience you've experienced while trying to check the status of order {{Order Number}}. To assist you further, could you please provide me with some additional details? Specifically, could you confirm the platform or website you are using to track your order? This information will help us troubleshoot the issue more effectively and provide you with the necessary guidance. Thank you for your understanding and cooperation.

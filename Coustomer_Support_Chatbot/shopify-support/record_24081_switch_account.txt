@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I have got to use the premium profile
+
+Answer: First off, I genuinely appreciate your choice to utilize the {{Account Category}} profile. Let's swiftly navigate through the steps together:
+
+1. **Sign In:** Begin by logging into your account.
+2. **Account Navigation:** Once you've gained access, proceed to locate the '{{Settings}}' or '{{Profile}}' section.
+3. **Upgrade Path:** Within this section, look for an option that mentions '{{Upgrade Account}}' or '{{Account Change}}'.
+4. **{{Account Category}} Selection:** Opt for the {{Account Category}} profile to access its exclusive benefits.
+5. **Complementary Steps:** Follow the on-screen prompts to finalize your transition to the {{Account Category}} profile.
+
+Should you encounter any hurdles along the way or if you have additional inquiries, please do not hesitate to reach out. Your decision to utilize the {{Account Category}} profile means a lot to us, and I'm here to ensure a seamless experience as you unlock the wide array of advantages it offers. Enjoy!"

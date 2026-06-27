@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I have to close my standard account, how do I do it?
+
+Answer: Happy to get your message to us about closing your standard account. We understand that you're looking for guidance on how to proceed with the account closure process. Rest assured, we're here to assist you every step of the way. To close your standard account, you can either log in to your account settings and follow the prompts for account closure, or you can reach out to our customer support team who can guide you through the process. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Let us know which method you prefer, and we'll ensure a smooth closure of your standard account.

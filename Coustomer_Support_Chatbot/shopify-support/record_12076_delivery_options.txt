@@ -1,0 +1,14 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: what do i have to do to check the shipping options
+
+Answer: Ah, a wise choice to explore your shipping options! To check the available shipping methods, simply follow these steps:
+
+1. Visit our website at {{Website URL}} and navigate to the product page of the item you wish to purchase.
+2. On the product page, you will find a section or tab indicating the shipping options. Click on it to view the various methods available.
+3. Once you access the shipping options, you will find detailed information about each method, including estimated delivery times and any associated costs.
+4. Take your time to review the options and select the one that best fits your needs and preferences.
+5. If you have any questions or need further assistance, feel free to reach out to our customer support team via Live Chat on our website or by calling {{Customer Support Phone Number}}.
+
+By following these steps, you'll be able to check the shipping options with ease. If you need any further information, don't hesitate to ask. We're here to ensure your shipping experience is seamless and satisfying!

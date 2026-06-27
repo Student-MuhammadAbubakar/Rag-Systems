@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: changkng to standard account
+
+Answer: I deeply appreciate your intent to transition to our standard account. Let's make this process smooth and hassle-free for you:
+
+1. Sign In: Begin by logging into our platform.
+2. Access Account Settings: Once inside, locate and navigate to the '{{Settings}}' section.
+3. Account Type: Within this section, you'll find an option labeled '{{Account Change}}' or '{{Upgrade Account}}'.
+4. Select {{Account Type}}: Choose the '{{Account Type}}' option from the available choices.
+5. Complete the Switch: Follow the on-screen prompts and instructions to finalize the transition.
+
+If you encounter any difficulties or have further questions, please don't hesitate to contact me. I'm dedicated to providing a seamless experience throughout your journey. Enjoy the benefits of your new standard account!

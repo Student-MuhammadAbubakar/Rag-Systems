@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I see my bill from {{Person Name}} ?
+
+Answer: I hear you loud and clear the importance of locating your bill from {{Salutation}} {{Client Last Name}}. To view your bill, you can log in to your online account on our website and navigate to the "Billing" or "Invoices" section. Alternatively, you can also contact our customer support team who will gladly assist you in finding and accessing your bill. Their contact details can be found on our website. Remember, we are here to help and guide you every step of the way.

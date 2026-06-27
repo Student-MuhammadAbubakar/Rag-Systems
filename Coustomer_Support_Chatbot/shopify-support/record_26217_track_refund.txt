@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollars
+
+Answer: Thank you for letting us know about your expected {{Currency Symbol}}{{Refund Amount}} restitution. We understand that receiving the correct refund amount is crucial to you. Rest assured, we will evaluate your request and provide you with a prompt update on the current status of your restitution. In the meantime, if you have any additional questions or concerns, please feel free to share them with us. We value your patience and cooperation and are committed to ensuring your satisfaction throughout this process.

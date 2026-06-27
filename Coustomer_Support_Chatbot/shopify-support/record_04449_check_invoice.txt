@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: can I see invoice #00108?
+
+Answer: Definitely! I'm here to assist you in locating your invoice with the number #{{Invoice Number}}. Give me just a moment to retrieve that information for you, and I'll be right back with the details. Thank you for your patience!

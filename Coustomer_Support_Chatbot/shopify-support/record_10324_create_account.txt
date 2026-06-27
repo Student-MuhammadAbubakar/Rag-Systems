@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need information about opening a {{Account Category}} account
+
+Answer: That's wonderful! I'm here to provide you with all the information you need regarding opening a {{Account Category}} account. Opening a {{Account Category}} account comes with a range of exclusive benefits, such as priority customer support, higher interest rates, access to premium features, and more. To get started, could you please let me know if you already have an existing account with us, or if you are new to our services? This will help me guide you through the most suitable process for opening a {{Account Category}} account based on your individual circumstances.

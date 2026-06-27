@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: can you help me checking the cancellation fees?
+
+Answer: Absolutely! To verify the cancellation fees, please log in to your account and navigate to the "Cancellation Charges" section. There you will find detailed information about the fees associated with canceling your service.

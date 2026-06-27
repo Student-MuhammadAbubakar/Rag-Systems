@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: what do I have to do to cancel my {{Account Category}} account?
+
+Answer: Glad you contacted to us about canceling your {{Account Category}} account. We understand that you have made the decision to cancel, and we are here to assist you. To initiate the cancellation process, please follow the steps below:
+
+1. Log in to your account on our website.
+2. Go to the account settings or profile section.
+3. Look for the "Manage Subscriptions" or "Billing" tab.
+4. Locate your {{Account Category}} account subscription and click on the cancel or unsubscribe option.
+5. Follow the prompts and provide any required information.
+6. Confirm the cancellation request.
+
+Once you have completed these steps, your {{Account Category}} account will be canceled. If you have any further questions or need clarification during the process, please don't hesitate to reach out to our customer support team. We are here to make sure your experience is as smooth as possible.

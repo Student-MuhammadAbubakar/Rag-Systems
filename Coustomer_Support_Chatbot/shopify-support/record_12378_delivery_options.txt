@@ -1,0 +1,8 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery City}}
+
+Answer: Ah, {{Delivery City}}! A city renowned for its history and cultural prowess. We have a wide range of shipment options available for deliveries to {{Delivery City}}. Our standard shipping typically takes around {{Date Range}} business days to reach {{Delivery City}}, perfect for non-urgent items. If you need your items a little faster, you can opt for expedited shipping, which usually arrives within {{Date Range}} business days. For those last-minute needs, we also offer overnight shipping, ensuring your items will be delivered the next business day. And if you prefer the convenience of picking up your items in person, our {{Store Location}} in {{Delivery City}} are ready to serve you. 
+
+Please keep in mind that these delivery times are approximate and can vary based on factors such as location and item availability. If you have any specific concerns or if there's anything else I can assist you with, please feel free to ask. Your satisfaction is our top priority!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how can I switch an article of purchase {{Order Number}}?
+
+Answer: I can sense that you're looking to switch an article for purchase number {{Order Number}}. To assist you with this, I recommend reaching out to our customer support team directly. They have the necessary tools and expertise to help you make the desired changes to your purchase. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that you can switch the article seamlessly.

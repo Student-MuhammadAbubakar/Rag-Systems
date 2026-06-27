@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm on the same wavelength, the importance of receiving your restitution of {{Currency Symbol}}{{Money Amount}}. Restitutions play a vital role in ensuring that you are fairly compensated. Please allow me a moment to look into the current status of your restitution. While I'm checking, may I know if you have received any communication regarding the reimbursement process? Your insights will be valuable in resolving your concern effectively. Thank you for your patience.
