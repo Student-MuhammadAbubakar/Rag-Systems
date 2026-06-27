@@ -9,22 +9,23 @@ from dotenv import load_dotenv
 import os
 
 load_dotenv()
+BASE_DIR   = os.path.dirname(os.path.abspath(__file__))
+FAISS_PATH = os.path.join(BASE_DIR, "faiss_index")
 st.set_page_config(
     page_title="SupportAI — Customer Support Chatbot",
     page_icon="💬",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
 st.markdown("""
 <style>
 
-/* ── Base ── */
 .stApp {
     background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
     min-height: 100vh;
 }
 
-/* ── Header ── */
 .main-header {
     text-align: center;
     padding: 2rem 0 1rem 0;
@@ -43,7 +44,6 @@ st.markdown("""
     margin: 0;
 }
 
-/* ── Status Badge ── */
 .status-badge {
     display: inline-flex;
     align-items: center;
@@ -68,7 +68,6 @@ st.markdown("""
     50%       { opacity: 0.4; }
 }
 
-/* ── Chat Container ── */
 .chat-container {
     background: rgba(255,255,255,0.04);
     border: 1px solid rgba(255,255,255,0.08);
@@ -78,7 +77,6 @@ st.markdown("""
     backdrop-filter: blur(10px);
 }
 
-/* ── User Bubble ── */
 .msg-user {
     display: flex;
     justify-content: flex-end;
@@ -95,7 +93,6 @@ st.markdown("""
     box-shadow: 0 4px 15px rgba(124, 58, 237, 0.3);
 }
 
-/* ── Bot Bubble ── */
 .msg-bot {
     display: flex;
     justify-content: flex-start;
@@ -126,7 +123,6 @@ st.markdown("""
     line-height: 1.6;
 }
 
-/* ── Suggested Questions Label ── */
 .suggest-label {
     color: #64748b;
     font-size: 0.78rem;
@@ -136,7 +132,6 @@ st.markdown("""
     margin-top: 1.5rem;
 }
 
-/* ── Sidebar Stats ── */
 .sidebar-stat {
     background: rgba(255,255,255,0.05);
     border: 1px solid rgba(255,255,255,0.08);
@@ -157,7 +152,6 @@ st.markdown("""
     letter-spacing: 0.06em;
 }
 
-/* ── Category Tags ── */
 .cat-tag {
     display: inline-block;
     background: rgba(167, 139, 250, 0.15);
@@ -169,7 +163,6 @@ st.markdown("""
     margin: 2px;
 }
 
-/* ── Chat Input ── */
 .stChatInput textarea {
     background: rgba(255,255,255,0.06) !important;
     border: 1px solid rgba(255,255,255,0.12) !important;
@@ -177,27 +170,27 @@ st.markdown("""
     color: white !important;
 }
 
-/* ── Hide Streamlit Defaults ── */
 #MainMenu, footer, header { visibility: hidden; }
 .block-container { padding-top: 1rem !important; }
-
-/* ── Divider ── */
 hr { border-color: rgba(255,255,255,0.08) !important; }
 
 </style>
 """, unsafe_allow_html=True)
-if not os.path.exists("faiss_index/cs_support.faiss"):
+
+faiss_file = os.path.join(FAISS_PATH, "cs_support.faiss")
+
+if not os.path.exists(faiss_file):
     st.error(
-        "FAISS index not found! "
-        "Please run: python upload_vectors.py first"
+        f"FAISS index not found!\n\n"
+        f"Looking at: {faiss_file}\n\n"
+        f"Please run: python Chatbot_Upload.py first"
     )
     st.stop()
-
 @st.cache_resource
 def load_db():
     embedding = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
     return FAISS.load_local(
-        "faiss_index",
+        FAISS_PATH,
         index_name="cs_support",
         embeddings=embedding,
         allow_dangerous_deserialization=True
@@ -205,28 +198,21 @@ def load_db():
 
 @st.cache_resource
 def load_llm():
- 
     return ChatGroq(
         model="llama-3.1-8b-instant",
         temperature=0,
-)
-def get_answer(question, chat_history_list):
-    """
-    FIXED VERSION:
-    - Strict system prompt forces LLM to use ONLY dataset
-    - k=6 retrieves more chunks for better coverage
-    - Context verification before calling LLM
-    - temperature=0 prevents LLM from using own knowledge
-    """
+    )
 
+
+def get_answer(question, chat_history_list):
     history = []
     for human, ai in chat_history_list:
         history.append(HumanMessage(content=human))
         history.append(AIMessage(content=ai))
+
     db        = load_db()
     llm       = load_llm()
     retriever = db.as_retriever(search_kwargs={"k": 6})
-
     condense_prompt = ChatPromptTemplate.from_messages([
         ("system",
          "Given the chat history and the latest customer question, "
@@ -244,10 +230,8 @@ def get_answer(question, chat_history_list):
         })
     else:
         standalone_question = question
-
     docs    = retriever.invoke(standalone_question)
     context = "\n\n".join(doc.page_content for doc in docs)
-
     if not context.strip():
         return (
             "I'm sorry, I could not find relevant information "
@@ -255,51 +239,42 @@ def get_answer(question, chat_history_list):
             "Please contact our support team directly for help. "
             "Is there anything else I can help you with?"
         )
-
     qa_prompt = ChatPromptTemplate.from_messages([
         ("system",
          "You are a customer support assistant named SupportAI.\n\n"
-
-         "STRICT RULES — YOU MUST FOLLOW ALL OF THESE:\n"
+         "STRICT RULES YOU MUST FOLLOW:\n"
          "1. Answer ONLY using the CONTEXT provided below.\n"
          "2. Do NOT use your own training knowledge or memory.\n"
          "3. Do NOT make up any information not in the context.\n"
          "4. If the answer is not in the context say exactly:\n"
-         "   I don't have that information in our knowledge base.\n"
+         "   I don't have that information in our knowledge base. "
          "   Please contact our support team directly for help.\n"
          "5. Keep answers to 3 to 4 sentences maximum.\n"
-         "6. Be warm, empathetic, and friendly in tone.\n"
+         "6. Be warm empathetic and friendly in tone.\n"
          "7. Always end with: Is there anything else I can help you with?\n\n"
-
          "CONTEXT FROM KNOWLEDGE BASE:\n"
          "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
          "{context}\n"
          "━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n"
-
          "Remember: Answer ONLY from the context above. "
          "Never use outside knowledge."),
         MessagesPlaceholder("chat_history"),
         ("human", "{input}"),
     ])
 
-
     qa_chain = qa_prompt | llm | StrOutputParser()
-    # Pipe operator: prompt → llm → parse as string
 
     answer = qa_chain.invoke({
         "input"       : standalone_question,
         "chat_history": history,
         "context"     : context
     })
-  
 
     return answer
-
 
 def render_sidebar():
     with st.sidebar:
 
-        # Bot identity
         st.markdown("""
         <div style='text-align:center; padding: 1rem 0;'>
             <div style='font-size:2.5rem;'>💬</div>
@@ -314,7 +289,6 @@ def render_sidebar():
         """, unsafe_allow_html=True)
 
         st.markdown("---")
-
 
         total_msgs = len(st.session_state.get("messages", []))
         questions  = len(st.session_state.get("chat_history", []))
@@ -334,6 +308,7 @@ def render_sidebar():
             </div>""", unsafe_allow_html=True)
 
         st.markdown("---")
+
         st.markdown(
             "<div style='color:#64748b; font-size:0.78rem;"
             "text-transform:uppercase; letter-spacing:0.08em;"
@@ -361,7 +336,6 @@ def render_sidebar():
 
         st.markdown("---")
 
-
         st.markdown("""
         <div style='color:#475569; font-size:0.75rem; line-height:1.8;'>
             <div style='color:#64748b; font-weight:600;
@@ -386,7 +360,6 @@ def showUI():
 
     render_sidebar()
 
-    # ── Header ──
     st.markdown("""
     <div class='main-header'>
         <h1>SupportAI 💬</h1>
@@ -397,9 +370,11 @@ def showUI():
         </div>
     </div>
     """, unsafe_allow_html=True)
+
     if "messages" not in st.session_state:
         st.session_state.messages     = []
         st.session_state.chat_history = []
+
     if len(st.session_state.messages) == 0:
         st.markdown("""
         <div class='chat-container'>
@@ -417,6 +392,7 @@ def showUI():
             </div>
         </div>
         """, unsafe_allow_html=True)
+
         st.markdown(
             "<div class='suggest-label'>Try asking</div>",
             unsafe_allow_html=True
@@ -431,7 +407,9 @@ def showUI():
                 ):
                     st.session_state._pending = suggestion
                     st.rerun()
+
     pending = st.session_state.pop("_pending", None)
+
     if st.session_state.messages:
         chat_html = "<div class='chat-container'>"
         for msg in st.session_state.messages:
@@ -448,6 +426,7 @@ def showUI():
                 </div>"""
         chat_html += "</div>"
         st.markdown(chat_html, unsafe_allow_html=True)
+
     user_input = st.chat_input(
         "Type your question... e.g. How do I cancel my order?"
     )
@@ -455,6 +434,7 @@ def showUI():
     question = user_input or pending
 
     if question:
+
         st.session_state.messages.append({
             "role"   : "user",
             "content": question
@@ -469,16 +449,18 @@ def showUI():
             except Exception as e:
                 answer = (
                     "I'm sorry, I encountered a technical issue. "
-                    f"Details: {str(e)}. "
+                    f"Error: {str(e)}. "
                     "Please try again or contact our support team."
                 )
-   
+
         st.session_state.messages.append({
             "role"   : "assistant",
             "content": answer
         })
+
         st.session_state.chat_history.append((question, answer))
 
         st.rerun()
+
 if __name__ == "__main__":
     showUI()
