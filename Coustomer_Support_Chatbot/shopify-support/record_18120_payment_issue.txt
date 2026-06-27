@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I want to report an error with payment
-
-Answer: Thank you for bringing this to our attention. I'm sorry to hear that you've encountered an error with your payment. Rest assured, we are here to help you resolve this issue as quickly as possible. To provide you with the best assistance, could you please provide more details about the error you encountered? Any specific error messages, codes, or steps leading up to the error would be greatly appreciated. Once we have more information, we can work together to find a solution. Your feedback is important to us, and we appreciate your patience while we investigate this matter.

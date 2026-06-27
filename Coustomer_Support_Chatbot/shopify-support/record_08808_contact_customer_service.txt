@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: need assistance speaking with customer support
-
-Answer: We're all ears! I'm tuned into the idea that you require assistance in speaking with our customer support team. Rest assured, I am here to help you with that. To connect with our customer support, you can reach them during {{Customer Support Hours}}. They can provide you with the necessary support and guidance for any inquiries or concerns you may have. If there is anything specific you need assistance with, please let me know so that I can ensure your inquiry reaches the appropriate department.

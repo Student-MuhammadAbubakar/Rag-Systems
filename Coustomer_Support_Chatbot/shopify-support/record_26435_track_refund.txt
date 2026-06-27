@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: can I see the status of my restitution?
-
-Answer: Sure! I understand how important it is for you to track the status of your restitution. Rest assured, we're here to assist you every step of the way. Could you please provide me with your {{Order/Refund/Transaction}} number? With that information, I'll be able to look up the current status and provide you with an update. You can also check the status of your restitution by logging into your account on our website or contacting our customer support team for more personalized assistance.

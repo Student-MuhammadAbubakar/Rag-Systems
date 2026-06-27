@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: where could I request refunds?
-
-Answer: I've observed that you're seeking information on where you can request refunds. To initiate the refund process, it would be best to reach out to our dedicated customer support team. They have the expertise and knowledge to guide you through the necessary steps. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, they will be more than happy to assist you with your refund request and ensure a smooth resolution to your concern.

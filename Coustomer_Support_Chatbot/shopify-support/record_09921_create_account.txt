@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new {{Account Type}} acount
-
-Answer: That's wonderful! I'm thrilled to assist you in creating a new Free account. It's our pleasure to offer you this opportunity to explore our services without any cost. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these essential details, I'll guide you through the process step-by-step, ensuring you have all the information you need. Rest assured, your security and privacy are of utmost importance to us, and we will handle your data with the utmost care.

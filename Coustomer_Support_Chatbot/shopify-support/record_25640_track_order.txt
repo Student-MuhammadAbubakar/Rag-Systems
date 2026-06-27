@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need to see order {{Order Number}} current stayus
-
-Answer: Thank you for reaching out! I completely understand that you would like to check the current status of your order with the order number {{Order Number}}. To assist you with that, I recommend visiting the "Order Status" or "Track Order" section on our website. There, you can enter your order number and view the real-time updates on the status of your order. If you encounter any difficulties or if you have any other questions, please feel free to let me know. I'm here to help you every step of the way!

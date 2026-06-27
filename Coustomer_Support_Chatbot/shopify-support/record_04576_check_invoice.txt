@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: ser the bill #85632
-
-Answer: I'll do my best! I'm here to assist you with retrieving the bill with the number #{{Invoice Number}}. To better serve you, could you please provide me with the account holder's name or any additional details? This will help me locate the bill more effectively and provide you with the information you need.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need to remove the {{Account Type}} account
-
-Answer: I've understood you're looking to remove your {{Account Type}} account. Rest assured, I'm here to assist you with that. Could you please provide me with some specific details about your account so that I can guide you through the process? It's important to gather all the necessary information to ensure a smooth closure of your {{Account Type}} account.

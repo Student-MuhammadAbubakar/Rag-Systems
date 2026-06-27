@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get invoices from {{Person Name}}
-
-Answer: I'm picking up what you're putting down, your need to retrieve invoices from {{Person Name}}. It's important to have access to those documents for record-keeping or any other purposes. Let me assist you with that. Can you please provide me with some additional information like the time frame or specific invoices you're looking for? This will help me narrow down the search and provide you with the exact invoices you need.

@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: I do not know how I can list the goddamn payment methods
-
-Answer: I apologize for any inconvenience you may have experienced in trying to find our payment methods. Allow me to assist you. To list our available payment methods, you can visit our website and navigate to the 'Payment Options' section. Alternatively, you can reach out to our customer support team, available 24/7 at {{Customer Support Phone Number}}, or through the Live Chat on our website at {{Website URL}}. They will be more than happy to provide you with a detailed list of our accepted payment modalities. Rest assured, we are committed to making the payment process as seamless as possible for you.

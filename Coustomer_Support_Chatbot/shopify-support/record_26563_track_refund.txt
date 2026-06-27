@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a rebate of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I understand your anticipation for a rebate of {{Currency Symbol}}{{Refund Amount}}. Your expectation is completely valid, and I assure you that we are committed to providing transparent updates regarding your rebate. Let me quickly check the current status for you. While I gather the necessary information, could you please provide me with any relevant details or reference numbers related to your rebate? Your cooperation is highly appreciated, and I will do my best to ensure a satisfactory resolution for you.

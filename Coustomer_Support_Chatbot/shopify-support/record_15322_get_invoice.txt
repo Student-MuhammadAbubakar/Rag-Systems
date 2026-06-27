@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get invoices from last purchase
-
-Answer: I hear you loud and clear that you would like to retrieve the invoices from your most recent purchase. Give me a moment to gather that information for you. Once I have retrieved the invoices, I will provide you with the necessary details. Thank you for your patience.

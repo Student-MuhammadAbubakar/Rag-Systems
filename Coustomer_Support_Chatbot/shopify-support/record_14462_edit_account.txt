@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modify data on {{Account Category}} account
-
-Answer: I truly appreciate your enthusiasm for modifying the data on your {{Account Category}} account. It shows your commitment to personalizing your experience with us. To ensure we provide you with the most accurate and secure assistance, could you please provide some more specific details about the data you would like to modify? This will allow us to guide you through the process smoothly and efficiently.

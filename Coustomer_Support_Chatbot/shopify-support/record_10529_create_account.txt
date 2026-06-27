@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open gold cacount for wife
-
-Answer: Thank you for considering opening a {{Account Type}} account for your wife! It's great to see your desire to provide her with exclusive benefits and privileges. To proceed with the account opening, I kindly request you to provide your wife's full name, email address, and a preferred username. Once I have this information, I'll guide you through the process, ensuring a smooth and seamless experience. Please be assured that we prioritize the security and privacy of our customers, and every detail shared with us will be handled with the utmost care and discretion. How does that sound?

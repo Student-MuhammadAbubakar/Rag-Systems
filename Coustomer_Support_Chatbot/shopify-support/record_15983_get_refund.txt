@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: need assistance receiving rebates of my money
-
-Answer: I've taken note that you need assistance in receiving rebates for your money. I apologize for any inconvenience this may have caused you. Our company values each customer and strives to provide excellent service. To help you with this matter, I recommend contacting our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will be able to guide you through the process of requesting rebates and provide you with any necessary forms or documentation. Rest assured, our team is dedicated to resolving this issue and ensuring your satisfaction. Thank you for reaching out to us for assistance with this matter.

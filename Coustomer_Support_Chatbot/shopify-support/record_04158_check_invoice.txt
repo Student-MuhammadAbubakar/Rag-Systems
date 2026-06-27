@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i do not know what i need to do to check the bill #85632
-
-Answer: Thank you for reaching out to us for assistance in checking the bill with the number #{{Invoice Number}}. I understand that you might be uncertain about the steps for this process. I'm here to guide you through it. First, could you please confirm if you need to check the bill for a specific {{Date Range}} or any additional details that might help me assist you more effectively?

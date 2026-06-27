@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: see ibll #37777
-
-Answer: For sure! I understand your need to view the details of bill #{{Invoice Number}}. To assist you effectively, could you please provide me with your account information or any additional details related to this bill? This will enable me to guide you through the process more accurately and ensure a seamless experience for you.

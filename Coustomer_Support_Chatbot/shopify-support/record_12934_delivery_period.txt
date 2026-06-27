@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can utell me about the delivery periods
-
-Answer: We completely understand your curiosity about delivery periods. Delivery periods vary depending on various factors such as the shipping method, destination, and availability of the item. Generally, we strive to deliver your parcels as quickly and efficiently as possible. To provide you with the most accurate information, could you kindly provide the {{Tracking Number}} or {{Order Number}}? With these details, we can give you specific details about the estimated delivery period of your shipment. Your satisfaction is our top priority, and we appreciate your patience as we work to keep you informed.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i need information about the termination of my {{Account Type}} account
-
-Answer: Glad you got in touch to us with your question about terminating your {{Account Type}} account. I understand that you are seeking information on how to proceed with this process. We are here to assist you every step of the way. To cancel your {{Account Type}} account, you can visit our website and navigate to the account settings section. From there, you should be able to find the option to terminate your account. If you encounter any difficulties or need further assistance, please don't hesitate to let us know. We are more than happy to guide you through the process and ensure a smooth termination of your {{Account Type}} account.

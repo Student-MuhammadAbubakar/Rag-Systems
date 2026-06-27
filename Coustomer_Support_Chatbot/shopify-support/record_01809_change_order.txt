@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i forgot to include an item in purchase {{Order Number}}
-
-Answer: We understand that you forgot to include an item in your purchase with the number #{{Order Number}}. We apologize for any inconvenience this may have caused. To address this issue, we recommend contacting our customer support team as soon as possible. They will assist you in adding the missing item to your purchase. Remember, your satisfaction is our top priority, and we are here to help ensure your order is just as you envision it. Please don't hesitate to reach out to our customer support team for further assistance.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: help removing the pro account
-
-Answer: Happy to get your message to us regarding the removal of your {{Account Type}} account. We understand that you may need assistance with this process, and we are here to help. To get started, could you please provide us with some specific information about your {{Account Type}} account? This could include your account username, email address, or any other relevant details. With this information, we will be able to guide you through the necessary steps to remove your {{Account Type}} account efficiently. Rest assured that we are committed to ensuring a smooth experience for you. Let's work together to resolve this issue and provide you with the support you need.

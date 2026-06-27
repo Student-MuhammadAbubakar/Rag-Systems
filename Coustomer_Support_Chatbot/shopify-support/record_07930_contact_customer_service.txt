@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how could I get in touch with customer support?
-
-Answer: We value your outreach! I'm in tune with the fact that you're looking for ways to connect with our customer support team. To ensure a seamless experience, you can reach out to us through various channels. You can try our phone support by dialing {{Customer Support Phone Number}}, or you can visit our website at {{Website URL}} and access our live chat feature. Additionally, you can also send us an email at {{Customer Support Email}}. Choose the option that best suits your needs, and our dedicated team will be more than happy to assist you.

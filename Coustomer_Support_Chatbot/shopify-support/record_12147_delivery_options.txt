@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery City}}
-
-Answer: Assuredly! I'm thrilled to inform you that we offer delivery services to {{Delivery City}}, ensuring that our valued customers like you can receive their orders conveniently. Rest assured, we'll get your items to you in a timely manner. If there's anything else I can assist you with regarding your delivery options or any other query, please feel free to ask. It's our pleasure to make your experience with us exceptional!

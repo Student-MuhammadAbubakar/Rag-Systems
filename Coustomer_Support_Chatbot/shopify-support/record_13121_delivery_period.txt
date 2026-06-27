@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I don't know what to do to check when will my parcel arrive
-
-Answer: We understand that tracking the delivery of your parcel is important to you. To check the estimated arrival date, you can use the {{Tracking Number}} or {{Order Number}} provided at the time of purchase. Simply go to our website's tracking page or use our mobile app, and enter the tracking information in the designated field. This will provide you with real-time updates on the status and estimated arrival of your parcel. If you encounter any issues or require further assistance, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help you track your parcel every step of the way!

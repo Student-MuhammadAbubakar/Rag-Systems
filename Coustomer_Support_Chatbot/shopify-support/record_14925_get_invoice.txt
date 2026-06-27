@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I don't know how I can get my goddamn invoice from {{Person Name}}
-
-Answer: I truly understand your frustration and the urgency to get your invoice from {{Salutation}} {{Client Last Name}}. Let me assist you in resolving this matter promptly. To obtain your invoice, you can log in to your account on our website, navigate to the "Invoices" or "Billing" section, and search for {{Person Name}}. If you have any difficulty finding the invoice, please feel free to ask for further assistance.

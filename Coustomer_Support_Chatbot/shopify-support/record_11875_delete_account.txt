@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: information about the termination of a {{Account Type}} account
-
-Answer: Thank you for your inquiry about the termination of a {{Account Type}} account. We understand that sometimes circumstances change and you may need to cancel your {{Account Type}} account. Our termination process for {{Account Type}} accounts is straightforward. To initiate the termination process, please reach out to our customer support team either by phone or through the Live Chat on our website. They will guide you through the necessary steps and provide you with all the information you need to cancel your {{Account Type}} account. We value your business and want to make sure you have a seamless experience throughout the termination process. Please let us know if you have any further questions or concerns.

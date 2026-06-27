@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: my address has changed, I need help modifying it
-
-Answer: I'm on it! I can assist you in updating your shipping address. Please provide me with your new address details, including the street name, city, state, and zip code. Once I have the information, I will make the necessary changes for you.

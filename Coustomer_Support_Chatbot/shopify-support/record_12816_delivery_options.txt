@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Sure! We offer delivery service to {{Delivery City}}, so you can conveniently receive your order in the City of Brotherly Love. We have a range of delivery options available, including standard shipping, expedited shipping, and even in-store pickup if you prefer. You can choose the option that best suits your needs and have your items delivered to your doorstep. If you have any specific concerns or questions, feel free to ask. We're here to ensure a seamless delivery experience for you in {{Delivery City}}!

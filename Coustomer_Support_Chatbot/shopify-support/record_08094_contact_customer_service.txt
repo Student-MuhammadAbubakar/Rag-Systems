@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to pseak to customer support
-
-Answer: We're listening! I'm keyed into the fact that you need assistance in speaking to our customer support team. We strive to provide efficient and personalized support to our valued customers. To connect with our customer support, you can reach out to them during our dedicated {{Customer Support Hours}}. Our team is here to assist you with any questions or concerns you may have. Please don't hesitate to let me know how I can help you further.

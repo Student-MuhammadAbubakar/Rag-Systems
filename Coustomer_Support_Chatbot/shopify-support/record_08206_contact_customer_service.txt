@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what is your customer support mail?
-
-Answer: It's great to hear from you! I can see that you are looking for the email to contact our customer support. We value your query and strive to provide prompt assistance. To get in touch with our customer support team, you can send an email to {{Customer Support Email}}. They will be more than happy to address your concerns and provide you with the help you need. Is there anything else I can assist you with?

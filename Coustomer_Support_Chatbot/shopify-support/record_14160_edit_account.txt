@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modify {{Account Category}} account
-
-Answer: We're delighted to see your dedication to personalizing your {{Account Category}} account! Your commitment to customization and optimization is truly commendable. To modify your account details, I would recommend accessing your account settings directly through our {{Online Company Portal Info}}. From there, you can navigate to the "Account" or "Profile" section, where you'll likely find options to update your information, such as contact details, billing preferences, or notification settings. If you need any assistance in navigating through the process or have specific details in mind that you'd like to modify, please feel free to share. We're here to support you every step of the way!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: edit {{Account Category}} account
-
-Answer: We truly appreciate your dedication to enhancing and updating the information on your {{Account Category}} account. Your commitment to personalizing your experience reflects your passion for our services. To proceed with editing your {{Account Category}} account, you can either log into our secure {{Online Company Portal Info}} or reach out to our dedicated customer support team for personalized assistance. They will guide you through the process and ensure that your account details are updated according to your preferences. Don't hesitate to let us know if you have any specific details in mind that you would like to modify. We're here to make sure your {{Account Category}} account is tailored to your needs.

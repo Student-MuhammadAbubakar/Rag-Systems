@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what is the bloody customer service phone number?
-
-Answer: It's great to hear from you! I can see that you would like to know the customer service phone number. Our dedicated team can be reached at {{Customer Support Phone Number}}. They are available to assist you during {{Customer Support Hours}}. If you have any other questions or concerns, please don't hesitate to ask. How else may I assist you today?

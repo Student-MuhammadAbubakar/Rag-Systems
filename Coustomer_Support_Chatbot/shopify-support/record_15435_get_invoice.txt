@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get bill fromAnna Freeman
-
-Answer: Ah, the quest to retrieve the esteemed bill from the illustrious {{Person Name}}!I am here to assist you in this exciting endeavor. Just give me a moment to locate and retrieve the bill from {{Salutation}} {{Client Last Name}}. Thank you for reaching out, and please don't hesitate to share any additional details or concerns you may have.

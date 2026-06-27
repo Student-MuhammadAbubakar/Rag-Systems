@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: want  assistance to check the goddamn bill from {{Person Name}}
-
-Answer: I understand your need to check the bill from {{Salutation}} {{Client Last Name}}. I apologize for any inconvenience caused. To assist you effectively, could you please provide me with the {{Date Range}}, any specific details, or the account associated with the bill? This additional information will help me locate the bill accurately and provide you with the necessary assistance.

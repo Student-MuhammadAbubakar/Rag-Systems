@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: questionn about canceling order {{Order Number}}
-
-Answer: Thank you for your inquiry regarding the cancellation of order {{Order Number}}. I'm here to help you out! Could you please provide me with more details about your question? Understanding the specific query you have will allow me to provide you with the most accurate and relevant assistance.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can you help me getting the invoices from {{Person Name}}?
-
-Answer: I'm on it! I understand that you need assistance in obtaining the invoices from {{Salutation}} {{Client Last Name}}. Allow me to gather the necessary information and retrieve the invoices for you. Please bear with me for a moment. If you have any additional questions or concerns, feel free to let me know. I'm here to help and ensure your satisfaction throughout the process.

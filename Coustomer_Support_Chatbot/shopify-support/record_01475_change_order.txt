@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I can't remove some articles from purchase {{Order Number}}
-
-Answer: We understand that you're experiencing difficulties in removing some articles from purchase number {{Order Number}}. We apologize for any inconvenience this may have caused. Our team is here to assist you in resolving this issue promptly. To better assist you, could you please provide more information about the specific articles you're trying to remove? This will allow us to provide you with the most accurate and efficient solution. Thank you for bringing this to our attention, and we appreciate your patience as we work to resolve this matter.

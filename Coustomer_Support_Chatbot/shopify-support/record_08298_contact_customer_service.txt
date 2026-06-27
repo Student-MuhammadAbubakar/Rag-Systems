@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I am trying to talk with custojer service
-
-Answer: Thank you for getting in touch! I understand that you are attempting to reach our customer service team. We are here to assist you with any queries or concerns you may have. To connect with our dedicated support representatives, please call {{Customer Support Phone Number}} or visit our website at {{Website URL}} for live chat support. We're committed to providing you with exceptional service and resolving any issues you might encounter. How else may I be of assistance to you?

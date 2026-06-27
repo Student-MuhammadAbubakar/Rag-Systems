@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: send me invoice #12588
-
-Answer: I understand your need to receive invoice {{Invoice Number}}. Allow me a moment to retrieve it for you. If you have any other questions or need further assistance, please feel free to let me know.

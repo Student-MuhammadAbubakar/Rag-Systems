@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to order from {{Delivery City}}
-
-Answer: Positively! We strive to make ordering as convenient as possible for our customers, including those living in {{Delivery City}}. You can absolutely place an order with us, regardless of your location. We offer delivery services to various cities and regions, including {{Delivery City}}. So, feel free to browse our selection and place your order with confidence. If you have any specific concerns or questions about delivery to {{Delivery City}}, please let me know, and I'll be more than happy to assist you further.

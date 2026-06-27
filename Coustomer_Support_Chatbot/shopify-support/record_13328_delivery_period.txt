@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: were do i check how soon can i expect my damn delivery
-
-Answer: I see your frustration and eagerness to know the estimated delivery time of your parcel. To provide you with the most accurate information, could you please provide me with the {{Tracking Number}} or {{Order Number}} so that I can check the status of your delivery? Once I have this information, I will be able to give you a clear estimate of when you can expect your parcel to arrive. Thank you for your understanding and patience.

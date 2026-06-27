@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: add item to order
-
-Answer: Glad you contacted to us! We understand that you would like to add an item to your order. We're here to assist you with that. To ensure a smooth process, could you please provide us with the following details: the order number, the item you'd like to add, and any specific instructions related to this addition? Once we have this information, we'll be able to update your order accordingly.

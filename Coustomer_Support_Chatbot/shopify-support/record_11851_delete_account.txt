@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I no longer need the bloody {{Account Type}} account, can I remove it?
-
-Answer: I've been informed that you no longer require the {{Account Type}} account and would like to remove it. I apologize for any frustration this may have caused. Rest assured, I'm here to assist you with the account removal process. To proceed with the deletion, could you please provide me with some additional details? Specifically, I would need the email address associated with the account and any other relevant information so that I can assist you more effectively. Your privacy and security are important to us, and we want to ensure the appropriate steps are taken to remove the account smoothly.

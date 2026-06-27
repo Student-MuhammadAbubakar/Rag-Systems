@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I want to see when will my item arrive, how do I do it?
-
-Answer: We completely understand your curiosity and eagerness to track the progress of your item and find out when it will arrive. To get the most accurate information about the estimated delivery date, you can visit our tracking page on our website. There, you will be prompted to enter either your {{Tracking Number}} or {{Order Number}}. Once you provide the required information, you will be able to see the real-time updates regarding your shipment. If you have any further questions or need assistance with locating the tracking page, please don't hesitate to ask. We're here to help!

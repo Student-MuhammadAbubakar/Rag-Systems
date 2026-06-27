@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i cannot check purchase {{Order Number}} status
-
-Answer: I'm sorry to hear that you're having trouble checking the status of purchase {{Order Number}}. I'm here to assist you with that. In order to better understand the issue, could you please provide me with some more information? Specifically, let me know which platform or website you are using to track your purchase. This will help me provide you with more accurate guidance on how to resolve the issue. Thank you for your patience, and I look forward to assisting you further!

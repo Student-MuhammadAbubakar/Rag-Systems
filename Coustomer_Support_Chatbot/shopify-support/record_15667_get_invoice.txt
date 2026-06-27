@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I can't find bill #00108, send it to me
-
-Answer: I understand your frustration in not being able to locate bill {{Invoice Number}}. Let me assist you by sending it to you right away. Please provide me with your email address, and I'll make sure the bill is sent to you as soon as possible.

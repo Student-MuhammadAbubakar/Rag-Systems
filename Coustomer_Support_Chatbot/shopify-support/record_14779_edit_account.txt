@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: edit {{Account Type}} accont
-
-Answer: How delightful it is to embark on the captivating journey of editing the details of your esteemed {{Account Type}} account!I am here to provide you with the necessary guidance and support to ensure that your account information is updated accurately and in line with your evolving preferences. Let's dive right in and together we will make the desired changes to your {{Account Type}} account. What specific details would you like to edit?

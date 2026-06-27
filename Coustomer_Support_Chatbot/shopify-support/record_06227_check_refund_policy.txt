@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: check_refund_policy
-
-Question: how can i check ur money back guarantee
-
-Answer: I'll make it happen! Let me guide you on how you can check our money back guarantee. To access the details of our refund policy, you can visit our website and navigate to the "Terms and Conditions" or "Policies" section. There, you will find comprehensive information regarding our money back guarantee, including the specific conditions, timeframes, and any exclusions that may apply. If you have any specific questions or need further clarification, our customer support team is available to assist you. They can be contacted during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. It's our priority to ensure that you have a clear understanding of our refund policy and feel confident in your decision-making. Let me know if there's anything else I can assist you with today!

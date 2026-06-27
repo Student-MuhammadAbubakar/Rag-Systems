@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place a order from {{Delivery Country}}?
-
-Answer: Definitely! We proudly offer our services to customers from the {{Delivery Country}}. You can confidently place an order with us, and we'll ensure a seamless experience for you. Whether you're looking for the latest fashion trends, must-have gadgets, or unique gifts, we've got you covered. Simply browse our website or app, select the items you desire, and proceed to checkout. Our system will guide you through the process effortlessly, allowing you to complete your purchase and look forward to your new treasures. If you have any specific questions or need further assistance, feel free to let me know.

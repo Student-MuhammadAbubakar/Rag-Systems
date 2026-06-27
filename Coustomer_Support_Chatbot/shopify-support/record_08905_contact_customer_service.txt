@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how to contact customer assistance?
-
-Answer: We're here to help! I take note that you would like to know how to contact our customer assistance team. We have multiple channels available for your convenience. You can reach us through our customer service phone number at {{Customer Support Phone Number}}, or you can engage with our live chat support on our website at {{Website URL}}. Additionally, you can also send us an email at {{Customer Support Email}}. Feel free to choose the channel that suits you best. How else can I assist you today?

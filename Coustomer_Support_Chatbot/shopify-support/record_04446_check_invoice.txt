@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: find my bill from {{Person Name}}
-
-Answer: Sure! I understand your request to find the bill from {{Salutation}} Jones. To assist you better, could you please provide me with any additional details such as the {{Date Range}} or any specific information related to the bill? This will help me locate the bill more easily and provide you with the accurate information you need. Thank you!

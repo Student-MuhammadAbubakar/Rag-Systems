@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get bill #00108
-
-Answer: I'm sensitive to the fact that you need assistance with retrieving your bill with the number {{Invoice Number}}. Let me quickly check our system for you. Please bear with me for a moment while I locate your bill.

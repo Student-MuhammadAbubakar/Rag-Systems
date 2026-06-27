@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place an order from {{Delivery City}} ?
-
-Answer: I'll take care of it! You can absolutely place an order from {{Delivery City}}. We offer nationwide shipping, so you can conveniently order our products from anywhere in the United States, including {{Delivery City}}. Whether you're in {{Delivery City}}, New York, or any other city, we've got you covered. So go ahead and explore our website, browse through our products, and place your order with confidence. If you have any specific questions or need assistance with the ordering process, feel free to reach out to our customer service team, they will be more than happy to help you. Happy shopping!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: can ushow me the status of purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I completely understand that you would like to check the status of your purchase with the purchase number {{Order Number}}. To assist you with this, please visit the '{{Online Order Interaction}}' section on our website. This section will provide you with the most up-to-date information regarding the status of your purchase. If you have any further questions or need additional guidance, please feel free to ask. It’s my pleasure to help you out!

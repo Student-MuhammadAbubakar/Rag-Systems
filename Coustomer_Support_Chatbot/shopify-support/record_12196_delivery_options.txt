@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an order from {{Delivery City}}?
-
-Answer: Assuredly! When it comes to placing an order from {{Delivery City}}, you can definitely do so. We offer shipping to {{Delivery City}} as part of our delivery options. Whether you're ordering from the comfort of your home or on the go, you can easily browse our website or mobile app to explore the available products and place your order. Simply select your desired items, proceed to checkout, and enter your shipping address in {{Delivery City}}. Our system will automatically calculate the shipping costs and provide you with an estimated delivery date. Rest assured, we strive to ensure a seamless ordering experience no matter where you are located. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. I'm here to make your online shopping journey a delightful one!

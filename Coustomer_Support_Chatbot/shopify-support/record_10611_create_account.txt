@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where do I create a {{Account Category}} account?
-
-Answer: Fantastic! I'm thrilled that you're interested in creating a {{Account Category}} account with us. To get started, you can easily create your account on our website. Simply visit our homepage and look for the "Sign Up" or "Create Account" button. Click on it, and you'll be directed to our account creation page. From there, you'll be able to select the {{Account Category}} account option and proceed with the registration process. If you need any assistance along the way, don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're excited to have you as a valued {{Account Category}} account holder!

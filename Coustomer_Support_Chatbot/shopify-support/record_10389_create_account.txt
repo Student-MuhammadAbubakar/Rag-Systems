@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not know what I have to do to create a pro accoun
-
-Answer: No worries! I'm here to guide you through the process of creating a {{Account Type}} account. To start with, I'll need a few details from you, such as your full name, email address, and a preferred username. Once you provide this information, I'll assist you step-by-step in setting up your {{Account Type}} account. Rest assured that our {{Account Type}} account comes with a range of advanced features and benefits tailored to meet your needs. So, let's get started on this exciting journey together!

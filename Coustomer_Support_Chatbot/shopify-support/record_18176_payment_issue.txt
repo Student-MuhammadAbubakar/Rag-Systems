@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: how to inform of a problem with online payments?
-
-Answer: I've taken note that you may have encountered a problem with your online payment, and I'm here to guide you on how to inform us about it. The easiest and most convenient way to report a problem with online payments is to reach out to our customer support team directly. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By providing them with specific details about the problem you encountered, such as error messages or transaction IDs, our support team will be able to assist you more efficiently. It's important to let them know about the issue as soon as possible, so they can investigate and resolve it for you. We appreciate your patience and cooperation, and we're committed to helping you through this process.

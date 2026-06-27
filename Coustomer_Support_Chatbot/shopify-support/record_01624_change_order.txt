@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cannot remove an article from purchase {{Order Number}}
-
-Answer: We understand that you're experiencing difficulty in removing an article from purchase number {{Order Number}}. We apologize for any inconvenience caused. In order to assist you more effectively, could you please provide us with the specific details of the article you'd like to remove? Once we have this information, we will be able to guide you through the process and ensure that your purchase is adjusted accordingly. Your satisfaction is our utmost priority, and we appreciate your patience and understanding.

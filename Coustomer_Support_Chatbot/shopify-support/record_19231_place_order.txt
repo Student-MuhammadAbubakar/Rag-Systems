@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where can I buy some of your article?
-
-Answer: Thank you for your interest in purchasing our articles! We truly appreciate your desire to own some of our products. To make the buying process as convenient as possible for you, we offer several options for purchasing our articles. You can buy them directly from our {{Online Store}} on our website, or you can visit one of our {{Retail Stores}} located near you. Our friendly and knowledgeable sales representatives will be more than happy to assist you in finding the perfect article. You can also reach out to our customer service team through our website or by phone at {{Customer Support Phone Number}} if you have any questions or need further assistance. We can't wait to see you become a proud owner of our exceptional articles!

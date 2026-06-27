@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a refund of {{Refund Amount}} dollars
-
-Answer: Thank you for bringing up your expectation of a refund of {{Currency Symbol}}{{Refund Amount}}. I understand the importance of a timely and accurate resolution, especially when it comes to financial matters. Let me look into this for you and provide you with an update as soon as possible. Your patience is greatly appreciated, and I assure you that we are doing everything we can to ensure your satisfaction and trust.

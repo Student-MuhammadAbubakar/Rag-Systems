@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to change some articles of order {{Order Number}}
-
-Answer: Thank you for your request to change the items in order number {{Order Number}}. We completely understand that there may be instances where modifications are necessary to meet your specific needs. To assist you efficiently, we kindly request you to provide us with the precise details of the articles you would like to change. Your input plays a vital role in ensuring we fulfill your requirements promptly and accurately. We appreciate your patience and cooperation in this matter. Is there anything specific you would like to change in your order?

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i have a question about creating a {{Account Type}} account
-
-Answer: I appreciate your curiosity about creating a {{Account Type}} account with us! I'm here to provide you with all the information you need. Please feel {{Account Type}} to ask your question, and I'll be happy to assist you in understanding the process and any other details you may require.

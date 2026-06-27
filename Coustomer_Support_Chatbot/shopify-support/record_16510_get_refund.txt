@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've realized that you are seeking a refund of ${{Refund Amount}}, and I'm here to assist you with the necessary steps. To initiate the refund process, I recommend reaching out to our customer support team either through our helpline at {{Customer Support Phone Number}} or via our live chat option on our website at {{Website URL}}. Our dedicated team will guide you through the refund process and ensure that your request is processed promptly. Rest assured, we value your business and want to provide you with the best possible experience.

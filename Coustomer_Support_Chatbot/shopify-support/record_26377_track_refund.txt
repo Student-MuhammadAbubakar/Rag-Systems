@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: showing refund status
-
-Answer: Thank you for bringing up the request to check the status of your refund. I completely understand the importance of staying informed about the progress. To provide you with an accurate update, could you please provide me with the refund reference number or any other details associated with your refund? With this information, I'll be able to quickly track the status and provide you with the necessary information.

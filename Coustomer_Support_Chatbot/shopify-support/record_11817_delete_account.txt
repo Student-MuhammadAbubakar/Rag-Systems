@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know what to do to delete my {{Account Type}} account
-
-Answer: I appreciate you reaching out to us for assistance with deleting your {{Account Type}} account. I understand that it can be confusing to navigate through the cancellation process, but I'm here to guide you every step of the way. To start, could you please provide me with some more information about your {{Account Type}} account? This will enable me to provide you with the most accurate and personalized instructions on how to proceed with the deletion.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how can I see what hours I can reach customer service?
-
-Answer: We're listening! I'm keyed into the fact that you would like to know the hours during which you can reach our customer service team. You can find the customer support hours on our website at {{Website URL}} or by contacting our toll-free number at {{Customer Support Phone Number}}. Our team is committed to assisting you during those hours. Please let me know if there is anything else I can help you with.

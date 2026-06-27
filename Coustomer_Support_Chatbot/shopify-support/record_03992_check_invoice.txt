@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can you help me to check my invoice #37777?
-
-Answer: I'll get right on it! I'm here to assist you with checking the invoice with the number #{{Invoice Number}}. To provide you with accurate information, could you please verify your account details such as your name or email address associated with the invoice? This will enable me to locate the invoice swiftly and provide you with the necessary details. Thank you for your cooperation!

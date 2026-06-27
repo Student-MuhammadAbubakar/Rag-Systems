@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cannot swap a product of order {{Order Number}}
-
-Answer: I hear you loud and clear your situation and apologize for the inconvenience you're facing with swapping a product in your order number {{Order Number}}. To address this issue promptly, I recommend reaching out to our customer support team. They have the necessary expertise to assist you with the specific details of your order and help you with the product swap process. You can contact them directly at {{Customer Support Phone Number}} or through our Live Chat available on our website at {{Website URL}}. Please let me know if there's anything else I can assist you with.

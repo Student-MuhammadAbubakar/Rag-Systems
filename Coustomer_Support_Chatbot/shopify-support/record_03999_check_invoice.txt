@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can I give a quick look at my bills from {{Person Name}}?
-
-Answer: I truly appreciate your request for a quick look at your bills from {{Salutation}} {{Client Last Name}}. To provide you with the relevant information, please allow me a moment while I bring up your account details. Once I have retrieved the necessary data, I'll be able to guide you on the best way to access and review your bills. Thank you for your patience.

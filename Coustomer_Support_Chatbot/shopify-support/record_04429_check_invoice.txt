@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need assistance to give a quick look at the bill #37777
-
-Answer: I'm conscious of the reality that you're looking for assistance to quickly view the details of your bill with the number {{Invoice Number}}. To access your bill, you can visit our website and log in to your account. Once you're logged in, navigate to the "Billing" or "Invoices" section, where you should be able to find your bill with the specified number. If you're unable to locate it, please feel free to provide me with additional information, such as the date range or any specific details related to the bill, to help me assist you more effectively. Rest assured, I'm here to guide you every step of the way to ensure you have a seamless experience with us.

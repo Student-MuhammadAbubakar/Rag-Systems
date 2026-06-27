@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel {{Account Category}} account
-
-Answer: I'm glad you contacted us about canceling your {{Account Category}} account. I understand that you would like to proceed with the cancellation. To assist you further, I will need some additional information. Please provide me with your account details, such as your account number or registered email address. With this information, I can initiate the process and guide you through the necessary steps to cancel your {{Account Category}} account smoothly. Feel free to ask any other questions or concerns you may have.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i want assistance creating a pro account
-
-Answer: Thank you for choosing our {{Account Type}} account! I'm here to provide you with the assistance you need to create it effortlessly. To get started, could you please provide me with your full name, email address, and a preferred username? With these details, we can initiate the process and guide you step-by-step, ensuring a smooth experience. Feel free to ask any questions along the way, as I'm here to help you make the most of your {{Account Type}} account. Let's begin this exciting journey together!

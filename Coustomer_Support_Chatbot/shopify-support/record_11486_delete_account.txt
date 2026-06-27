@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want assistance deleting my {{Account Type}} account
-
-Answer: Thank you for contacting to us for assistance with deleting your {{Account Type}} account. We understand that sometimes circumstances change, and we're here to help you with the process. To ensure the security of your account, we have a few verification steps in place. Could you please provide us with your account username or email associated with the {{Account Type}} account? This will enable us to locate your account promptly and assist you further in closing it. Rest assured, our team is committed to offering you a seamless experience throughout the account closure process.

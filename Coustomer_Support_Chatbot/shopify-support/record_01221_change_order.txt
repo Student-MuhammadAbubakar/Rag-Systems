@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance to delete something from purcahse {{Order Number}}
-
-Answer: We understand that you need assistance with deleting an item from purchase number {{Order Number}}. We apologize for any inconvenience this may have caused. To better assist you, could you please provide more details about the item you wish to delete? This will allow us to quickly identify and process the change for you. Thank you for your cooperation.

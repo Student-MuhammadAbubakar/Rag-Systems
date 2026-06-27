@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can uhelp me add some items to order {{Order Number}}
-
-Answer: We've received your message to us for assistance with adding items to order number {{Order Number}}. We understand how important it is to ensure your order is complete and meets your expectations. To help you with this, could you please provide us with the details of the items you would like to add? This will allow us to make the necessary adjustments and ensure your satisfaction. We appreciate your patience and look forward to helping you further.

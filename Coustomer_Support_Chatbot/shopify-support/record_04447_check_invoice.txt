@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how to check bill #85632?
-
-Answer: Sure! I understand that you're looking for assistance on how to check the bill with the number #{{Invoice Number}}. To help you with that, could you please provide me with some more information? Specifically, I would need to know which platform or service you used to generate the bill. This information will allow me to provide you with detailed instructions on how to access and check the bill.

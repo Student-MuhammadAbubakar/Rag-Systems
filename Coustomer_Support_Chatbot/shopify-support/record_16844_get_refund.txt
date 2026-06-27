@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbursing {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've been informed that you are seeking assistance with reimbursing ${{Refund Amount}}. I'm here to help you through the process and ensure that you receive the refund you are entitled to. To begin, could you kindly provide some more details about your situation? It would be helpful to know the reason for the refund, any relevant order or payment information, and any steps you have already taken to resolve the issue. With this information, I will be able to guide you more effectively and provide you with the most appropriate solution. Thank you for reaching out to us, and I assure you that we will do our best to resolve this matter to your satisfaction.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: updating pro accojnt
-
-Answer: How wonderful it is to hear that you're interested in updating your {{Account Type}} account! Your dedication to keeping your account information current and relevant reveals your commitment to maximizing the benefits of our services. To assist you efficiently, please provide me with the specific details you would like to update, such as contact information, billing details, or any other relevant information. I'm here to guide you through the process and ensure a smooth and seamless update to your {{Account Type}} account.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you shp to {{Delivery City}}?
-
-Answer: Sure thing! I'm excited to assist you with discovering the shipping options available for delivering to {{Delivery City}}. Let me provide you with the necessary information to ensure a seamless delivery experience.

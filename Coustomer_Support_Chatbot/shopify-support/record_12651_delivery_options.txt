@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place a bloody order from {{Delivery City}}
-
-Answer: I'll do my best! We're thrilled to offer our services to customers from {{Delivery City}} and deliver their orders promptly. Our delivery options are designed to cater to various locations, including international ones like {{Delivery City}}. You can choose from our standard shipping, expedited shipping, overnight shipping, or even opt for in-store pickup if you're near one of our stores. We want to ensure that your shopping experience with us is as smooth and convenient as possible. Feel free to explore our website and place your order with ease. Let me know if there's anything else I can assist you with!

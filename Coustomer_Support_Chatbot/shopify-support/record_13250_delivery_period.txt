@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where could I see how soon can I expect the product ?
-
-Answer: We understand your curiosity and eagerness to know when you can expect your product. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we will be able to track your package and give you an estimated delivery date. Thank you for your cooperation and patience!

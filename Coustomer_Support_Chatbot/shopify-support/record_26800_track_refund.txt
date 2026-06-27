@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I hear you loud and clear the importance of the ${{Refund Amount}} refund for you. Rest assured, I'm here to assist you. Let me quickly check the current status of your refund. While I do that, may I ask if you have received any confirmation email or communication regarding the refund? Your response will provide valuable insights into the progress of your reimbursement. Thank you for your patience and cooperation in this matter.

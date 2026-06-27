@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: would you give me information about my gold account removal?
-
-Answer: Thank you for your message to us regarding the removal of your {{Account Type}} account. We understand that you are seeking information about canceling your account and we're here to assist you. To ensure that we provide you with the most accurate and relevant information, could you please provide us with your {{Account Type}} account details or any specific concerns you have about the removal process? This will allow us to address your request more effectively and guide you through the necessary steps. We value your trust in us and want to ensure a smooth experience for you.

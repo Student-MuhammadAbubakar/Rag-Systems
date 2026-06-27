@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can isee bill #00108
-
-Answer: I see your desire to access and review the bill with number #{{Invoice Number}}. Let me assist you in finding the necessary information. Could you please provide me with the client's name associated with this bill? This will help me locate the specific invoice more efficiently and provide you with the accurate details you need. Please feel free to share any additional information that might be helpful in assisting you further.

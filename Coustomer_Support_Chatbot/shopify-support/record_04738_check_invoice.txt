@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where can i look for the inovice #12588
-
-Answer: I've taken note that you're unsure about where to find the invoice with the number #{{Invoice Number}}. Let me guide you through the process. To locate your invoice, you can check your email inbox for any invoice emails from {{Company Name}}. Additionally, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. If you're unable to find it through these channels, our customer support team will be more than happy to assist you. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help!

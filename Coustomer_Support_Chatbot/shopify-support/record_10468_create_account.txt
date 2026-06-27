@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'm not ergistered help me opening a {{Account Category}} account
-
-Answer: I've understood you're not registered and seeking assistance in opening a {{Account Category}} account. I'm here to guide you through the process and make it seamless for you. To begin, I'll need a few details from you, such as your full name, email address, and contact number. Once I have this information, I'll provide you with step-by-step instructions to create your {{Account Category}} account. Rest assured that your personal information is important to us and will be treated with the utmost confidentiality and security. Let's get started on this exciting journey together!

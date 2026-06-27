@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I change order {{Order Number}}?
-
-Answer: Certainly! We understand that you want to make changes to order number {{Order Number}}. We're here to assist you with that. Could you please let us know specifically what changes you would like to make? This will help us provide you with the best possible solution.

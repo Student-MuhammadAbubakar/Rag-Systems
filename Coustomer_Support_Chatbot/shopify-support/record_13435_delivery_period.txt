@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can ya hepl me see when will my item arrive
-
-Answer: We understand your eagerness to track the delivery status of your item and determine its estimated arrival time. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can swiftly check the progress of your item and give you an estimated delivery date. We appreciate your cooperation and patience throughout this process.

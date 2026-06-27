@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a reimbursmeent of {{Refund Amount}} dollars
-
-Answer: I'm on the same wavelength, how important it is for you to receive your reimbursement of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to resolving this for you as promptly as possible. Allow me a moment while I review the current status of your refund request. Your patience is greatly appreciated.

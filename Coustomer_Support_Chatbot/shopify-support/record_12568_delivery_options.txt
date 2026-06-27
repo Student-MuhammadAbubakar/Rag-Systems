@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery Country}}?
-
-Answer: I'll make it happen! We are thrilled to provide our services to customers in {{Delivery Country}} and offer shipping options to deliver your desired products right to your doorstep. Whether you're in Helsinki, Turku, Tampere, or any other city in {{Delivery Country}}, we've got you covered. Our comprehensive global shipping network ensures that we can reach customers worldwide, including {{Delivery Country}}. So go ahead and place your order with confidence, knowing that we'll take care of delivering it to you in {{Delivery Country}}. If you have any specific concerns or questions about shipping to {{Delivery Country}} or any other inquiries, please feel free to let me know. I'm here to assist you every step of the way!

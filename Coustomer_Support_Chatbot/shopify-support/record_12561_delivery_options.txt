@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery City}}
-
-Answer: I'll make it happen! We take pride in delivering to the lively city of {{Delivery City}}. You can place an order with us and have it delivered straight to your doorstep in {{Delivery City}}. Our delivery options include standard shipping, expedited shipping, overnight shipping, and even in-store pickup if you prefer a local experience. We're here to ensure a seamless delivery experience for you. If you have any other questions or need further assistance, feel free to let me know. I'm here to help!

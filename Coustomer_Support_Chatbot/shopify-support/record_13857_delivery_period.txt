@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can I see how soon can I expect my order?
-
-Answer: We understand your eagerness to track the delivery status of your order and get an estimate of its arrival time. To help you with that, please provide us with your {{Order Number}} or {{Tracking Number}}. With this information, we will be able to give you an accurate update on when you can expect your order to arrive. Your satisfaction is our priority, and we appreciate your patience and cooperation. How can we assist you further?

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help seeing invoice #00108
-
-Answer: I hear you loud and clear your desire for assistance in viewing the details of invoice #{{Invoice Number}}. Let's work together to address this concern. One way to access your invoice is by logging into your account on our website and navigating to the "Billing" or "Invoices" section. If you are unable to locate the specific invoice, our customer support team will be more than happy to help you retrieve it. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through our Live Chat feature on our website at {{Website URL}}. Rest assured, we are committed to resolving this matter and ensuring your satisfaction.

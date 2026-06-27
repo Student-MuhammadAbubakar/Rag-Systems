@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I do not know what to do to see when will my purchase arrive
-
-Answer: We understand that you are unsure about how to track the arrival of your purchase. To check the estimated delivery time, you can visit our website and navigate to the 'Order Tracking' or 'Track Your Order' section. There, you will be prompted to enter your {{Order Number}} or {{Tracking Number}}. Once you provide this information, you will receive detailed updates on the status of your purchase and the expected delivery date. If you are unable to find the tracking section on our website or have any other questions, our customer support team is available to assist you. Feel free to reach out to them through the contact details provided on our website. We are here to ensure a seamless and informed shopping experience for you. Let us know if there's anything else we can assist you with."

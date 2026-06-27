@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}, was it processed
-
-Answer: I'm not mistaken the importance of receiving your restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to providing you with timely updates on the status of your refund. Allow me to check the system to see if your refund has been processed. Please bear with me for a moment while I gather the necessary information. Your patience is greatly appreciated.

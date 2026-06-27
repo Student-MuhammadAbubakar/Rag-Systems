@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: how can I see order {{Order Number}} current status?
-
-Answer: We're listening! I'm keyed into the fact that you would like assistance in checking the current status of your order with order number {{Order Number}}. To view the status, I recommend visiting the "{{Order Tracking}}" section on our website. It will provide you with real-time updates and detailed information about the progress of your order. Please feel free to reach out if you have any other questions or need further assistance. My goal is to ensure you have a seamless experience with us!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me switch several products of purchase {{Order Number}}
-
-Answer: I'm sensitive to the fact that you need assistance in switching several products for purchase number {{Order Number}}. I apologize for any inconvenience caused by the need for these changes, and I assure you that I'll do my utmost to help you resolve this issue promptly. To better assist you, could you please provide me with the specific details of the products you would like to swap? This will help us ensure that the correct products are selected for the replacement. Thank you for your understanding and cooperation.

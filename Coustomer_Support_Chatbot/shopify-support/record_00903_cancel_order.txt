@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: i have a question about cancelling order {{Order Number}}
-
-Answer: I've understood, you have a question about canceling your order with the order number {{Order Number}}. How can I assist you?

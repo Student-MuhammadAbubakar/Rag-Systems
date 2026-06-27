@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not know how to open a {{Account Type}} account for my daughter
-
-Answer: I catch on to the fact that you're unsure about how to open a {{Account Type}} account for your daughter. Don't worry, I'm here to guide you through the process step by step. To start, could you please provide her full name, date of birth, and contact information? Once I have these details, I will assist you in creating a {{Account Type}} account for her. Rest assured that we prioritize the security and privacy of our customers' information, so you can trust that her data will be safeguarded. Let's get started on this exciting journey together!

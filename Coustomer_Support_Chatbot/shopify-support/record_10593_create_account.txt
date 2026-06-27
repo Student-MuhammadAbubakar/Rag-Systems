@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna open a gold account
-
-Answer: Congratulations on your decision to open a {{Account Type}} account! It's great to see that you're interested in exploring our different account options. To open a {{Account Type}} account, I recommend visiting our website and navigating to the account registration page. There, you will find all the necessary steps to create your {{Account Type}} account with ease. If you need any assistance along the way, feel free to reach out. We're here to support you throughout the process. Get ready to enjoy the exclusive benefits and privileges that come with a {{Account Type}} account!

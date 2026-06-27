@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how can I call customer service?
-
-Answer: We're listening! I'm keyed into the fact that you're looking for information on how to contact our customer service team. To speak with a representative, you can dial our dedicated customer support hotline at {{Customer Support Phone Number}} during our {{Customer Support Hours}}. Alternatively, you can visit our website at {{Website URL}} and initiate a live chat session with one of our agents. We're here to assist you and address any questions or concerns you may have. How else can I help you today?

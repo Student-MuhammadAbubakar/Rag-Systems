@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where do I locate my invoice #12588?
-
-Answer: Sure! I'm here to guide you in locating your invoice with the number #{{Invoice Number}}. To find it, you can go to your account dashboard and look for the "Invoices" or "Billing" section. Alternatively, you can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in finding the specific invoice you're looking for.

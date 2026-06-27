@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I don't know what to do to order a few of your article
-
-Answer: Glad you contacted to us! It's completely understandable to feel unsure about the process of ordering our articles. Rest assured, I'm here to guide you every step of the way. To get started, you can visit our website and browse through our collection of articles. Once you find the ones you'd like to order, simply add them to your cart. If you have any questions or need assistance along the way, feel free to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any queries or concerns you may have. We want your ordering experience to be smooth and effortless, so please don't hesitate to ask for help if needed. We look forward to serving you and ensuring your satisfaction with our articles!

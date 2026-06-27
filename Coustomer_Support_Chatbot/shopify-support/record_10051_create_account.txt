@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i want information about creating a {{Account Category}} account
-
-Answer: How exciting! I'm thrilled that you're interested in creating a {{Account Category}} account with us. Having a {{Account Category}} account comes with numerous benefits and exclusive features catered to meet your specific needs and preferences. To give you the most accurate and up-to-date information, could you please provide me with your location? This will help me ensure that I share all the relevant details regarding the {{Account Category}} account available in your region. Thank you for considering our {{Account Category}} account, and I look forward to providing you with all the information you need to make an informed decision.

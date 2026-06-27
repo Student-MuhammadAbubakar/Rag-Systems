@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help with adding several damn articles to order {{Order Number}}
-
-Answer: We appreciate you reaching out to us regarding the addition of several articles to order number {{Order Number}}. We understand the importance of making sure your order includes all the items you need. To assist you with this, could you please provide us with the specific details of the articles you would like to add? This will allow us to ensure that your order is updated accurately and to your satisfaction. Thank you for your patience and cooperation in this matter.

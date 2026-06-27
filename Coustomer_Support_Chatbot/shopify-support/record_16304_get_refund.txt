@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbursing {{Refund Amount}} dollars
-
-Answer: I've picked up that you're seeking assistance in reimbursing ${{Refund Amount}}. It's never easy to encounter situations where refunds are necessary, and I'm here to help make this process as smooth as possible for you. To ensure an efficient resolution, could you please share some additional details about the refund request? Specifically, if you could provide the transaction or purchase information, it would greatly assist me in guiding you towards the appropriate steps for initiating the reimbursement. Rest assured, with your cooperation, I'll make sure to address your request promptly and facilitate a satisfactory resolution. Thank you for sharing the specifics; let's work together to secure your reimbursement successfully.

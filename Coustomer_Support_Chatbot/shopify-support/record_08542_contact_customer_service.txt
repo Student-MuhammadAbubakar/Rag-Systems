@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: assistance checking what hours i can reach customre service
-
-Answer: We're here for you! I'm aware that you need assistance in checking the hours when our customer service team is available. Our dedicated team is here to assist you during {{Customer Support Hours}}. By reaching out during these hours, you will receive prompt and reliable support. Is there anything else I can help you with today?

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want to see my compensation status, I need help
-
-Answer: I get it your need to stay informed about the status of your compensation. Your peace of mind is our utmost priority, and I'm here to assist you every step of the way. To check the current status of your compensation, I recommend visiting our website's dedicated "Compensation Status" page. There, you'll find real-time updates on the progress of your compensation request, ensuring that you are always in the loop. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're committed to providing you with timely updates and excellent support throughout this process.

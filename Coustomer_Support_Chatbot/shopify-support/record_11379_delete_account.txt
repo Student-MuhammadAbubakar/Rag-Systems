@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the deletion of my gold account
-
-Answer: We're here to help to us for information regarding the deletion of your {{Account Type}} account. I understand that you would like to gather more details about the cancellation process. Rest assured, I'm here to assist you every step of the way. Can you please provide me with some specific questions or concerns you have regarding the deletion of your {{Account Type}} account? This will allow me to provide you with accurate and tailored information to ensure a smooth and hassle-free cancellation process. Remember, your satisfaction is our top priority, and I'm here to make sure you have all the information you need to make the best decision for yourself.

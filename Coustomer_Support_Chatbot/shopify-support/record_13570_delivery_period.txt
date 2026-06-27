@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: want help checking how soon can I expect myy product
-
-Answer: We understand your excitement to receive your product and we're here to assist you with the estimated delivery time. Please provide us with the {{Tracking Number}} or {{Order Number}} so that we can check the current status and provide you with the most accurate information on when you can expect your product to arrive. Your patience is greatly appreciated as we work together to ensure a smooth delivery experience.

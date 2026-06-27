@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I lost the bills from {{Person Name}}, mail them to me
-
-Answer: I can tell that you've lost the bills from {{Salutation}} {{Client Last Name}} and would like them to be mailed to you. I apologize for the inconvenience caused. To assist you further, could you please provide me with your contact information, including your mailing address? Once I have this information, I will ensure that the bills are sent out to you promptly. Thank you for your patience and cooperation.

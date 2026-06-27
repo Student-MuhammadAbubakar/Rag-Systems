@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not know how to create a {{Account Category}} account
-
-Answer: Oh, no worries at all! I'm here to guide you through the process step by step. To create a {{Account Category}} account, you'll need to provide your full name, email address, and a preferred username. Once you have those details ready, I can assist you further and ensure that you have all the information you need to successfully create your {{Account Category}} account. Just let me know when you're ready, and I'll be here to help you every step of the way!

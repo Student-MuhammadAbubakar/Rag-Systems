@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbursing {{Refund Amount}} dollars
-
-Answer: I've grasped that you're looking to seek reimbursement for a total of ${{Refund Amount}}. I apologize for any inconvenience or dissatisfaction that may have led to this request. To further assist you, could you please provide some additional details regarding the situation? This will help me determine the most appropriate course of action and guide you towards a resolution in the quickest and most efficient manner possible. Rest assured, my utmost priority is to address your concerns and facilitate the refund process smoothly.

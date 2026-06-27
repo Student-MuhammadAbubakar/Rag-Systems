@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbursing {{Refund Amount}} ddollars
-
-Answer: I recognize that you are seeking a reimbursement of ${{Refund Amount}}. This is an important matter, and I assure you that I'm here to assist you in the best way possible. To begin the process, could you please provide me with some additional details about the transaction? For instance, the date of purchase, the payment method used, and any relevant order or invoice numbers. With this information, I'll be able to expedite the refund process and work towards a satisfactory resolution. Thank you for bringing this to my attention, and I'll do everything I can to assist you effectively.

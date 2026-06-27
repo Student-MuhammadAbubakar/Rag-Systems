@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant swap an item of order {{Order Number}}
-
-Answer: I apologize for any inconvenience caused by your inability to swap an item from order number {{Order Number}}. To assist you with this matter, could you please provide me with the details of the item you wish to swap and the desired replacement? Additionally, if there are any specific reasons preventing you from carrying out the swap, kindly let me know. I'm here to help find a suitable solution to address this issue promptly and ensure your satisfaction.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need help to call customer assistance
-
-Answer: It's great to hear from you! I can see that you are seeking assistance on how to call our customer assistance team. I'll be glad to help you with that. To call our customer assistance, you can dial our dedicated customer support phone number, {{Customer Support Phone Number}}, which is available during our customer support hours, {{Customer Support Hours}}. Our team is always ready to assist you with any inquiries, concerns, or issues you may have. Let me know if there is anything else I can do to assist you further.

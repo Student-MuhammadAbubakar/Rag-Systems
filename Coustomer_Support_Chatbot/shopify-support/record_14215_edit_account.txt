@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: update {{Account Category}} account
-
-Answer: We're thrilled to help you update the information on your {{Account Category}} account! At {{Company Name}}, we value your commitment to our premium services and want to ensure that your account details are up to date. To proceed with the update, please provide us with the specific details you would like to modify. Whether it's your contact information, payment method, or any other details, we're here to assist you every step of the way. Let's make sure your {{Account Category}} account reflects your current preferences and needs. How can we assist you with updating your account?

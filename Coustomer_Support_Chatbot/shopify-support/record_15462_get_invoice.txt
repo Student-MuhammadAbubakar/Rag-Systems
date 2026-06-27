@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i lost the bill from {{Person Name}} send it to me
-
-Answer: I understand your need to locate the bill from {{Salutation}} {{Client Last Name}}. I apologize for the inconvenience caused by the lost bill. Unfortunately, I am unable to send the bill directly through this platform. However, I can guide you on how to retrieve it. Please provide me with your email address, and I will send you step-by-step instructions on how to locate and download the bill from our system. Thank you for your understanding and cooperation.

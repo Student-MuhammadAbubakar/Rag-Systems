@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I cannot see order {{Order Number}} status
-
-Answer: I hear you! I'm following you that you are having trouble viewing the status of order number {{Order Number}}. I apologize for any inconvenience caused. Let me assist you with this. To check the status of your order, please visit our website and navigate to the 'Order History' section. If you encounter any difficulties, feel free to ask for further assistance. Your satisfaction is our priority, and we're here to ensure you have a seamless experience!

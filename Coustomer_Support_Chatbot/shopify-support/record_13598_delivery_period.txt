@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am calling to check when my purchase is going to arrive
-
-Answer: We appreciate your proactive approach in reaching out to us over the phone to inquire about the delivery status of your purchase. To provide you with the most accurate information, may I please have your {{Order Number}} or {{Tracking Number}}? With this essential piece of information, I will be able to track the progress of your package and provide you with an estimated arrival date. Thank you for your cooperation and patience.

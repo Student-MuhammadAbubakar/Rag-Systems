@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where can i get information about opening pro accounts
-
-Answer: That's a great question! You can find all the information you need about opening {{Account Type}} accounts on our website. Simply visit our homepage and navigate to the 'Accounts' section. There, you will find detailed descriptions of the different types of accounts we offer, including the {{Account Type}} account. You'll also find step-by-step guides on how to open a {{Account Type}} account, along with any requirements or eligibility criteria. Additionally, you can reach out to our customer support team who will be more than happy to assist you and provide any further information you may need. Opening a {{Account Type}} account is a rewarding experience, and we're here to support you every step of the way!

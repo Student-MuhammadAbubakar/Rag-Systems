@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: assistance to see purchase {{Order Number}} status
-
-Answer: We're listening! I'm keyed into the fact that you need assistance with checking the status of your purchase with the order number {{Order Number}} {{Order Number}}. To view the current status, I recommend visiting the '{{Online Order Interaction}}' section on our website. There, you'll find detailed information about your purchase including the estimated delivery date, tracking information, and any updates regarding the status. If you have any other questions or need further assistance, please feel free to let me know. My goal is to ensure you have a seamless and informed shopping experience.

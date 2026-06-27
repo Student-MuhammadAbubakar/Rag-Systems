@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am calling to see how soon can I expect my damn delivery
-
-Answer: We understand that you are eager to receive your delivery as soon as possible. To provide you with an accurate estimate of the delivery time, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we will be able to give you a more precise update on the expected arrival date. Your patience is greatly appreciated, and we assure you that we are doing everything we can to ensure a swift delivery.

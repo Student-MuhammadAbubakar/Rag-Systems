@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i cannot pay i have to report goddamn payment issues
-
-Answer: I apologize for the frustration you're experiencing with payment issues. I assure you that I'm here to assist you in resolving this matter promptly. To report the payment issue you're facing, I recommend reaching out to our customer support team. They have the expertise and resources to provide the necessary guidance and help you find a solution. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reporting the issue, we can investigate the problem and work towards resolving it for you. Thank you for bringing this to our attention.

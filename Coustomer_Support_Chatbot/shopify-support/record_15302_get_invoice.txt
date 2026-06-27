@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: II need help downloading the invoices from {{Person Name}}
-
-Answer: Assuredly! I completely understand your need to download invoices from {{Salutation}} {{Client Last Name}}. To assist you with this, could you please provide me with the specific time frame or invoice numbers that you are looking for? This will help me locate and retrieve the invoices more efficiently. Also, please let me know if you have any other questions or concerns regarding the invoice retrieval process. I'm here to help you every step of the way!

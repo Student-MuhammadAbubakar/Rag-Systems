@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: can ya help me cancel my platinum account
-
-Answer: Thank you for trusting to us about canceling your {{Account Category}} account. I understand that you'd like assistance with this process, and I'm here to help. To proceed with canceling your account, I kindly request some more details from you. Could you please provide your account username or any other identifying information? This will enable me to locate your account and guide you through the cancellation process more effectively.

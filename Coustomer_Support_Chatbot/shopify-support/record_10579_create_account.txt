@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create {{Account Type}} cacount
-
-Answer: Thank you for expressing your desire to create a {{Account Type}} account with us! We appreciate your interest in exploring our services without any cost. To get started, kindly provide your name, email address, and a preferred username. Once we have this information, we will guide you through the process and ensure that you have the necessary details to make the most of your {{Account Type}} account. Your privacy and security are of utmost importance to us, and we assure you that your information will be handled with the utmost care. Let's begin this exciting journey together!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: give me information about the deletion of a gold account
-
-Answer: We're here to help to us for information regarding the deletion of your {{Account Type}} account. We understand that you may have some concerns or questions about this process, and we are here to provide you with the necessary guidance and support. To proceed with the deletion, we recommend contacting our customer support team directly, as they will be able to assist you with the specific steps and requirements involved. They can be reached during our regular business hours at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.

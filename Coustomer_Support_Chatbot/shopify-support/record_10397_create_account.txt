@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I ain't registered yet, I need to create a damn pro account
-
-Answer: I really appreciate your interest in creating a {{Account Type}} account with us! Rest easy knowing that I'm here to provide you with an exceptional experience. To get started, I'll need some information from you. Could you kindly provide your full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through the process, ensuring you have all the necessary information. Your security and privacy are of utmost importance to us, and we'll handle your data with the utmost care. Let's begin this exciting journey together!

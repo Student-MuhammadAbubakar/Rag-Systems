@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need help checking the status of purechase {{Order Number}}
-
-Answer: It's great to hear from you! I can see that you need assistance in checking the status of your purchase with the purchase number {{Order Number}}. To help you with that, please visit the '{{Purchase History}}' section on our website. There you will find detailed information about the status of your purchase, including the estimated time of arrival (ETA) if available. If you have any other questions or need further guidance, please feel free to let me know. I'm here to ensure that you have a smooth and satisfactory experience.

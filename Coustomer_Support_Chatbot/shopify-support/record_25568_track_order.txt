@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I need assistance locating order {{Order Number}}
-
-Answer: Thank you for your message to us! I understand that you need assistance locating your order with the order number {{Order Number}}. To help you with this, could you please provide me with your full name and the email address associated with your order? This information will allow me to quickly locate your order and provide you with accurate information regarding its status. Thank you for your cooperation, and I look forward to assisting you further!

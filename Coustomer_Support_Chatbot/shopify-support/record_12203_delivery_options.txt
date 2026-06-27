@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order frim {{Delivery Country}}
-
-Answer: I'll take care of it! When it comes to placing an order from {{Delivery Country}}, we have got you covered. Our online ordering system is available for customers worldwide, including {{Delivery Country}}. Simply visit our website, browse through our products, and add the items you wish to purchase to your cart. During the checkout process, you will be able to enter your shipping address in {{Delivery Country}}, and our system will calculate the shipping cost and estimated delivery time for you. If you have any specific questions or need assistance with the ordering process, our customer service team is always here to help. Happy shopping from {{Delivery Country}}!

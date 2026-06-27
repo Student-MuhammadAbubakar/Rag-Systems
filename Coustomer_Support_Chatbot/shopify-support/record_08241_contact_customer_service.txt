@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have got to talk to customer support, can I get some help?
-
-Answer: Thank you for reaching out! I completely understand that you urgently need to talk to our customer support team. We strive to provide timely assistance and resolve any issues you may have. To ensure a seamless experience, our customer support team is available during {{Customer Support Hours}}. Please feel free to let me know if there is anything specific I can assist you with, and I'll be more than happy to help!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: wanna chedk order {{Order Number}} status help me
-
-Answer: Thank you for reaching out! I'm here to assist you in checking the status of your order with the order number {{Order Number}}. In order to help you more effectively, could you please provide me with some additional information such as your name or email associated with the order? This will allow me to locate the order details and provide you with accurate status information.

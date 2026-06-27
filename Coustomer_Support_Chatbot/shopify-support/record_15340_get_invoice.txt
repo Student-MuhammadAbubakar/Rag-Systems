@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I'm tryingto download my invoice from {{Person Name}}
-
-Answer: Assuredly! I completely understand your need to download your invoice from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. First, log in to your account on our website. Once you're logged in, navigate to the "Invoices" section. You should find a list of all your invoices there. Locate the invoice you need and click on the "Download" button next to it. The invoice will be saved to your device. If you encounter any difficulties during this process, feel free to let me know, and I'll be more than happy to assist you further.

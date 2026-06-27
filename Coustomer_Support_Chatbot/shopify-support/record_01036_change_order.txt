@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how to update order {{Order Number}}?
-
-Answer: I've observed that you're looking to update order number {{Order Number}}. We are here to assist you with that. To update your order, please provide us with the specific details of the update you would like to make. It could be changing the quantity, adding or removing items, or modifying the shipping address. Once we have the necessary information, we will promptly assist you in updating your order to ensure it meets your requirements.

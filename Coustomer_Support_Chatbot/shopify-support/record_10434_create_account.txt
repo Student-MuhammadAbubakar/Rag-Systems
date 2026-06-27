@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna open a {{Account Type}} account for my fiance
-
-Answer: How wonderful! Congratulations on your decision to open a {{Account Type}} account for your fiance! I'm here to guide you through the process and ensure a smooth experience. To get started, could you please provide your fiance's full name, email address, and a preferred username? Rest assured that we prioritize security and privacy, and all the information shared will be handled with utmost care. Let's take this exciting step together!

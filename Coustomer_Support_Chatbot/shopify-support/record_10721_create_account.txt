@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I have got to open a new bloody {{Account Type}} account, I need help
-
-Answer: Thank you for reaching out to us for assistance in creating a new {{Account Type}} account. I'm here to guide you through the process and address any questions or concerns you may have. To get started, can you please provide me with your full name and email address? Once I have this information, I'll walk you through the necessary steps to create your account and ensure that it's a smooth and hassle-{{Account Type}} experience. Rest assured, we value your privacy and security, and your information will be handled with utmost care.

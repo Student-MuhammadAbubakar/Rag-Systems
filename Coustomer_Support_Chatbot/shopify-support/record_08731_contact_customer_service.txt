@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I do not know what to do to call customer service
-
-Answer: We're listening! I'm keyed into the fact that you are unsure of the necessary steps to call our customer service. To connect with our team, you can dial {{Customer Support Phone Number}} during our dedicated {{Customer Support Hours}}. If you have any other questions or concerns, please feel free to share, and I'll be glad to assist you further.

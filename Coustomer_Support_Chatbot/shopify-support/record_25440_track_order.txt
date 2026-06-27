@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: see order {{Order Number}} stats
-
-Answer: Thanks for getting in touch! I grasp that you would like to see the status of your order with the order number {{Order Number}}. To check the current stats of your order, I recommend visiting the '{{Order Status}}' section on our website. There, you will find all the relevant information about your order, including its status, estimated delivery date, and any updates. If you have any other questions or need further assistance, please feel free to ask.

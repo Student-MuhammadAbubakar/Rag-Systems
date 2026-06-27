@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a refund of {{Refund Amount}} dollrs
-
-Answer: I'm on the same page, the importance of receiving your expected refund of {{Currency Symbol}}{{Refund Amount}}. We recognize that every dollar matters, and we are committed to providing you with a seamless refund experience. Let me check the current status of your refund right away. As I gather the necessary information for you, may I ask if you have any specific concerns or questions regarding the refund process? Your feedback is invaluable to us in ensuring your satisfaction. Thank you for your patience as I assist you with your refund.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to contact customer service, how can I do it?
-
-Answer: Thank you for reaching out! I understand your need to connect with our customer service team. We offer multiple channels through which you can reach us. You can contact our customer service by phone at {{Customer Support Phone Number}}, or you can visit our website at {{Website URL}} and utilize the live chat feature. Additionally, you can also send us an email at {{Customer Support Email}}. Our customer service representatives are available to assist you during {{Customer Support Hours}}. Please let me know if there's anything else I can help you with!

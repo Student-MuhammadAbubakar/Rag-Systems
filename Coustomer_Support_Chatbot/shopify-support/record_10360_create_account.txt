@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I would like to create a {{Account Type}} account, how can I do it?
-
-Answer: I applaud your decision to create a {{Account Type}} account with us! Let me guide you through the process step by step. To get started, click on the "Sign Up" button on our website's homepage. You'll need to provide your personal information such as full name, email address, and phone number. After completing the registration form, you'll be redirected to a page where you can select the {{Account Type}} account option. Once you've chosen this option, you'll need to review and agree to our terms and conditions. Finally, complete the payment process, and voila! You'll have successfully created a {{Account Type}} account. Should you encounter any difficulties during this process, feel free to reach out to our customer support team via live chat or phone. We're here to ensure a smooth experience for you.

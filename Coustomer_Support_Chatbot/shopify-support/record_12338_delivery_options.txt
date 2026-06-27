@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Unquestionably! We extend our delivery services to {{Delivery City}}, ensuring that our customers in the area can receive their orders conveniently. Depending on your location and the specific items you wish to order, we offer various delivery options tailored to meet your needs. These options typically include Standard Shipping, Expedited Shipping, Overnight Shipping, and even the option for In-Store Pickup, if you prefer a more personalized experience. Feel free to explore these options and choose the one that suits you best. If you have any specific concerns or if there's anything else I can assist you with, please don't hesitate to let me know. We're committed to making your shopping experience with us as seamless and enjoyable as possible!

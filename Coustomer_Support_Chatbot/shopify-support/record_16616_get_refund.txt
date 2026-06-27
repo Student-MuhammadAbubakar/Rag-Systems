@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have to request a rebate of my money
-
-Answer: I'm clearly cognizant your need to request a rebate for the amount of money you have paid. It can be frustrating when you don't receive the expected compensation. To assist you in this process, I recommend reaching out to our customer support team. They have the expertise to guide you through the necessary steps to request a rebate. You can contact them by {{Contact Method}} and provide them with the details of your purchase, including the order number and the amount you paid. They will review your case thoroughly and work towards resolving it to your satisfaction. Rest assured, our team is committed to ensuring that you receive the appropriate compensation you deserve.

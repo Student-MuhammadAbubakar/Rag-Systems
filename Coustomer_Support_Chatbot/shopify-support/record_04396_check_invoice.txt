@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where do i take a quick look at the bill #37777
-
-Answer: Oh, I completely understand your eagerness to take a quick look at the bill with the number #{{Invoice Number}}. To locate the bill swiftly, I recommend visiting the "Account" or "Billing" section of your online portal. In this section, you will likely find a tab or link labeled "Invoices" or "Billing History." Please click on that option, and it should lead you to a page displaying your invoices. If you have any trouble finding it, feel free to let me know, and I'll guide you step by step.

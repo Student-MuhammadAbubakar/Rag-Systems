@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: are there early termination fees?
-
-Answer: Positively! There may be penalties or fees associated with terminating your contract before its specified end date. The exact details can be found in the terms and conditions section of your contract.

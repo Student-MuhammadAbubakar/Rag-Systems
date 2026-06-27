@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where do i inform of errors with payment
-
-Answer: I pick up what you're putting down that you are looking for the correct channel to inform us about any errors you encountered with your payment. To report payment errors, you can reach out to our customer support team by calling our dedicated helpline at {{Customer Support Phone Number}}. Alternatively, you can also send us an email at {{Customer Support Email}} or use the Live Chat feature on our website at {{Website URL}}. We are here to assist you and resolve any payment issues you may have encountered. Thank you for bringing this to our attention, and we appreciate your patience and cooperation while we work towards resolving the issue.

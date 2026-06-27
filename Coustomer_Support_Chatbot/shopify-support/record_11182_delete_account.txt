@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel platinum acount
-
-Answer: Thank you for reaching out to us about canceling your {{Account Category}} account. I understand that you would like to cancel your account, and I apologize for any inconvenience this may cause. To assist you with canceling your {{Account Category}} account, I recommend contacting our customer support team directly. They will guide you through the cancellation process and ensure that all necessary steps are taken to complete the cancellation successfully. Please reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to provide personalized assistance and address any concerns you may have during the cancellation process. We appreciate your understanding and cooperation in this matter.

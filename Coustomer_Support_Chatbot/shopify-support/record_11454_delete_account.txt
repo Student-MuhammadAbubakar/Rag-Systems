@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know how to close my {{Account Category}} account
-
-Answer: Thanks for dropping us a line about your {{Account Category}} account closure. I understand that you might be unsure of the steps to take in order to close your account. I'm here to assist you throughout the process and provide you with the necessary guidance. Could you please provide me with some additional information about your account, such as your username or email address associated with it? This will allow me to locate your account and provide you with specific instructions on how to close it.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want to change several products of order {{Order Number}}
-
-Answer: First of all, thank you for your request to change several products in order {{Order Number}}. We understand that sometimes you may need to modify your order to better suit your needs. To proceed with the changes, please provide us with the details of the specific products you wish to change. This will allow us to assist you more effectively and provide suitable alternatives if necessary.

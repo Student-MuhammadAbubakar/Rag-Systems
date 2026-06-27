@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: wanna see how soon can i expect the package how to do it
-
-Answer: Thank you for getting in touch to us to track the expected arrival time of your package. We completely understand your anticipation and the importance of getting timely information. To assist you in checking the estimated delivery date, please provide us with the {{Tracking Number}} or {{Order Number}} associated with your purchase. Once we have that information, we will be able to provide you with the most accurate details about the expected delivery timeframe. Your patience is greatly appreciated as we work to assist you with your inquiry.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need assistance to swap a product of purchase {{Order Number}}
-
-Answer: I see what you mean! I'm on the same page that you would like assistance with swapping a product in your purchase with order number {{Order Number}}. We're here to help! To facilitate the process, could you please provide more details about the product you'd like to swap, including the name, size, or any other specifications? This information will allow us to locate the exact item and provide you with the necessary guidance for the swap.

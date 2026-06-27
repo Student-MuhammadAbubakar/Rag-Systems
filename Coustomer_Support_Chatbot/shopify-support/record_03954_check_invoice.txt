@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: assistance seeing the invoice from {{Person Name}}
-
-Answer: I see what you mean your request for assistance in viewing the invoice from {{Salutation}} {{Client Last Name}}. It can be frustrating when you're unable to locate important documents. Allow me to help you with that. Could you please provide me with any additional information such as the date of the invoice or any specific details related to it? This will enable me to assist you more effectively in finding and accessing the invoice you are looking for.

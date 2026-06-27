@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to check at what time customer assistance available is
-
-Answer: Happy to hear from you! I truly understand that you need assistance in checking the operating hours when our customer assistance is available. Our dedicated support team is ready to assist you during our {{Customer Support Hours}}. We are here to answer any questions or concerns you may have. Feel free to reach out to us at any time during our operating hours. How else may I assist you today?

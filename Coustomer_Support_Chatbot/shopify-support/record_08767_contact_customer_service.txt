@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do ya have an e-mail to contact customer service
-
-Answer: I hear you! I'm following you that you are looking for an email to contact our customer service. We value your time and want to provide you with prompt assistance. To ensure the fastest response, I recommend reaching out to our customer service team through the dedicated email address: {{Customer Service Email}}. Our team is ready to address any questions or concerns you may have. Please feel free to contact us via email, and we will be happy to assist you further.

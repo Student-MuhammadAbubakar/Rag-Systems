@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: what do I need to do to find my bill #37777?
-
-Answer: I hear you loud and clear your confusion about finding the bill with the number {{Invoice Number}}. To locate your bill, you can follow these steps. First, log in to your account on our website or app. Then, navigate to your account settings or billing section. Look for the option labeled "View Invoices" or "Billing History." Click on that option to access your invoice list. Once you're in the invoice list, you can search for the specific bill using the search bar or filters provided. Enter the bill number {{Invoice Number}} in the search bar or apply relevant filters to narrow down the results. If you encounter any difficulties or need further assistance, please don't hesitate to ask. I'm here to guide you every step of the way.

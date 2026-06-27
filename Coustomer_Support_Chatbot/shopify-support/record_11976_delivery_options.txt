@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya ship toFinland
-
-Answer: Certainly! We offer shipping to {{Delivery Country}} as part of our international delivery options. Whether you're in Helsinki, Tampere, or any other city in {{Delivery Country}}, we've got you covered. Simply select {{Delivery Country}} as your shipping destination during the checkout process, and we'll ensure a smooth delivery experience right to your doorstep. If you have any specific questions or concerns about shipping to {{Delivery Country}}, please feel free to let me know. I'm here to assist you every step of the way!

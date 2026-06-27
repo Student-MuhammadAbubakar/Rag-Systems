@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: the payment failed, I want to notify of issues
-
-Answer: I understand your frustration and concern regarding the failed payment. I'm here to help you notify us about the issues you encountered. Your feedback is essential in improving our payment system and ensuring a smooth experience for all our users. Please provide specific details about the payment failure, such as any error messages or error codes you received. Additionally, if possible, let us know the payment method, amount, and the time of the transaction. Rest assured, we will investigate the issue promptly and work towards resolving the problem. Thank you for bringing this to our attention and giving us the opportunity to address the payment issues effectively.

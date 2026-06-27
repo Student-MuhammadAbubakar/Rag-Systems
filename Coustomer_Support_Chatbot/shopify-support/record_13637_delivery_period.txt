@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: what do i need to do to chcek when will my article arrive
-
-Answer: We appreciate your anticipation in tracking the estimated arrival time of your article. To provide you with the most accurate information, may I kindly ask for the {{Order Number}} or {{Tracking Number}}? With these details, we can promptly retrieve the status of your shipment and let you know the expected delivery date. Thank you for your cooperation and patience.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where do i open a freemium account
-
-Answer: I appreciate your interest in opening a {{Account Category}} account with us! To begin the process, you can visit our website at {{Website URL}}. On the homepage, you will find a "Sign Up" or "Create Account" button. Click on that button to get started with the account creation process. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our customer support team. We are available {{Customer Support Hours}} and can be reached at {{Customer Support Phone Number}} or through the Live Chat on our website. We're here to assist you every step of the way in opening your {{Account Category}} account with us.

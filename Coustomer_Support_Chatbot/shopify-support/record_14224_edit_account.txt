@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: correct data on {{Account Category}} account
-
-Answer: How impressive it is to witness your dedication to ensuring accurate information on your {{Account Category}} account. Your attention to detail reflects your commitment to optimizing your experience with our services. To correct the data on your account, we suggest navigating to your account settings within the {{Online Company Portal Info}}. You can easily update your personal details, preferences, or any other relevant information from there. If you encounter any challenges along the way, our dedicated customer support team is always available to provide step-by-step guidance. Together, we can ensure your account is up-to-date, providing you with a seamless and tailored experience. Let us know if there's anything specific you need assistance with during this process.

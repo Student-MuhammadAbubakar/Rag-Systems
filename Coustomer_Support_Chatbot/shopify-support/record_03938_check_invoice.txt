@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: chck bill from {{Person Name}}
-
-Answer: I genuinely appreciate your request to check the bill from {{Salutation}} {{Client Last Name}}. I understand the importance of finding this information for you. To proceed further, could you please provide me with any additional details such as the date range or any specific items or services mentioned in the bill? With these details, I will be able to assist you more efficiently and find the bill you are looking for. Rest assured, I am here to help you every step of the way.

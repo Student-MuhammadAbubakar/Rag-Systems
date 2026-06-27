@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new {{Account Category}} account
-
-Answer: Thank you for expressing your interest in creating a new {{Account Category}} account! Our {{Account Category}} account option offers a great opportunity to experience the basic features of our platform at no cost. I'm here to assist you with the account creation process and provide any information you may need. To get started, could you please provide me with your full name, email address, and a preferred username? Rest assured that your privacy and security are our utmost priority, and your information will be handled with utmost care. Let's embark on this exciting journey together!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: remove platinum accoint
-
-Answer: Thank you for contacting us regarding the removal of your {{Account Category}} account. I understand that you no longer wish to continue with this account and I'm here to assist you. To proceed with the removal, I will need some specific information from you. Could you please provide me with your account username or any other identification details associated with your {{Account Category}} account? This will enable me to locate your account and initiate the removal process for you. Once I have the necessary information, I will ensure that your account is removed as per your request. Thank you for your cooperation in this matter, and please let me know if there's anything else I can assist you with.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: i can no longer pay for order {{Order Number}}
-
-Answer: I can see that you're facing difficulties with making a payment for your order with the number {{Order Number}}. We apologize for any inconvenience this may have caused. To assist you further, I recommend reaching out to our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to provide you with the necessary guidance and support to resolve this payment issue. Rest assured that we are committed to ensuring your satisfaction and will do everything we can to assist you.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i paid {{Currency Symbol}}{{Refund Amount}} for an article i try to obain a reimbursement
-
-Answer: I understand the frustration and urgency of your situation. It's never easy to experience dissatisfaction with a purchased item, especially when it involves a significant amount like ${{Refund Amount}}. I'm here to assist you with obtaining a reimbursement. To expedite the process, could you please provide me with some additional details about your purchase? Specifically, I would need information such as the order number, the date of purchase, and any relevant documentation or proof of the issue you encountered with the article. This will help me assess the situation thoroughly and ensure a speedy resolution for you. Rest assured, I will do my utmost to provide you with the guidance and support you need in this situation.

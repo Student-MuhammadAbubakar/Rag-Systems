@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: question about changing purchaes {{Order Number}}
-
-Answer: Glad you contacted with your question about changing purchases. We value your concerns and aim to provide the assistance you need. To better understand your query, could you please provide further details on the specific changes you would like to make to purchase number {{Order Number}}? This will allow us to provide you with accurate and tailored guidance. We are committed to ensuring your satisfaction and are here to help in any way we can.

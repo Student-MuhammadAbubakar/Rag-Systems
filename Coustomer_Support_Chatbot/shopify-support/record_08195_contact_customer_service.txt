@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i have got to contact customer support how can i do it
-
-Answer: We're here for you! I'm aware that you have a need to contact our customer support team. We have multiple channels available for your convenience. You can reach our customer support through our website chat, by emailing us at support@example.com, or by calling our dedicated support line at {{Customer Support Phone Number}}. Don't hesitate to reach out if you have any further questions or concerns. We're here to help!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: get money back
-
-Answer: I've taken note that you're seeking assistance in getting your money back, and I'm here to provide you with the necessary steps to ensure a successful refund process. To initiate the refund, you can start by reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and help you with any additional steps required, such as providing the necessary documentation or filling out a refund request form. Rest assured that we value your satisfaction and will endeavor to resolve this matter in a timely and efficient manner.

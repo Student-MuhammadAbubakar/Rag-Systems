@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a restitution of {{Refund Amount}} dollras
-
-Answer: We understand that you are patiently waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we prioritize resolving your concerns promptly and providing updates regarding your refund. Let me check the current status of your request to ensure that everything is on track. While I gather the necessary information, may I ask if you have received any communication from our team regarding your reimbursement? Your feedback and experiences are valuable to us, and we want to ensure your satisfaction throughout this process. Thank you for your understanding and cooperation.

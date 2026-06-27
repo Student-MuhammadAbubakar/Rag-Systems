@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: talking to customer support
-
-Answer: Thank you for reaching out! I'm here to guide you on how to reach our customer support team. To connect with them, you can either call our toll-free helpline at {{Customer Support Phone Number}} or visit our website and initiate a live chat session with one of our representatives. If you prefer email communication, you can send your inquiry to {{Customer Support Email}}. Our dedicated support team is available during our customer service hours from {{Customer Support Hours}}. They will be more than happy to assist you with any questions or concerns you may have about our products or services. We are committed to providing you with the best possible assistance. Let me know if there's anything else I can help you with!

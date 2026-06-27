@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: give me information about the removal of a {{Account Type}} account
-
-Answer: Grateful you reached out to us for information on removing your {{Account Type}} account. We understand that you may have different reasons for wanting to delete your account, and we are here to assist you with the process. Deleting a {{Account Type}} account typically involves a few steps to ensure the security of your personal information. We encourage you to reach out to our customer support team directly, and they will guide you through the necessary steps to delete your {{Account Type}} account. They are available [Customer Support Hours] at [Customer Support Phone Number], or you can visit our website [Company Website URL] to access our Live Chat feature for immediate assistance.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know what to do to locate invoice #00108
-
-Answer: I'm on the same wavelength, your uncertainty about how to locate the details of your invoice with the number #{{Invoice Number}}. It can be frustrating when you're not sure where to look. Let me guide you through the process step by step so that we can find the information you need. First, can you please provide me with some additional information? Specifically, do you have any idea which department or team was responsible for generating this invoice? Any details you can provide will help us narrow down the search and locate the invoice more effectively. Thank you for reaching out, and I'm here to assist you further.

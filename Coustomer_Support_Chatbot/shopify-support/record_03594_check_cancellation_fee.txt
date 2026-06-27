@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: I'm trying to se the withdrawal fees
-
-Answer: Sure, to check the withdrawal fees, please login to your account and navigate to the "Fee Schedule" section. It provides a detailed breakdown of all applicable fees, including the withdrawal charges.

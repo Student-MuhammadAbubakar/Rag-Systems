@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want help to see the fucking ETA of the order {{Order Number}}
-
-Answer: We're listening! I'm keyed into the fact that you're looking for assistance with accessing the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. I apologize for any inconvenience you may have experienced. To provide you with accurate information, could you please confirm the order number without the explicit language? Once I have the correct order number, I will be able to guide you on how to check the ETA. Feel free to ask any other questions or concerns you may have. My goal is to ensure a seamless experience for you!

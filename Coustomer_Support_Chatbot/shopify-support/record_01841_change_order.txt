@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I missed some products in order {{Order Number}}
-
-Answer: We appreciate your inquiry to us regarding missing products in order number {{Order Number}}. We apologize for any inconvenience caused. To rectify this issue, please provide us with the details of the products that were not included in your order. Our team will promptly review the information and take the necessary actions to ensure that the missing products are included in your order. Your satisfaction is our priority, and we appreciate your patience and cooperation in resolving this matter.

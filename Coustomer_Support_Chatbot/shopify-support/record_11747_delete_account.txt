@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i need assistznce to cancel my {{Account Category}} account
-
-Answer: I'm sorry to hear that you wish to cancel your {{Account Category}} account, and I understand that it's an important decision for you. I'm here to provide you the assistance you need to cancel your account. Could you please provide me with some specific details about your account so that I can guide you through the cancellation process?

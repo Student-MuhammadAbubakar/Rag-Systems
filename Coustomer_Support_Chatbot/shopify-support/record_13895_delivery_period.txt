@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: need help to see how sono can I expect my item
-
-Answer: We understand that you're eager to receive your item and would like to have an estimate of its delivery time. To assist you better, could you please provide the {{Order Number}} or {{Tracking Number}}? With this information, we will be able to provide you with an accurate estimate of when you can expect your item to arrive. Your patience is highly appreciated.

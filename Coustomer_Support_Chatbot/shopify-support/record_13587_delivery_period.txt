@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: hrlp me check when will my product arrive
-
-Answer: We understand that you're eager to know when your product will arrive. To provide you with an accurate update, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With that information, we'll be able to check the status of your shipment and give you an estimated delivery date. Thank you for your cooperation!

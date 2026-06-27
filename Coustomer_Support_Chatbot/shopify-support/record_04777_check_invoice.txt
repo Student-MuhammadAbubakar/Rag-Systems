@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check invoices from last purchase
-
-Answer: I realized that you want to check the invoices from your last purchase. To assist you further, could you please provide me with the order number or any other relevant information related to the purchase? This will help me locate the invoices more efficiently and provide you with the necessary details.

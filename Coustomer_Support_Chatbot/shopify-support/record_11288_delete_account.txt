@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I have to close the {{Account Category}} account
-
-Answer: Appreciate your message to us regarding the closure of your {{Account Category}} account. I understand that circumstances may change, and it's important to have control over your account status. To assist you with this process, I recommend visiting the account settings page on our platform. From there, you should be able to find the option to close your {{Account Category}} account. If you encounter any difficulties or have any further questions during this process, please don't hesitate to reach out for additional support. We are here to ensure that your account closure goes smoothly and that you are satisfied with our service.

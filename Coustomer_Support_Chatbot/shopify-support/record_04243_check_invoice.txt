@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: see bills from {{Person Name}}
-
-Answer: I see your need to locate your bills from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To gain access to the bills from {{Person Name}}, I recommend checking your account dashboard or the billing section of our website. If you're facing any difficulties, please provide me with your account details, and I'll be more than happy to guide you through the process step by step. Rest assured, I'm here to ensure you have a seamless experience and can easily find the information you're looking for.

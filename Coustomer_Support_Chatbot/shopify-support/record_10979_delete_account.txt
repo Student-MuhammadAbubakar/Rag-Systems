@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: could you help me cancel a gold account?
-
-Answer: Thank you for contacting to us for assistance with canceling your {{Account Type}} account. I understand that you no longer wish to use this account. Rest assured, I'm here to guide you through the cancellation process and ensure a smooth experience. To proceed with canceling your {{Account Type}} account, please provide me with your account information such as your username or registered email address. With this information in hand, I will be able to assist you further in closing your account.

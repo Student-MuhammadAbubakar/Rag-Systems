@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}} has it been processed
-
-Answer: Thank you for bringing up your request for a refund of {{Currency Symbol}}{{Refund Amount}}. I completely understand that you're eager to know whether the refund has been processed. Let me quickly check the status of your refund for you. Please bear with me for a moment while I gather the necessary information. I appreciate your patience while I assist you with this.

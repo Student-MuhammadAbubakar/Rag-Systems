@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I see the anticipation of receiving a refund of {{Currency Symbol}}{{Refund Amount}}. It can be frustrating to wait for a significant amount like that. Rest assured, I am here to assist you in tracking the status of your refund. Let me quickly check the system and provide you with the most up-to-date information. Thank you for your patience while I look into this for you.

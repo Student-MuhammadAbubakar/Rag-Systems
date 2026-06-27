@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel gold account
-
-Answer: I've got that you've made the decision to cancel your {{Account Type}} account, and I'm here to assist you with the process. I apologize for any inconvenience this may cause you, and I want to ensure that we address your request promptly. To cancel your {{Account Type}} account, please provide me with the necessary details such as your account number or any other information that can help us locate your account accurately. Once we receive the required information, we will proceed with the cancellation and provide you with the necessary confirmation. Your satisfaction is our top priority, and we are committed to making this process as seamless as possible for you.

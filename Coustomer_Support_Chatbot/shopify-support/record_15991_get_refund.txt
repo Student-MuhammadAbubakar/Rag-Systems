@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: where to receive a restitution of money?
-
-Answer: I'm picking up what you're putting down, your concern about where to receive a restitution of your money. To initiate the process, I recommend contacting our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the appropriate information to proceed with your request. Rest assured, we are committed to ensuring a smooth and hassle-free experience for you.

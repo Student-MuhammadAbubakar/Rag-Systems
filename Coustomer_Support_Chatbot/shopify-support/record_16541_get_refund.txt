@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: when am I obtaining a refund?
-
-Answer: I'm following your eagerness to know when you will receive your refund. Refunds are typically processed within {{Refund Processing Time}}. However, please note that the exact time frame may depend on various factors, such as the payment method used and the specific policies of the company from where the purchase was made. To get a more accurate estimate and stay updated on the status of your refund, I recommend reaching out to our customer support team. They will be able to provide you with the most up-to-date information and assist you further. Rest assured, we are committed to ensuring a smooth refund process for you.

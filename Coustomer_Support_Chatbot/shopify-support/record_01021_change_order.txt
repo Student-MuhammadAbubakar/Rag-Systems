@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have to switch some bloody products of order {{Order Number}}
-
-Answer: Thank you for bringing this to our attention. I understand that you need to switch some products in your order with the number {{Order Number}}. We apologize for any inconvenience caused. To ensure we assist you accurately, could you please provide the details of the specific products that you would like to switch? We are here to help make the necessary adjustments and ensure your satisfaction.

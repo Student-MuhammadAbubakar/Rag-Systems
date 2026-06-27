@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Refund Amount}} dollafs
-
-Answer: First and foremost, I want to acknowledge the significance of the ${{Refund Amount}} restitution to you. We understand that any amount, no matter how small, can be important and make a difference. Rest assured, we are here to assist you in promptly resolving any concerns you may have about your refund. To ensure we provide you with accurate and up-to-date information, please allow me a moment to check the current status of your refund. Your patience is truly appreciated as we work together towards a satisfactory resolution.

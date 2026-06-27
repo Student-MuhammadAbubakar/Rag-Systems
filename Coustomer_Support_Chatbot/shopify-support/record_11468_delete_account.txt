@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the cancellation of my pro account
-
-Answer: We're here for you to us regarding the cancellation of your {{Account Type}} account. I understand that you're looking for information about the cancellation process, and I'm here to assist you. To cancel your {{Account Type}} account, you can navigate to the account settings on our platform and select the cancellation option. Alternatively, you can reach out to our customer support team, and they will guide you through the cancellation process step by step. Please let me know if there's any additional information or specific details you need regarding the cancellation of your {{Account Type}} account.

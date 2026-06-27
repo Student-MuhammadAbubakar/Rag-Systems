@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place a damn order from {{Delivery Country}}
-
-Answer: Sure! We offer international shipping to various countries, including {{Delivery Country}}. You can place an order from {{Delivery Country}} and have it delivered right to your doorstep. We have a range of delivery options available, including standard shipping, expedited shipping, and even overnight shipping for urgent needs. Rest assured, we'll make sure your order is handled with care and arrives safely. If you have any specific concerns or questions about placing your order from {{Delivery Country}}, please let me know, and I'll be more than happy to assist you further.

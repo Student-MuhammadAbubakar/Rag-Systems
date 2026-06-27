@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: check status of refund
-
-Answer: I see your need to check the status of your refund. It's important to have clarity and peace of mind regarding your reimbursement. To assist you effectively, could you please provide me with the details of your refund, such as the refund request ID or the date of your refund submission? This information will help me track down the status of your refund accurately and provide you with the most up-to-date information.

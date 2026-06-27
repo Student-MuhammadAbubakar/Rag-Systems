@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know how to take a quick look at bill #85632
-
-Answer: Glad you got in touch to us for assistance in quickly checking the bill with the number #{{Invoice Number}}. I understand that it can be challenging to locate specific bills, especially when you need to access them promptly. Allow me to guide you through the process step by step to ensure you can take that quick look at your bill without any hassle. First, could you please provide me with some additional information? Specifically, the name of the client associated with the bill and any relevant dates or details that might help narrow down the search. With these essential pieces of information, we can expedite the process and provide you with the necessary assistance. Rest assured, I'm here to make sure you have a smooth and efficient experience. Let's work together to find that bill quickly!

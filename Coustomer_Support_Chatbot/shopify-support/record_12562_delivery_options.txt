@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place an order from {{Delivery City}}?
-
-Answer: I'll get right on it! We are delighted to inform you that you can indeed place an order from our online store if you're located in {{Delivery City}}. Our delivery options cater to customers from various locations, including {{Delivery City}}. So go ahead and explore our wide range of products, add them to your cart, and enjoy the convenience of having them delivered right to your doorstep in {{Delivery City}}. If you have any further questions or need assistance with your order, feel free to reach out. We're here to ensure your shopping experience is smooth and enjoyable!

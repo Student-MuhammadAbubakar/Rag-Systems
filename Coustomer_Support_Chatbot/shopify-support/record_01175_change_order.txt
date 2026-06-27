@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me to change several products of purchase {{Order Number}}
-
-Answer: I can relate to the understanding that you need assistance with changing several products in your purchase with number {{Order Number}}. Thank you for reaching out to us for support. To assist you better, could you please provide me with the specific details of the products you would like to change? We want to make sure we fulfill your request accurately and efficiently. Your satisfaction is our priority, and we are here to help you with any modifications you require.

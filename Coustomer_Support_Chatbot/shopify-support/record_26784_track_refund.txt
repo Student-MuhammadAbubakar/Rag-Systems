@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a rebateof {{Currency Symbol}}{{Refund Amount}}
-
-Answer: We understand that you have been patiently waiting for your rebate of {{Currency Symbol}}{{Refund Amount}}. Our team is working diligently to process your request and ensure that everything is on track. To provide you with an update on the status of your rebate, please allow me a moment to check the system. Thank you for your continued patience and understanding.

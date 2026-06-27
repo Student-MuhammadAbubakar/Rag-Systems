@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I need help contacting a human agent
-
-Answer: We appreciate your message! It's clear to me that you're seeking assistance with contacting a human agent. Rest assured, I'm here to guide you through the process. To connect with a human agent, I recommend reaching out to our customer support helpline at {{Customer Support Phone Number}}. Our dedicated team of representatives is available to provide personalized assistance and address any concerns you may have. Additionally, you can also try visiting our website at {{Website URL}} and accessing the live chat feature to communicate with a human agent. Please let me know if you require any further guidance or have any other questions. I'm here to help!

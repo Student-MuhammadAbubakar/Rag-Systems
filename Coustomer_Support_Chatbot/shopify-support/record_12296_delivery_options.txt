@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: delieries to {{Delivery City}}
-
-Answer: Fantastic! I'm pleased to inform you that we offer deliveries to the magnificent city of {{Delivery City}}. We have a range of shipping options available to ensure your items arrive at your doorstep in a timely manner. From standard shipping to expedited options, we have you covered. If you have any specific questions about our delivery methods or if there's anything else I can assist you with, please don't hesitate to let me know. Your satisfaction is our top priority!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have padi {{Currency Symbol}}{{Refund Amount}} for an order i need to get a reimbursement
-
-Answer: I've been informed that you're seeking a reimbursement for the order you placed and paid ${{Refund Amount}} for. It's important to me that you receive the assistance you need in resolving this matter. To better assist you, could you please provide some additional details about your order? Specifically, information such as the order number and the reason for your request would be helpful. With this information, I can guide you through the process of obtaining a reimbursement, ensuring a smooth and satisfactory resolution.

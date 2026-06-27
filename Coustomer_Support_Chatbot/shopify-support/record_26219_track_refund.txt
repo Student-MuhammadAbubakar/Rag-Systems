@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a refund of {{Refund Amount}} dollrs
-
-Answer: I'm fully aware of the importance of receiving your refund of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are working diligently to process your refund as quickly as possible. To provide you with an update, let me check the current status of your refund. Please bear with me for a moment while I gather the necessary information. Thank you for your patience and for choosing our company.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am calling to check how long the shipment takes
-
-Answer: We understand your eagerness to track the progress of your shipment and obtain an estimated delivery time. To provide you with the most accurate information, may I please have your {{Tracking Number}} or {{Order Number}}? With these details, I will be able to assist you further and provide a precise estimate for when your shipment will arrive. Your patience is greatly appreciated!

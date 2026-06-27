@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can ya help me ccall customer support
-
-Answer: Happy to hear from you! I truly understand that you are in need of assistance in making a call to our customer support team. Rest assured, I'm here to guide you through the process. To contact our customer support, please dial our customer support phone number at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to address any questions or concerns you may have. If you prefer an alternative method of communication, you can also reach out to us through the Live Chat service on our website at {{Website URL}}. Please don't hesitate to let me know if there's anything else I can assist you with.

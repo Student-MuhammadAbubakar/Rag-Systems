@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me to call customer support
-
-Answer: I hear you! I'm following you that you need assistance in reaching our customer support team through a call. To connect with our dedicated representatives, please dial {{Customer Support Phone Number}} during our customer support hours, which are {{Customer Support Hours}}. They will be more than happy to assist you with your inquiries or concerns. If you require any further help, please don't hesitate to let me know.

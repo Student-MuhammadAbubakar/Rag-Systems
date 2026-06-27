@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i have a questio about creating gold accounts
-
-Answer: That's great! I can assist you with any questions you have about creating {{Account Type}} accounts. What would you like to know? Feel free to ask and I'll provide you with all the information you need to make an informed decision.

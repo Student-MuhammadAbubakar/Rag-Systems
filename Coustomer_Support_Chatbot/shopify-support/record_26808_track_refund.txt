@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a compensation of {{Refund Amount}} dollars
-
-Answer: Thank you for bringing up your compensation of ${{Refund Amount}} inquiry. We understand how important it is for you to receive your refund. Allow me to check the status of your compensation and provide you with an update. While I gather the information, may I ask if you have submitted all the necessary documents and details for your compensation request? Your cooperation will greatly assist us in expediting the process and ensuring your satisfaction.

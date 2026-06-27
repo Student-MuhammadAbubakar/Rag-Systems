@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need assistance to remove my standard account
-
-Answer: We've received your message to us regarding the removal of your {{Account Type}} account. I understand that you would like assistance with this process, and I'm here to help. To ensure a smooth and efficient account removal, please provide me with some additional details such as your account username or any specific concerns you may have. Together, we will navigate through the steps required to remove your account and address any other questions you may have along the way.

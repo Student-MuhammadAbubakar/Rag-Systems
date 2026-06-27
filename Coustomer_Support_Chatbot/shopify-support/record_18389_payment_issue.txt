@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: my card was declined, where do I report a payment error?
-
-Answer: I understand the frustration that comes with a declined card, and I'm here to assist you in reporting the payment error. To ensure that your concern is properly addressed, I recommend reaching out to our dedicated customer support team. They have the expertise to handle such issues and will guide you through the necessary steps to report the payment error. You can contact them at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. By reporting the payment error, we can investigate the issue and work towards a resolution promptly. Thank you for bringing this to our attention, and we appreciate your cooperation in helping us improve our services.

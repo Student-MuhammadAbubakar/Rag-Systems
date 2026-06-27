@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: where can i check the bloody eta of order {{Order Number}}
-
-Answer: For sure! I'm here to assist you with finding the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To check the ETA, you can visit the '{{Order Number}}' section on our website or log in to your account and navigate to the '{{Online Order Interaction}}' page. There, you will find all the details you need, including the ETA of your order. If you have any further questions or need additional assistance, please feel free to ask. I'm here to help you every step of the way!

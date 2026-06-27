@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: wanna check bill #37777
-
-Answer: Positively! I understand that you would like to check the details of bill #{{Invoice Number}}. Let me assist you with that. To access the information related to your bill, you can visit our website and log in to your account. Once logged in, navigate to the Billing section or the Invoices tab, where you should be able to find the specific details of your bill with the number #{{Invoice Number}}. If you encounter any difficulties or have any other questions, feel free to let me know, and I'll be glad to help you further.

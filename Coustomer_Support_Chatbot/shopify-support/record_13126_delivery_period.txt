@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how to check how soon can i expect the item
-
-Answer: To determine how soon you can expect your item to arrive, you can track your order using the {{Order Tracking Method}}. Simply enter your {{Order Number}} or {{Tracking Number}} on our website or through our mobile app, and you will be able to see the estimated delivery date. If you have any difficulties or need further assistance, feel free to reach out to our customer support team. We're here to help!

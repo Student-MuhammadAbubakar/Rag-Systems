@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this purchase, how can I get a rebate?
-
-Answer: I'm attuned to the idea that you're seeking assistance in obtaining a rebate for the ${{Refund Amount}} you paid for your purchase. I'm here to help guide you through the process. To get started, could you kindly provide some additional details about your purchase, such as the order number or any relevant documentation? This information will allow me to provide you with the most accurate and personalized guidance on how to proceed with requesting a rebate. Rest assured, I'm committed to ensuring that you receive the support you need to pursue the rebate and resolve this matter satisfactorily.

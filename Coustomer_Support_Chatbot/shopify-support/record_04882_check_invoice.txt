@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: what do I need to do to check my bill from {{Person Name}}?
-
-Answer: I get it your need to check your bill from {{Salutation}} {{Client Last Name}}. To access your bill, you can log in to your account on our website or app. Once logged in, navigate to the "Billing" or "Account" section, where you should be able to view and download your bill. If you're having trouble locating it, please feel free to provide me with a specific date range or any additional details, and I'll be more than happy to assist you further.

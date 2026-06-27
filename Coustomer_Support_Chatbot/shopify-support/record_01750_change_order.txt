@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: delete some items from order {{Order Number}}
-
-Answer: Thank you for providing order number {{Order Number}} and your request to delete some items from it. I completely understand that you may want to make adjustments to your order. To assist you promptly, could you please let me know the specific items you would like to remove? Your satisfaction is our priority, and we are here to ensure a seamless and personalized experience for you.

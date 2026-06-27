@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i xepect a refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm fully aware of the importance of your anticipated refund of {{Currency Symbol}}{{Refund Amount}}. We strive to provide timely updates and resolutions for our valued customers. Please allow me a moment to check the current status of your refund. While I investigate, can you kindly provide me with any relevant details or reference numbers related to your refund? This will enable me to expedite the process and ensure a seamless resolution. Thank you for your cooperation and patience.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: where to ask for a rebate of my money
-
-Answer: I've picked up that you're looking for information on where to ask for a rebate of your money, and I'm here to guide you through the process. To initiate the rebate request, I recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will provide you with detailed instructions on how to proceed with your rebate request and assist you in getting the compensation you deserve. Rest assured, I'll be with you every step of the way to ensure a smooth and satisfactory resolution.

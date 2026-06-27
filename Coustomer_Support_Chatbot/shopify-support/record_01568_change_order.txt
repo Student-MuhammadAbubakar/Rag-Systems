@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can i delete some products from order {{Order Number}}
-
-Answer: We understand that you're seeking assistance with deleting some products from order number {{Order Number}}. We're here to help resolve this for you. Kindly provide us with the specific details of the products you would like to be removed so that we can promptly assist you in making the necessary adjustments. Your satisfaction is our top priority, and we appreciate your patience as we work towards resolving this matter for you.

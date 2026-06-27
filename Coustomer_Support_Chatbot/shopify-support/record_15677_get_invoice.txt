@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get inviice from {{Person Name}}
-
-Answer: I understand your need to access the invoice from {{Salutation}} {{Client Last Name}}. Give me just a moment to retrieve and provide you with the requested invoice. I appreciate your patience!

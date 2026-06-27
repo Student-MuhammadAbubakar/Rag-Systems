@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: need to contact customer service how do i do it
-
-Answer: Your reach-out is appreciated! I'm sensing that you need assistance with contacting our customer service. To connect with our dedicated team, you can reach out to us through our toll-free phone number at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Please feel free to share more details about your issue, and I'll be happy to guide you further.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: update info on {{Account Type}} account
-
-Answer: You're embarking on an exciting journey of updating the information on your {{Account Type}} account.I'm here to provide you with the necessary guidance and support throughout this process. To ensure a seamless experience, I recommend logging into your account on our secure portal where you can easily modify your account details. If you encounter any challenges or have any questions along the way, our dedicated customer support team is just a click away. Let's work together to enhance your {{Account Type}} account with the updated information you desire!

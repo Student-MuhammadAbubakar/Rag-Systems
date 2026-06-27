@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: tell me more about opening gold accounts
-
-Answer: Thank you for your interest in opening a {{Account Type}} account with us! {{Account Type}} accounts offer a range of benefits tailored to enhance your banking experience. With a {{Account Type}} account, you'll enjoy premium features such as high transaction limits, priority customer support, exclusive discounts, and personalized financial advice. Our team of experts is here to guide you through the account opening process and answer any questions you may have. Rest assured that your security and privacy are of utmost importance to us. Are there any specific questions or concerns you would like me to address regarding opening a {{Account Type}} account?

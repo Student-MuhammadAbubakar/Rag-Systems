@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I am calling to download my invoices from {{Person Name}}
-
-Answer: I'll make it happen! I completely understand your request to download your invoices from {{Person Name}}. Allow me to guide you through the process step by step. First, please log in to your account on our website. Once logged in, navigate to the "Invoices" section, where you'll find a list of all your invoices. From there, you can select the specific invoices you'd like to download. If you encounter any issues or have further questions during the process, feel free to let me know. I'm here to ensure a seamless experience for you.

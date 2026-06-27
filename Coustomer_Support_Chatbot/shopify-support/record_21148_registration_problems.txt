@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: registration_problems
-
-Question: where to notify of an issue with a registration
-
-Answer: Thanks for dropping us a line to us about where to notify of an issue with registration. We value your feedback and concerns. To report any problems you encountered during the registration process, we encourage you to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team is well-equipped to assist you and ensure your issue is addressed promptly. Rest assured, we are committed to providing you with the best possible support and resolving any registration issues you may be facing.

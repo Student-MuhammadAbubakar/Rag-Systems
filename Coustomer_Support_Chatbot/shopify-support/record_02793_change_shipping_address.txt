@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: error modifying address
-
-Answer: I apologize for the inconvenience caused by the error in modifying your address. Please provide us with the correct address, and we will make sure to update it for you.

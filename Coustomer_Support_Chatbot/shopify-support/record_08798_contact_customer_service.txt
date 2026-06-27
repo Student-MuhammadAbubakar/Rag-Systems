@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to speak to customer assistance
-
-Answer: Thank you for reaching out! I completely understand that you would like to speak to our customer assistance team. Our team is available during {{Customer Support Hours}} to assist you. You can reach out to us at {{Customer Support Phone Number}} or connect with us through the Live Chat feature on our website at {{Website URL}}. We are here to provide you with the help and support you need. How else can I assist you today?

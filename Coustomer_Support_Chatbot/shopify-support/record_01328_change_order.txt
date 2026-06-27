@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: is it possible to swap some items of purchase {{Order Number}}
-
-Answer: Thanks for dropping us a line to us regarding the possibility of swapping some items in purchase number {{Order Number}}. We understand the importance of having your order tailored to your needs. Our team is here to assist you with your request. Could you please provide us with more details about the specific items you would like to swap? We will do our best to accommodate your request and ensure your satisfaction.

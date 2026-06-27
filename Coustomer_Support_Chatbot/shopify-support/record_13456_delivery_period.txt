@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where can i check how soon can i expect my item
-
-Answer: We genuinely understand your curiosity to know the estimated arrival time of your item. To provide you with accurate information, we kindly request you to share the {{Tracking Number}} or {{Order Number}}. With these details, we will be able to guide you to the appropriate tracking platform, whether it's our website, a third-party courier service, or a dedicated tracking website. Your patience while we assist you is greatly appreciated.

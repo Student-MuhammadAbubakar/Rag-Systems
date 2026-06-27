@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how could I speak to an agent?
-
-Answer: Thanks for getting in touch! I grasp that you're looking to speak to an agent. To connect with one of our helpful agents, you can either click on the "Chat Now" button on our website or dial our customer support hotline at {{Customer Support Phone Number}}. Our agents are always ready to assist you and provide personalized support for your inquiries. Is there anything specific you would like assistance with? Let me know so I can better guide you through the process.

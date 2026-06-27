@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know how i can find my damn invoices from {{Person Name}}
-
-Answer: I appreciate your frustration in trying to locate your invoices from {{Person Name}}. Rest assured, I'm here to guide you through the process. To find your invoices, you can try accessing your account on our website and navigating to the "Billing" or "Invoices" section. Alternatively, you can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in retrieving the necessary information. Remember, we are here to help you every step of the way.

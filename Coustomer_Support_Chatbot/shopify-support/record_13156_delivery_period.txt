@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: give me information about the shippong periods
-
-Answer: We understand that you would like to learn about the shipping periods. Shipping periods typically depend on various factors such as the shipping method chosen, the destination, and any potential delays. To provide you with accurate information, could you please provide us with the specific details of your order? This can include the order number or the item you are referring to. Once we have this information, we will be able to provide you with the most up-to-date shipping periods. Thank you for your understanding and cooperation.

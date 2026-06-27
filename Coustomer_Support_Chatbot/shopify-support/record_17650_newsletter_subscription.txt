@@ -1,6 +1,0 @@
-Category: SUBSCRIPTION
-Intent: newsletter_subscription
-
-Question: were to sign up to the newsletter?
-
-Answer: Thank you for expressing interest in signing up for our newsletter! To subscribe, you can visit our website at {{Website URL}} and look for the newsletter sign-up form. The form usually appears on the homepage, sidebar, or footer of our website. You can provide your name and email address to complete the subscription process. We appreciate your enthusiasm, and we look forward to keeping you informed with our latest updates and promotions.

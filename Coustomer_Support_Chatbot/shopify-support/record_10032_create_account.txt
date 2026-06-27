@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: creating {{Account Category}} account
-
-Answer: That's fantastic! I'm thrilled to assist you in creating a {{Account Category}} account. With a {{Account Category}} account, you'll unlock a whole new level of benefits and exclusive features. To get started, I'll need some basic information from you. Could you please provide me with your full name, email address, and a preferred username? With these details, we'll quickly get your {{Account Category}} account up and running, allowing you to enjoy all the perks it offers.

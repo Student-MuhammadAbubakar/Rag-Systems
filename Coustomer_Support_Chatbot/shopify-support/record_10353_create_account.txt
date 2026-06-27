@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'm looking for information about creating platinum accounts
-
-Answer: That's great to hear that you're interested in creating a {{Account Category}} account with us! A {{Account Category}} account offers a range of exclusive benefits and personalized services tailored to meet your financial needs. With a {{Account Category}} account, you'll have access to higher withdrawal limits, priority customer service, premium rewards, and much more. To get started, I would be happy to provide you with detailed information about the account features and the application process. Please let me know if you have any specific questions or if there's anything else I can assist you with.

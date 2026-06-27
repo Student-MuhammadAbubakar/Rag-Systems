@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: download bill from {{Person Name}}
-
-Answer: I get it your request to download the bill from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process. Firstly, please log in to your account on our website. Once logged in, navigate to the "Billing" or "Invoices" section. Here, you should be able to view a list of your past bills. Look for the bill related to {{Salutation}} {{Client Last Name}} and click on the download icon or link next to it. This will initiate the download process, and you will be able to save the bill to your preferred location on your device. If you encounter any difficulties or need further assistance, please don't hesitate to let me know. I'm here to help!

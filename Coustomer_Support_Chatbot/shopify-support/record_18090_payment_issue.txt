@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i cannot make a  payment where do i report an error
-
-Answer: I understand the frustration and urgency you may be feeling when you encounter difficulties making a payment. Rest assured, I am here to assist you. To report any errors you are experiencing with your payment, please reach out to our customer support team. They will be able to guide you through the process of reporting the error and provide you with the necessary steps to resolve the issue promptly. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reporting the error, you not only help us identify and rectify the problem, but also ensure a smoother payment experience for yourself and others. Thank you for bringing this to our attention, and we appreciate your patience in allowing us to address the issue effectively.

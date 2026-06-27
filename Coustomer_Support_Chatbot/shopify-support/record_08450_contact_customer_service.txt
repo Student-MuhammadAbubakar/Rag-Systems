@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how can i talk to customer assitance
-
-Answer: Your input is valuable! I'm picking up that you'd like to know how to get in touch with our customer assistance team. Our team is available to assist you through various channels. You can reach out to us via phone at {{Customer Support Phone Number}} during our customer support hours, or you can also connect with us through the Live Chat feature on our website at {{Website URL}}. Additionally, you can send us an email at {{Customer Support Email}} and our team will get back to you as soon as possible. We are here to provide you with the support you need. How may I assist you further?

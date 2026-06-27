@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to contact customer support, can I get some help?
-
-Answer: Thank you for reaching out! I completely understand your desire to contact our customer support team and I'm here to provide the assistance you need. Our dedicated team is available to help you with any questions or concerns you may have. You can reach them during our {{Customer Support Hours}}. Whether it's through phone, email, or live chat, our team is ready to assist you in the most convenient way for you. How can I assist you further?

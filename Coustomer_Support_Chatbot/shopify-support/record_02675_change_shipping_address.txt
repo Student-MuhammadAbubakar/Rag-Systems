@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: I submitted a wrong address, edit it
-
-Answer: I apologize for any inconvenience caused by the wrong address submission. To assist you with editing the address, please provide me with the correct address details, including the street name, city, state, and postal code. Once I have the correct information, I will update the address for you.

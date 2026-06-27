@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i have got to get in touch with customer support help me
-
-Answer: Glad you contacted us! I'm clearly cognizant that you are in need of assistance and would like to connect with our customer support team. Rest assured, we are here to help. You can reach our dedicated support agents during {{Customer Support Hours}} either by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is committed to providing you with the best possible service and resolving any concerns you may have. How else may I assist you today?

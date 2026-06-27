@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery City}}?
-
-Answer: I'll do my best! We are excited to extend our shipping services to {{Delivery City}}, ensuring that you can conveniently receive our products. Whether it's the vibrant streets of Marienplatz or the historic beauty of Neuschwanstein Castle, we want to make sure that you have access to our offerings. If you have any specific product in mind or any other questions related to shipping, feel free to let me know. I'm here to assist you every step of the way!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order frim {{Delivery Country}}
-
-Answer: Oh, the wonders of technology! I'm thrilled to help you navigate the process of placing an order from {{Delivery Country}} and explore the available delivery options. Let me guide you through the steps to make your shopping experience seamless and enjoyable.

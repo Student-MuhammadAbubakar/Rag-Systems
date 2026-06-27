@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I don't know how I can speak to an agent
-
-Answer: Your input is valuable! I'm picking up that you're unsure about how to speak to an agent. Our team is here to help! To connect with an agent, you can try reaching out to our customer support hotline at {{Customer Support Phone Number}} or check our website for a live chat option. Alternatively, you can send us an email at {{Customer Support Email}} with your query, and we'll get back to you as soon as possible. We're committed to providing you with the support you need, so don't hesitate to reach out to us.

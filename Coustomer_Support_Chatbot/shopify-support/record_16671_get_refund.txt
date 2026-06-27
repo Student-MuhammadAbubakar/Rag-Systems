@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I do not know what I have to do to get a refund
-
-Answer: I understand your confusion about the process of obtaining a refund. Rest assured, I'm here to guide you through it. To initiate the refund process, you can reach out to our customer support team by calling {{Customer Support Phone Number}} or by visiting our website at {{Website URL}}. They will assist you in verifying the necessary details and initiating the refund request. Our team is highly trained and experienced in handling such requests, and they will make sure to provide you with all the assistance you need. Feel free to ask any further questions you may have, as I'm here to help throughout the entire refund process.

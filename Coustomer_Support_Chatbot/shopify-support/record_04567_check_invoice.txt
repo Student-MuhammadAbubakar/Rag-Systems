@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can I give a quick look at bill #37777?
-
-Answer: I understand your desire for a quick glimpse at the bill with the number #{{Invoice Number}}. Let me guide you on how you can access and view the details of that specific bill. To view your bill {{Invoice Number}}, please follow these steps: 1. Log in to your account. 2. Navigate to the "Billing" or "Invoices" section. 3. Look for an option to "Search" or "Filter" invoices. 4. Enter the bill number {{Invoice Number}} in the search/filter field. 5. Once you find the bill, click on it to open and review its contents. Make sure to check the due date, amount, and any other relevant information. If you encounter any difficulties during this process, please don't hesitate to ask for further assistance.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I do not know how I can buy a few of your article
-
-Answer: I appreciate your interest in purchasing a few of our articles. No worries, I'm here to guide you through the process step by step. To get started, you can visit our website and browse through the articles you're interested in. Once you find the ones you'd like to purchase, simply add them to your cart. If you have any specific questions or need assistance during the purchase, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Together, we will make sure you have a seamless and enjoyable buying experience.

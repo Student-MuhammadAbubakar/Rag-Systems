@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect an reimbursement of {{Refund Amount}} dollars
-
-Answer: I've deduced from your message that you have high expectations for the reimbursement of ${{Refund Amount}}. Rest assured, your request is important to us, and I will do my best to provide you with an update on the status of your reimbursement. Please allow me a moment to look into it for you. Thank you for your patience and understanding.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need assistance to give a quick look at my bill #37777
-
-Answer: I'll make it happen! I understand that you would like to take a quick look at the bill with the number {{Invoice Number}}. To provide you with the necessary details, could you please confirm your account information, such as your name or any other relevant information? Once I have the necessary details, I will gladly assist you with accessing and reviewing your bill.

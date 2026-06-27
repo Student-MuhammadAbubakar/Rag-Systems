@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to look for the damn bills from {{Person Name}}
-
-Answer: I fully comprehend your frustration and urgency in locating the bills associated with {{Salutation}} {{Client Last Name}}. To assist you effectively, could you please provide me with some more information? Specifically, could you share the date range or any specific keywords related to the bills you are looking for? This will allow me to guide you better and narrow down the search.

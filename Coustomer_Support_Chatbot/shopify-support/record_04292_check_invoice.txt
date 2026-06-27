@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want assistance giving a quick look at my invoice #12588
-
-Answer: I'll do my best! I understand that you need immediate assistance with your invoice #{{Invoice Number}}. Let's take a quick look together. Please provide me with a few moments while I access the necessary information. Thank you for your patience!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating  {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've got that you are seeking assistance with rebating ${{Refund Amount}}. Allow me to help you navigate this process. First, it's important to gather all the necessary documentation related to the rebate, such as receipts, proof of purchase, and any other relevant information. This will help expedite the resolution. Secondly, kindly reach out to our customer support team using the contact information provided at {{Website URL}}. They will guide you through the procedure and ensure that your request is handled promptly. Remember, your satisfaction is our utmost priority, and we're here to assist in any way we can.

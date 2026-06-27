@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: is it possible to modify purchase {{Order Number}}
-
-Answer: Happy to get your message to us with your request to modify purchase number {{Order Number}}. We understand that sometimes changes need to be made to ensure your complete satisfaction. We are more than happy to assist you with this. Could you please provide us with the specific changes you would like to make to your purchase? We will do our best to accommodate your request and make sure your order is just the way you want it. Your feedback is greatly appreciated as it helps us improve our services.

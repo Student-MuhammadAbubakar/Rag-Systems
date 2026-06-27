@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need to chek my bill #85632 how to do it
-
-Answer: I've observed that you need assistance with checking the bill with the number #{{Invoice Number}}. Let me guide you through the process. To locate your bill, you can visit our website and log into your account. Once logged in, navigate to the "Billing" or "Invoices" section. You should be able to find your bill by entering the bill number #{{Invoice Number}} in the search bar or by browsing through your invoice history. If you encounter any difficulties or need further help, please don't hesitate to let me know. I'm here to provide you with the support you need.

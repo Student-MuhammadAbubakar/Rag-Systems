@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need hepl with opening a premium account
-
-Answer: Thank you for your interest in opening a {{Account Category}} account with us! It's a fantastic choice that comes with a range of benefits and exclusive features. To get started, I recommend visiting our website and navigating to the account creation page. Once you're on the page, you'll find a user-friendly interface that will guide you through the process step-by-step. If you encounter any difficulties or have any questions along the way, our dedicated customer support team is available to assist you. They can be reached through phone, email, or live chat. Don't hesitate to reach out if you need any further assistance. We're looking forward to welcoming you as a valued member of our {{Account Category}} account community!

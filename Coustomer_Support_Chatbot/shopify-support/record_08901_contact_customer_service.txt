@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me to talk with customer service
-
-Answer: Thank you for trusting us! I'm fully aware of you need assistance in talking with our customer service team. Rest assured, I am here to help you with that. To connect with our customer service, you can reach out to our dedicated team during {{Customer Support Hours}}. They are available to assist you with any questions or concerns you may have. If you need further guidance or have any other inquiries, please feel free to let me know.

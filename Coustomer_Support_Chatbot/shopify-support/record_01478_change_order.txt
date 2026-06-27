@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I cannot add some products to purchase {{Order Number}}
-
-Answer: We understand your frustration with not being able to add some products to purchase number {{Order Number}}. Rest assured, we're here to help you troubleshoot and find a solution. Can you please provide us with more details about the products you're having trouble adding? This information will assist us in identifying the issue and assisting you effectively.

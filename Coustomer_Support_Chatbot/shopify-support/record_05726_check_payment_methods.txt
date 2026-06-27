@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: i have got to see the accepted payment options
-
-Answer: Thank you for reaching out! I'm here to assist you in checking our accepted payment options. To view the list of available payment methods, you can visit our website and navigate to the "Payment Options" or "Payment Methods" section. There you will find a comprehensive list of all the payment modalities we accept, including credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. If you have any further questions or if there's anything else I can help you with, please feel free to let me know.

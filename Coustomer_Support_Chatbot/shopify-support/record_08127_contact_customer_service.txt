@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to see what hours I can reach customer support
-
-Answer: We're all ears! I'm tuned into the idea that you would like to know the operating hours when you can contact our customer support. Our dedicated team is available to assist you during the following hours: {{Customer Support Hours}}. Whether you need help, have questions, or require any kind of assistance, our customer support team is here to provide the support you need. Please don't hesitate to reach out to us within these hours, and we'll be more than happy to assist you.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: need help to check what horus I can contact customer service
-
-Answer: Thank you for reaching out! I completely understand that you need assistance in checking the hours during which you can contact our customer service. Our dedicated customer service team is available to assist you during the following hours: {{Customer Support Hours}}. If you have any other questions or concerns, please don't hesitate to let me know.

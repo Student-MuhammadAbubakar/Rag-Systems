@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I don't know how to see when my item is going to arrive
-
-Answer: We understand that you're unsure about how to track the delivery status of your item and determine its estimated arrival time. Don't worry, we're here to help! To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we'll be able to assist you in checking the status of your item and give you an estimate of its arrival time. Thank you for reaching out to us for assistance!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to change an item of purchase {{Order Number}}, help me
-
-Answer: I completely understand your need to change an item for purchase with the order number {{Order Number}}. We appreciate your proactive approach in seeking assistance. To provide you with accurate guidance, could you please let us know which item you would like to change? Our team is committed to ensuring a seamless experience for you.

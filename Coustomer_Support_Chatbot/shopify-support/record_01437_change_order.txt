@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: need help to swap a fucking article of purchase {{Order Number}}
-
-Answer: We understand that you would like assistance with swapping an article in purchase number #{{Order Number}}. We apologize for any frustration caused, and we're here to help you resolve this issue as quickly as possible. Please provide us with the details of the article you wish to swap so that we can assist you further. Your satisfaction is our top priority, and we want to ensure that your purchase meets your expectations. How can we assist you further today?

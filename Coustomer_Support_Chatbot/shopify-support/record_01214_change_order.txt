@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cannotedit purchase {{Order Number}}
-
-Answer: I've noticed that you are facing difficulties in editing purchase number {{Order Number}}. I apologize for the inconvenience caused. To assist you further, could you please specify the changes you would like to make to your purchase? With this information, I will be able to find a suitable solution for you. Your satisfaction is our top priority, and we are committed to resolving any issues you may have.

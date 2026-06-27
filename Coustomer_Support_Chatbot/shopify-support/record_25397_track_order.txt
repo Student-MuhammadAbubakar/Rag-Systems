@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: how do i see the damn status of order {{Order Number}}
-
-Answer: I appreciate your inquiry! To check the status of your order with the order number {{Order Number}}, you can simply visit our website and navigate to the "Order History" section. There, you will find all the details, including the current status of your order. Remember, I'm here to guide you every step of the way. If you have any other questions or need further assistance, please feel free to ask.

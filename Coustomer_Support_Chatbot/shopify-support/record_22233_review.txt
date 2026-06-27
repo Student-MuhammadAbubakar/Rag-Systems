@@ -1,6 +1,0 @@
-Category: FEEDBACK
-Intent: review
-
-Question: help me sending my feedback about your services
-
-Answer: Indeed! Your feedback is highly valuable to us, and we appreciate your willingness to share your thoughts. To ensure your feedback reaches the appropriate team, please send it to our dedicated email address for feedback at {{Feedback Email Address}}. Our team will be eagerly awaiting your input and will address any concerns or suggestions you may have. Thank you for taking the time to provide us with your valuable feedback!

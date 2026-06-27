@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: pudate {{Account Category}} account
-
-Answer: How inspiring it is to witness your determination to update your {{Account Category}} account!I'm here to guide you through the process and ensure a seamless and satisfactory experience. Let's dive in and make the necessary changes together! Can you please specify which details you would like to update on your {{Account Category}} account?

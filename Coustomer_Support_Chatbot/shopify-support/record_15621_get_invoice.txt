@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where to download the bill #12588?
-
-Answer: Indeed! I completely understand your need to find the location to download the bill with the number #{{Invoice Number}}. Our website has a dedicated section where you can access and download your bills easily. Just log in to your account, navigate to the "Billing" or "Invoices" section, and you should be able to locate and download the bill {{Invoice Number}} from there. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!

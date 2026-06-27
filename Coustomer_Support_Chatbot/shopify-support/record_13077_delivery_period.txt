@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can I check when my article is going to arrive?
-
-Answer: We understand your curiosity about the estimated arrival time of your article. To provide you with the most accurate information, may I please have the {{Tracking Number}} or {{Order Number}}? With that information, we can track your shipment and give you an update on its expected delivery date. Your patience is greatly appreciated as we work together to ensure you receive your article as soon as possible.

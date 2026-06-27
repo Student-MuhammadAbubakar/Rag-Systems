@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: where could I check purchase {{Order Number}} current status?
-
-Answer: We're here for you! I'm aware that you would like to check the current status of your purchase with the purchase number {{Order Number}}. To view the status, I recommend visiting the '{{Order Status}}' page on our website. This page will provide you with real-time updates on the progress of your purchase. If you have any further questions or need assistance with anything else, please feel free to ask. I'm here to help ensure you have a seamless experience!

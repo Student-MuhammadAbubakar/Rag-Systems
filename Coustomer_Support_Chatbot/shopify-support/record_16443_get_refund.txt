@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have paid {{Currency Symbol}}{{Refund Amount}} for a product where to get my money back
-
-Answer: I understand your concern about getting a refund for the ${{Refund Amount}} you paid for the product. To initiate the process, I recommend reaching out to our customer support team. They will guide you through the necessary steps and provide you with all the information you need to request a refund. Our customer support team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will assist you in resolving this issue efficiently and ensure you receive your money back as soon as possible. Thank you for bringing this to our attention, and I apologize for any inconvenience caused.

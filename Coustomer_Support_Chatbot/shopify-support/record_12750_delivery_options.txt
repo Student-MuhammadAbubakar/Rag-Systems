@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipments to {{Delivery Country}}
-
-Answer: Assuredly! We understand your interest in shipping to {{Delivery Country}}. We are pleased to inform you that we offer shipments to {{Delivery Country}} as part of our international delivery options. Whether it's for personal use or business purposes, we've got you covered. Our reliable shipping partners ensure that your package reaches its destination safely and efficiently. If you have any specific questions or require assistance with your shipment to {{Delivery Country}}, please don't hesitate to let us know. We are here to provide you with a smooth and enjoyable shipping experience, every step of the way.

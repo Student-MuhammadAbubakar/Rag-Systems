@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where can I report errors with payments?
-
-Answer: I grasp your frustration with experiencing errors in your payments. To report these errors, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}}, or you can also report the errors through the Live Chat on our website at {{Website URL}}. Our team will be more than happy to assist you in resolving these payment issues. Feel free to contact us anytime and we'll make sure to address your concerns promptly.

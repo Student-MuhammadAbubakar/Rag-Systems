@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: where can I get information about {{Account Type}} account deletions?
-
-Answer: Thank you for seeking information about {{Account Type}} account deletions. We understand that you may have questions or concerns regarding the cancellation process, and we're here to help. To obtain detailed information about {{Account Type}} account deletions, I recommend visiting our support page on our website. There you will find a dedicated section that provides step-by-step instructions and answers to frequently asked questions related to {{Account Type}} account cancellations. If you require further assistance or have any specific queries about the process, our customer support team is available 24/7 and more than happy to assist you. We value your {{Account Type}} account and want to ensure your experience with us is as seamless as possible.

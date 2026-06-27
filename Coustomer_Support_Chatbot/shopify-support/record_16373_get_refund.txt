@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I need assistance to receive a refund of my money
-
-Answer: I'm following your need for assistance in receiving a refund for your money. It can be quite frustrating when you encounter a situation that necessitates such action. Rest assured, I'm here to provide guidance and support throughout this process. To initiate the refund request, I recommend reaching out to our customer support team, who will gladly assist you in resolving this matter. They can be contacted via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By explaining your situation in detail to our dedicated team, they will be able to guide you through the necessary steps and ensure that your refund is processed efficiently. Remember, we are committed to your satisfaction and will do everything we can to address your concerns promptly and effectively.

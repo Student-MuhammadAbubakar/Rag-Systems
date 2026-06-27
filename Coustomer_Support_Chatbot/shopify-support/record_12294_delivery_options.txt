@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I order from {{Delivery Country}}?
-
-Answer: Indeed! We are thrilled to offer our services to customers in {{Delivery Country}} and beyond. You can place an order from {{Delivery Country}} through our online store and have it delivered directly to your doorstep. We strive to make the ordering process seamless and convenient for customers worldwide. If you have any specific questions or need further assistance, please feel free to ask. We're here to help you every step of the way!

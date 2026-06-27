@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need to call damn customer support, how could I do it?
-
-Answer: I see what you mean! I'm on the same page that you need to contact our customer support team. I apologize if you're feeling frustrated or upset. Our team can assist you over the phone during {{Customer Support Hours}} at {{Customer Support Phone Number}}. They will be more than happy to help you with any questions or concerns you may have. Please let me know if there's anything else I can assist you with.

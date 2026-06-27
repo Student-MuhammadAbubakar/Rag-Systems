@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where can i check how soon cn i expect my shipment
-
-Answer: We understand your eagerness to track the estimated arrival time of your shipment. To provide you with the most accurate information, may I please have your {{Tracking Number}} or {{Order Number}}? With that, I'll be able to assist you in checking the expected delivery date. Your patience is greatly appreciated.

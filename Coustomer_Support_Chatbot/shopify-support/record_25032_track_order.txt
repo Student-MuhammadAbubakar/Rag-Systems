@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I can't check the ETA of the purchase {{Order Number}}
-
-Answer: I see what you mean! I'm on the same page that you are unable to check the estimated time of arrival for your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience caused by this issue. To assist you further, I recommend contacting our customer support team directly. They will be able to access your account information and provide you with the necessary details regarding the ETA of your purchase. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, our team will do everything possible to resolve this situation for you. Please let me know if there's anything else I can assist you with.

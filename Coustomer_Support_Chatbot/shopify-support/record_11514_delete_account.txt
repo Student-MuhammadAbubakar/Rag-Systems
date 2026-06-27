@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: remove platinum account
-
-Answer: Appreciate your message to us regarding the removal of your {{Account Category}} account. I understand that you would like to take this action and I'll be happy to assist you. To proceed with the deletion of your {{Account Category}} account, please follow the steps outlined in our account cancellation process. You can find detailed instructions on our website under the account settings section. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out. Our dedicated customer support team is available to provide you with further guidance and ensure a smooth account closure experience. We appreciate your support and understanding in this matter and we're here to help you every step of the way.

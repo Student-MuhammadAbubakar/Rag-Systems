@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I have paid {{Currency Symbol}}{{Refund Amount}} for an item, help me receiving a rebate
-
-Answer: I've ascertained that you have made a payment of ${{Refund Amount}} for an item and you're seeking assistance in receiving a rebate. I'm here to help you with this matter. To proceed with your request, I'll need some additional information from you. Could you please provide me with the details of the purchase, such as the order number, the date of purchase, and any relevant receipts or documentation? This will enable me to review your case thoroughly and provide you with the necessary guidance to initiate the rebate process. Rest assured, with your cooperation, we'll work together to ensure you receive the rebate you're entitled to.

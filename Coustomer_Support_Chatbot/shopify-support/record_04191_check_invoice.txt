@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check invoice #12588
-
-Answer: I appreciate your request for assistance with checking the invoice with the number #{{Invoice Number}}. Let me quickly locate the invoice for you. Please bear with me for a moment while I retrieve the information.

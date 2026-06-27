@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: check whatr hours I can call customer support
-
-Answer: Always good to connect! I'm attuned to the fact that you would like to know the hours when you can connect with our customer support team. Our dedicated team is available during {{Customer Support Hours}}. Please feel free to reach out within these hours for any assistance or inquiries you may have. We are here to help!

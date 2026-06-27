@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want information about correcting purchase {{Order Number}}
-
-Answer: We're here for you to us with your request for information about correcting purchase number {{Order Number}}. We understand the importance of ensuring accuracy in your purchase, and we're here to assist you. To better address your concern, could you please let us know specifically what kind of correction you are looking to make? Providing additional details will help us provide you with the most accurate and tailored information.

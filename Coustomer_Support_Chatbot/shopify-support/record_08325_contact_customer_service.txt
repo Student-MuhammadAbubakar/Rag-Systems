@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: could i get in touchwith customer service
-
-Answer: I'll do my best! I understand that you would like to get in touch with our customer service team. Rest assured, we're here to assist you. Our dedicated team is available during {{Customer Support Hours}}. You can reach out to them through our toll-free number at {{Customer Support Phone Number}} or via our Live Chat on our website at {{Website URL}}. Feel free to contact us anytime, as we're here to provide you with the support you need. How may I further assist you?

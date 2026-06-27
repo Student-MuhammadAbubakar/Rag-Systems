@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a refund of {{Refund Amount}} dollrs
-
-Answer: First and foremost, I understand your anticipation for the refund of {{Currency Symbol}}{{Refund Amount}}. Your patience is truly appreciated as we work diligently to provide you with the latest updates. Allow me to quickly review the status of your refund and provide you with the information you need. While I gather the details, may I ask if you have received any email notifications or updates regarding your refund? Your insights will help us ensure a smooth resolution to this matter. Thank you for trusting us to address your concerns and for your understanding throughout this process.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want a platinum account for my son, I want to create it
-
-Answer: Thank you for choosing our {{Account Category}} account for your son! We're excited to have him as part of our exclusive membership. To create the account, I'll guide you through a simple process. Could you please provide your son's full name, date of birth, and a preferred username? Once we have these details, we'll proceed with the account creation, ensuring a smooth experience for your son. Rest assured, we prioritize privacy and security, and your son's information will be handled with the utmost care.

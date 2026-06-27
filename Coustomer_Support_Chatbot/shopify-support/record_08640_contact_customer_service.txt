@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i have got to  talk to customer assistance how to do it
-
-Answer: Thank you for reaching out! I understand your urgency to talk to our customer assistance team and your need for guidance on how to proceed. Rest assured, I'm here to help. To connect with our customer assistance team, you can reach out to them during our customer support hours at {{Customer Support Hours}}. You can also visit our website at {{Website URL}} and access our Live Chat feature for immediate assistance. If you prefer, you can also send an email to our customer support team at {{Customer Support Email}}. Please let me know if there's anything else I can assist you with.

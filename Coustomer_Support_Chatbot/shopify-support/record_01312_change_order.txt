@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I cannot remove some products from purchase {{Order Number}}
-
-Answer: Thank you for bringing this to our attention. We understand that you are experiencing difficulty in removing some products from purchase number {{Order Number}}. We apologize for the inconvenience. To resolve this issue, could you please provide us with more details about the specific products you are unable to remove? Our team is here to assist you and ensure that we find a solution that meets your needs.

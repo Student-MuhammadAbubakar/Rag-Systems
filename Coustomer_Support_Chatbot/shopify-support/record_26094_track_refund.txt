@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect an restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I understand the importance of your expected reimbursement of {{Currency Symbol}}350. Rest assured, I am here to assist you in tracking the status of your reimbursement and providing you with the necessary updates. Could you please provide me with some additional information, such as the date of your reimbursement request or any reference number associated with it? This will help me expedite the process and ensure a swift resolution. Thank you for your cooperation, and I appreciate your patience.

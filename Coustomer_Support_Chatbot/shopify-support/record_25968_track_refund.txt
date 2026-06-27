@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a reimbjrsement of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Your patience while waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}} is greatly appreciated. I understand how important this refund is to you, and I want to assure you that we are working diligently to process it as quickly as possible. In the meantime, I would like to offer you some additional information about the refund process. Typically, it takes about X business days for the funds to be processed and returned to your original payment method. However, please keep in mind that the exact timeframe may vary depending on various factors such as banking processes. Rest assured, though, that we are doing everything we can to expedite the process for you. If you have any further questions or concerns, please feel free to let me know.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: wanna modify purchase {{Order Number}}
-
-Answer: I realized you would like to make modifications to purchase number {{Order Number}}. Rest assured, we are here to assist you with that. Could you please clarify the specific changes you would like to make to your purchase? Providing us with these details will help us ensure that we accurately update your purchase according to your preferences. Your satisfaction is our top priority, so please don't hesitate to let us know how we can best assist you.

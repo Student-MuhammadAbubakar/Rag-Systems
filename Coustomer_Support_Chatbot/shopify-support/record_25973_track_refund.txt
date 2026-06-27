@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect an rebate of {{Refund Amount}} dollars
-
-Answer: I'm following your expectation for a rebate of {{Currency Symbol}}{{Money Amount}}. It's important for us to address your concerns and provide you with the necessary information. Allow me to look into the current status of your rebate and provide you with an update. Please bear with me for a moment while I gather the required details. In the meantime, may I ask if you have submitted any documentation or if you have been informed of any specific timelines for the rebate process? Your inputs will greatly assist in expediting the resolution. Thank you for your understanding and patience.

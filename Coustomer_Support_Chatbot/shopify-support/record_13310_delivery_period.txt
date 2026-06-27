@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I call to check how soon can I expect my package
-
-Answer: We appreciate your proactive approach in reaching out to us to inquire about the estimated arrival time of your package. To provide you with the most accurate information, may I kindly ask for the {{Tracking Number}} or {{Order Number}} associated with your shipment? With this valuable data, we can quickly assist you in determining when you can expect your package to arrive. Your patience and cooperation are greatly appreciated throughout this process. Is there anything else I can assist you with?

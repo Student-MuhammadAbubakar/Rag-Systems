@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how to take a quick look at the invoices from {{Person Name}}
-
-Answer: Thank you for reaching out! I completely understand your desire to quickly view the invoices associated with {{Person Name}}. To take a quick look at the invoices, you can log into your account on our website and navigate to the "Billing" section. There, you will find a list of all invoices, including those related to {{Person Name}}. If you need any further assistance or have any specific questions about the invoices, feel free to ask. I'm here to help!"

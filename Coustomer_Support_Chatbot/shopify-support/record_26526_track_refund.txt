@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Thank you for bringing up your expected restitution of {{Currency Symbol}}{{Refund Amount}}. We understand how important it is to receive the restitution promptly. Let me check the current status of your refund for you. While I gather the information, may I ask if you have provided all the necessary documentation for the restitution process? Your cooperation will help expedite the resolution. Rest assured, we are committed to ensuring your satisfaction and resolving any concerns you may have.

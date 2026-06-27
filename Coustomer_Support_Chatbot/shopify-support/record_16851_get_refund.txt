@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm attuned to the idea that you're seeking assistance with refunding a sum of ${{Refund Amount}}. I apologize for any inconvenience caused by the need for a refund. To provide you with the most accurate information and guidance, could you please provide more details about the specific situation? For example, the product or service you purchased, the reason for the refund, and any relevant purchase or order numbers. With this information, I'll be able to give you the necessary steps to initiate the refund process and ensure a smooth resolution. Thank you for your cooperation, and I'm here to support you throughout this process.

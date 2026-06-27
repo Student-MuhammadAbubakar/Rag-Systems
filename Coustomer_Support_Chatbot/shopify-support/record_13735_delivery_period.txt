@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i do not know how i can see how soon can i expect my delivry
-
-Answer: We understand that you're unsure about how to track the estimated arrival time of your delivery. Don't worry, we're here to help! To provide you with the necessary information, may I please have your {{Order Number}} or {{Tracking Number}}? With that, we'll be able to give you an accurate update on when you can expect your delivery. Thank you for your patience and cooperation in resolving this matter.

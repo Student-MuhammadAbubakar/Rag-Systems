@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: creating pro account
-
-Answer: I really appreciate your interest in creating a {{Account Type}} account with us! It's an excellent choice that offers amazing benefits. To initiate the process, I kindly request you to provide your full name, email address, and a preferred username. Once I have this essential information, I'll guide you step-by-step throughout the account creation process, ensuring a smooth experience for you. Rest assured that your security and privacy are of utmost importance to us, and your data will be handled with utmost care. Let's get started on this exciting journey together!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where can I get information about opening a {{Account Type}} account?
-
-Answer: That's a great question! To get information about opening a {{Account Type}} account, you can visit our website or reach out to our customer support team. On our website, you'll find a dedicated page with all the details about the account opening process. It will provide step-by-step instructions, eligibility criteria, and the required documents. Alternatively, you can contact our customer support team through our helpline or live chat. Our agents will be more than happy to assist you and provide you with all the necessary information you need to open a {{Account Type}} account. We strive to make the process as seamless and convenient as possible for you. So, don't hesitate to reach out and explore the possibilities of opening a {{Account Type}} account with our company!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: want assistance taking aquick look at my bill from {{Person Name}}
-
-Answer: I'm picking up what you're putting down, your desire to take a quick look at your bill from {{Salutation}} {{Client Last Name}}. Let's make this process as smooth as possible. Could you please provide me with a bit more information? Specifically, if you have any details about the date or invoice number, it would greatly help in locating your bill more efficiently. Rest assured, I'm here to guide you and ensure you have a seamless experience.

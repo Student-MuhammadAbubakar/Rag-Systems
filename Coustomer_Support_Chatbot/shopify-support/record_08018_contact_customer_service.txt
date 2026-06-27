@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: want help seeing what hours ik can call customer service
-
-Answer: We value your outreach! I'm in tune with the fact that you would like assistance in finding the operating hours to reach our customer service team. Our dedicated team is available to assist you during our customer support hours. To get in touch, you can call our customer service hotline at {{Customer Support Phone Number}} or connect with us through the Live Chat feature on our website at {{Website URL}}. Feel free to reach out if you have any further questions or concerns. We're here to help!

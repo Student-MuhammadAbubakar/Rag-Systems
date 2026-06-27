@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: find information about opening {{Account Type}} accounts
-
-Answer: That's fantastic! I'm here to provide you with all the information you need about opening {{Account Type}} accounts. Whether it's for individual or business purposes, we have options available that can suit your specific needs. Our {{Account Type}} accounts offer a range of benefits, including access to basic features and services. To get started, you can visit our website and follow the simple step-by-step instructions to open a {{Account Type}} account. If you have any specific questions or require further assistance, please don't hesitate to ask. We're here to help you every step of the way!

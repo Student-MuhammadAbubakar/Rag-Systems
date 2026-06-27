@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I missed several damn articles in order {{Order Number}}
-
-Answer: I truly understand how frustrating it can be to realize that you missed adding some items to your order, especially when it involves important articles. My goal is to help you fix this situation as quickly as possible. For us to assist you effectively, can you please provide me with the specific details of the articles you missed? This will enable us to review your order thoroughly and make the necessary adjustments.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipping to {{Delivery Country}}
-
-Answer: Absolutely! We are delighted to inform you that we offer shipping services to {{Delivery Country}}. Whether you're looking to send a package or receive an order, we've got you covered. Our reliable delivery network ensures that your items will reach you in a timely manner. If you have any specific concerns or if there's anything else we can assist you with, please don't hesitate to let us know. We're here to make your shipping experience smooth and worry-free!

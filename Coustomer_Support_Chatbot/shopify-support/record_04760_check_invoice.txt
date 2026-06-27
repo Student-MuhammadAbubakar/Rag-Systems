@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need help to find invoice #12588
-
-Answer: I'm with you, your need to locate and find the details of invoice number #{{Invoice Number}}. That particular invoice holds significant importance, and I'm here to assist you in every possible way. Could you please provide me with any additional information, such as the client's name, date range, or any other details that might be relevant? This will greatly help me narrow down the search and provide you with accurate assistance. Rest assured, I'm committed to helping you access the information you need.

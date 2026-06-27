@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i want help to talk with customer assistance
-
-Answer: Your reach-out is appreciated! I'm sensing that you need assistance in connecting with our customer assistance team. They are available during {{Customer Support Hours}}. Rest assured, I am here to help you with any questions or concerns you may have. How can I assist you further?

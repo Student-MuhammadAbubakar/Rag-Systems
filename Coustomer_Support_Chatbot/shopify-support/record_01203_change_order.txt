@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I'm trying to swap a  product of order {{Order Number}}
-
-Answer: We understand that you're attempting to swap a product from order number {{Order Number}}. We are here to assist you with this request. Could you please provide us with the details of the specific product you would like to swap? This will help us process your request accurately and efficiently.

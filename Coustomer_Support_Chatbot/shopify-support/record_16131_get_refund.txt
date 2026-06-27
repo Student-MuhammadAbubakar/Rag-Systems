@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Refund Amount}} dollars
-
-Answer: I acknowledge your request for a refund of {{Refund Amount}} dollars. I understand that this is a significant amount, and I'm here to assist you in resolving this issue. To better assist you, could you please provide more details about the transaction and the reason for the refund? This way, I can guide you through the appropriate process and ensure that your request is handled promptly and accurately. Rest assured, I'm committed to providing you with the best possible support to resolve this matter satisfactorily.

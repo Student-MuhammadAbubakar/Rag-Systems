@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I have a question about opening {{Account Category}} accounts
-
-Answer: I'm on it! I'm here to answer any questions you may have about opening {{Account Category}} accounts. Feel free to ask away, and I'll provide you with all the information you need to make an informed decision. Whether it's about the benefits, requirements, or any other aspect of our {{Account Category}} accounts, I'm here to assist you. Let me know what queries you have, and we'll get started!

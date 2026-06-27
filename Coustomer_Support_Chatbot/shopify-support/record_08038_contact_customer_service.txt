@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I ned to speak to customer service
-
-Answer: Thank you for reaching out! I completely understand that you need to speak with our customer service team. We're here to assist you and resolve any concerns you may have. You can reach our customer service department during {{Customer Support Hours}} at {{Customer Support Phone Number}}. Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. Please feel free to share any questions or issues you have, and we'll be more than happy to help you.

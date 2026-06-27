@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: I want assistance checking the early termination penalty
-
-Answer: Certainly! To check the early termination penalty, please provide me with your contract details such as the contract start date and duration. With that information, I can determine the specific penalty amount for terminating your contract early.

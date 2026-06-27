@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: ened assistance downloading the bill from {{Person Name}}
-
-Answer: I realized you need assistance with downloading the bill from {{Salutation}} {{Client Name}}. Can you please provide me with the invoice number or any other relevant details, such as the date of the bill or the account associated with it? This information will help me locate the bill and guide you through the download process. Thank you for reaching out to us, and I'm here to assist you every step of the way.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can you help me getting in touch with customer service?
-
-Answer: Thanks for getting in touch! I grasp that you need assistance in getting in touch with our customer service team. Rest assured, I am here to help you navigate through this process. To contact our customer service, you can reach them during their available hours at {{Customer Support Hours}}. They can provide you with the necessary support and guidance to address your concerns. Feel free to share any further details or questions you may have, and I'll be more than happy to assist you further.

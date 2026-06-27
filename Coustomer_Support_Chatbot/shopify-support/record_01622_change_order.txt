@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I edit purchase {{Order Number}}?
-
-Answer: Glad you got in touch to us with your request to edit purchase number {{Order Number}}. We understand how important it is for you to have control over your purchase details. To assist you with the modification, could you please provide more specific information about the changes you would like to make? This will allow us to proceed with the necessary steps to fulfill your request efficiently. We appreciate your patience and cooperation in this matter.

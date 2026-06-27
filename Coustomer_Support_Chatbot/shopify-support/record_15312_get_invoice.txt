@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I am calling to get invoice #12588
-
-Answer: I hear you loud and clear your need to retrieve invoice #{{Invoice Number}}. Allow me just a moment to access our system and find that specific invoice for you. While I'm doing that, is there anything else I can assist you with? Remember, I'm here to ensure your satisfaction.

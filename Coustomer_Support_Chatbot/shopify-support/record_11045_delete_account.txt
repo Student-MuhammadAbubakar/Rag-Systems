@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need the {{Account Category}} account, can I cancel it?
-
-Answer: Glad you got in touch to us regarding your {{Account Category}} account. I appreciate your decision-making process and understand your need to cancel it. Rest assured, we are here to assist you in this matter. To proceed with the cancellation, could you please provide me with some additional information such as your account details or any specific concerns you have? This will allow us to process your request smoothly and efficiently. Remember, we are committed to providing excellent service to all our valued customers and we will ensure that everything is resolved to your satisfaction.

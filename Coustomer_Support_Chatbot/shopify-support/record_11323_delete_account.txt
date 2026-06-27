@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i want information about the cancellation of a pro account
-
-Answer: Thank you for contacting to us for information regarding the cancellation of your {{Account Type}} account. We understand that sometimes circumstances change, and it's important to have clarity about the cancellation process. Rest assured, we're here to help guide you through the necessary steps. Can you please provide us with more specific details about your account and the cancellation inquiries you have? This will allow us to address your concerns accurately and provide you with the information you need to proceed with the cancellation smoothly.

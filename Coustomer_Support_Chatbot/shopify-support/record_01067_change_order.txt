@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant add some items to order370795561790
-
-Answer: I acknowledge that you are facing difficulties adding items to your order with the number {{Order Number}}. I apologize for any inconvenience caused. To assist you further, could you please provide me with the specific items you are trying to add? With this information, I will be able to look into the issue and find a suitable solution for you. Thank you for bringing this to our attention, and I appreciate your patience as we work towards resolving this matter.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I have to see my damn bills from {{Person Name}}
-
-Answer: I get it your urgency to access your bills from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you in the best possible way. Could you please provide me with some additional information such as the specific time frame or any relevant details that could help me locate the bills more effectively? With this information, we'll be able to retrieve your bills in no time.

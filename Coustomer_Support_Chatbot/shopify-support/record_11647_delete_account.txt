@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know how to delete my {{Account Category}} account
-
-Answer: I appreciate your concern regarding deleting your {{Account Category}} account. I understand that you are unsure about the process, and I'm here to assist you. Let me guide you through the steps to successfully delete your account. First, log into your account and navigate to the account settings or profile page. From there, you should be able to find the option to delete or close your account. If you cannot locate the option, please provide me with your account details so that I can assist you further. It's important to note that deleting your {{Account Category}} account will permanently remove all your data and information associated with it. Let me know if you have any other questions or if there's anything else I can help you with.

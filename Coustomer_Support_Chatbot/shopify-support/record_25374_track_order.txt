@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: can ya help me tracking order {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to assist you in tracking the current status of your order with the number {{Order Number}}. To provide you with accurate information, could you please confirm the platform or website through which you made the purchase? This will help me guide you through the specific steps to track your order.

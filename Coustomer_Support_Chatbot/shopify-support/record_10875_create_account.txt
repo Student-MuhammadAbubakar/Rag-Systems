@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: how do i create a pro account
-
-Answer: Thank you for expressing interest in creating a {{Account Type}} account with us! I'm here to guide you through the process step-by-step. To create a {{Account Type}} account, please visit our website and click on the "Sign Up" or "Create Account" button. From there, you will be prompted to enter your personal information such as your name, email address, and desired username. Once you have provided all the required information, you may also need to choose a payment plan for your {{Account Type}} account. Our website will provide you with various options and details regarding the features and benefits of the {{Account Type}} account. If you have any questions or need further assistance, feel free to ask. We're here to help you make the most out of your {{Account Type}} account!

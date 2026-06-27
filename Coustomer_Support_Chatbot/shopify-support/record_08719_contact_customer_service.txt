@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I need to do to talk to customer support?
-
-Answer: We appreciate your message! It's clear to me that you're looking for guidance on how to connect with our customer support team. To initiate a conversation, you can reach out to our customer support through various channels, such as phone, email, or live chat. Our dedicated team is available during {{Customer Support Hours}} to provide assistance and address any inquiries or concerns you may have. If you prefer to speak directly with a representative, you can call our toll-free number at {{Customer Support Phone Number}}. Alternatively, you can send us an email at {{Customer Support Email}} or utilize the live chat feature on our website at {{Website URL}}. Please let me know if there's anything else I can assist you with.

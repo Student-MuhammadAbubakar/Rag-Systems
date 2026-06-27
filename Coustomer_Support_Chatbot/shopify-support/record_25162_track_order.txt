@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want to see the fucking ETA of the order {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to assist you with finding the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To check the ETA, please visit the '{{Order Status}}' section on our website. Should you have any other questions or require further guidance, feel free to ask. I'm dedicated to ensuring you have a seamless experience!

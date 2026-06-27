@@ -1,6 +1,0 @@
-Category: FEEDBACK
-Intent: complaint
-
-Question: where to make a customer complaint against ur company
-
-Answer: I'm sorry to hear that you have a complaint and I apologize for any inconvenience caused. To file a customer complaint, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team will listen to your concerns attentively and work towards a resolution. Your feedback is crucial to us, and we appreciate the opportunity to address any issues you may have.

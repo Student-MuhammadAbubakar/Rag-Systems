@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i need information about the cancellation of a gold acocunt
-
-Answer: Appreciate you reaching out to us regarding the cancellation of your {{Account Type}} account. We appreciate your inquiry and understand the importance of providing you with the necessary information. To proceed with the cancellation, we kindly request you to provide us with the following details: your account ID or any other related information that can assist us in locating your account. Once we have the required details, our dedicated team will promptly assist you with the cancellation process and guide you through any additional steps that may be involved. Rest assured that we are committed to ensuring a smooth and hassle-free experience for you. If you have any further questions or concerns, please don't hesitate to let us know.

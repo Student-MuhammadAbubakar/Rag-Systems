@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance with switching something of order {{Order Number}}
-
-Answer: We understand that you need assistance with switching something in your order with the number {{Order Number}}. We apologize for any inconvenience this may have caused. To better assist you, could you please provide more details about what you would like to switch? This will help us ensure that we address your request accurately and provide you with the best possible solution. Thank you for your patience and cooperation.

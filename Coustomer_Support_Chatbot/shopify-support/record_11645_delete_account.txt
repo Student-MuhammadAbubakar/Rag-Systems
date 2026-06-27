@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need the {{Account Category}} account, can I close it?
-
-Answer: Thank you for expressing your decision to close your {{Account Category}} account. We understand that your needs may change over time, and we're here to assist you with the account closure process. To proceed with closing your {{Account Category}} account, please provide us with some additional information, such as your account number or any other relevant details. This will allow us to expedite the process and ensure a smooth closure for you. We appreciate your understanding and cooperation in this matter.

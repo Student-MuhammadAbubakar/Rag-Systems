@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I don't know what to do to inform of problems with payment
-
-Answer: I'm sensitive to the fact that you're unsure about the steps to take when informing us about problems with your payment. Rest assured, I'm here to guide you through the process. To report any issues or problems with your payment, the best course of action is to reach out to our dedicated customer support team. They have the necessary expertise to assist you and provide a resolution. You can contact them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to address any concerns or queries you may have. Don't hesitate to reach out, as we're here to help you every step of the way.

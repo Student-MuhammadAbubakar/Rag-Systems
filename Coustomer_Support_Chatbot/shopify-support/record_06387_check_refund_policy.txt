@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: check_refund_policy
-
-Question: I don't know what to do to check your fucking refund policy
-
-Answer: I apologize for any difficulties you may be experiencing. Understanding our refund policy is important, and I'm here to assist you. To check our refund policy, you can visit our website and look for the "Terms and Conditions" or "Refund Policy" section. Alternatively, you can reach out to our customer support team, who will be more than happy to provide you with the necessary details. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're committed to helping you find the information you need. Let me know if there's anything else I can do to assist you.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I have to check purchase {{Order Number}} status, I need assistance
-
-Answer: Honored to assist! I'm clued in that you need assistance in checking the status of your purchase with the purchase number {{Order Number}}. To provide you with accurate and up-to-date information, I kindly ask you to provide your full name associated with the purchase or any other relevant information. This will help me locate the specific purchase and provide you with the most accurate status update. Please feel free to share the necessary details, and I'll be more than happy to assist you further.

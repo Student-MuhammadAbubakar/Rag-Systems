@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can you help me correcting purchase {{Order Number}}?
-
-Answer: I comprehend that you need assistance in correcting purchase number {{Order Number}}, and I'm here to help you with that. Could you please provide me with more details about the specific correction you would like to make? Whether it's updating the shipping address, changing the quantity, or modifying any other aspect of your purchase, our team is dedicated to ensuring your complete satisfaction. So please let me know the specific changes you would like to make, and I'll do my best to assist you further.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: want help opening a premium account for my daughter
-
-Answer: That's wonderful to hear that you're interested in opening a {{Account Category}} account for your daughter! It's a great choice to provide her with a range of exclusive benefits and services. To proceed, I'll need a few details. Could you please provide your daughter's full name and age? Additionally, if you have any specific preferences or requirements for the account, feel free to let me know. I'll ensure to guide you through the process with personalized assistance. Rest assured, we'll make this a smooth and hassle-free experience for you and your daughter!

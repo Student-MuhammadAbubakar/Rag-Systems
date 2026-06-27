@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a reimbursement of {{Refund Amount}} dollars
-
-Answer: I see the importance of receiving your reimbursement of {{Currency Symbol}}{{Money Amount}}. It's crucial for us to address this promptly and ensure your satisfaction. Let me quickly check the current status of your refund. While I gather the information, could you please confirm the method you used for the payment? This will help me provide you with a more accurate update. Thank you for your patience and trust in our service.

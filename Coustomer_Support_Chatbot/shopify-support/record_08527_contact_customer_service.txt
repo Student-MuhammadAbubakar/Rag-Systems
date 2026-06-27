@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to talk to customer service, how do I do it?
-
-Answer: We appreciate your message! It's clear to me that you want to talk to our customer service team and would like to know how to do it. To connect with our customer service representatives, you can reach us through our dedicated helpline at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}}. They will be more than happy to assist you with any questions or concerns you may have. Don't hesitate to reach out if you need any further guidance or support.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I have to check when my bloody package is going to arrive
-
-Answer: We completely understand your eagerness to know when you can expect your package to arrive. To provide you with accurate information regarding the delivery period, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we'll be able to give you an estimate of when your package will arrive. We appreciate your patience and understanding.

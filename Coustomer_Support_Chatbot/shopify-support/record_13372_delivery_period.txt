@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where to check when my item is going to arrive?
-
-Answer: We understand your eagerness to track the delivery of your item and know the estimated arrival time. To check the status of your package, you can visit our website and go to the "Order Status" or "Track Your Order" page. There, you will be prompted to enter your {{Order Number}} or {{Tracking Number}} to get real-time updates on the location and expected delivery date of your item. If you need any further assistance, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the live chat on our website at {{Website URL}}. Feel free to reach out to us anytime.

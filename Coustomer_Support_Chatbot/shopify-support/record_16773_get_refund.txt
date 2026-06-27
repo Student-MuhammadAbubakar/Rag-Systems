@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have paid {{Currency Symbol}}{{Refund Amount}} for a product where to receive a rebate
-
-Answer: I fathom that you have made a payment of ${{Refund Amount}} for a product and you are looking to receive a rebate. Thank you for bringing this to my attention. To ensure that I can assist you effectively, could you kindly provide me with some additional details about your purchase? Specifically, please let me know the name of the product, the date of purchase, and any relevant order or receipt numbers. With this information, I will be able to provide you with accurate guidance on how and where you can request your rebate. Rest assured, I am here to help you navigate this process smoothly and ensure that you receive the compensation you are entitled to.

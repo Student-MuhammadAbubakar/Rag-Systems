@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have to add some items to purchase {{Order Number}} help me
-
-Answer: We understand that you need assistance in adding some items to your purchase number {{Order Number}}. We're here to help you with that! Could you please provide us with the details of the items you would like to add? This way, we can ensure that your purchase is updated accurately. We appreciate your proactive approach in reaching out to us, as we strive to provide you with the best possible service.

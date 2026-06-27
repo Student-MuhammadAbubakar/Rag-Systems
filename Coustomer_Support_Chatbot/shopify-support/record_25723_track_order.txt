@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: help me tracking order {{Order Number}}
-
-Answer: Always good to connect! I'm attuned to the fact that you need assistance in tracking the order with the order number {{Order Number}}. To provide you with the most accurate and up-to-date information, I kindly ask you to share some additional details such as your name and email address associated with the order. Once I have these details, I will be able to provide you with the current status of your order. Your satisfaction is our priority, and I'm here to help you every step of the way!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where to see how soon can I expect the fucking article?
-
-Answer: We understand your eagerness to track the estimated delivery time of your article. To provide you with the most accurate update, could you please provide us with the {{Tracking Number}} or {{Order Number}}? By sharing this information, we can assist you more effectively and give you the precise details you are looking for. Thank you for your understanding and patience.

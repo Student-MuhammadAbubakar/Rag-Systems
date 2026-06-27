@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I wold like to talk to customer service, could you help me?
-
-Answer: Happy to hear from you! I truly understand that you would like to speak to our customer service team. I am here to assist you. Our customer service representatives are available during {{Customer Support Hours}}. Please let me know how I can help you further.

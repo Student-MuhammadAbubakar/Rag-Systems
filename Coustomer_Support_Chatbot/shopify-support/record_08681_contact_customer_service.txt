@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I would like to call customer assistance, how could I do it?
-
-Answer: It's great to hear from you! I can see that you would like to call our customer assistance team and are seeking guidance on how to proceed. To get in touch with our customer service, you can dial our helpline at {{Customer Assistance Phone Number}}. Our team will be available to provide prompt assistance and address any queries or concerns you may have. We value your time and are here to ensure a smooth and satisfactory experience for you. Is there anything else I can assist you with?

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want assistance to see my invoice from {{Person Name}}
-
-Answer: I appreciate your request for assistance in viewing your invoice from {{Salutation}} {{Client Last Name}}. I completely understand the importance of accessing the necessary documentation for your records and peace of mind. To help you with this, could you please provide me with the specific invoice number or any additional details you may have? This will enable me to guide you more accurately and efficiently in locating and retrieving your invoice. Rest assured, together we will work towards resolving your query and ensuring your satisfaction.

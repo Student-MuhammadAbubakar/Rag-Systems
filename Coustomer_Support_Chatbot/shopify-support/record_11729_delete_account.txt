@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: idont use my {{Account Category}} account want assistance to remove it
-
-Answer: Thank you for bringing your concerns to our attention regarding the removal of your {{Account Category}} account. We understand that you no longer use this account and would like assistance with its removal. Rest assured, we are here to help you with this process. To proceed with the removal, we kindly ask you to provide us with some more details about your specific issue so that we can offer you the most accurate guidance and support. Your satisfaction is our priority, and we aim to make this process as smooth as possible for you.

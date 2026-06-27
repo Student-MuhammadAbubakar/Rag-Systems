@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the cancellation of my {{Account Type}} account
-
-Answer: Glad you got in touch to us to find information about the cancellation of your {{Account Type}} account. We understand the importance of providing you with the necessary details to assist you in this process. I recommend visiting our website's FAQ section where you will find a dedicated page that outlines the cancellation procedure step-by-step. If you have any specific questions or concerns, please feel {{Account Type}} to let us know, and we will be more than happy to address them. We want to ensure that you have all the information you need to make the best decision regarding your account.

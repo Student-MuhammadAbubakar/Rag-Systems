@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I have got to see when my delivery is going to arrive
-
-Answer: It's completely natural to be curious about when your delivery will arrive. To provide you with an accurate update, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can give you a precise estimate of your delivery date. Thank you for your understanding and cooperation during this process.

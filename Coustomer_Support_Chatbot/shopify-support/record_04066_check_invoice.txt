@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need help tl give a quick look at the bill #85632
-
-Answer: I'll make it happen! I understand that you require some assistance in quickly reviewing the bill with the number #{{Invoice Number}}. I'm here to support you in locating the information you need. To proceed, could you please provide me with some additional details like the client's name or any specific dates associated with this bill? This will help me narrow down the search and retrieve the required information for you efficiently.

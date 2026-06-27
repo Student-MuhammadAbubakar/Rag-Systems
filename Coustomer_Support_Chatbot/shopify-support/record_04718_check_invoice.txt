@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i cannot find my invoices from {{Person Name}}
-
-Answer: I'm not mistaken your concern about not being able to locate your invoices from {{Salutation}} {{Client Last Name}}. Let's work together to find a solution. Could you please provide me with more details such as the {{Date Range}} or any specific information that could help narrow down the search? Rest assured, I'm here to assist you every step of the way and ensure that you can access your invoices smoothly.

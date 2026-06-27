@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am looking for the shipping periods, will you help me?
-
-Answer: We understand your need to know the shipping periods. Shipping periods typically vary depending on the shipping method and the destination. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can check the status of your shipment and provide you with the estimated delivery time. Rest assured, we are here to assist you every step of the way.

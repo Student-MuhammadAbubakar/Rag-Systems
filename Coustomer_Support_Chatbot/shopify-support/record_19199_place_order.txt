@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where to shop some of ur item
-
-Answer: Thank you for reaching out! I appreciate your interest in shopping for our products. To start, I would recommend visiting our official website at {{Website URL}}. Our website offers a wide range of products and a user-friendly interface to make your shopping experience convenient and enjoyable. Additionally, you can also check out our authorized retail stores in your area. These stores provide a hands-on experience where you can explore our products up close before making a purchase. If you have any specific items in mind or need further assistance, feel free to let me know!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: need help to see my rebate current status
-
-Answer: Thank you for reaching out regarding the current status of your rebate. I understand how crucial it is for you to stay informed. To assist you promptly, could you please provide me with your {{Rebate Number}} or any relevant details? This will allow me to quickly access the necessary information and provide you with an accurate update. Your cooperation is greatly appreciated, and I assure you that we are committed to ensuring your satisfaction throughout this process.

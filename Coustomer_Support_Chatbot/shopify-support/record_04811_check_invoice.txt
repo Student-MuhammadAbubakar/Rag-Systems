@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check my ibll from {{Person Name}}
-
-Answer: I pick up what you're putting down, the urgency of your request to check your bill from {{Salutation}} {{Client Last Name}}. Let's work together to find a solution. Could you please provide me with any additional information such as the date range or any specific details that could help me locate the bill for you? Rest assured, I'm here to guide you every step of the way and ensure you have a satisfactory experience.

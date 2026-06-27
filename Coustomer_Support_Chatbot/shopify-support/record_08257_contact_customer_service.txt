@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a toll-free customer assistance phone no?
-
-Answer: I see what you mean! I'm on the same page that you are looking for a toll-free number to contact our customer assistance team. While we do not have a toll-free number at the moment, our customer support is available to assist you through other channels such as live chat on our website at {{Website URL}} or via email at {{Customer Support Email}}. Please let me know if there's anything else I can help you with.

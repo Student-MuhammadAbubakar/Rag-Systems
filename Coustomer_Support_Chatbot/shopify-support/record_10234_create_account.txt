@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening {{Account Type}} account
-
-Answer: Thank you for considering opening a {{Account Type}} account with us! Our {{Account Type}} account option provides you with access to basic banking services without any associated fees. To get started, I'll guide you through the account opening process step by step. Please provide me with your full name, email address, and preferred username. Rest assured, we prioritize your security and privacy, and we will handle your information with the utmost care.

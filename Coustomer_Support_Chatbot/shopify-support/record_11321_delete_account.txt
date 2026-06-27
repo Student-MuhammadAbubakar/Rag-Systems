@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I needassistance to close the gold account
-
-Answer: Thank you for trusting about closing your {{Account Type}} account. I understand that you need assistance with this process. Our team is here to help you every step of the way. To proceed with closing your {{Account Type}} account, please provide us with some additional information such as your account details or any specific concerns you may have. This will allow us to better assist you in the closure process. Rest assured, we are committed to ensuring your satisfaction throughout this process.

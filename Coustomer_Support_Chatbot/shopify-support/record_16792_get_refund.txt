@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I don't know how I could request my money back
-
-Answer: I'm cognizant of the fact that you're unsure about the process of requesting a refund for your money, and I'm here to assist you every step of the way. To start the refund process, you can reach out to our customer support team either through our helpline at {{Customer Support Phone Number}} or by initiating a live chat on our website at {{Website URL}}. Our dedicated team will guide you through the necessary steps and help you complete the refund request successfully. Rest assured, your satisfaction is our top priority, and we're committed to resolving this for you.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i aint registered can i create a {{Account Category}} account
-
-Answer: Fantastic news! Even if you're not registered, you can definitely create a {{Account Category}} account with us. It's a great way to enjoy a range of benefits and features. To get started, all we need is some basic information from you. Could you please provide your full name, email address, and a username you'd like to use? Once we have these details, we'll guide you step-by-step through the account creation process. Don't worry, we'll make sure your data is protected with the utmost care. Let's begin this exciting journey together!

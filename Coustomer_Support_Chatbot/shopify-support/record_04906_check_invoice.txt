@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i have got to check my bill from {{Person Name}} will uhelp me
-
-Answer: I truly value our connection here. Recognizing your earnest desire to check the bill from {{Salutation}} {{Client Last Name}}, it reminds me of how we all sometimes need that piece of clarity. Let's embark on this journey together. If you could provide me with any additional details such as the account number or any relevant information, it would greatly assist me in locating your bill more efficiently. Rest assured, I'm here to guide you every step of the way and ensure you feel empowered and satisfied.

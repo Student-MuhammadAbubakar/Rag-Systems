@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't need my platinum account, help cancelling it
-
-Answer: Thank you for your message to us about canceling your {{Account Category}} account. We understand that circumstances may change, and we're here to assist you with canceling your account. To ensure a smooth process, could you please provide us with your account details such as your account number or registered email address? This will enable us to proceed with the cancellation request promptly and provide you with the necessary information or any further steps involved. We appreciate your cooperation, and we're committed to making this process as seamless as possible for you.

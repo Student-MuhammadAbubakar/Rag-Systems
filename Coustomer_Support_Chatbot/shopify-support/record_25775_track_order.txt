@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: how do i check the eta of order00123842
-
-Answer: Thank you for reaching out! I can definitely assist you in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To obtain the ETA, please visit the '{{Order Number}}' section on our website. There, you will find all the relevant information about your order, including the expected delivery date. If you have any additional questions or need further assistance, please don't hesitate to ask. My goal is to ensure you have a seamless experience from start to finish!

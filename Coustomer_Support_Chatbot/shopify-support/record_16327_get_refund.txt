@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want to obtain a fucking rebate
-
-Answer: I've become conscious that you're seeking assistance in obtaining a rebate for the product you purchased for ${{Refund Amount}}. I apologize for any frustration or inconvenience this may have caused you. To better assist you, could you please provide me with some additional information about your purchase? Specifically, I would need details such as the order number, the purchase date, and any relevant receipts or proof of purchase that you may have. With this information, I can initiate the necessary steps to process your rebate request. Rest assured, my main goal is to ensure your satisfaction, and I will do my best to expedite the resolution process.

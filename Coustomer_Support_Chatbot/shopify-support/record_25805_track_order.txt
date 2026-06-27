@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need assistance checking the ETA of the purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to help you in checking the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, could you please provide me with some additional details? Specifically, could you let me know the date and time of the purchase? With this information, I can assist you further in tracking the ETA and keeping you updated on the status of your purchase. Please feel free to provide the necessary information, and I'll be glad to assist you promptly.

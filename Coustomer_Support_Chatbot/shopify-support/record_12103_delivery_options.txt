@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order frrom {{Delivery Country}}
-
-Answer: Ah, I understand your question about ordering from {{Delivery Country}}. As an AI language model, I don't have access to specific company information. However, many companies offer international shipping, including shipping to {{Delivery Country}}. To explore the available shipping options, I recommend visiting the company's website and checking their shipping policy or contacting their customer support team for more details. They will be able to provide you with accurate and up-to-date information on ordering from {{Delivery Country}}. If you have any other questions or if there's anything else I can assist you with, please feel free to ask!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: clsoe {{Account Category}} account
-
-Answer: Appreciate your message to us regarding the closure of your {{Account Category}} account. We understand that you have made the decision to close your account and we appreciate your time with us. In order to initiate the process, we kindly request you to provide us with some additional information, such as your account details, so that we can assist you further. Rest assured, our team is here to guide you through every step of the account closure process and address any concerns you may have along the way. We value your loyalty and want to ensure that this transition is as smooth as possible for you.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do uship to {{Delivery City}}
-
-Answer: Ah, the allure of {{Delivery City}}! How thrilling that you're considering shipping to this dynamic city! I'm delighted to inform you that we do offer shipping services to {{Delivery City}}. Our team will ensure that your package is swiftly and securely delivered to its destination. If you have any specific concerns or questions regarding the shipping process, feel free to ask. We're here to provide you with a seamless shipping experience to {{Delivery City}} and beyond!

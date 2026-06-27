@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: check at what time i can contact customer assistance
-
-Answer: Thank you for reaching out! I completely understand the importance of knowing when you can contact our customer assistance. Our team is available to assist you during {{Customer Support Hours}}. Whether you have questions, concerns, or need guidance, we are here for you during those hours. Please feel free to reach out at any time within {{Customer Support Hours}}. How can I make your day even better?

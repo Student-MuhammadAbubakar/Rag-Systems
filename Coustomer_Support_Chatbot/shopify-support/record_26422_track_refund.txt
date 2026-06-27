@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect an compensation of {{Refund Amount}} dollars
-
-Answer: Your expectations for a compensation of {{Currency Symbol}}{{Refund Amount}} are completely understandable, and I apologize for any inconvenience caused. I would be more than happy to assist you in tracking the status of your compensation. To provide you with the most accurate information, could you please provide me with any relevant details such as a compensation request number or any other information associated with your claim? With this information, I will be able to look into the matter and provide you with an update as soon as possible. Thank you for your cooperation, and rest assured, we are committed to resolving this matter to your satisfaction.

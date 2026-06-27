@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery Country}}?
-
-Answer: Definitely! We offer delivery services to various locations, including {{Delivery Country}}. Our goal is to ensure that all our customers have access to our products no matter where they are located. Whether it's Helsinki, Turku, Tampere, or any other city in {{Delivery Country}}, we've got you covered. You can choose from our range of shipping options to find the one that suits your needs best. If you have any specific concerns or questions regarding shipping to {{Delivery Country}} or anything else, feel free to ask. It's our pleasure to assist you in delivering your order seamlessly to your desired location.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i dont know how to request restitutions of my money
-
-Answer: I've picked up that you're unsure about the process of requesting restitutions for your money. It can feel overwhelming when you're unfamiliar with the steps. Rest assured, I'm here to guide you through the process and make it as seamless as possible. To request restitutions, you can start by reaching out to the customer support team at {{Company Name}}. They will be able to provide you with the necessary information and guide you through the specific steps you need to take. Remember, always provide them with all the relevant details related to your purchase and the reason for your request. By following these steps, you'll be on your way to requesting restitutions for your money with confidence.

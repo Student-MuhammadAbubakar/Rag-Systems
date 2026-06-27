@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: what do i have to do to open a {{Account Type}} account
-
-Answer: I'm thrilled to assist you in opening a {{Account Type}} account! To get started, you can visit our website or download our mobile app and select the "Create Account" option. You will need to provide some basic information such as your name, email address, and a password. Once you've entered these details, you'll receive a verification email or SMS to confirm your account. After verifying your account, you'll have access to all the features and benefits of your new {{Account Type}} account. If you need any further assistance during the process, feel {{Account Type}} to reach out to our customer support team. We're here to help you every step of the way!

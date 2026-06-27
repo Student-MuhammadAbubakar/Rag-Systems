@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: is it possible to download the invoice from {{Person Name}}
-
-Answer: For sure! I completely understand your need to download the invoice from {{Salutation}} {{Client Last Name}}. Let me ensure that you have the necessary information to access and download it. Firstly, could you please provide me with the invoice number or any additional details that might be helpful in locating the specific invoice? Once I have this information, I will guide you through the process of downloading it.

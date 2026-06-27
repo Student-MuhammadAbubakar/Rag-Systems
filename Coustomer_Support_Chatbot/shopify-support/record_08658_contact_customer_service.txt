@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to talk to customer service
-
-Answer: We appreciate your message! It's clear to me that you are seeking assistance to talk to our customer service. Connecting with our dedicated team is crucial for prompt support and ultimate customer satisfaction. To speak with our customer service, you can reach them during {{Customer Support Hours}} by dialing {{Customer Support Phone Number}}. They will be more than happy to assist you with any questions or concerns you may have. How else can I assist you today?

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I do not know how to seehow soon can I expect my purchase
-
-Answer: We apologize for any confusion or uncertainty you may have regarding how to check the estimated delivery time for your purchase. To assist you further, could you please provide us with the {{Order Number}} or {{Tracking Number}} associated with your purchase? With this information, we will be able to provide you with accurate details about the expected delivery date. Thank you for your patience and cooperation.

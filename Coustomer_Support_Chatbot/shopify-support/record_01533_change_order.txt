@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me change purchase {{Order Number}}
-
-Answer: Thank you for trusting to us for assistance with changing your purchase with order number {{Order Number}}. We understand the importance of ensuring that your order meets your specific needs. To proceed with the necessary changes, kindly provide us with detailed information about the items you would like to modify. Our dedicated team will work diligently to accommodate your request and make sure your purchase is exactly as you desire. We appreciate your patience and cooperation in this matter.

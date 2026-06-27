@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know what i need to do to find invoice #12588
-
-Answer: I'm not mistaken your confusion about finding the invoice with the number #{{Invoice Number}}. Allow me to assist you with that. To find the invoice, you can go to your account dashboard and look for the "Invoices" section. There, you should be able to search for and view your invoice by entering the invoice number #{{Invoice Number}}. If you encounter any difficulties during this process, please feel free to ask for further guidance.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a refnd of {{Refund Amount}} dollars
-
-Answer: Your patience while waiting for the refund of {{Currency Symbol}}{{Refund Amount}} is truly appreciated. We understand how important it is for you to receive your refund in a timely manner. Let me quickly check the status of your refund for you. Please bear with me for a moment while I gather the necessary information. In the meantime, I'd like to know if you have any previous experience with refund inquiries. Understanding your previous interactions will help us better assist you. Rest assured, we are committed to providing the best possible resolution and ensuring your satisfaction.

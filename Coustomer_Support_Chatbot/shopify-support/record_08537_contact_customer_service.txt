@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i try to get in touch with customer assistance
-
-Answer: I hear you! I'm following you that you're trying to get in touch with our customer assistance team. We're here to help you! Our customer assistance is available during {{Customer Support Hours}}. You can reach out to us via phone, email, or live chat. If you have any questions, concerns, or need any assistance, feel free to let us know. We're just a click or call away!

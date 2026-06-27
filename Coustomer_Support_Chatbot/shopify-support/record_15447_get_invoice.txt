@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want to download my invoices from {{Person Name}}
-
-Answer: I get that you would like to download your invoices from {{Person Name}}. In order to assist you with this, could you please provide me with the necessary details such as {{Person Name}}' account information or any specific invoice numbers you would like to download? This will help me locate the invoices you need and guide you through the process. Thank you!

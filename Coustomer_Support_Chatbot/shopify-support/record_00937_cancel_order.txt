@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I canno longer afford purchase {{Order Number}}
-
-Answer: I've grasped that you are facing financial difficulties and are unable to proceed with the purchase of item {{Order Number}}. Our goal is to ensure your satisfaction and provide you with the best possible assistance. I recommend reaching out to our customer support team to discuss your situation further. They will be able to guide you through the necessary steps to address your concerns and explore possible alternatives, such as postponing the purchase or canceling it if necessary. You can contact our team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We are here to support you and find a solution that meets your needs.

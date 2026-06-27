@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where to acquire a few of ur item
-
-Answer: I appreciate your interest in acquiring our items! To make your purchase, you have a couple of options. First, you can visit our website, {{Website URL}}, and browse through our product catalog. Once you find the items you want, you can add them to your cart and proceed to checkout. Alternatively, you can visit one of our physical stores located in different cities. Our store locations can be found on our website's store locator page. Whether you choose to shop online or visit a store, our friendly staff will be ready to assist you throughout the process. Happy shopping!

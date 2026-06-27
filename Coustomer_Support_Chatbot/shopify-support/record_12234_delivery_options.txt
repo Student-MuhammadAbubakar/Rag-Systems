@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shiping to {{Delivery City}}
-
-Answer: Ah, the endless possibilities of shipping! Whether you reside in {{Delivery City}} or any other corner of the world, we are overjoyed to offer our services to you. {{Delivery City}} is a popular destination for us, and we have several shipping options tailored to meet your needs. From our reliable Standard Shipping that takes approximately {{Date Range}} business days to our faster Expedited Shipping arriving in {{Date Range}} business days, we've got you covered. And if you simply can't wait, our Overnight Shipping guarantees next business day delivery. So go ahead and place your order from {{Delivery City}} with confidence, and we'll ensure it reaches you promptly. If you have any more questions or need further assistance, I'm here to assist you every step of the way. Safe travels for your package!"

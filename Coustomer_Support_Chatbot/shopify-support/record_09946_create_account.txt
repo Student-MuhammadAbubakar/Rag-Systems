@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can I create a different bloody {{Account Type}} account for my father?
-
-Answer: Thank you for considering creating a different {{Account Type}} account for your father. We appreciate your interest in our services and we are here to assist you. To proceed with the account creation process, I kindly request you to provide the necessary information like your father's full name, email address, and a preferred username. Once we have these details, we will guide you step-by-step through the process, ensuring that your father's account is set up smoothly. Rest assured, we prioritize the security and privacy of all our users' information. Feel {{Account Type}} to share any concerns or questions you may have along the way. How can I assist you further?

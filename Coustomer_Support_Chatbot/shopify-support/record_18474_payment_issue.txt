@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I'm trying to notify of payment problems
-
-Answer: I realized you're trying to notify us about payment problems you're currently facing. Rest assured, we are here to help you with this issue. To notify us of the payment problems, I recommend contacting our dedicated customer support team through our helpline or live chat. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reaching out to them, they will be able to assist you further with the payment problems you are experiencing. Thank you for bringing this to our attention, and we appreciate your cooperation.

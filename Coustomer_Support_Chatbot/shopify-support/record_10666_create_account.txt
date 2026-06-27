@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where can i get information about creating gold accounts
-
-Answer: I'm thrilled to assist you with obtaining information about creating {{Account Type}} accounts! You can find detailed information about our {{Account Type}} accounts on our website's dedicated page. Simply navigate to our website and look for the "{{Account Type}} Accounts" section. There, you'll find comprehensive details about the features, benefits, and the step-by-step process of creating a {{Account Type}} account. If you have any specific questions or need further assistance, feel free to reach out to our friendly customer support team who will be more than happy to help!

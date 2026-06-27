@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: information about the removal of a pro account
-
-Answer: Thank you for reaching out to us for information about removing your {{Account Type}} account. We understand that you may have your reasons for wanting to cancel your account and we are here to assist you. To proceed with the removal of your {{Account Type}} account, I recommend contacting our customer support team directly or visiting our website and following the account closure procedure outlined there. They will be able to guide you through the process and address any specific concerns you may have. We value your relationship with us and will do everything we can to ensure a smooth account closure experience. Please let us know if there's anything else we can assist you with.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i have got to see when will my parcel arrive can ya help me
-
-Answer: Certainly, we can assist you in tracking the delivery of your parcel! To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can check the estimated arrival time of your parcel and keep you updated. Your patience and cooperation are greatly appreciated!

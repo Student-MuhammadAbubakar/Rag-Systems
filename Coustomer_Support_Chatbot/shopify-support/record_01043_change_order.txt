@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want to correct order {{Order Number}}, can you help me?
-
-Answer: I hear you! I'm following you that you would like to make corrections to your order with the number {{Order Number}}. We value your satisfaction and are here to assist you in resolving any issues. Could you please provide more details about the specific corrections you would like to make? This will help us ensure we address your needs accurately and efficiently.

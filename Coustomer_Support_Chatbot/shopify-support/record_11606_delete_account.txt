@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the removal of my pro account
-
-Answer: Glad you contacted to us to inquire about the removal of your {{Account Type}} account. We understand that you may have questions and concerns regarding the cancellation process, and we're here to assist you. To find detailed information about removing your {{Account Type}} account, I recommend visiting our website and navigating to the account settings or FAQ section. If you need specific assistance or have further questions, please don't hesitate to let us know. We're committed to ensuring a seamless experience for you throughout the entire account removal process.

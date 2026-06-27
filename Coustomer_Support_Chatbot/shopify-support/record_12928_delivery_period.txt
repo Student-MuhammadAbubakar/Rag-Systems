@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where do I see how long it takes for the purchase to arrive?
-
-Answer: I'm on the same page, your desire to track the progress of your purchase and get an estimate of its arrival. To provide you with accurate information about the delivery time, may I ask you for the {{Order Number}} or {{Tracking Number}} associated with your purchase? With that information, I can help you locate the specific page where you can find the expected delivery period. Your patience is greatly appreciated as I assist you further.

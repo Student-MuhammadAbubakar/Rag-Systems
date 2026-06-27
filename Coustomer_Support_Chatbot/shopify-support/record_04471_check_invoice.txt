@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can I check the bills from {{Person Name}}?
-
-Answer: Of course! I completely understand your desire to review the bills from {{Salutation}} {{Client Last Name}}. Let's make this process as seamless as possible. Could you please provide me with a specific {{Date Range}} or any other relevant details? This will enable me to assist you in a more focused and efficient manner. Rest assured, I'm here to guide you every step of the way.

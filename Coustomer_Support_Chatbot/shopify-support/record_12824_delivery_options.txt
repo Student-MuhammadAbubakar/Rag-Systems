@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deoiver to {{Delivery City}}
-
-Answer: For sure! I'm thrilled to inform you that we do deliver to {{Delivery City}}. We offer international shipping to several locations around the world, including {{Delivery City}}. You can place an order and have it delivered right to your doorstep in {{Delivery City}}. We strive to ensure convenient and efficient delivery services for our valued customers. If you have any specific questions or concerns about shipping to {{Delivery City}} or any other location, please feel free to ask. I'm here to assist you every step of the way!

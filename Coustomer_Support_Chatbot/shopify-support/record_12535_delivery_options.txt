@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: d uship to {{Delivery City}}
-
-Answer: Thank you for your interest in shipping to {{Delivery City}}! We do offer international shipping options to many countries, including Ireland. {{Delivery City}} is certainly within our shipping destinations, and we would be delighted to deliver your order to this vibrant city. Rest assured that we will take care of ensuring a smooth and efficient shipping process to {{Delivery City}}. If you have any specific questions or if there's anything else I can assist you with, please don't hesitate to ask. Your satisfaction is our priority!

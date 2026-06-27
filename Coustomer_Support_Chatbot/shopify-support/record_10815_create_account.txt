@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'm not registered I'm trying to create a bloody {{Account Type}} acount
-
-Answer: Thank you for your message to us! I apologize for any difficulties you've encountered in creating a new {{Account Type}} account. I'll be more than happy to assist you with the registration process. To begin, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through account creation, ensuring a seamless experience for you. Rest assured, your privacy and security are of utmost importance to us, and we have robust measures in place to protect your information. Let's get started on this exciting journey together!

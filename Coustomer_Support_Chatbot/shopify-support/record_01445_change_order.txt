@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can you help me to delete something from order {{Order Number}}?
-
-Answer: I'm not mistaken your request to delete an item from order number {{Order Number}}. It's important to us that you have full control over your order and we're here to assist you. Could you please provide more details about the item you would like to delete? This will allow us to make the necessary adjustments and ensure your complete satisfaction.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i need assistance downloading my invoices from {{Person Name}}
-
-Answer: Indeed! I completely understand your request to download your invoices from {{Salutation}} {{Client Name}}. Let's make sure you have all the information you need to access and download your invoices easily. First, could you please provide me with your account details, such as your customer ID or email address associated with your account? This will help me locate your invoices more accurately and guide you through the download process step by step. Rest assured, I'm here to assist you every step of the way.

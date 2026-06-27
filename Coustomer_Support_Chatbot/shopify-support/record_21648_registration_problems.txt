@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: registration_problems
-
-Question: where do I inform of an error with sign-up?
-
-Answer: We appreciate your efforts to inform us about the error you encountered during the sign-up process. To report the issue and seek assistance, please reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated support team will swiftly address your concern and work towards providing you with a solution. Your feedback is valuable to us and helps us enhance our sign-up experience for all users. We apologize for any inconvenience caused and thank you for your patience and cooperation.

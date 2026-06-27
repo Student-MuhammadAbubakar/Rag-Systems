@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery City}}
-
-Answer: Ah, {{Delivery City}}, a city full of charm and beauty! I'm delighted to inform you that we do offer delivery to {{Delivery City}}. You can enjoy the convenience of our shipping options and have your items delivered right to your doorstep in {{Delivery City}}. We strive to bring our services closer to you, no matter where you are. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. I'm here to ensure your satisfaction!

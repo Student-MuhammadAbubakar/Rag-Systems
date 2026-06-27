@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: what do i need to do to create a gold account
-
-Answer: Thank you for your interest in creating a {{Account Type}} account with us! To get started, I'll guide you through the process step by step. First, you'll need to visit our website and click on the "Create Account" button. From there, you'll be prompted to fill out a registration form with your personal details, such as your full name, email address, and a password. Once you've submitted the form, you'll receive a verification email to confirm your account. After verifying your email, you'll be able to log in and access your new {{Account Type}} account. If you have any questions or need assistance at any point, I'm here to help!

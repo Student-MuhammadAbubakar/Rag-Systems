@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to call customer assistance
-
-Answer: I'm glad you contacted us to us for assistance in making a call to our customer assistance team. I'm here to guide you through the process. To contact our customer assistance, you can dial {{Customer Support Phone Number}} during our operating hours. Our team is available from {{Customer Support Hours}} to assist you with any questions or concerns you may have. If you prefer an alternative method, you can also reach out to us through the Live Chat function on our website at {{Website URL}}. We strive to provide excellent support and are eager to help you. Let me know if there's anything else I can assist you with.

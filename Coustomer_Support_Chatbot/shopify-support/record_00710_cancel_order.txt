@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I can't aford order {{Order Number}}
-
-Answer: I get it your concern about being unable to afford the order with the order number {{Order Number}}. Our team is here to assist you and explore possible options. We can discuss alternative solutions like adjusting the payment plan or exploring any ongoing promotions or discounts that can help reduce the cost. Rest assured, we prioritize your satisfaction and will work together to find a suitable resolution. Please reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Your happiness and financial comfort are important to us.

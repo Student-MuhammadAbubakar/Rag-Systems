@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check invoice #85632
-
-Answer: I'm on it! I understand that you need assistance in checking the invoice with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you locate the information you need. Could you please provide me with any additional information or details that might be helpful, such as the date, client name, or any specific items included in the invoice? This will allow me to provide you with more accurate and tailored assistance.

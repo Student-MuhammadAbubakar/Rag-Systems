@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}, was it processed
-
-Answer: I want to assure you that I understand the significance of your rebate amounting to {{Currency Symbol}}{{Refund Amount}}. I can check the status of your rebate for you. Please allow me a moment to verify the information. Thank you for your patience as I look into this for you.

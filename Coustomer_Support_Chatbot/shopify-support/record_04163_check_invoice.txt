@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to take aq quick look at the invoices from {{Person Name}}?
-
-Answer: For sure! I understand your need to quickly access the invoices from {{Salutation}} {{Client Last Name}}. To take a quick look at the invoices, you can log in to your account on our website and navigate to the "Invoices" or "Billing" section. Alternatively, you can reach out to our customer support team, and they will be more than happy to assist you with accessing the invoices you require. Let me know if there is anything else I can help you with!

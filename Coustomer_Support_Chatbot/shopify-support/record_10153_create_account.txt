@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: another {{Account Category}} account
-
-Answer: Thank you for your interest in creating another {{Account Category}} account. We appreciate your continued support and trust in our services. To create an additional account, please provide the necessary information such as full name, email address, and preferred username. Rest assured, we will ensure a seamless experience, just as we did with your previous account creation. If you have any questions or need further assistance, I'm here to help. Let's get started on creating your new {{Account Category}} account!

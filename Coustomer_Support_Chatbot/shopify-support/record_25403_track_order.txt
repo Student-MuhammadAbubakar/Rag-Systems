@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i cannot track purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I'm sorry to hear that you're having trouble tracking your purchase with purchase number {{Order Number}}. I understand how frustrating it can be not to have visibility into your order's progress. Allow me to assist you in resolving this matter. Could you please provide me with some additional information regarding your purchase? This will enable me to look into the issue and provide you with an accurate update on the status of your purchase.

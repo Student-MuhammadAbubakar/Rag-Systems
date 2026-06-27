@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Definitely! We extend our delivery services to {{Delivery City}} as well. You can expect to receive your orders directly at your doorstep. {{Delivery City}} is a beautiful city, and we are delighted to be able to cater to your shipping needs there. If you have any further questions or if there's anything else I can assist you with, please feel free to let me know. Your satisfaction is our top priority!

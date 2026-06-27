@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I do not know how to obtain a restitution of my money
-
-Answer: I've picked up that you're uncertain about the process of obtaining a restitution of your money. I apologize for any confusion or inconvenience caused. Rest assured, I'm here to guide you through the steps and ensure a smooth resolution. To initiate the refund process, I recommend contacting our customer support team, who will assist you further. They are available 24/7 at {{Customer Support Hours}}. Alternatively, you can reach out to them through the Live Chat on our website at {{Website URL}}. By contacting our dedicated team, they will be able to gather the necessary information and swiftly process your request for a restitution.

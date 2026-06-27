@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order from {{Delivery Country}}
-
-Answer: I'm on it! We are delighted to provide our services for customers in {{Delivery Country}} as well. You can easily place an order with us from anywhere in {{Delivery Country}} and have it delivered to your desired location. We offer a range of convenient delivery options to ensure a smooth and efficient shopping experience. If you have any specific questions or need assistance with placing your order, feel free to let me know. I'm here to help!

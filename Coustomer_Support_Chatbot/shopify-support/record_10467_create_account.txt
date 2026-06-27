@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open {{Account Category}} cacount for wife
-
-Answer: Congratulations on your decision to open a {{Account Category}} account for your wife! It's wonderful that you're prioritizing her financial goals and aspirations. To get started, could you please provide the following details: your wife's full name, email address, and a preferred username? Once I have this information, I'll guide you through the account creation process, ensuring a seamless experience for both of you. Rest assured, we prioritize the security and privacy of our customers' data, so you can have peace of mind knowing that her information will be well-protected. How are you feeling about this exciting step?

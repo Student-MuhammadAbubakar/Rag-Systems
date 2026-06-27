@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i dont know what to do to close a platinum account
-
-Answer: I'm sorry to hear that you're unsure about how to close your {{Account Category}} account. I understand that canceling an account might seem like a complex process, but I'm here to guide you through it. To close your {{Account Category}} account, you'll need to follow a few simple steps. First, please log in to your account on our website or mobile app. Then, navigate to the account settings or profile section. Look for the option to manage or cancel your account. Click on that option and you'll be directed to a page where you can select the {{Account Category}} account you wish to close. Confirm your decision, and you'll receive a confirmation email notifying you that your account has been successfully closed. If you have any further questions or need assistance during this process, please don't hesitate to ask.

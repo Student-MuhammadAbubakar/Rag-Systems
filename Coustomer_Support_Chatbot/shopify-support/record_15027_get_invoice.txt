@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where do i download my bil #85632
-
-Answer: Indeed! I completely understand your need to download bill {{Invoice Number}}. To access and download your bill, you can go to your account dashboard on our website or log in to our mobile app. From there, you will find the option to view and download your bill under the "Billing" or "Account" section. If you need any further assistance or have any other questions, don't hesitate to let me know. I'm here to help!

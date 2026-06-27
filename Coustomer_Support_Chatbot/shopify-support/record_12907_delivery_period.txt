@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where can I check how soon can I expect the goddamn article?
-
-Answer: We understand your eagerness to receive updates on the estimated delivery time of your article. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? Once we have these details, we'll be able to guide you to the appropriate platform or website where you can check the expected delivery date. Your patience is greatly appreciated as we work together to ensure you receive your article on time.

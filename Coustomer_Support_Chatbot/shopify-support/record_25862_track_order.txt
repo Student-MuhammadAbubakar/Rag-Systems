@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: help me locating purchase {{Order Number}}
-
-Answer: Honored to assist! I'm clued in that you need assistance in locating the purchase with order number {{Order Number}}. I apologize for any inconvenience caused. To help you with this, could you please provide me with some more details, such as the name or email associated with the purchase? With this information, I'll be able to locate your purchase and provide you with the necessary assistance. Feel free to provide me with any other relevant details that would help me in this process. My goal is to ensure you have a smooth and seamless experience throughout.

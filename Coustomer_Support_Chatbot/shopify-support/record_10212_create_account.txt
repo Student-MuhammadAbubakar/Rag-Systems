@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: whatdo i have to do to create a goddamn {{Account Type}} account
-
-Answer: Thank you for your interest in creating a {{Account Type}} account with us! I'm here to assist you with the process. To get started, please visit our website and look for the "Sign Up" or "Create Account" button. Click on it, and you will be directed to a registration page where you'll need to provide some basic information such as your name, email address, and a password. Once you've filled in the required information, review the terms and conditions, and if you agree, click on the "Create Account" button. Congratulations, you've successfully created a {{Account Type}} account with us! If you have any further questions or need additional assistance, please feel {{Account Type}} to ask.

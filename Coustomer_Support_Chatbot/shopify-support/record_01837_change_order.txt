@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how do i change a product of purchase {{Order Number}}
-
-Answer: We understand that you would like to change a product in your purchase with order number {{Order Number}}. We apologize for any inconvenience caused. To assist you further, could you please provide us with the details of the product you wish to change and the desired replacement? Once we have this information, we will do our best to accommodate your request and ensure your satisfaction. Thank you for your patience and cooperation.

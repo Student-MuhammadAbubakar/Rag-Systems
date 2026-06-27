@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know what I have to do to cancel my {{Account Type}} account
-
-Answer: I apologize for any confusion or uncertainty you may have regarding the cancellation process for your {{Account Type}} account. I understand that canceling an account can sometimes be confusing, but please rest assured that I'm here to help guide you through the process step by step. To begin the cancellation process, please go to your account settings page and look for the option to cancel or close your account. If you're unable to locate this option, please provide me with your account details, such as your username or registered email address, so I can assist you further. Remember, we're committed to ensuring your satisfaction throughout this process, and we appreciate your patience and cooperation.

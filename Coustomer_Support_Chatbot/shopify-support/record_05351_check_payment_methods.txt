@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: want help to check ur payment methods
-
-Answer: Thank you for trusting us! I'm fully aware of you need assistance in checking our available payment methods. I'm here to provide you with the information you need. We offer a variety of payment options to cater to different preferences. These include credit/debit card, PayPal, bank transfer, Apple Pay, and Google Wallet. If you would like more detailed information about any of these methods or if you have any other questions, please feel free to ask.

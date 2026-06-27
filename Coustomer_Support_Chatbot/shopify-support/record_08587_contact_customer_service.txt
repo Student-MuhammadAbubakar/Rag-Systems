@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to contact customer assistance, can I get some help?
-
-Answer: Your input is valuable! I'm picking up that you need to contact our customer assistance. I'm here to help you with that. Our customer support team can be reached during {{Customer Support Hours}}. You can call them at {{Customer Support Phone Number}} or send them a message through our online chat on our website at {{Website URL}}. If you have any other questions or concerns, feel free to let me know. I'm here to assist you!

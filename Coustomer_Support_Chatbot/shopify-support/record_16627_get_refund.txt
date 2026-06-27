@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbursing {{Refund Amount}} ddollars
-
-Answer: I've understood, you're seeking assistance with reimbursing ${{Refund Amount}}, and I'm here to help you with that. To initiate the refund process, I recommend reaching out to our customer support team by calling our dedicated helpline at {{Customer Support Phone Number}} or by visiting our website and initiating a live chat session. Our support representatives will guide you through the necessary steps and ensure that your refund request is processed in a timely manner. Rest assured, we value your satisfaction and aim to make this process as smooth as possible for you.

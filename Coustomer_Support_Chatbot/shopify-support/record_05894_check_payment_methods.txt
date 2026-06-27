@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: I try to check what payment payment modalities are accepted
-
-Answer: Your input is valuable! I'm picking up that you want to check the accepted payment methods. I'm here to help you with that. To view our accepted payment methods, you can visit our website and navigate to the "Payments" or "Checkout" section. There, you will find a comprehensive list of the payment modalities we accept, including credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet. If you need any further assistance or have any questions about a specific payment method, feel free to let me know. We are committed to providing a seamless payment experience for our valued customers.

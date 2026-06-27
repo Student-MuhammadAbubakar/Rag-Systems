@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: help me to inform of an error with payment
-
-Answer: I've understood that you're experiencing an error with your payment, and I'm here to assist you. To help us resolve this issue, please provide me with more details about the error you encountered during the payment process. Specifically, it would be helpful to know if you received any error messages, what payment method you were using, and any other relevant information. The more information you can provide, the better we can investigate and address the error. Thank you for reaching out to us, and we appreciate your cooperation in resolving this payment error.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I can't change order {{Order Number}}
-
-Answer: I'm sorry to hear that you're facing difficulties in changing order number {{Order Number}}. I understand how frustrating this can be. To better assist you, could you please provide more details about the specific issues you're encountering? This information will enable me to offer you a solution tailored to your situation. Thank you for your patience and cooperation in resolving this matter.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbusre {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've been informed that you're seeking assistance in obtaining a reimbursement of ${{Refund Amount}}, and I'm here to help you with that. To initiate the refund process, I recommend reaching out to our customer support team. They have the necessary tools and expertise to investigate and process your refund request. Please provide them with the relevant details of your purchase along with any documentation you may have, such as receipts or order numbers. The customer support team will guide you through the necessary steps to ensure a smooth and efficient refund process. Thank you for bringing this to our attention, and we appreciate your patience as we resolve this matter for you.

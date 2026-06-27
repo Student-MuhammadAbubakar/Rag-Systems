@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: where can i get information about an {{Account Type}} account deletion
-
-Answer: Appreciate your message about deleting your {{Account Type}} account. I understand that you are looking for information on how to proceed with the deletion process. To obtain the necessary information, I recommend visiting our support website or contacting our customer support team. They will provide you with step-by-step guidance on how to delete your {{Account Type}} account and answer any additional questions you may have. Remember, we are here to assist you throughout the process and ensure a smooth experience.

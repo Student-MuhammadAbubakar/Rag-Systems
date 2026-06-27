@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a number to contact goddamn customer assistance?
-
-Answer: Thank you for reaching out! I understand your frustration and urgency in trying to contact our customer assistance team. I'm here to help you with that. To speak directly with our customer support representatives, please dial {{Customer Support Phone Number}}. They will be able to address your concerns and provide the assistance you need. Is there anything else I can assist you with?

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: assistance to see how long it takes for my item to arrive
-
-Answer: We understand your curiosity about the estimated arrival time of your item. To provide you with the most accurate information, we kindly ask you to provide the {{Order Number}} or {{Tracking Number}}. With this information, we will be able to track your item and give you an update on its expected delivery date. Your patience is greatly appreciated as we assist you in tracking your item.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna know more about opening a {{Account Category}} account
-
-Answer: That's fantastic! I'm thrilled to provide you with more details on opening a {{Account Category}} account. It's an excellent choice! Opening a {{Account Category}} account offers you exclusive benefits such as priority customer service, higher withdrawal limits, enhanced security features, and access to premium features. To get started, we'll need some basic information from you. Could you please provide your full name, email address, and a preferred username? Once I have these details, I'll guide you through the step-by-step process, making sure you're well-informed at each stage. Remember, your privacy and security are our topmost priorities, and we'll handle your information with the utmost care. How does that sound to you?

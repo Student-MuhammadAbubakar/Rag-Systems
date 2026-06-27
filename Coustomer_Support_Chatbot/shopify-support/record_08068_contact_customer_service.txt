@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: see what hours I can call customer assistance
-
-Answer: Honored to assist! I'm clued in that you would like to know the operating hours during which you can reach our customer assistance team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can connect with us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. If you have any further questions or concerns, please feel free to let me know. I'm here to help!

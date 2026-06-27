@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i have to check how soon can i expect tne article
-
-Answer: We appreciate your proactive approach in reaching out to us to inquire about the estimated arrival time of your article. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? Once we have this information, we can quickly check the status and estimated delivery time of your article. We are here to assist you every step of the way!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a purchase, help me obtaining my money back
-
-Answer: I acknowledge that you're seeking assistance in obtaining a refund for the ${{Refund Amount}} purchase you made. Rest assured, I'm here to help guide you through the process of seeking a refund. To begin, I suggest contacting our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will be able to provide you with the necessary steps to initiate the refund request. Additionally, please have your purchase details handy, such as the order number or any other relevant information, as it will expedite the process. Our team is dedicated to resolving this issue for you and ensuring a satisfactory resolution.

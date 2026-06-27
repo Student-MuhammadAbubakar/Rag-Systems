@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: add something to order {{Order Number}}
-
-Answer: Thank you for getting in touch to us regarding your request to add something to order number {{Order Number}}. We understand the importance of making modifications and ensuring your order is exactly as you want it. Could you please provide more details about the item you would like to add? This way, we can assist you further in making the necessary changes.

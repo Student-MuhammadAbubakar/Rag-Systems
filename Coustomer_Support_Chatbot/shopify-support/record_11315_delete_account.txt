@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the deletion of a {{Account Type}} account
-
-Answer: Thank you for your request for information on deleting a {{Account Type}} account. I understand that you would like to know the process involved in removing a {{Account Type}} account from our system. To provide you with accurate information, could you please confirm if you would like to delete your {{Account Type}} account permanently or temporarily? Additionally, it would be helpful if you could provide your account username or any other relevant details so that I can assist you more effectively in this matter.

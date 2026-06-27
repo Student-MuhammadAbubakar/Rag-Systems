@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: want assistance seeinhg how long the shipment takes
-
-Answer: We understand your need for information about the duration of your shipment. To provide you with accurate details, could you please provide us with the {{Tracking Number}} or {{Order Number}}? Once we have this information, we can give you an estimated delivery timeframe. Your patience is greatly appreciated!

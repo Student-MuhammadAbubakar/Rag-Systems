@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: check order {{Order Number}} current status
-
-Answer: Happy to hear from you! I truly understand that you would like to check the current status of your order with the number {{Order Number}} {{Order Number}}. To view the status, please visit the '{{Order Status}}' section on our website. If you have any other questions or need further assistance, feel free to ask. I'm here to ensure your shopping experience is seamless and enjoyable.

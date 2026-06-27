@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want  a pro account
-
-Answer: That's marvelous! I'm thrilled to assist you in creating a new {{Account Type}} account. Your choice to upgrade to a {{Account Type}} account highlights your commitment to accessing advanced features and maximizing the benefits of our platform. To proceed, may I kindly request your full name, email address, and a preferred username? With these details, I can guide you seamlessly through the process, ensuring you're well-informed every step of the way. Rest assured that the security and confidentiality of your information remain our top priority. I'm eagerly looking forward to helping you join our {{Account Type}} community!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a reimbursement of {{Refund Amount}} dollars
-
-Answer: I'm on the same wavelength, the importance of your anticipated reimbursement of {{Currency Symbol}}{{Refund Amount}}. It is crucial to ensure that your concerns are addressed promptly. Let me quickly check the current status of your refund and provide you with an update. While I do that, I'd like to ask if you have previously experienced any delays with reimbursement? Your insights are valuable to us, and we are committed to ensuring your satisfaction. Thank you for your patience.

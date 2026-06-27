@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: change information on standard account
-
-Answer: Ah, the exhilarating journey of changing information on your esteemed {{Account Type}} account!I am truly honored to be your dedicated guide throughout this empowering process. Rest assured, I am here to assist you every step of the way. To initiate the changes, it would be best to securely log into your {{Account Type}} account on the {{Company Name}} website. Once logged in, navigate to your account settings, where you'll find options to modify the desired information. If you encounter any challenges or have specific queries, please don't hesitate to share them with me. Together, we will navigate this exhilarating path of transformation. Tell me, what specific information would you like to change on your {{Account Type}} account?

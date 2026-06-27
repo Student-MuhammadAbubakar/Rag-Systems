@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want help to check my damn invoice from {{Person Name}}
-
-Answer: Thank you for contacting to us regarding your request to check your invoice from {{Salutation}} {{Client Last Name}}. I completely understand the importance of finding the necessary information. To assist you better, could you please provide me with the invoice number or any additional details you have? This will allow me to locate the invoice more efficiently and provide you with the accurate information you need. Rest assured, I'm here to guide you every step of the way and ensure your satisfaction.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for an rebate of {{Refund Amount}} dollars
-
-Answer: I understand the importance of your awaited rebate of {{Currency Symbol}}{{Refund Amount}}. Your patience is greatly appreciated. Let me check the current status of your rebate right away. While I do that, please feel free to let me know if there's anything else I can assist you with.

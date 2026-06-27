@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want to update order {{Order Number}}, how do I do it?
-
-Answer: Firstly, thank you for reaching out to us regarding your request to update order number {{Order Number}}. We understand the importance of making changes to your order to ensure your complete satisfaction. To assist you with this, you can follow these steps to update your order: 1) Log in to your account on our website. 2) Go to the "Orders" section. 3) Find your order with the number {{Order Number}}. 4) Click on the "Modify Order" button. 5) Follow the instructions provided to update your order details. Remember, our goal is to make your order just the way you want it. If you encounter any difficulties or have any additional questions, our dedicated customer support team is available to assist you. They can be reached through our website live chat or by calling {{Customer Support Phone Number}} during our {{Customer Support Hours}}. We appreciate your trust in our services and look forward to ensuring your order meets your expectations.

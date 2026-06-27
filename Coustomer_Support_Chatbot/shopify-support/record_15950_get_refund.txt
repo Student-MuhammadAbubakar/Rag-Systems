@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I don't know how I can request a rebate
-
-Answer: I'm sensitive to the fact that you are unsure about the process of requesting a rebate. It's important to ensure that you have all the necessary information and follow the correct steps. Let me guide you through it. To start, you may want to navigate to our website and look for the "Refund Policy" page. This page will provide you with detailed instructions on how to submit a refund request. If you have any specific questions or need further assistance, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will be more than happy to help you with any concerns or clarifications you may have regarding the rebate process.

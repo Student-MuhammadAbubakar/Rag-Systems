@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: chnaging order {{Order Number}}
-
-Answer: I apologize for the inconvenience you're facing with order number {{Order Number}}. I'm here to assist you in updating your order. Could you please provide me with the specific changes you would like to make? With this information, I will ensure the necessary modifications are made to your satisfaction.

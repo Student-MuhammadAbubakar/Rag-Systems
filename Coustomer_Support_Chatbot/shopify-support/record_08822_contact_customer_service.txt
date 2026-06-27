@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: talk with customer service
-
-Answer: We value your outreach! I'm in tune with the fact that you would like to have a conversation with our customer service team. Our dedicated representatives are ready to assist you. You can reach them during our customer support hours at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you with any questions or concerns you may have. Feel free to ask anything, and we'll be here to support you every step of the way.

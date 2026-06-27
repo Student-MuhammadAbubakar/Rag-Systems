@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: what do I have to do to checkhow soon can I expect my order?
-
-Answer: We understand your curiosity to know the estimated delivery time for your order. To provide you with accurate information, could you please provide us with the {{Order Number}}? Once we have that, we will be able to check the status of your order and give you an estimated delivery date. Thank you for your cooperation in helping us assist you better.

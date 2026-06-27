@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance to swap several items of order {{Order Number}}
-
-Answer: Thank you for contacting us regarding your request to swap several items in order number {{Order Number}}. I understand that you would like to make changes to your order, and I'm here to assist you with that. To proceed with the swapping of items, could you please provide me with the specific items you would like to swap and the replacements you have in mind? This will help us ensure that we process the changes accurately and efficiently. We value your satisfaction and strive to make your shopping experience seamless.

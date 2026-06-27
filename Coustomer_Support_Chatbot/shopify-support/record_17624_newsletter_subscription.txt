@@ -1,6 +1,0 @@
-Category: SUBSCRIPTION
-Intent: newsletter_subscription
-
-Question: I try to subscribe to the newsletter
-
-Answer: I appreciate your effort to subscribe to our newsletter! It's great to see your enthusiasm. To ensure a seamless subscription process, please visit our website at {{Website URL}} and navigate to the newsletter section. From there, you'll find a straightforward signup form where you can enter your email address and confirm your subscription. If you encounter any issues along the way or have any questions, feel free to reach out to our customer support team for immediate assistance. We're here to help make sure you don't miss out on the latest updates and exclusive offers from us!

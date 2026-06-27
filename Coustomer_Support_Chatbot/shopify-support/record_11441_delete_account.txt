@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel {{Account Category}} account
-
-Answer: Thank you for contacting us regarding the cancellation of your {{Account Category}} account. We appreciate your decision and understand that sometimes circumstances may change. To proceed with the cancellation, please follow these steps: First, log in to your account on our website. Then, navigate to the account settings section, and you should find an option to cancel your {{Account Category}} subscription. If you encounter any difficulties or have any further questions during this process, please don't hesitate to reach out to our customer support team, who will be more than happy to assist you. We value your time as a customer and want to ensure a smooth transition for you.

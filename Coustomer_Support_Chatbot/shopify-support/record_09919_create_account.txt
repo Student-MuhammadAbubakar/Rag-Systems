@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening new freemium account
-
-Answer: Thank you for your interest in opening a new {{Account Category}} account! The {{Account Category}} account is a great choice as it offers a combination of free and premium features tailored to meet your banking needs. To get started, we just need a few details from you. Could you please provide your full name, email address, and a preferred username? Once we have these details, our team will guide you through the account opening process and ensure a smooth experience for you. Rest assured, your information will be handled with the utmost care and security. If you have any questions or need further assistance, feel free to ask.

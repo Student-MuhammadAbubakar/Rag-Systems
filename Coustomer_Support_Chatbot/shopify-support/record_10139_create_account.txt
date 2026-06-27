@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening new pro account for daughter
-
-Answer: That's wonderful! I'm delighted to assist you in opening a new {{Account Type}} account for your daughter. To get started, I will guide you through the process step by step, ensuring a smooth experience for both of you. Is your daughter's full name, date of birth, and email address available? These details will be vital for setting up her {{Account Type}} account. Rest assured that our top priority is safeguarding her security and privacy, so you can trust that her information will be handled with utmost care. How are you feeling about this exciting step for your daughter?

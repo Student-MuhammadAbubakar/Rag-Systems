@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can uhelp me to change a product of purchase {{Order Number}}
-
-Answer: We understand that you need assistance with changing a product in purchase number {{Order Number}}. Our team is here to help you with that. To better assist you, could you please provide us with the details of the product you would like to change and the specific changes you would like to make? This will enable us to process your request accurately and efficiently. We appreciate your patience and look forward to resolving this for you.

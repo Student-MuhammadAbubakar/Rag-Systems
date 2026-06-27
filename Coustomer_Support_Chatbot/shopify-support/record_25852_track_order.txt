@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: see eta of order {{Order Number}}
-
-Answer: We're all ears! I'm tuned into the idea that you would like to check the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with accurate information, could you please provide me with a few more details? Specifically, could you let me know which shipping carrier was used for this order? Once I have this information, I will be able to assist you further in tracking the ETA of your purchase.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help with adding several items to purchase {{Order Number}}
-
-Answer: We appreciate your request for assistance in adding several items to purchase number {{Order Number}}. We understand the importance of customizing your order to meet your needs. To help you with this, please provide us with the specific details of the items you would like to add, such as the product names or identification numbers. By doing so, we'll be able to ensure that your purchase accurately reflects your preferences. We're here to make your shopping experience as seamless as possible!"

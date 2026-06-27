@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I missed an item in purchase {{Order Number}}, I need help adding it
-
-Answer: We apologize for the inconvenience you experienced with your purchase. We fully understand the importance of adding the missed item to purchase number {{Order Number}}. Rest assured, we are here to assist you in resolving this issue promptly. Could you please let us know the details of the item you'd like to add? This will help us ensure that your order is complete and meets your expectations.

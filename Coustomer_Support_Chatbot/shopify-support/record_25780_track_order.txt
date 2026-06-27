@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I am trying to see the ET of the order {{Order Number}}
-
-Answer: Happy to hear from you! I truly understand that you would like to see the estimated time (ET) of your order with the order number {{Order Number}}. To check the ET, please visit our website and navigate to the 'Order Details' section. There, you will find all the relevant information about your order, including the estimated time of arrival. If you have any difficulties finding the information or need further assistance, please let me know. I'm here to help you every step of the way!

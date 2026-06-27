@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: removing {{Account Category}} acconut
-
-Answer: Thank you for contacting us regarding the removal of your {{Account Category}} account. I understand that you would like assistance with canceling your account, and I'm here to help. To proceed with the removal process, please provide me with some additional information, such as your account username or email address, so that I can locate your account and guide you through the necessary steps. Your satisfaction is our top priority, and we will ensure that your account removal is handled smoothly and efficiently.

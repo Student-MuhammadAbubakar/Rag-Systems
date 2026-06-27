@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need assistance seeing my bill #12588
-
-Answer: I comprehend your need for assistance in accessing and reviewing the bill with the number #{{Invoice Number}}. Rest assured, I'm here to help you with that. To quickly view your bill, you can log in to your account on our website and navigate to the billing section. Alternatively, you can contact our customer support team, and they will gladly provide you with the necessary information. Please let me know if there's anything else I can assist you with.

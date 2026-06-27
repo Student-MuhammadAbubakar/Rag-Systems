@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: tell me more about shipping period
-
-Answer: We understand that you would like more information about the shipping period. The shipping period refers to the time it takes for your package to be delivered to its destination after it has been shipped. The duration of the shipping period can depend on various factors, including the shipping method selected, the distance between the origin and destination, and any additional services or customs processes that may be involved. To provide you with accurate information about the shipping period for your specific order, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With these details, we will be able to assist you further. Thank you for your understanding.

@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: I want assistance to check the withdcrawal charge
-
-Answer: To check the withdrawal charge, please log in to your account and navigate to the "Termination Charges" section. You will find detailed information about the fees associated with withdrawing funds from your account.

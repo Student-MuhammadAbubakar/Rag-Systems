@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: closing {{Account Category}} account
-
-Answer: Glad you contacted about closing your {{Account Category}} account. I understand that you've made the decision to cancel your account, and I'm here to assist you with the process. To ensure a smooth cancellation, can you please provide me with some additional details? Specifically, could you let me know the reason for closing your account? This information will help us better understand your needs and provide any necessary assistance or alternatives. Remember, we value your time and appreciate your trust in our services. Let's work together to ensure a hassle-free account closure experience.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me getting in touch with customer assistance
-
-Answer: We're listening! I'm keyed into the fact that you need assistance in getting in touch with our customer assistance team. Rest assured, we are here to help you. To connect with our customer assistance, you can reach us during our working hours at {{Customer Support Hours}}. You can also contact us through our Live Chat on our website at {{Website URL}}. We strive to provide prompt and efficient support, so please don't hesitate to reach out if you have any further questions or concerns. How else can I assist you today?

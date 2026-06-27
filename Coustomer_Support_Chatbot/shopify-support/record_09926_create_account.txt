@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want assistance creatinga standard account
-
-Answer: Grateful you reached out for assistance in creating a {{Account Type}} account. I would be more than happy to guide you through the process step by step. To get started, can you please provide me with your full name, email address, and a preferred username? This information will help us create your account effectively while ensuring your privacy and security.

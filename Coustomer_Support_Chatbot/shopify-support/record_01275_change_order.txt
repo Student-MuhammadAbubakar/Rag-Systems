@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how do I switch some goddamn products of order {{Order Number}}?
-
-Answer: We understand that you are looking to switch some products in your order with the number #{{Order Number}}. We apologize for the inconvenience caused. To assist you with this, we recommend reaching out to our customer support team who will be able to guide you through the process and make the necessary changes. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, our team will do everything possible to ensure your desired changes are made seamlessly and to your satisfaction.

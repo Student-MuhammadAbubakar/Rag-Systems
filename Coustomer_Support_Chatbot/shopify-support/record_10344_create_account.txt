@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create new pro account
-
-Answer: Fantastic! I'm excited to assist you in creating a new {{Account Type}} account. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I will guide you through the process step by step. We offer a range of exclusive benefits with our {{Account Type}} accounts, including advanced features, priority customer support, and special discounts. Don't worry, your information will be handled securely and with the utmost confidentiality. Let's begin this exciting journey together!

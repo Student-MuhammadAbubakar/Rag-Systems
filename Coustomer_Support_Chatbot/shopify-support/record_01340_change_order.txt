@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have to correct purchase {{Order Number}} how can i do it
-
-Answer: Thank you for your message to us regarding your request to correct purchase number {{Order Number}}. We apologize for any inconvenience this may have caused. To assist you with making the necessary correction, I recommend contacting our customer support team directly. They will be able to guide you through the process and ensure that your purchase is corrected accurately. You can reach them by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, our team is committed to providing you with the best possible resolution to meet your needs.

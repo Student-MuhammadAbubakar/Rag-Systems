@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: show me the withdrawal charges
-
-Answer: Sure, to view the withdrawal charges, you can log into your account and go to the "Fees and Charges" section. There you will find all the information regarding any applicable withdrawal fees.

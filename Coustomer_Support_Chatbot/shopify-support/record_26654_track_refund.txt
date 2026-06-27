@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I hear you loud and clear the significance of the refund you are anticipating, which amounts to {{Currency Symbol}}{{Refund Amount}}. Every refund holds value, and I assure you that I am committed to providing you with the necessary assistance. Allow me to delve into the current status of your refund. I appreciate your patience as I gather the information.

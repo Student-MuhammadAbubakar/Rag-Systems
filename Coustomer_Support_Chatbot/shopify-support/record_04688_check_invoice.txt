@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know how i can take a quick look at the bill #37777
-
-Answer: Sure! I understand that you're unsure about how to quickly view the bill with the number #{{Invoice Number}}. Let me guide you through the process. To get a quick look at your bill, you can log in to your account on our website and navigate to the billing section. There, you should be able to find an option to view your invoices. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to assist you every step of the way.

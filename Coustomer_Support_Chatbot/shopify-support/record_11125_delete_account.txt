@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I try to delete my platinum account
-
-Answer: Appreciate your message to us about deleting your {{Account Category}} account. I understand that you want to take this step, and I'm here to guide you through the process. To ensure the security and accuracy of your request, I kindly ask you to provide me with some details related to your account. Please share your account username or any other identifying information so that I can assist you further. Rest assured, we value your decision and will work towards resolving your request promptly.

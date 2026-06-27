@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i do not have a standard account assistance registering
-
-Answer: I'll do my best! I'm here to assist you with registering for a {{Account Type}} account. To get started, could you please provide me with your full name, email address, and a preferred username? With this information, I'll guide you through the registration process step by step, ensuring you have a seamless experience. Rest assured that we prioritize your security and privacy, so any information you share with us will be handled with utmost care. Let's begin this exciting journey together!

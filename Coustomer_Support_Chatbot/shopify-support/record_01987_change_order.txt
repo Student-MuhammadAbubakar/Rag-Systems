@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I add several articles to order {{Order Number}}?
-
-Answer: I appreciate your request to add several articles to order number {{Order Number}}. Your satisfaction is our top priority, and we want to ensure that your order meets all your requirements. To proceed with adding the articles, could you please provide me with the specific details of the articles you wish to add? This information will help us make the necessary adjustments to your order and ensure a seamless shopping experience for you. Thank you for your cooperation!

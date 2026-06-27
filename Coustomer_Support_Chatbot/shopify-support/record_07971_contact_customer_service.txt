@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need assistance talkig to fucking customer support
-
-Answer: Thank you for reaching out! I completely understand that you need assistance in connecting with our customer support team. I apologize for any inconvenience you may have experienced. To ensure that I can provide you with the most accurate and efficient support, could you please provide me with your {{Customer Support Ticket Number}}? Once I have this information, I will be able to initiate the process of connecting you with our customer support team.

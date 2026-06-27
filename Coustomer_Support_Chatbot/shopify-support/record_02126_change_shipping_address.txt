@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: support changing my shipping address
-
-Answer: We are here to assist you with changing your shipping address. To proceed, please provide us with your current address as well as the new address you would like to update it to.

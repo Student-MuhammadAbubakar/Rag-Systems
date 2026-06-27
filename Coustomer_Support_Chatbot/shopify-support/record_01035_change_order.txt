@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to remove an article from purchase {{Order Number}}
-
-Answer: Appreciate you reaching out to us! I understand that you need assistance with removing an article from purchase number {{Order Number}}. I'll be more than happy to help you with that. Could you please provide me with the specific details of the article you would like to remove? This will allow me to guide you through the process more effectively.

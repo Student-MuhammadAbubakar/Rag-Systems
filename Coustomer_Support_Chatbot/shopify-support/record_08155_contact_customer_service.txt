@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to speak with customer assistance, how do I do it?
-
-Answer: Thank you for trusting us! I'm fully aware of you need to speak with our customer assistance team. To connect with them, you can reach out to our dedicated customer support helpline at {{Customer Support Phone Number}} or send an email to our customer service email address at {{Customer Service Email Address}}. We're here to assist you with any inquiries or concerns you may have. Please don't hesitate to reach out. How else can I assist you today?

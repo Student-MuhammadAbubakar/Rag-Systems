@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need to give a quick look at the invoice from {{Person Name}}
-
-Answer: Certainly! I recognize your need to quickly review the invoice from {{Salutation}} {{Client Last Name}}. It's essential to have easy access to the necessary information to make informed decisions. Let me assist you with this. Could you please provide me with any relevant details such as the invoice number, date range, or any specific products or services you'd like to focus on? By understanding your requirements better, we can streamline the process and ensure that you have a seamless experience.

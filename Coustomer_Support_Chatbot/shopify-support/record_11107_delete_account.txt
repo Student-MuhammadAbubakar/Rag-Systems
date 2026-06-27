@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need information about the deletion of my {{Account Type}} account
-
-Answer: I appreciate you reaching out to us regarding the deletion of your {{Account Type}} account. Rest assured, I'm here to provide you with the necessary information. To proceed with the deletion of your {{Account Type}} account, please follow the steps outlined in our account management section on our website. If you encounter any difficulties or have any specific questions about the process, our support team will be more than happy to assist you. Simply reach out to them through our customer support channels. We value your membership and want to ensure we address any concerns you may have during this process.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: how could I open a {{Account Type}} account?
-
-Answer: Thank you for your interest in opening a {{Account Type}} account with us! I'm excited to guide you through the process. To begin, please visit our website and look for the "Sign Up" or "Register" button. Click on that button, and you will be directed to a registration page. On the registration page, you will need to provide some basic information such as your name, email address, and a password for your account. Once you have filled in the required fields, click on the "Submit" or "Create Account" button, and voila! You will have successfully opened a {{Account Type}} account with us. If you have any questions or need any assistance along the way, please don't hesitate to ask. We're here to help!

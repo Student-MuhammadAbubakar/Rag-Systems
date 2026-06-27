@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not know what to do to create a {{Account Type}} account for my dad
-
-Answer: Not a problem! I'm here to guide you through the process of creating a {{Account Type}} account for your dad. It's wonderful that you're taking this initiative. Allow me to explain the steps involved and provide any necessary assistance along the way. With your dad's information and a few simple clicks, we'll have his {{Account Type}} account ready in no time. Let's get started!

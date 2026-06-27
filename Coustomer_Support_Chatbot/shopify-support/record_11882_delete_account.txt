@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: find information about the termination of a platinum account
-
-Answer: Thank you for getting in touch to us about finding information regarding the termination of your {{Account Category}} account. I understand that you are looking for specific details about the termination process, and I'm here to help. Our company takes account termination seriously, and we want to ensure that you have all the necessary information. Can you please provide me with your account details, such as your account number or registered email address? This will allow me to assist you more effectively and provide you with accurate information about the termination process for your specific {{Account Category}} account.

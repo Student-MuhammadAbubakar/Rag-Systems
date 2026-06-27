@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: wanna check at what time i can reach customer assistance
-
-Answer: Thank you for reaching out! I understand your desire to check the hours when you can reach our customer assistance. Our dedicated team is available for your support during our customer support hours. You can contact us between {{Customer Support Start Time}} and {{Customer Support End Time}}. If you have any other questions or concerns, please don't hesitate to let me know. I'm here to assist you in any way I can.

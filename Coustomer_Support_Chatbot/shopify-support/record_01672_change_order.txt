@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can ya help me change a product of purchase {{Order Number}}
-
-Answer: We appreciate your request to change a product in purchase number {{Order Number}}. We understand that you may have mistakenly selected the wrong item or would like to replace it with a different one. We're here to assist you in making this change. Could you please provide us with the details of the product you would like to change, including the specific changes you'd like to make? This information will help us ensure that we accurately update your purchase and provide you with the product you desire. Thank you for your patience and cooperation.

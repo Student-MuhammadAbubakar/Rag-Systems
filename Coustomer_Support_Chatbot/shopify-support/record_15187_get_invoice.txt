@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i want assistance to downlolad my bill #85632
-
-Answer: I realized you're seeking assistance to download your bill with number {{Invoice Number}}. Let me guide you through the process. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. Here, you should be able to find and download your bill with the specified number. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to assist you every step of the way.

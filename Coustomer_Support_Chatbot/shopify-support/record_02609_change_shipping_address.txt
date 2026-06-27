@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: my address has changed, I want to edit it
-
-Answer: Thank you for letting us know that your address has changed. To edit your shipping address, please follow these steps: 1. Log into your account. 2. Go to the "My Account" section. 3. Find the "Shipping Address" tab and click on it. 4. Update your address details. 5. Save the changes. If you encounter any issues or have further questions, please don't hesitate to reach out to our customer service team for assistance.

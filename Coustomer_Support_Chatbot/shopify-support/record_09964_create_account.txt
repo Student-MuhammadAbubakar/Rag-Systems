@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: what do i have to do to open a {{Account Category}} account
-
-Answer: We appreciate your interest in opening a {{Account Category}} account! To get started, you will need to provide some basic information such as your full name, email address, and a preferred username. Additionally, you may be required to submit identification documents for verification purposes. Once you have gathered this information, you can either visit our website and follow the account opening procedure or reach out to our customer support team who will be more than happy to assist you further. Rest assured that we are committed to ensuring a seamless and secure account opening process.

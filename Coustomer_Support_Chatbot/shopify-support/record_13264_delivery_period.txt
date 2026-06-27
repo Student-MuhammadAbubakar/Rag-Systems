@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can i check when my bloody shipment is gonna arrive
-
-Answer: We understand your frustration and eagerness to know when you can expect your shipment to arrive. To provide you with accurate information, may I please have the {{Tracking Number}} or {{Order Number}}? Once we have that, we can check the status of your shipment and provide you with an estimated delivery date. Thank you for your patience as we assist you in tracking your shipment.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I'm trying to download invoice #85632
-
-Answer: Sure! I completely understand your need to download invoice #{{Invoice Number}}. Let me assist you with that right away. Please bear with me for a moment while I retrieve the invoice for you. In the meantime, if you have any other questions or if there's anything else I can help you with, please feel free to let me know. Your satisfaction is my priority!

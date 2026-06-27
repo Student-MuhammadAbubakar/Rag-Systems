@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: where can I find information about a {{Account Type}} account removal?
-
-Answer: Thank you for contacting to us for information about removing a {{Account Type}} account. To find the necessary details and steps to remove your account, I recommend checking our support portal or the FAQs section on our website. These resources are designed to provide comprehensive information and step-by-step instructions for different account-related processes, including account removal. If you need any further assistance or have specific questions about the removal process, please don't hesitate to let me know. I'm here to help you every step of the way.

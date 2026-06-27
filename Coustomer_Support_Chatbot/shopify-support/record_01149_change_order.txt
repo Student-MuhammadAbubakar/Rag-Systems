@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want help to edit purchase {{Order Number}}
-
-Answer: I've come to understand that you need assistance in editing purchase number {{Order Number}}. We want to make sure that your purchase meets your expectations, so please provide us with the specific details of the changes you would like to make. Whether it's modifying the quantity, updating the shipping address, or selecting different products, we're here to help you through the process. Feel free to let us know your preferences, and we'll do our best to accommodate your request. Your satisfaction is our priority!

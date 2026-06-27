@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: help me to see your available payment modalities
-
-Answer: Thank you for reaching out! I'm here to assist you in viewing our available payment methods. To see our complete list of payment options, you can visit our website and navigate to the "Payments" or "Checkout" section. Alternatively, you can also find this information on our mobile app under the "Payment Methods" tab. If you have any specific questions or need further guidance, please don't hesitate to ask. We're here to help make your payment experience smooth and convenient.

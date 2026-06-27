@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: question about cancelling purchase {{Order Number}}
-
-Answer: I've understood, you have a question regarding canceling your purchase with the order number {{Order Number}}. I'm here to assist you and provide the information you need. Please feel free to ask your question, and I'll do my best to help you clarify any doubts or concerns you may have.

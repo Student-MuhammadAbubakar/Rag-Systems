@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i want assistance to give a quick look at the invoice #37777
-
-Answer: Indeed! I'm here to provide you with the assistance you need to quickly access the invoice with the number #{{Invoice Number}}. To view your invoice, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. If you're having trouble locating it, I'd be happy to guide you step by step. Just let me know!

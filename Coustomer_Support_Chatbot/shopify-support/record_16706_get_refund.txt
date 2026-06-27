@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refund  {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I acknowledge that you are requesting a refund of ${{Refund Amount}}. I apologize for any inconvenience you may have experienced. To assist you further, could you please provide more details about your recent transaction and the reason for requesting a refund? This information will help me guide you through the refund process and ensure a smooth resolution. Rest assured, I am here to support you and resolve this matter as quickly as possible.

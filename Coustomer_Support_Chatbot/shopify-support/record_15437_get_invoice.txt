@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where do I get the bills from {{Person Name}}?
-
-Answer: I'll take care of it! I understand your need to locate {{Person Name}}'s bills. To access his bills, you can go to the "Billing" section on our website. From there, you will be able to find and download all the invoices associated with {{Person Name}}'s account. If you need any further assistance or have any other questions, please feel free to let me know.

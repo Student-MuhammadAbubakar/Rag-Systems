@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opdn {{Account Type}} account
-
-Answer: Thank you for your interest in creating a {{Account Type}} OPDN account! I'm excited to assist you in this process, so you can experience the benefits and features our platform has to offer. To get started, could you please provide your full name, email address, and a preferred username? Once we have these details, we can proceed with setting up your account and I'll guide you through the steps. Rest assured, your information will be handled with the utmost care and security. Let's create your OPDN account and embark on your journey to success!

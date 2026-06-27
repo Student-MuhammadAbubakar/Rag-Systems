@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: the payment failed, where do I notify of errors?
-
-Answer: I apologize for the inconvenience caused by the failed payment. To notify us of the errors, please reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is well-equipped to assist you with any payment issues and will work diligently to resolve them as swiftly as possible. Thank you for bringing this to our attention, and we appreciate your patience as we address the situation.

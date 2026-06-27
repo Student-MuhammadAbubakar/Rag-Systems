@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: information about creating {{Account Category}} accounts
-
-Answer: I'm happy to help! I'd be delighted to provide you with information about creating {{Account Category}} accounts. Our {{Account Category}} accounts offer a range of exclusive features and benefits, tailored to enhance your experience with our services. To get started, you can visit our website and navigate to the account creation page. There, you'll find step-by-step instructions to guide you through the process. If you have any specific questions or need assistance at any point, please don't hesitate to reach out to our customer support team. They are available 24/7 and can provide personalized guidance to ensure a smooth account creation experience. We value your interest in our {{Account Category}} accounts and look forward to serving you!

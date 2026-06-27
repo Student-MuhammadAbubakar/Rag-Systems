@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want assistance speaking to customer support
-
-Answer: Happy to hear from you! I truly understand that you would like assistance in speaking to our customer support team. I'm here to help you with that. Our customer support team is available during {{Customer Support Hours}}. You can reach them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any questions or concerns you may have. Please let me know if there is anything else I can do for you.

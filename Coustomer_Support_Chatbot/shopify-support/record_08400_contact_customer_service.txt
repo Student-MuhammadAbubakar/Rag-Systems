@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help calling customer support
-
-Answer: Your message means a lot! I'm aligned with the idea that you need assistance with reaching our customer support team. Our dedicated team is available during {{Customer Support Hours}}. If you would like to call, you can reach us at {{Customer Support Phone Number}}. We are here to help you with any questions or concerns you may have. Let me know if there's anything else I can assist you with!

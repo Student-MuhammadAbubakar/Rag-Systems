@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i have to close my pro account
-
-Answer: Thank you for letting us know that you need to close your {{Account Type}} account. We understand that circumstances can change, and we're here to assist you with the process. To proceed with closing your {{Account Type}} account, please provide us with your account details such as your username or email associated with the account. This will enable us to locate your account and guide you through the necessary steps to close it. We appreciate your patience and cooperation as we work towards resolving your request promptly.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know how i can locate bill #00108
-
-Answer: I certainly recognize your uncertainty about how to locate the details of your bill with the number #{{Invoice Number}}. Finding specific invoices can sometimes be challenging, but don't worry, I'm here to assist you every step of the way. To help you locate the bill, I kindly ask you to provide me with more details such as the date range, the name of the client, or any other relevant information that can narrow down the search. Once we have more information, we'll be able to find the bill you're looking for.

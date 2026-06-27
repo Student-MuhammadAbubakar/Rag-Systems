@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i havent registeredhelp opening a pro account with you
-
-Answer: Thank you for contacting to us! I'd be more than happy to assist you in opening a {{Account Type}} account. We have a range of {{Account Type}} account options available, each with its own unique features and benefits tailored to meet your specific needs. To get started, could you please provide me with your full name, email address, and a preferred username? This information will help us create your account and ensure a seamless experience for you. Rest assured that your privacy and security are our top priorities, and we will handle your personal information with the utmost care and protection.

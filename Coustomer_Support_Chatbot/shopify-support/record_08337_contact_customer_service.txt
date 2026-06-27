@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need to speak with customer support, help me
-
-Answer: We're listening! I'm keyed into the fact that you need to speak with our customer support team. I'm here to assist you in connecting with them. You can reach our customer support by calling {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. If you prefer, you can also email us at {{Customer Support Email}}. Please let me know if there's anything else I can do to help you with your inquiry.

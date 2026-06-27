@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i dont know how i can delete something from order {{Order Number}}
-
-Answer: Appreciate your message to us for help with deleting an item from order number {{Order Number}}. I understand that you're unsure of the process, and I'm here to guide you through it. To delete an item from your order, you can either visit your account page or contact our customer support team. They will be able to assist you further and ensure that the item is removed successfully. Let me know if there's anything else I can do to assist you.

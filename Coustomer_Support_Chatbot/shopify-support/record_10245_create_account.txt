@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: give me information about opening standard accounts
-
-Answer: Thank you for your interest in opening a standard account with us! {{Account Type}} accounts are a great choice for individuals who prefer a solid and reliable option without any additional frills or features. With a standard account, you can enjoy basic banking services such as checking and savings accounts, debit cards, and online banking access. It's an excellent starting point to manage your finances conveniently and securely. If you have any specific questions or need further assistance, feel free to let me know. I'm here to help!

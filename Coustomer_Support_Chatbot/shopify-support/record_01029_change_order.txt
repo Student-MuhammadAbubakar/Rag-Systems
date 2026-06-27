@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me changing a fucking product of purchase {{Order Number}}
-
-Answer: We value your request to change a product in purchase number {{Order Number}}. Our team is committed to providing timely assistance and ensuring your satisfaction. To better assist you, could you please provide more details about the product you'd like to change? This will allow us to take the necessary steps to fulfill your request efficiently. Your feedback is crucial to improving our services, and we appreciate your patience as we work on resolving this matter.

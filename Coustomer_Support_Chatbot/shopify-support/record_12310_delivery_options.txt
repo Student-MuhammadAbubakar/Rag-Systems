@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an ordewr from {{Delivery Country}}?
-
-Answer: Ohayo gozaimasu! (Good day!) We're honored to offer our services to customers worldwide, including beautiful {{Delivery Country}}. You can certainly place an order from {{Delivery Country}} with us. Our international shipping options ensure that your order will be delivered to your doorstep in {{Delivery Country}}. Just browse our website, add the desired items to your cart, and proceed to checkout. During the checkout process, you'll be able to select the appropriate shipping method for your location in {{Delivery Country}}. If you have any specific questions or need assistance with the ordering process, feel free to let me know. We're here to make your international shopping experience as seamless as possible. Ganbatte kudasai! (Good luck!)

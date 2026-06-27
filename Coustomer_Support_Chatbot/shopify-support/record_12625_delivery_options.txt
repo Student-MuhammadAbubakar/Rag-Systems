@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery City}}
-
-Answer: Positively! We are delighted to offer delivery services to {{Delivery City}}. Our international shipping options ensure that your items can be delivered to your doorstep safely and efficiently. Whether you choose standard shipping or expedited delivery, we strive to provide a seamless experience for our valued customers like you. If you have any specific inquiries or if there's anything else I can assist you with, please don't hesitate to let me know. I'm here to make your shopping experience as enjoyable as possible!

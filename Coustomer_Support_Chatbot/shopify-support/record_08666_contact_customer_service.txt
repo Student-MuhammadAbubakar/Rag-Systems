@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: assistance to speak with bloody customer support
-
-Answer: We appreciate your message! It's clear to me that you need assistance in speaking with our customer support team. I'm here to help guide you through the process. To connect with our customer support, you can reach them during {{Customer Support Hours}} at {{Customer Support Phone Number}}. If you prefer, you can also visit our website at {{Website URL}} and engage in a live chat session with our representatives. Don't hesitate to ask if you have any more questions or concerns. How else can I assist you today?

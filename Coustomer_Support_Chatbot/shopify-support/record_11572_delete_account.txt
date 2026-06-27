@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need informatoin about {{Account Category}} account terminations
-
-Answer: Thank you for contacting regarding the termination of your {{Account Category}} account. We understand that this must be an important decision for you, and we're here to provide the necessary information and support. To assist you better, could you please clarify what specific information you are looking for regarding the termination process? This will allow us to give you the most accurate and relevant guidance. We appreciate your patience and assure you that we're committed to ensuring a smooth experience throughout this process.

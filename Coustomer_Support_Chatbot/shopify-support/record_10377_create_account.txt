@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can I open a pro account for my daughter?
-
-Answer: Indeed! We're thrilled that you're considering opening a {{Account Type}} account for your daughter. It's a fantastic choice that will provide her with additional benefits and features. To get started, I'll guide you through the process step-by-step. We'll need some basic information such as your daughter's full name, date of birth, and contact details. Rest assured, we prioritize your daughter's safety and privacy, and all her information will be handled securely. Once we have the necessary details, we'll set up her {{Account Type}} account and send you the login information. If you have any questions or need assistance at any point, feel free to reach out. We're here to help you and provide the best experience for your daughter!

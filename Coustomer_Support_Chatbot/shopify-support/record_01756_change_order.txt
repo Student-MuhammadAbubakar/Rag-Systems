@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how to change several products of order {{Order Number}}?
-
-Answer: We understand that you're looking to change several products in your order with the number {{Order Number}}. We're here to assist you with that. To proceed with the changes, I recommend contacting our customer support team directly. They have the expertise and tools to help you modify your order accurately. You can reach them at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will guide you step by step and ensure that the changes are made according to your preferences. Rest assured, we're committed to providing you with a seamless shopping experience. Is there anything else we can assist you with?

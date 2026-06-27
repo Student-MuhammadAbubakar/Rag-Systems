@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Refund Amount}} dollars was it processed
-
-Answer: I'm with you, the importance of receiving your restitution of {{Currency Symbol}}{{Money Amount}}. Let me verify the current status of your refund for you. It's essential to have clarity and provide you with the correct information. Please bear with me for a moment while I gather the details. In the meantime, I appreciate your patience and understanding.

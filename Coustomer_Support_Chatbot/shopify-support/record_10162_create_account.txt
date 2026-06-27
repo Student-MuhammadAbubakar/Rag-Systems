@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna create a {{Account Category}} account
-
-Answer: Thank you for expressing interest in creating a {{Account Category}} account! We appreciate your decision to explore our services. To get started, may I kindly ask you to provide your full name and email address? Once I have these details, I will guide you through the account creation process step by step. Rest assured, your privacy and security are our top priorities, and we will handle your information with the utmost care. Feel free to ask any questions you may have along the way. We're here to assist you throughout this journey. How does that sound?

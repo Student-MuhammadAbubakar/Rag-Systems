@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: help me see when will mny purchase arrive
-
-Answer: We understand your excitement about receiving your purchase and wanting to know its estimated arrival time. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With these details, we can track your purchase and give you an update on its expected delivery date. Your patience is greatly appreciated as we work to assist you further.

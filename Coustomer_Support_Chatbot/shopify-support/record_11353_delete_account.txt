@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not know what I need to do to close my {{Account Type}} account
-
-Answer: Grateful you reached out to us regarding the closure of your {{Account Type}} account. I understand that you may be unsure about the necessary steps to take in order to cancel your account. Rest assured, I'm here to guide you through the process. To close your {{Account Type}} account, you can either reach out to our customer support team directly or follow the instructions available on our website. They will be able to assist you with the cancellation process and ensure that it is completed smoothly. If you have any further questions or need any additional assistance, please don't hesitate to let me know.

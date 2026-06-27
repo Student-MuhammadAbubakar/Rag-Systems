@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: wanna call cystomer assistance
-
-Answer: We're here to help! I take note that you want to call our customer assistance team. Our dedicated customer support staff is available during {{Customer Support Hours}} to assist you. You can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We value your time and are here to provide the assistance you need. Feel free to reach out if you have any other questions or concerns.

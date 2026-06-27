@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: clsoe {{Account Category}} account
-
-Answer: Appreciate your message to us regarding the closure of your {{Account Category}} account. I understand that you no longer wish to use the account and would like to remove it. I'm here to assist you with the necessary steps to close your account. To ensure the accuracy of the process, could you please provide me with some additional details, such as the email address associated with your account or any other information that can help us locate your account in our system? This will allow me to provide you with the specific instructions and guidance you need to successfully close your {{Account Category}} account.

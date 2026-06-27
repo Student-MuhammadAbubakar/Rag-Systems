@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i dont have a bloody {{Account Category}} account yet i ened to open one
-
-Answer: I appreciate your enthusiasm to open a {{Account Category}} account with us! Let me assist you in the process so you can start enjoying the benefits. To get started, could you please provide me with your full name and email address? This will help us create your account and ensure all your information is secure. Once we have that, I'll guide you through the remaining steps to complete the account creation. If you have any questions along the way, feel free to ask. We're here to make this process as smooth as possible for you.

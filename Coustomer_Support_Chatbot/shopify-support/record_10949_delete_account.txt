@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i don use my pro account help me close it
-
-Answer: I'm glad you contacted us to us regarding the closure of your unused {{Account Type}} account. I understand that you no longer utilize the account and would like it to be closed. Allow me to assist you with this process. Can you please provide me with the necessary details, such as your account information or any specific preferences you have for the closure? Rest assured, I'll make sure to handle your request promptly and efficiently.

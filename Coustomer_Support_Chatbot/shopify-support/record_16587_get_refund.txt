@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimburse {{Refund Amount}} dollars
-
-Answer: I gather that you are seeking a reimbursement of ${{Refund Amount}}, and I'm here to assist you with this process. Requesting a reimbursement can be frustrating, but I assure you that I will make the procedure as smooth as possible. To begin, please provide me with some more information about the specific circumstances that led to the need for reimbursement. This will allow me to better understand the situation and guide you through the necessary steps. Rest assured, I am here to support you throughout this process and ensure that you receive the refund you are entitled to.

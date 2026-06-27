@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a purchase, assistance obtaining a refund
-
-Answer: I've picked up that you paid ${{Refund Amount}} for a purchase and now require assistance in obtaining a refund. I'm here to help you navigate through this process and ensure that your concerns are addressed promptly. To better assist you, could you please provide me with some additional details about your purchase, such as the date of purchase, the method of payment, and any communication you've had with the seller regarding the refund? This information will enable me to provide you with accurate guidance and support in reclaiming your funds. Rest assured, I am well-equipped to assist you in the best possible way.

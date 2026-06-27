@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a rebate of {{Currency Symbol}}{{Refund Amount}} has it been processd already
-
-Answer: Thank you for informing us about your expected rebate of {{Currency Symbol}}{{Refund Amount}}. I understand how important it is for you to ensure its processing. Let me check the current status of your rebate right away. While I do, could you please share any relevant details or confirmation numbers related to your rebate? This will assist me in providing you with the most accurate and up-to-date information. Rest assured, I'm here to help you every step of the way.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need assistance finding the bills from {{Person Name}}
-
-Answer: Certainly! I understand that you require assistance in locating the bills from {{Salutation}} {{Client Last Name}}. To help you better, could you please provide me with any additional details such as the date range or any specific invoice numbers? This will allow me to narrow down the search and provide you with the most accurate information. Rest assured, I am here to guide you every step of the way and ensure your satisfaction with our service.

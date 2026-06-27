@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want to get the bill #85632, I need help
-
-Answer: I understand your urgency to access the bill with number #{{Invoice Number}}. Let me assist you with that. Please bear with me for a moment while I retrieve the requested bill for you. In the meantime, if you have any other questions or concerns, feel free to let me know.

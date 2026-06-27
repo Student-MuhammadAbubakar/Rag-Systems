@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: mail em the bill #37777
-
-Answer: I hear you loud and clear your request to have the bill #{{Invoice Number}} sent to you. Just to confirm, could you please provide me with your preferred email address? This way, I can ensure that the bill is delivered to the correct recipient.

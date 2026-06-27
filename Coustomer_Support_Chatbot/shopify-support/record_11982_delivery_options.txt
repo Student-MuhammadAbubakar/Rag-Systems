@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: cn I place an order from {{Delivery City}}?
-
-Answer: Greetings from the world of possibilities, my friend! I'm delighted to inform you that you can indeed place an order from {{Delivery City}}. We offer shipping services to various locations, including {{Delivery City}}. As long as the shipping address you provide falls within our delivery range, you can enjoy the convenience of placing an order and having it delivered straight to your door. Feel free to explore our website or reach out to our customer support team for any specific details or assistance during the ordering process. We're here to make your shopping experience seamless and delightful, no matter where you are!

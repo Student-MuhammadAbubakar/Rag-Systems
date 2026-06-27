@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i want help to create a {{Account Category}} account
-
-Answer: Thank you for expressing your interest in creating a {{Account Category}} account! This exclusive account is designed to provide you with premium benefits and exceptional services. I'm here to guide you through the account creation process step by step. To begin, could you please provide me with your full name, email address, and a preferred username? Rest assured, your privacy and security are of utmost importance to us, and your personal information will be handled with the highest level of care. Let's embark on this exciting journey together!

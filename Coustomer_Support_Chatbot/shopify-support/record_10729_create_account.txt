@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i have problems with opening a pro account
-
-Answer: I realized, you're experiencing difficulties in opening a {{Account Type}} account, and I'm here to assist you. To better understand the specific problems you're facing, could you please provide more details about the issues you're encountering? Are you receiving any error messages or facing technical glitches during the account creation process? Once I have more information, I can guide you through the troubleshooting steps or offer suitable alternatives to ensure a smooth experience in opening your {{Account Type}} account.

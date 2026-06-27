@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how do I see how long it takes for  the item to arrive?
-
-Answer: We understand your curiosity about the estimated arrival time of your item. To check the delivery period, you can visit our website and navigate to the tracking or order status page. There, you'll be able to enter your {{Order Number}} or {{Tracking Number}} to access the most up-to-date information on the whereabouts of your package and the expected delivery date. If you encounter any difficulties or need further assistance, our customer support team is available to help you. We want to ensure that you have a seamless shopping experience and are well-informed about the shipping details of your order.

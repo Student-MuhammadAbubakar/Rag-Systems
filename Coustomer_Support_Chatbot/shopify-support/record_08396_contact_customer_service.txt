@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to talk with customer support, I need help
-
-Answer: Glad you contacted to us for assistance. I completely understand your urgency and the need to speak with our customer support team. Rest assured, we are here to help you. Our customer support is available during {{Customer Support Hours}}. You can reach out to us either through our {{Live Chat}} feature on our website or by calling our customer support line at {{Customer Support Phone Number}}. We are dedicated to providing you with the support you require. Is there anything else I can assist you with today?

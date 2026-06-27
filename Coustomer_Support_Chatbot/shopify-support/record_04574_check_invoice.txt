@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I odn't know how I can look for my invoice #12588
-
-Answer: I understand your uncertainty about the process of locating your invoice with the number #{{Invoice Number}}. Let me guide you through the steps. First, you'll need to log into your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. Look for a tab or link that says "View Invoices" or something similar. Click on that, and you should see a list of all your invoices. Search for the specific invoice number #{{Invoice Number}} and click on it to view the details. If you have any trouble along the way, please don't hesitate to ask. I'm here to help!

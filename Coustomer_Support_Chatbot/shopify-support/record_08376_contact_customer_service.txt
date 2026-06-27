@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: check at what time customer support available is
-
-Answer: Thank you for your inquiry! I'm here to assist you with checking the availability of our customer support team. Our dedicated customer support representatives are available to assist you during our standard business hours, which are {{Customer Support Hours}}. You can reach out to us at that time for any queries, concerns, or assistance you may require. We are committed to providing prompt and reliable support. Please let me know if there's anything else I can help you with!

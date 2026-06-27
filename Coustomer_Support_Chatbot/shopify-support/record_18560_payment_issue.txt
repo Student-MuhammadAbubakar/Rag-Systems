@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I want to report payment errors
-
-Answer: Thank you for reporting the payment errors you've encountered. Your feedback is extremely valuable in helping us identify and resolve these issues. To ensure that we address the errors accurately, could you please provide more details about the specific payment errors you experienced? Any information you can provide, such as error messages, transaction IDs, or the steps leading up to the errors, will greatly assist us in investigating and resolving the problem. We appreciate your assistance and your patience as we work to resolve this issue for you.

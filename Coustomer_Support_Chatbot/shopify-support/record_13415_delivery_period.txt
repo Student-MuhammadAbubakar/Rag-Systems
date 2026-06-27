@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I don't know how to check when my parcel is going to arrive
-
-Answer: We understand that tracking the arrival of your parcel is important to you. Don't worry, we're here to help! To check the delivery status of your parcel, you can use the tracking number provided in the confirmation email or on your order details page. Simply go to the tracking page on our website or enter the tracking number on our tracking tool, and you'll be able to see the estimated delivery date and real-time updates of your parcel's journey. If you need any further assistance, please don't hesitate to reach out. We're always here to lend you a helping hand throughout the delivery process.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where to get my damn bills from {{Person Name}}?
-
-Answer: I certainly recognize your need to access the bills from {{Person Name}}. You can easily access your bills by logging into your account and navigating to the "Billing" section. From there, you should be able to view and download all your bills. If you need any further assistance or have any other questions, please feel free to let me know. I'm here to help!

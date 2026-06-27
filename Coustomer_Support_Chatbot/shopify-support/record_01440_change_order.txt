@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: need help to deete a fucking item from order {{Order Number}}
-
-Answer: Thank you for trusting to us with your request for assistance. I can understand your frustration and I apologize if you have encountered any difficulties. Rest assured, we are here to help you resolve the issue efficiently. To assist you further, could you please provide me with the details of the item you would like to delete from order number {{Order Number}}? Our team will take immediate action to address your concern and ensure your satisfaction.

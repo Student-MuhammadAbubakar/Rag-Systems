@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can I see how son can I expect my package?
-
-Answer: We understand your curiosity and eagerness to know the estimated delivery time for your package. To provide you with the most accurate information, could you please share the {{Tracking Number}} or {{Order Number}}? With that, we'll be able to retrieve the specific details of your shipment and give you the precise estimate. We appreciate your patience and look forward to assisting you with your query.

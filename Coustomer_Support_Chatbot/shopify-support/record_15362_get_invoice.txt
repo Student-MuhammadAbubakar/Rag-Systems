@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I am calling to download the bill #00108
-
-Answer: I'll get right on it! I understand your need to download the bill with the number #{{Invoice Number}}. To assist you with this request, I recommend visiting our website and logging into your account. Once you're logged in, navigate to the billing section, where you should find an option to download your bill. If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to help you every step of the way.

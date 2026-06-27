@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need help seeing purchase {{Order Number}} current status
-
-Answer: We appreciate your message! It's clear to me that you need assistance in checking the current status of your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience caused. To provide you with the most accurate information, could you please provide me with the name or website of the company from which you made the purchase? This will help me guide you in the right direction and ensure that you receive the best possible support.

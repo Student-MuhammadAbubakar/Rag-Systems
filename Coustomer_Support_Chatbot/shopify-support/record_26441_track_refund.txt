@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Your expectations for a refund of {{Currency Symbol}}{{Refund Amount}} are completely understandable. I assure you that we value your time and concern regarding this matter. Let me quickly check the current status of your refund and provide you with the most accurate information. Please bear with me momentarily while I investigate this for you.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: corrrect order {{Order Number}}
-
-Answer: Thank you for bringing this to our attention. I understand that you need assistance in correcting order number {{Order Number}}. We apologize for any inconvenience caused. To ensure we address this issue promptly, could you please provide more details about the correction you would like to make? This will allow us to rectify the order according to your preferences and ensure your complete satisfaction.

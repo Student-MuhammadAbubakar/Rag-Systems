@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know what I have to do to look for the bill #12588
-
-Answer: No worries at all! I completely understand your uncertainty about how to proceed with finding the details of your bill with the number {{Invoice Number}}. Let me guide you through the process step by step. First, may I confirm if you are looking for a digital or physical bill? This will help me provide you with the most appropriate instructions to search for your bill effectively.

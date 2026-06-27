@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: will umail me the bills from {{Person Name}}
-
-Answer: I'm fully aware of your request to receive the bills from {{Person Name}} via email. Let me assist you with that. Kindly confirm the email address where you would like the bills to be sent, and I will ensure they are promptly delivered to you. If you have any other questions or need further assistance, please don't hesitate to let me know. I'm here to help!

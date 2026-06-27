@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: how can i buy a few of ur product
-
-Answer: Thank you for your interest in purchasing a few of our products! I'm delighted to provide you with the assistance you need to make your purchase. To buy our products, you have a few options available. You can visit our website at {{Website URL}} and browse through our wide range of products. Once you've selected the items you wish to purchase, you can add them to your shopping cart and proceed to the checkout. Alternatively, if you prefer personalized assistance, you can reach out to our customer service team at {{Customer Support Phone Number}} or through our Live Chat feature on the website. Our dedicated team will guide you through the process, answer any questions you may have, and ensure a smooth purchase experience. We strive to make your buying journey enjoyable and convenient. Happy shopping!

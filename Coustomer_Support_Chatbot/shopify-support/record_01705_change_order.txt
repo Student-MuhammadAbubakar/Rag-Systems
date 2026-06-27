@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help changing some products of order {{Order Number}}
-
-Answer: We appreciate you reaching out to us for assistance with changing the products in order number {{Order Number}}. We understand that sometimes adjustments need to be made after placing an order. To better assist you, could you please provide me with the details of the products you would like to change? This way, we can ensure that we process your request accurately and efficiently. Your satisfaction is our top priority, and we're here to help you every step of the way.

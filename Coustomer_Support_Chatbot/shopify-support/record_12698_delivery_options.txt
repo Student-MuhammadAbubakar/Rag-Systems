@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place an order from {{Delivery Country}}?
-
-Answer: I'll take care of it! Our company happily accepts orders from {{Delivery Country}}. We have an international shipping service available for customers all around the world. When you proceed to place your order on our website, you will be prompted to enter your shipping address. Simply enter your address in {{Delivery Country}}, and our system will calculate the shipping costs and estimated delivery time for you. Please note that additional customs fees and import taxes may apply, which will be the responsibility of the recipient. If you have any specific concerns or questions about placing an order from {{Delivery Country}}, feel free to let me know. I'm here to make sure your shopping experience is smooth and enjoyable, no matter where you are!

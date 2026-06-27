@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: deleting platinum account
-
-Answer: We've received your message to us about deleting your {{Account Category}} account. I understand that you would like assistance with the account deletion process. To ensure a smooth cancellation, I recommend contacting our customer support team directly. They will guide you through the necessary steps and provide any additional information or documentation that may be required. Our support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are here to support you and make this process as seamless as possible.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I can't delete several products from purchase {{Order Number}}
-
-Answer: I catch on to the fact that you're facing difficulties deleting multiple products from your purchase with order number {{Order Number}}. I apologize for any inconvenience caused. Let's work together to find a solution. Could you please provide me with the specific products you wish to remove? Once I have that information, I'll do everything I can to assist you in making the necessary changes. Your satisfaction is our top priority.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I do not know what I need to do to contact someone
-
-Answer: Thank you for reaching out! I completely understand that you're unsure about the process of contacting someone. Don't worry, I'm here to guide you. To connect with a representative, you can try several options. You can visit our website and look for the "Contact Us" page, where you'll find detailed instructions on how to reach out to our team. Alternatively, you can call our dedicated customer support line at {{Customer Support Phone Number}}. Our representatives are available {{Customer Support Hours}} and will be more than happy to assist you with any inquiries or concerns you may have. We are committed to providing you with the support you need. Feel free to ask any further questions, and we'll be glad to help!

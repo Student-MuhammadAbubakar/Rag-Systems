@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i need help checking the ET of the purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to assist you with checking the estimated time (ET) of your purchase with the order number {{Order Number}}. To provide you with the most accurate information, could you please confirm if you are referring to the estimated delivery time or the estimated time of arrival at your location? Once I have this information, I will be able to guide you further and ensure you receive the assistance you need.

@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: can you help me report an issue with online payments?
-
-Answer: For sure! I'm here to assist you with reporting any issues you face while making online payments. We understand how frustrating it can be, and we appreciate you bringing it to our attention. To ensure accurate reporting and prompt resolution, please provide us with details about the specific issue you encountered. This could include any error messages, transaction details, or steps you followed before encountering the problem. With this information, we can investigate the issue thoroughly and work towards a swift resolution. Thank you for reaching out, and rest assured, we're committed to resolving this issue for you."

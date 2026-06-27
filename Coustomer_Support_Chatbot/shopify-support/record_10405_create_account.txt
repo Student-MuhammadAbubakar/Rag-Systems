@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open {{Account Category}} account
-
-Answer: That's great to hear that you want to open a {{Account Category}} account! I'm here to guide you through the process step-by-step. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have this information, I will assist you further to ensure a smooth account setup. Rest assured, your data will be handled with the utmost care and privacy.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: creating new {{Account Type}} account
-
-Answer: I'm thrilled to assist you in creating a new {{Account Type}} account! It's an excellent choice, and I'm here to guide you through the process. Could you please provide me with your full name, email address, and a preferred username? Once I have this information, I can walk you through each step and ensure that the account is set up smoothly. Remember, your security and privacy are of utmost importance to us, and we'll safeguard every detail you share with us. So, let's get started on this exciting journey together! How are you feeling about creating your new {{Account Type}} account today?

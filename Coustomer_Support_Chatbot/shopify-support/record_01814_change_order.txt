@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I cannot change some products of pirchase {{Order Number}}
-
-Answer: I'm sorry to hear that you're unable to change some products on purchase number {{Order Number}}. I understand how important it is to have control over your order. Could you please provide more details about the specific products you would like to change? This will help us find a suitable solution for you. We appreciate your patience and look forward to assisting you further.

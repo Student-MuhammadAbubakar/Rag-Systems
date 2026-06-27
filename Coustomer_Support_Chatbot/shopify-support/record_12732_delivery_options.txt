@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do uship to {{Delivery City}}
-
-Answer: Positively! We do offer shipping to {{Delivery City}}, ensuring that you can conveniently receive your order at your desired location. {{Delivery City}} is one of our delivery destinations, and you can choose from our various shipping options to suit your needs. If you have any specific concerns or questions about shipping to {{Delivery City}}, feel free to let me know and I'll be more than happy to assist you further.

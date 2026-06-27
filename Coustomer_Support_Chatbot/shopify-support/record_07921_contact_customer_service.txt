@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can I talk to customer uspport?
-
-Answer: Honored to assist! I'm clued in that you would like to speak with our customer support team. You can definitely talk to our customer support by calling {{Customer Support Phone Number}} during our operating hours, which are from {{Customer Support Hours}}. Our dedicated team is here to assist you with any questions or concerns you may have. Is there anything else I can assist you with?

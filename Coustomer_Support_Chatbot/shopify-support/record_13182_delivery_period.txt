@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can I see how long it takes for the article to arrive?
-
-Answer: We understand your curiosity about the estimated arrival time for your article. To provide you with the most accurate information, please provide us with the {{Order Number}} or {{Tracking Number}} associated with your purchase. With this information, we will be able to track the progress of your shipment and provide you with an estimated delivery date. Thank you for your cooperation as we work together to ensure a smooth delivery experience for you.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me to see at what time I can contact customer support
-
-Answer: Always good to connect! I'm attuned to the fact that you're looking for information on when you can contact our customer support team. Our team is available during {{Customer Support Hours}}. You can reach us through various channels such as phone, email, or live chat. If you have any specific concerns or questions, feel free to share them, and I'll be more than happy to assist you further.

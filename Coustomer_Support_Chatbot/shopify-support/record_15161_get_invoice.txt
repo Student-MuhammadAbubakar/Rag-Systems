@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I have got to download my invoice from  {{Person Name}}
-
-Answer: I'll make it happen! I completely understand your need to download the invoice from {{Salutation}} {{Client Last Name}}. Give me just a moment, and I'll guide you through the process step by step. Once we're done, you'll have your invoice downloaded and ready to go!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: where can I demand a refund?
-
-Answer: I'm picking up what you're putting down, your need to know where you can demand a refund. It's important to have the right information to initiate the refund process. To request a refund, please reach out to our dedicated Customer Support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the appropriate assistance. Rest assured, we are committed to ensuring a smooth and efficient refund process for you.

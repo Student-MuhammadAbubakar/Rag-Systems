@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: getbills from {{Person Name}}
-
-Answer: Sure, I understand that you would like to retrieve the bills from {{Person Name}}. Let me check our system and gather the required information for you. Please bear with me for a moment while I retrieve the bills for you. Is there anything else I can assist you with?

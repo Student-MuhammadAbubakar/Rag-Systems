@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want help checking the restitution current status
-
-Answer: Thank you for contacting to us for assistance with checking the current status of your restitution. We understand that it's important for you to stay informed about any updates. Rest assured, we are here to help. In order to provide you with the most accurate information, could you please provide us with your {{Restitution ID}} or any other relevant details? This will allow us to locate your case and provide you with the latest information. Thank you for your cooperation, and we appreciate your patience while we assist you with your query.

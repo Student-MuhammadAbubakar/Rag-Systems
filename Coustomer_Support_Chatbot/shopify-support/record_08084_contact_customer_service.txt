@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to see at what time I can contact customer service
-
-Answer: We're here to help! I take note that you need assistance in determining the best time to contact our customer service team. Our dedicated team can be reached during their operating hours, which are {{Customer Support Hours}}. They are available to assist you with any questions or concerns you may have. Please feel free to reach out to them during these hours for prompt assistance. Is there anything else I can help you with?

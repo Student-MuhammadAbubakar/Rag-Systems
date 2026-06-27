@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipments to {{Delivery Country}}
-
-Answer: Positively! We are delighted to offer shipments to {{Delivery Country}}, ensuring that our international customers, like you, have access to our products. You can choose from various delivery options to get your order right to your doorstep. Our standard shipping option usually takes around {{Date Range}} business days to arrive, while expedited shipping is available for a quicker delivery. Please note that shipping times may vary depending on the exact location in {{Delivery Country}}. If you have any specific concerns or questions about shipping, feel free to ask. We are here to provide you with a seamless and satisfying experience every step of the way!

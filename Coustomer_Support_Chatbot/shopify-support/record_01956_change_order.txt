@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: information about editing purchase {{Order Number}}
-
-Answer: I appreciate that you're seeking information about editing purchase number {{Order Number}}. We appreciate your proactive approach in making adjustments to your order to ensure your satisfaction. To provide you with accurate information, could you please specify the exact changes you would like to make? This will allow us to guide you through the editing process and ensure that your purchase meets your expectations. Your feedback is invaluable as it helps us improve our services. How can I assist you further?

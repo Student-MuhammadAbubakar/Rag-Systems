@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where to see when will my parcel arrive
-
-Answer: We understand your curiosity about the estimated arrival time of your parcel. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With the tracking details at hand, you can access the delivery updates through our website or mobile app. This will allow you to track the progress of your parcel and get an estimate on when it will arrive. Thank you for your cooperation!

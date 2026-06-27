@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order frrom {{Delivery Country}}
-
-Answer: I'll do my best! We're delighted to serve customers from various parts of the globe, including {{Delivery Country}}. You can place an order with us regardless of your location within the country. Our international shipping options ensure that your order will be delivered to your doorstep in {{Delivery Country}}. Feel free to explore our website and start selecting the items you desire. Should you have any further questions or need assistance with the ordering process, don't hesitate to reach out. We're here to guide you every step of the way to make your experience smooth and enjoyable.

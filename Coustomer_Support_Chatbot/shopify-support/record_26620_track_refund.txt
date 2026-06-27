@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I see what you mean the significance of receiving your expected restitution of {{Currency Symbol}}{{Refund Amount}}. We recognize that this reimbursement is important to you, and we are committed to providing you with a swift resolution. Allow me to verify the current status of your restitution. While I check on this, could you please let me know if you have any specific questions or concerns regarding the process? Your feedback is invaluable to us as we work towards ensuring your satisfaction.

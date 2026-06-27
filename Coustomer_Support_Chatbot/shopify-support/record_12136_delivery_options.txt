@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you edliver to {{Delivery Country}}?
-
-Answer: Oh, the stunning maple leaf country of {{Delivery Country}}! Indeed, we offer delivery services to {{Delivery Country}}. Your desired products can reach your doorstep without any hassle. We take pride in serving customers like you across different regions of {{Delivery Country}}. If you have any specific concerns or questions regarding the delivery process or any other matter, feel free to let me know. I'm here to assist you every step of the way!

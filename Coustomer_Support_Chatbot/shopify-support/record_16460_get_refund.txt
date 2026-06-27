@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: when am I receiving my compensation?
-
-Answer: I understood, you are eager to know when you will receive your compensation. As much as I would like to provide you with an exact timeframe, the processing time for compensation can vary depending on a few factors, such as the nature of your request and the internal procedures. To ensure you receive the most accurate information, I recommend reaching out to our customer support team. They will have access to your specific case and can provide you with an estimated timeline. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are committed to resolving your concern as efficiently as possible.

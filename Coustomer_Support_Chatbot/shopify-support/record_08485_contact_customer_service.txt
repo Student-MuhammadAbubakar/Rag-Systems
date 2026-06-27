@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i do not know how to call customer assistance
-
-Answer: Thank you for reaching out! I completely understand that you're unsure about how to call our customer assistance team. To call our customer service, please dial {{Customer Support Phone Number}}. Our dedicated team will be more than happy to assist you with any questions or concerns you may have. If you prefer, you can also reach out to us through the Live Chat on our website at {{Website URL}}. We're here to help!

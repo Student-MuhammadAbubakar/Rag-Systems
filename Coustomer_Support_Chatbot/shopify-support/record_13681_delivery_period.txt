@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i dont know how to see when will my item arrive
-
-Answer: We understand that you're unsure about how to track the arrival of your item. Don't worry, we're here to help! To check the status of your shipment, you can visit our website and navigate to the "Order Tracking" or "Track My Order" section. There, you'll need to enter your {{Order Number}} or {{Tracking Number}} to get real-time updates on the delivery progress. If you're still having trouble, please let us know, and we'll gladly assist you further.

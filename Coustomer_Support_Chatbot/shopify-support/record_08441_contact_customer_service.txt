@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where do i cherck at what time i can call customer service
-
-Answer: Appreciate your reaching out! Understanding your need to find out the hours you can connect with our customer service team, you can easily find this information on our website. Simply visit our website at {{Website URL}} and navigate to the 'Contact Us' or 'Customer Support' page. There, you will find the specific operating hours during which you can reach our customer service team. If you have any further questions or concerns, feel free to let me know. I'm here to help!

@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: I need to correct my address
-
-Answer: We understand that you need to correct your address. To assist you with this, please provide us with your correct address so that we can update it for you.

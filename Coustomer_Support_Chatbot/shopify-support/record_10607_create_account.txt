@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening platinum account
-
-Answer: Amazing! I'm thrilled to assist you in opening a platinum account with us. {{Account Category}} accounts come with a range of exclusive benefits and personalized support. To proceed, could you please provide me with your full name, email address, and a username of your choice? With these details, I'll guide you through the process step by step, ensuring that you have all the information you need to make the most of your platinum account. Rest assured, we prioritize the security and privacy of your information, so you can enjoy a worry-free experience with us. Let's get started on this exciting journey together!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I have to check when will my package arrive, I need help
-
-Answer: We understand your urgency in tracking the delivery status of your package. To assist you better, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your package? With this information, we will be able to provide you with an accurate update on the estimated arrival time. Thank you for your cooperation and patience.

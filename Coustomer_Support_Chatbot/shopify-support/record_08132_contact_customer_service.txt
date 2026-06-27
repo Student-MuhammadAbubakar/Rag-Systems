@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how to check at what time i can reach customer assistance
-
-Answer: Thank you for reaching out! I understand your need to find out the operating hours for reaching our customer assistance. To check the specific hours, you can visit our website at {{Website URL}} and navigate to the "Contact Us" page. There, you'll find the available hours to reach our customer assistance team. If you have any other questions or need further assistance, please let me know.

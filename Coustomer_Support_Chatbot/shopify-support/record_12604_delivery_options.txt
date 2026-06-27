@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order frlm {{Delivery City}}
-
-Answer: I'll make it happen! We are excited to let you know that you can place an order from {{Delivery City}} with ease. We offer delivery services to various locations, including {{Delivery City}}. Once you proceed to checkout, you can enter your address or select {{Delivery City}} as your delivery location. If you need any further assistance or have any specific concerns, please feel free to let me know. Your satisfaction is our priority!

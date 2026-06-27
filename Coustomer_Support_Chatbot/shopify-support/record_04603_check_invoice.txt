@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: seeing biols from {{Person Name}}
-
-Answer: I've noticed that you need assistance in locating the bills from {{Salutation}} {{Client Last Name}}. To help you with this, could you please provide me with more information such as the date range or any other relevant details? I'm here to guide you and ensure we find the bills you're looking for.

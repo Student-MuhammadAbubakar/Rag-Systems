@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: can uhelp melocate order {{Order Number}}
-
-Answer: Positively! I'm here to assist you in locating the order with the order number {{Order Number}}. To check the current status and whereabouts of your order, please visit our website and navigate to the "Order History" section. In case you need further assistance or have any other questions, feel free to let me know. I'm committed to providing you with a seamless experience!

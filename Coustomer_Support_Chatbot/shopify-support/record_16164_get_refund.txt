@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, is it possible to get a refund?
-
-Answer: Thank you for reaching out to us regarding your recent purchase. I understand that you paid ${{Refund Amount}} for a product and you're wondering if it's possible to get a refund. I'm here to assist you with that. To provide you with the best possible resolution, could you please provide me with your order number or any other relevant details about your purchase? This information will help me locate your transaction and guide you through the refund process. Rest assured that we value your satisfaction and will do everything we can to ensure a smooth refund experience.

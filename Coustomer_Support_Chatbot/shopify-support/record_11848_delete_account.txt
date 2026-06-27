@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: canceling {{Account Type}} account
-
-Answer: We're here to help to us about canceling your {{Account Type}} account. I understand that you no longer require the {{Account Type}} membership and would like to proceed with the cancellation process. To assist you effectively, could you please provide me with some additional details? Specifically, I would appreciate it if you could let me know the reason for canceling the {{Account Type}} account and if there is anything we can do to address your concerns or improve your experience. Your feedback is valuable to us, and we aim to ensure your satisfaction with our services.

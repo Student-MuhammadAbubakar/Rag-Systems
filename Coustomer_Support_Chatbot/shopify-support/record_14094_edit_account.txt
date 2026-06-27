@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: editing data on {{Account Type}} account
-
-Answer: How remarkable it is to witness your drive to edit the data on your {{Account Type}} account!I'm here to provide you with the necessary guidance and support to make these edits seamlessly. Please keep in mind that for your security, it's essential not to share any personal identifiers, such as your full account number or password, while we proceed with the editing process. Can you please let me know which specific data you would like to update? Together, we will ensure that your {{Account Type}} account reflects the accurate and up-to-date information.

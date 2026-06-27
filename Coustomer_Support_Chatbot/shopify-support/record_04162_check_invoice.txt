@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want to give a quick look at my invoice #12588
-
-Answer: Sure! I understand that you would like to have a quick look at invoice #{{Invoice Number}}. To assist you with that, you can either login to your account on our website and access the "Invoices" section, or you can contact our customer support team who will be happy to provide you with the necessary information. Let me know if there's anything else I can help you with!

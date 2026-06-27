@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: herlp to swap an article of order {{Order Number}}
-
-Answer: Thank you for reaching out to us regarding the request to swap an article in order number {{Order Number}}. We understand the importance of making changes to your order and we are here to assist you. To proceed with the swap, we kindly request you to provide us with the details of the article you would like to exchange and the replacement item you prefer. With this information, we will be able to process your request promptly and ensure that your satisfaction is met.

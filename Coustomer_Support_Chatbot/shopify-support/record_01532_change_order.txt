@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can you help me to remove a product from order {{Order Number}}?
-
-Answer: We appreciate your inquiry to us for assistance with removing a product from order number {{Order Number}}. We understand the importance of making adjustments to your order and want to ensure your complete satisfaction. To better assist you, please provide us with the details of the product you would like to remove. Our team is dedicated to promptly resolving your request and ensuring a seamless shopping experience.

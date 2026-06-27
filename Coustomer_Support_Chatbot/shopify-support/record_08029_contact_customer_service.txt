@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help top speak with customer assistance
-
-Answer: I see what you mean! I'm on the same page that you need assistance in speaking with our customer assistance team. To connect with them, you can reach out during our {{Customer Support Hours}}. We have an experienced and dedicated team ready to help you with any questions or concerns you may have. Feel free to let me know if there's anything specific you need assistance with, and I'll be happy to help!

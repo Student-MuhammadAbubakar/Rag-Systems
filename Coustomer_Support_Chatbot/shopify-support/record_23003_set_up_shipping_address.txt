@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: set_up_shipping_address
-
-Question: the new delivery address isn't valid, can you help me?
-
-Answer: I'm sorry to hear that the new delivery address isn't valid. I understand how crucial it is to have accurate shipping details. To assist you better, could you please provide more specific information about the issue you're encountering with the address? Are you receiving any error messages or facing difficulties in entering certain fields? Once I have a better understanding of the problem, I'll be able to guide you step-by-step towards resolving the issue and ensuring your new delivery address is successfully entered. Your satisfaction is our top priority, and we're here to help you every step of the way.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can i open a {{Account Type}} account
-
-Answer: I'll make it happen! I'm thrilled that you're considering opening a {{Account Type}} account with us. It's a great way to get started and explore the benefits of our services. To proceed, I'll need a few details from you. Could you please provide your full name, email address, and a username of your choice? Once I have this information, I'll guide you through the process step by step, ensuring that it's a smooth and hassle-{{Account Type}} experience for you. Rest assured, we take your security and privacy very seriously, and your information will be handled with utmost care. What questions or concerns do you have about opening a {{Account Type}} account?

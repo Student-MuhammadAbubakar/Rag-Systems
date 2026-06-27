@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i cant see order {{Order Number}} goddamn current satus
-
-Answer: Thank you for trusting us! I'm fully aware of you are having trouble viewing the current status of your order with the number {{Order Number}}. I apologize for any inconvenience this may have caused. To check the current status, I recommend visiting the {{Online Order Interaction}} section on our website. If you encounter any further difficulties or have any other questions, please don't hesitate to let me know. I'm here to assist you in any way I can.

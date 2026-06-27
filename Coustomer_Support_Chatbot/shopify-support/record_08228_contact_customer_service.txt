@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have an e-mail to contact customer assistance?
-
-Answer: We're here for you! I'm aware that you are looking for an email to contact our customer assistance team. We do provide an email service for customer inquiries and support. You can reach out to us at [{{Customer Assistance Email}}]. Our team will be more than happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: help to locate purchaes {{Order Number}}
-
-Answer: We're here for you! I'm aware that you need assistance in locating your purchase with the purchase number {{Order Number}}. To help you with that, could you please provide me with some additional information such as your name, email address, or any other details associated with the purchase? This way, I can look into our system and provide you with the necessary information. I value your time and I'm here to ensure a smooth and efficient resolution to your request.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbusre {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've decoded that you would like to inquire about obtaining a reimbursement of ${{Refund Amount}}. I apologize for any inconvenience this may have caused you. To assist you further, could you please provide some additional information about the transaction? This will allow me to better understand the situation and provide you with the most appropriate guidance. I appreciate your cooperation and look forward to resolving this matter for you.

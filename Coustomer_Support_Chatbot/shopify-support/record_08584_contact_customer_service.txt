@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a toll-free number to contact customer support?
-
-Answer: Thank you for your inquiry! I understand that you are looking for a toll-free number to contact our customer support. While our toll-free number may vary depending on your location, we offer various contact options to ensure your convenience. You can reach out to our customer support team through the phone at {{Customer Support Phone Number}} or via the Live Chat on our website at {{Website URL}}. These channels are manned by our dedicated representatives who are ready to assist you with any questions or concerns you may have. Please feel free to reach out to us through any of these available channels, and we'll be more than happy to help you!

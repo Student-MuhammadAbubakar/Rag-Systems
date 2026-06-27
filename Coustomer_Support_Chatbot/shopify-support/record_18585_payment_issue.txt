@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I can't pay, can you help me notifying of payment errors?
-
-Answer: I'm sorry to hear that you're experiencing difficulties with your payment. Rest assured, I'm here to assist you in reporting the payment error. To expedite the resolution process, please provide me with specific details regarding the payment error you encountered. This could include any error messages received, the payment method used, and any steps you have already taken to troubleshoot the issue. By sharing this information, you enable us to investigate the problem thoroughly and provide you with the necessary support to resolve this issue promptly. Thank you for bringing this matter to our attention, and we appreciate your patience as we work towards a resolution.

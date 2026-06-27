@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you shp to {{Delivery City}}?
-
-Answer: I'll get right on it! We understand that shipping options play a crucial role in your decision-making process, whether it's for personal or professional reasons. To provide you with the utmost convenience, we offer shipping services to {{Delivery City}}. You can confidently place your order with us, knowing that your packages will be delivered straight to your doorstep. If you have any specific concerns or further questions, please feel free to ask. We're here to ensure a seamless and delightful experience for you!

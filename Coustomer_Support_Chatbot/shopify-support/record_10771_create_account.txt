@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create standard account for wife
-
-Answer: What a thoughtful decision to create a {{Account Type}} account for your wife! It's a fantastic way to give her access to our wide range of banking services and benefits. To get started, I'll guide you through the process step by step. First, I would need some basic information about your wife, such as her full name, email address, and a preferred username. Rest assured that we value privacy and security, so all the information provided will be treated with the utmost care. Let's begin this exciting journey together!"

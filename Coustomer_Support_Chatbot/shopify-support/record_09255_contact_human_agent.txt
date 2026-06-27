@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: i dont know wht i have to do to contact a person
-
-Answer: Your reach-out is appreciated! I'm sensing that you need assistance on how to contact a person. Rest assured, I'm here to guide you. To contact a person or speak with a representative, you can reach us through various channels. You can give us a call at {{Customer Support Phone Number}} or access the live chat on our website at {{Website URL}} where our representatives are available to assist you. You can also send us an email at {{Customer Support Email}} with your concerns, and we'll strive to provide you with the help you need. Let me know if there's anything else I can assist you with.

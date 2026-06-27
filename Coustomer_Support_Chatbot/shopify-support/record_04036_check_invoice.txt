@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I don't know what I need to do to check bill #37777
-
-Answer: I've been informed that you're unsure about the steps to check your bill with the number #{{Invoice Number}}. Don't worry, I'm here to assist you. To check your bill, you can log in to our website and navigate to the "Billing" or "Account" section. There, you should be able to find a tab or link labeled "Invoices" or "Billing History." Click on that, and you should see a list of your invoices. Look for the one with the number #{{Invoice Number}} and click on it to view the details. If you encounter any difficulties along the way, please feel free to ask for further guidance.

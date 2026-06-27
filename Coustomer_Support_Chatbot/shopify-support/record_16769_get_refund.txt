@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding{{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've understood that you are seeking assistance with refunding ${{Refund Amount}}. I apologize for any inconvenience you may have experienced. To initiate the refund process, I recommend reaching out to our customer support team through our website or calling our dedicated support line. They will be able to guide you through the necessary steps and ensure that your refund is processed smoothly. Please provide them with the details of your purchase, such as the order number or transaction ID, so that they can locate the transaction and assist you in a timely manner. Thank you for your patience and cooperation in resolving this matter.

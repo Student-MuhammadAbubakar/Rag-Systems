@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i exepct a restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Appreciate you reaching out regarding your expected restitution of {{Currency Symbol}}{{Refund Amount}}. I completely understand the importance of this reimbursement to you and assure you that I will do everything possible to assist you. To provide you with an accurate update on the status, I kindly request your patience as I check the current progress of your reimbursement. While I gather the necessary information, may I ask if you have any additional concerns or questions regarding the reimbursement process? Your insights are valuable to us, and we are committed to ensuring your satisfaction.

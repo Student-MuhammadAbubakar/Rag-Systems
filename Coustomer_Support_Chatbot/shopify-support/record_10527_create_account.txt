@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create nbew {{Account Category}} account
-
-Answer: How wonderful! I'm delighted to assist you in creating a new {{Account Category}} account. It's an excellent choice that'll provide you with access to a wide range of features and benefits. To get started, could you please provide me with your full name, email address, and a preferred username? Once you provide these details, I'll guide you through the account creation process step by step, ensuring you feel confident and informed every step of the way. I want to assure you that your personal information will be securely handled and protected at all times. So, let's embark on this exciting journey together!

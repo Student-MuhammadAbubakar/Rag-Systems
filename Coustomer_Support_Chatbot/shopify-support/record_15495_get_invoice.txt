@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i want assistance downloading tge bills from {{Person Name}}
-
-Answer: Of course! I completely understand your need for assistance in downloading the bills from {{Salutation}} {{Client Last Name}}. Just to confirm, are you referring to a specific bill or would you like assistance with downloading all the bills associated with {{Person Name}}'s account? Please provide any additional details or questions you have, and I'll be glad to assist you further.

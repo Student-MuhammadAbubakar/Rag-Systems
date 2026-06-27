@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: would you give meinformation about {{Account Type}} account removals?
-
-Answer: Thank you for reaching out about removing your {{Account Type}} account. We understand that you may have questions or concerns regarding this process. Our team is here to assist you and provide you with the necessary information. Can you please provide more details about what kind of information you are looking for? This will help us ensure that we address all your specific needs and inquiries. Remember, we are committed to making this process as smooth and hassle-free as possible for you.

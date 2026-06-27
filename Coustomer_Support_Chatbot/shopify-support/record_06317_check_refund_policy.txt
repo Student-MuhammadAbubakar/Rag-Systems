@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: check_refund_policy
-
-Question: I would like to see how long reimbursements take
-
-Answer: Sure! It's understandable that you would like to know how long reimbursements take. The duration for reimbursements can vary depending on several factors, such as the specific vendor or service provider, the method of payment used, and their internal processes. In general, reimbursements can take anywhere from a few business days to a couple of weeks to be processed and reflected in your account. However, it's important to note that this is an estimate, and the actual timeline may differ in individual cases. If you have a specific refund request or if you're concerned about the status of a reimbursement, please provide me with the necessary details, such as the {{Order Number}}, and I'll be happy to investigate further and provide you with more specific information. Your satisfaction is our priority, and we aim to ensure that reimbursements are processed as efficiently and promptly as possible.

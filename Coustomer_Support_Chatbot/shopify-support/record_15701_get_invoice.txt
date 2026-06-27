@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: canuhelp me to get the bills from {{Person Name}}
-
-Answer: I'm fully aware of your need to access the bills from {{Salutation}} {{Client Last Name}}. Let me assist you with retrieving them. Could you please provide me with the client's account number or any additional information that might help me locate the bills more accurately?

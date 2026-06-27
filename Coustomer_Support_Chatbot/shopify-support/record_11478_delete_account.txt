@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i want information about the termination of my pro account
-
-Answer: Happy to get your message to us about terminating your {{Account Type}} account. I understand that you would like information regarding the termination process. Rest assured, I will provide you with the necessary details. In order to proceed with the termination, please contact our customer support team directly at {{Customer Support Phone Number}} or through Live Chat on our website at {{Website URL}}. They will guide you through the process and assist you with any queries or concerns you may have. Ensuring a smooth and hassle-free termination for you is our top priority.

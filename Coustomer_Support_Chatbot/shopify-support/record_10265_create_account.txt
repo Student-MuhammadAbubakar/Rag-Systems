@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open {{Account Category}} account
-
-Answer: Thank you for choosing to open a {{Account Category}} account with us! Your decision demonstrates your commitment to enjoying exclusive benefits and superior service. To proceed, I'll need some information from you. Could you please provide your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step by step, ensuring a seamless experience for you. Please rest assured that your privacy and security are of utmost importance to us, and we will take every measure to protect your information. Let's get started on this exciting journey together!

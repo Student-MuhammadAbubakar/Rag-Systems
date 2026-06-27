@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I do not know how I can see how long the shipment takes
-
-Answer: We completely understand your uncertainty about tracking your shipment and determining its estimated delivery time. To help you with this, we recommend visiting our website's tracking page and entering your {{Tracking Number}} or {{Order Number}}. This will provide you with real-time updates on the status and expected arrival of your shipment. If you need any further assistance or have any other questions, please don't hesitate to let us know. We're here to help!

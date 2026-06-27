@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i have got to track purchase {{Order Number}} help me
-
-Answer: Thanks for getting in touch! I grasp that you need assistance in tracking your purchase with the purchase number {{Order Number}}. To help you with that, I recommend visiting our website and accessing the "{{Order Tracking}}" section. There, you will be able to enter your purchase number and view the real-time updates on the status and estimated time of arrival (ETA) of your order. If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to provide you with a seamless tracking experience and ensure all your concerns are addressed.

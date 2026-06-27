@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: where can i fiond information about a pro account removal
-
-Answer: We've received your message to us for information regarding the removal of your {{Account Type}} account. I understand that you are looking for resources on how to proceed with closing your {{Account Type}} account, and I'm here to assist you. To find detailed information about the removal process, I recommend visiting our website's FAQ section. Our FAQ page provides step-by-step instructions on how to close your {{Account Type}} account, including any necessary forms or documentation you may need to complete the process. Additionally, you can also reach out to our customer support team through our Live Chat feature or by calling our dedicated support line. Our agents will be more than happy to assist you and provide any additional information or guidance you may require. We value your decision and want to ensure a seamless experience throughout the account removal process.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I need to do to call customer service?
-
-Answer: Thank you for reaching out! I understand your need to connect with our customer service team. To call customer service, you can simply dial our dedicated helpline at {{Customer Support Phone Number}} during the operating hours of {{Customer Support Hours}}. Our representatives will be ready to assist you with any inquiries or concerns you may have. Is there anything else I can help you with today?

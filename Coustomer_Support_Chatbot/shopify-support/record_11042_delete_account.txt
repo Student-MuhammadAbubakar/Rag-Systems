@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i do not know what i need to do to cancel the gold account
-
-Answer: Appreciate you reaching out to us for assistance with canceling your {{Account Type}} account. I understand that you are unsure about the process, and I'm here to help. To cancel your {{Account Type}} account, you can either reach out to our customer support team at {{Customer Support Phone Number}} or submit a cancellation request through our website at {{Website URL}}. Our team will guide you through the necessary steps and ensure that your account is canceled successfully. If you have any further questions or need additional assistance, please don't hesitate to ask.

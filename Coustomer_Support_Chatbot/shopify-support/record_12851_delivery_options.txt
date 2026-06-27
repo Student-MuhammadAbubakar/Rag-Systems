@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Ah, {{Delivery City}}, the city filled with rich history and culture. We'd be delighted to offer our delivery services to this amazing location! Whether you're looking for standard shipping or expedited options, we've got you covered. Let me assure you that your packages will reach your doorstep with care and efficiency. If you have any specific concerns or questions about our delivery services or need assistance with placing an order, please feel free to let me know. I'm here to make sure your delivery experience exceeds your expectations!

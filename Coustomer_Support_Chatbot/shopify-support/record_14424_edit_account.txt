@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: correct information on standardaccount
-
-Answer: We truly value your commitment to ensuring accurate information on your {{Account Type}} account. To correct the information, you may need to access your account settings or profile section. It's important to securely log into {{Online Company Portal Info}} or use the dedicated customer support channels for any account updates, as this will provide a safe and personalized experience. If you require further guidance or encounter any issues during the process, our support team will be more than happy to assist you. Let me know if there's anything specific you need help with during the correction process.

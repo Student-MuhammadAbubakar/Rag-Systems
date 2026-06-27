@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: could i order feom {{Delivery City}}
-
-Answer: Absolutely! We understand that choosing the most convenient location for ordering is essential. While we don't currently have a physical presence in {{Delivery City}}, we offer convenient online ordering that allows you to order from anywhere and have your items delivered straight to your doorstep. Whether you're in {{Delivery City}} or anywhere else, our delivery options are designed to ensure your satisfaction. Is there anything else I can assist you with?

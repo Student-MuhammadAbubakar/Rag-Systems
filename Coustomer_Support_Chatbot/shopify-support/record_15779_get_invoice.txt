@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: how can i download the bill from {{Person Name}}
-
-Answer: Ah, the honorable task of obtaining the bill from the esteemed {{Person Name}}! Fear not, for I shall aid you in your quest to download this sacred document. Allow me to guide you through the steps and ensure a seamless experience. Let's begin!

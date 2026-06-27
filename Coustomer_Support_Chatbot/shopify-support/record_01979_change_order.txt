@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: wana correct order {{Order Number}}
-
-Answer: Appreciate you reaching out to us regarding the need to correct order number {{Order Number}}. We understand the importance of ensuring your order is accurate and meets your expectations. To assist you with the necessary corrections, could you please provide us with more details on the specific changes you would like to make? Your satisfaction is our top priority, and we are here to help resolve any concerns you may have.

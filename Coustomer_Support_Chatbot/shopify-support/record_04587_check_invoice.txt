@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know how I can see my invoices from {{Person Name}}
-
-Answer: I'm with you, your confusion about how to access your invoices from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process. To view your invoices, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. Alternatively, you can reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in locating and accessing your invoices from {{Person Name}}.

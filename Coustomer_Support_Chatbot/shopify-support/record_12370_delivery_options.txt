@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipmetns to {{Delivery City}}
-
-Answer: Ah, the delightful city of {{Delivery City}}! I'm pleased to inform you that we offer shipments to {{Delivery City}}. Our shipping options are designed to deliver your items to your desired destination promptly and securely. Whether you choose Standard Shipping, Expedited Shipping, or Overnight Shipping, we will ensure that your package reaches {{Delivery City}} in a timely manner. If you have any specific questions or if there's anything else I can assist you with, please feel free to let me know. It would be my pleasure to help you further in exploring our shipment options to {{Delivery City}}.

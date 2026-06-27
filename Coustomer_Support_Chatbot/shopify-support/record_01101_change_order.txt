@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I can't swap some items of purchase {{Order Number}}
-
-Answer: Apologies for the inconvenience caused by the inability to swap some items in purchase number {{Order Number}}. We are committed to resolving this issue for you as quickly and efficiently as possible. To better assist you, could you please provide more details about the items you would like to swap? This will enable us to identify the problem and find a suitable solution. Thank you for your patience and cooperation.

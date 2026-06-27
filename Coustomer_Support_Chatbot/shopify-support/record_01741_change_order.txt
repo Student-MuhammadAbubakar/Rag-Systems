@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: want help to remove several products from purchase {{Order Number}}
-
-Answer: We appreciate you reaching out to us for assistance with removing several products from purchase number {{Order Number}}. We understand that you may have changed your mind or have specific reasons for wanting to remove these items. To better assist you, could you please provide us with the names or codes of the products you would like to remove? This will help us ensure accurate and efficient processing of your request. Your satisfaction is our priority, and we are here to make sure your purchase meets your expectations.

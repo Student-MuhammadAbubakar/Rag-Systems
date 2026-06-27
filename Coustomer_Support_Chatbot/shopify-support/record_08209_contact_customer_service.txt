@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can you help me talking to customer service?
-
-Answer: We're all ears! I'm tuned into the idea that you would like assistance in talking to our customer service team. I'm here to help and guide you through the process. To connect with our customer service representatives, you have a few options: you can reach out to them through our customer support hotline at {{Customer Support Hotline}}, send an email to {{Customer Support Email}}, or engage in a live chat on our website at {{Website URL}}. If you provide me with more details about your specific concern, I can better assist you in getting in touch with the right person. How can I make your experience with our customer service team more seamless and efficient?

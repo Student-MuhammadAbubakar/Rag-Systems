@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: find the bill #37777
-
-Answer: I realized you are seeking assistance in locating the bill associated with invoice number {{Invoice Number}}. By providing me with this specific information, you've already taken a great step towards resolving your concern. Let me assure you that I'm here to help. Could you please provide me with some additional details such as the time frame or any other relevant information? This will enable me to provide you with more precise guidance and expedite the resolution process. In the meantime, please feel free to ask any other questions you may have.

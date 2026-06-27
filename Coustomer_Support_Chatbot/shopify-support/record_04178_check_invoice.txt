@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: what do i need to do to find my invoice #12588
-
-Answer: I appreciate your inquiry about locating your invoice with the number {{Invoice Number}}. To assist you, I recommend accessing our online portal. Log in to your account and navigate to the "Billing" or "Invoices" section. You may find a search bar where you can input the invoice number to quickly locate it. If you have trouble finding it, our customer service representatives are available to guide you through the process. Simply reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Rest assured, we are here to ensure that you find the necessary information and provide any additional assistance you may need.

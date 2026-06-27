@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to speak to customer service , can I get some help?
-
-Answer: Glad you contacted us! I'm clearly cognizant that you need to speak to our customer service team and require assistance. Our dedicated customer service representatives are available to help you with any questions or concerns you may have. To connect with them, you can reach out to our {{Customer Support Phone Number}} or utilize the Live Chat feature on our website at {{Website URL}}. They will be more than happy to assist you. Is there anything else I can help you with today?

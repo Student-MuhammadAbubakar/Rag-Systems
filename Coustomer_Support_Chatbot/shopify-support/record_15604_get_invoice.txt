@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: how can i get the bill #85632
-
-Answer: Unquestionably! I understand your need to access the bill with the number #{{Invoice Number}}. Let me guide you through the process. To retrieve your bill, you can go to your account dashboard and navigate to the "Billing" section. From there, you should be able to view and download your invoice. If you encounter any difficulties or have additional questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

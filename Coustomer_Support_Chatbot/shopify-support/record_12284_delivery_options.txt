@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery Country}}
-
-Answer: For sure! We offer shipping services to the {{Delivery Country}}, allowing you to conveniently receive your items in the land of opportunity. Whether you're in the bustling streets of New York City or the sunny beaches of California, we've got you covered. With our reliable delivery options, your package will make its way to your doorstep in no time. If you have any specific concerns or questions regarding our delivery services, feel free to let me know. I'm here to assist you every step of the way!

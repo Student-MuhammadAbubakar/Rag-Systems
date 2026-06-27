@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open new {{Account Type}} account for daughter
-
-Answer: How wonderful it is to hear that you want to open a new {{Account Type}} account for your daughter! We truly appreciate your decision to provide her with an account that offers many benefits. To get started, could you please provide your daughter's full name, date of birth, and an email address that we can associate with her account? With this information, we can proceed to create her account and ensure a seamless experience for her. Rest assured, we prioritize the security and privacy of all our users, including your daughter. Let's embark on this exciting journey together!

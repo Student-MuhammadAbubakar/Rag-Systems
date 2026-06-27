@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: how could i find infrmation about pro account removals
-
-Answer: Thank you for trusting to us for information about removing a {{Account Type}} account. We understand that you may have questions or concerns regarding this process. To find detailed information on how to remove your {{Account Type}} account, I recommend visiting our website's support page. There you will find a step-by-step guide and all the necessary instructions to assist you in the account removal process. If you require any further assistance or have specific questions, please don't hesitate to reach out to our customer support team. We are here to help you navigate through this process and ensure a smooth account removal experience.

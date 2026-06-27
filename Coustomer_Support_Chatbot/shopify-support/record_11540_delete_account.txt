@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want assistance to delete a bloody gold account
-
-Answer: I'm glad you contacted us to us for assistance with the deletion of your {{Account Type}} account. I apologize if you're feeling frustrated or upset with this situation. I understand that you're looking to completely remove your {{Account Type}} account, and I'm here to guide you through the process. To better assist you, could you please provide me with some information about your account, such as the account username or any other details that can help me locate your account in our system? Once I have this information, I'll be able to provide you with the necessary steps to delete your {{Account Type}} account. Rest assured, I'm committed to ensuring your satisfaction and making this process as smooth as possible for you.

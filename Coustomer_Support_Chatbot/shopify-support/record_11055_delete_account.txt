@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: remove standard account
-
-Answer: Grateful you reached out to us regarding the removal of your {{Account Type}} account. We understand that you no longer require this account and we are here to assist you. To proceed with the removal, we kindly request that you provide us with some additional information such as your account details or any specific requirements you may have. This will enable us to ensure a smooth and efficient removal process for you. Please feel free to share any concerns or queries you may have so we can address them promptly and assist you accordingly.

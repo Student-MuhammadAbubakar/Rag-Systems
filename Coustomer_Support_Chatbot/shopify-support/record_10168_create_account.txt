@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want to create another bloody {{Account Type}} account, I need help
-
-Answer: Happy to get your message to us for assistance in creating another {{Account Type}} account. I'm here to guide you through the process and address any questions or concerns you may have. Could you please provide me with your full name, email address, and a preferred username for the new account? With this information, I'll be able to create your account and ensure a smooth experience for you. Rest assured, your privacy and security are of the utmost importance to us, and we'll handle your information with the utmost care.

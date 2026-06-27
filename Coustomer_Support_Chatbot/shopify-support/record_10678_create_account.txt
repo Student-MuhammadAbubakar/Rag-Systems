@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open gold account
-
-Answer: Thank you for expressing your interest in opening a {{Account Type}} account! It's truly exciting to have you onboard with us. To get started, I kindly request you to provide your full name, email address, and a preferred username. Once I have these details, I'll guide you through the process step by step, ensuring a smooth and informed experience for you. Rest assured that the security and privacy of your information remain our top priority.

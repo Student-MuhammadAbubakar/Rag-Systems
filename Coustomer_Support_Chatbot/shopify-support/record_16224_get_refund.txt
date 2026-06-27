@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for an article, I want my compensation
-
-Answer: I grasp that you purchased an article for ${{Refund Amount}} and you are now seeking compensation. I apologize for any inconvenience this may have caused you. To assist you further, could you please provide more details about the issue you encountered with the article? This will enable me to better understand the situation and guide you towards an appropriate resolution. Rest assured, I am here to support you throughout this process and ensure that you receive the compensation you deserve.

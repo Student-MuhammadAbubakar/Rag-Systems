@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I do not know how I can see hlw soon can I expect my package
-
-Answer: We understand that you are unsure about how to track your package and determine its estimated arrival time. Don't worry, we're here to assist you! To help you with this, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your package? With this information, we can quickly access the details and provide you with an accurate estimate of when you can expect your package to arrive. Your patience is greatly appreciated as we work together to resolve this.

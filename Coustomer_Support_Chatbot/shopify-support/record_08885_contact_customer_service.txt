@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i want help to contact customer assistance
-
-Answer: I hear you! I'm following you that you need assistance in contacting our customer assistance. Rest assured, I'm here to guide you through the process. You can reach our customer assistance team by calling {{Customer Support Phone Number}} or by visiting our website at {{Website URL}}. We also have a live chat option available on our website for immediate support. Please let me know if there's anything else I can assist you with.

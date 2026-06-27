@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i need assistance to get the invoice #85632
-
-Answer: I'm happy to help! I completely understand that you require assistance in obtaining the invoice with the number #{{Invoice Number}}. Allow me to assist you with that right away. Can you please confirm your email address? Once I have that information, I will send the invoice directly to your inbox.

@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: the delivery address changed
-
-Answer: Thank you for letting us know that your delivery address has changed. To update your address, please visit our website and go to the "Account Settings" section. From there, you will be able to edit your shipping address and ensure that your package is delivered to the correct location. If you have any further questions or need assistance, please feel free to contact our customer support team. We are here to help!

@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: I cannot modify the delivery address
-
-Answer: I apologize for the inconvenience you are facing in modifying the delivery address. Please provide me with the details of the address that you want to change, and I will assist you in making the necessary modifications.

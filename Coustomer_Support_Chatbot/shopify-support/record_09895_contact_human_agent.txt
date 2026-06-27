@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: what do I need to do to contact an agent?
-
-Answer: Your reach-out is appreciated! I'm sensing that you would like to know what steps you need to take in order to contact an agent. To connect with one of our helpful agents, you can reach out to our customer service department through multiple channels. You can call our dedicated customer service hotline at {{Customer Support Phone Number}}, send us an email at {{Customer Service Email}}, or initiate a live chat on our website at {{Website URL}}. Whichever method you choose, our agents are ready to assist you with any concerns or questions you may have. Feel free to contact us at your convenience, and we'll be more than happy to help!

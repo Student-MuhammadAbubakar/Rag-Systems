@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: closing gold account
-
-Answer: Appreciate you reaching out about closing your {{Account Type}} account. I understand that you have made the decision to cancel your account and I'm here to assist you with that. To initiate the process, I would recommend contacting our customer support team either through phone or live chat. They will be able to guide you through the necessary steps and provide any additional information you may need. It's important to note that there might be some account-specific details that they will require for verification purposes. Rest assured, our team will handle your request promptly and ensure a smooth account closure process. If you have any further questions or concerns, please don't hesitate to let me know. We are here to support you throughout this process.

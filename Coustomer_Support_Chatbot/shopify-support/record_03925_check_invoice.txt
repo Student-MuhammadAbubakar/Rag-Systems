@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can you help me check bill #12588?
-
-Answer: I'll get right on it! I understand your desire to check the details of bill #{{Invoice Number}}. Let me assist you in locating the relevant information. Could you please provide me with any additional details or specific inquiries you have regarding this bill? With your cooperation, we can swiftly resolve any concerns and provide you with the information you need.

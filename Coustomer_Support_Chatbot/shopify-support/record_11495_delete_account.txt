@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need the platinum account, I have got to cancel it
-
-Answer: I've grasped that you've made the decision to cancel your {{Account Category}} account, and I'm here to assist you with the process. We value your time with us and want to ensure a smooth experience for you. Could you please provide me with some more details about your account cancellation request? This will help me guide you through the necessary steps and address any concerns you may have. Remember, no question is too small or too big. Let's work together to make sure everything is handled properly and to your satisfaction.

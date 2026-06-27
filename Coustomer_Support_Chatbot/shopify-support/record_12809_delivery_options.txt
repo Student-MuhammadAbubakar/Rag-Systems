@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery City}}
-
-Answer: Positively! Our delivery services extend to various locations worldwide, including the beautiful city of {{Delivery City}}. Whether you're looking to order from our wide range of products or receive a special package, we've got you covered. Let us know how we can assist you further in making your delivery to {{Delivery City}} a seamless experience.

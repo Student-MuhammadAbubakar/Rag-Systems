@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I don't know what to do to create a pro account
-
-Answer: Thank you for expressing your interest in creating a {{Account Type}} account. I'm here to help you navigate through the process step by step. To begin, you can visit our website and locate the "Create Account" option. There, you will find different account types to choose from, including the {{Account Type}} account. Simply select the {{Account Type}} account option, and you will be guided through the necessary steps to set up your account. If you encounter any difficulties or have any questions along the way, feel free to reach out to our customer support team who will be more than happy to assist you. We're excited to have you on board as a {{Account Type}} account holder!

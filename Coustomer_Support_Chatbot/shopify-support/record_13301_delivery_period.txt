@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: want help to see when my parcel is gonna arrive
-
-Answer: We understand your curiosity about the estimated arrival time of your parcel. To provide you with accurate information, could you please provide the {{Tracking Number}} or {{Order Number}} associated with your shipment? With this information, we can check the status of your parcel and give you an update on when you can expect it to arrive. Thank you for your cooperation in this matter.

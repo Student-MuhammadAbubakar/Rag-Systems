@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a damn restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Firstly, let me assure you that I truly understand the importance of your expected {{Currency Symbol}}{{Refund Amount}} restitution. Your satisfaction and trust are of utmost importance to us. I will personally look into your case to provide you with the necessary updates. While I investigate, I'd like to ask if you have any specific concerns or if there's any additional information that might help expedite the process? Your insights are highly valued, and I'm here to support you every step of the way.

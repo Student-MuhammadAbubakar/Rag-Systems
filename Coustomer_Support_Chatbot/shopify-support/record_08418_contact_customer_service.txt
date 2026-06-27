@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a toll-free customer service number?
-
-Answer: Thank you for reaching out! I completely understand that you're looking for a toll-free customer service number. We do have a toll-free helpline at {{Toll-Free Number}}. Our dedicated team is available to assist you with any inquiries or concerns you may have. Feel free to reach out to us anytime. How else can I assist you today?

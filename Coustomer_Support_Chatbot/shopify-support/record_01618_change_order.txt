@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance to add a damn article to order {{Order Number}}
-
-Answer: We apologize for any frustration caused, and we appreciate your patience. To assist you with adding an item to order number {{Order Number}}, please provide us with the details of the article you would like to add, including the item name, size, color, or any other specifications. This will help us ensure that we update your order accurately and promptly. We're here to make sure your shopping experience goes as smoothly as possible.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i lost the bill from {{Person Name}} will ya mail it to m
-
-Answer: I'm attuned to the idea that you lost the bill from {{Salutation}} {{Client Last Name}}. While I can't directly mail it to you since we don't have your email address on file, I can help you retrieve a copy of the bill. Give me a moment to locate it for you. In the meantime, could you please provide me with your email address so that I can send it to you?

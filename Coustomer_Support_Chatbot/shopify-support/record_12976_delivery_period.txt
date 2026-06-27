@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can you give me information about delivery periods?
-
-Answer: We completely understand your curiosity about delivery periods. Our delivery times vary depending on the shipping method and the destination. Please provide us with your {{Shipping Address}} or {{Zip Code}}, and we will be able to provide you with a more accurate estimate of the delivery period. Your satisfaction is our priority!

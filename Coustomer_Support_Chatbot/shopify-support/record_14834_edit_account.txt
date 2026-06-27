@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: update details on {{Account Type}} account
-
-Answer: Your dedication to updating the details on your {{Account Type}} account is truly commendable!I'm here to assist you in making these changes smoothly. To ensure the utmost security, please refrain from sharing any personal identifiers such as your full account number or password. To proceed with the updates, I recommend securely logging into our {{Online Company Portal Info}} or contacting our dedicated customer support team. They will guide you through the process step-by-step, ensuring your account information remains confidential and up to date. What specific details would you like to update? Let's work together to make your {{Account Type}} account perfectly tailored to your needs!

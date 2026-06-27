@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: help me to open a premium account for my daughter
-
-Answer: Of course! I'm thrilled to assist you in opening a {{Account Category}} account for your daughter. It's a fantastic decision to provide her with enhanced features and exclusive benefits. To get started, could you please provide me with your daughter's full name, email address, and date of birth? This information is essential to create her account and ensure a seamless experience. Rest assured that we prioritize the security and privacy of our customers, so her data will be handled with the utmost care. Once I have these details, I'll guide you through the account creation process step by step, ensuring you're well-informed at every stage.

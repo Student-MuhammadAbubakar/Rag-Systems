@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: removing platinum account
-
-Answer: I gather that you want to remove your {{Account Category}} account. Our team is here to help you with that process. To proceed with the removal, could you please provide us with some additional details? Specifically, we would need your account information such as the account holder's name, email address, or any other relevant information that can help us locate and verify the account. Once we have the necessary details, we will assist you in closing your {{Account Category}} account promptly. Your satisfaction is our priority, and we appreciate your patience throughout this process.

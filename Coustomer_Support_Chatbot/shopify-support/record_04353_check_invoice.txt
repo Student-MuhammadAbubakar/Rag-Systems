@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can i givea quick look at the bill from {{Person Name}}
-
-Answer: Definitely! I understand that you would like to take a quick look at the bill related to {{Salutation}} {{Client Last Name}}. It's great that you're proactive in staying on top of your finances. To assist you better, could you please provide me with any specific details such as the {{Date Range}} or the {{Invoice Number}} associated with the bill? With this information at hand, we can quickly locate and provide you with the necessary details.

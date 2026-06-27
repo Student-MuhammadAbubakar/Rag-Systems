@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create {{Account Category}} account
-
-Answer: Absolutely! 🌟 I'm excited to assist you in creating a {{Account Category}} account, which offers a great range of features at no cost to you. To get started, could you please provide me with your full name, email address, and a preferred username? With these details, I'll guide you through the registration process, ensuring you have all the necessary information at each step. Remember, your privacy and security are of utmost importance to us, so rest assured that your information will be carefully protected. Let's begin this journey together!

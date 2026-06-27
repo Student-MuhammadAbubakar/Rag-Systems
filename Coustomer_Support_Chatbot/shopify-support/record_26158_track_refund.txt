@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Refund Amount}} dollars
-
-Answer: I understand the significance of receiving a restitution of {{Currency Symbol}}{{Money Amount}} to you. Our goal is to address your concerns promptly and ensure your satisfaction. Let me check the current status of your refund for you. While I do that, could you please provide me with the order number or any other relevant information that will assist me in locating your refund request? Your cooperation will help expedite the process, and I appreciate your patience and understanding.

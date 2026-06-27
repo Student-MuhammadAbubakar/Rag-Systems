@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: could uhelp me to close the goddamn {{Account Type}} account
-
-Answer: I apologize for any frustration you may be experiencing with the closure of your {{Account Type}} account. I understand that you would like assistance with this process. Our team is here to help and guide you through every step. Can you please provide more details or specific instructions on what you need help with in order to close your {{Account Type}} account? Your satisfaction is our priority, and we want to ensure a smooth and efficient account closure for you.

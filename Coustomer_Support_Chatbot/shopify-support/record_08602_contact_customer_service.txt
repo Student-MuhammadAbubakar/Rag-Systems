@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i dont know what to do to talk with customer assistance
-
-Answer: We're here to help! I take note that you're unsure about how to talk with our customer assistance team. Don't worry, I'm here to help guide you through the process. To contact our customer assistance, you can reach out to {{Customer Support Phone Number}} or visit our website at {{Website URL}} and access the live chat option. Our team will be more than happy to assist you with any questions or concerns you may have. Please let me know if there's anything else I can do for you!

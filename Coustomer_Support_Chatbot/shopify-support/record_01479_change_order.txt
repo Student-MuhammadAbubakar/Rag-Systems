@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to edit order {{Order Number}}, could I get some help?
-
-Answer: Indeed! Thank you for reaching out to us for assistance with editing order number {{Order Number}}. We understand that sometimes adjustments need to be made to ensure your satisfaction. Could you please provide more details about the specific changes you would like to make? This will enable us to assist you better and make the necessary modifications to your order. Let us know how we can help!"

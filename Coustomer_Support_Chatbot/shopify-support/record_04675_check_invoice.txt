@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I don't know how to check my fucking invoices from {{Person Name}}
-
-Answer: I'm aware that you're facing difficulties in checking your invoices from {{Salutation}} {{Client Last Name}}. I apologize for any frustration this has caused you. To assist you further, could you please provide me with some additional information? Specifically, do you have access to an online portal or platform where you usually view your invoices? Once I have this information, I'll be able to guide you through the steps to locate your invoices and ensure a smooth experience for you.

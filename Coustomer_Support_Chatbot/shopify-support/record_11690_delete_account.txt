@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: want assistnace to cancel my {{Account Category}} account
-
-Answer: We're here for you about canceling your {{Account Category}} account. I understand that you've made the decision to cancel, and I'm here to guide you through the process. To ensure a smooth cancellation, please provide me with some additional information. Could you please confirm the email address associated with your account and any specific reasons behind your decision? This will help us assist you accurately and efficiently. Rest assured, we are committed to making this experience as hassle-free as possible for you.

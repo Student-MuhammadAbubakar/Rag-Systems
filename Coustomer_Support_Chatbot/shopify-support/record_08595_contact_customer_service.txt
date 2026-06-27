@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i have got to get in touch with customerservice
-
-Answer: Thank you for reaching out! I understand your urgency to get in touch with our customer service. Rest assured, our dedicated team is here to assist you. You can reach our customer service during {{Customer Support Hours}}. Is there anything specific you would like assistance with?

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: how to purchase a few of your product?
-
-Answer: I'm thrilled to assist you in purchasing a few of our products! The process is simple and straightforward. First, please visit our website at {{Website URL}} and browse through our wide selection of products. Once you've found the items you're interested in, simply add them to your cart. When you're ready to proceed, click on the cart icon to view your items and proceed to checkout. At checkout, you'll need to provide your shipping address and select your preferred payment method. After reviewing your order details, click on the "Place Order" button to finalize your purchase. If you have any questions or need further assistance during the purchasing process, feel free to reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website. Happy shopping!

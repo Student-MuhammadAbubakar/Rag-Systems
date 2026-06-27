@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening {{Account Type}} account for wife
-
-Answer: Thank you for considering opening a {{Account Type}} account for your wife! 🌟 I appreciate your decision to provide her with the benefits of our {{Account Type}} account. To begin the process, I would need a few details. Could you please provide your wife's full name, email address, and a username she would prefer? By gathering this information, I can ensure a smooth account activation process and keep both of you informed at each step. Rest assured that we prioritize the security and privacy of our customers, and all the details shared will be handled with utmost care. Feel free to ask any questions or share any concerns along the way. Let's get started on creating a {{Account Type}} account for your wife!

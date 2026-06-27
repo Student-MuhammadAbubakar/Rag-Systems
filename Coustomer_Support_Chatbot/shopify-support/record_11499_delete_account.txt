@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancelling platinum account
-
-Answer: Thank you for reaching out about canceling your {{Account Category}} account. I understand that you are looking to close your account, and I'm here to assist you with the process. To proceed with canceling your {{Account Category}} account, please provide me with some additional information. Specifically, I need to know if there are any outstanding fees or payments associated with your account. Additionally, please let me know if you have any unused benefits or rewards you'd like to transfer or redeem before closing the account. Once I have all the necessary details, I can guide you through the cancellation process and ensure a seamless experience.

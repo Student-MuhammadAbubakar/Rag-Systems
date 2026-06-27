@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where could I notify of a payment issue?
-
-Answer: To report a payment issue, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team will be more than happy to assist you and gather all the necessary details to address your payment concern. We are committed to resolving any payment issues you may encounter promptly and efficiently.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can you send me my bills from {{Person Name}}?
-
-Answer: I've ascertained that you would like to receive your bills from {{Salutation}} {{Client First Name}} {{Client Last Name}}. Allow me to assist you with that. To ensure the privacy and security of your information, could you please provide me with your account number or any other relevant details? Once you provide the necessary information, I will be able to send you your bills promptly.

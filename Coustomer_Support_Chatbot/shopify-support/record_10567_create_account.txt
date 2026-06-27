@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna open a freemium account for my fiance
-
-Answer: That's fantastic! I'm thrilled that you're considering opening a {{Account Category}} Account for your fiancé. We have a great range of features and benefits to offer with our {{Account Category}} Account that will enhance their banking experience. To begin the process, I'll need some personal information about your fiancé. Could you kindly provide me with their full name, email address, and a preferred username? This will allow us to create a personalized and secure account for them. Rest assured, their privacy and security are of utmost importance to us. Let's make this experience a memorable one for your fiancé!

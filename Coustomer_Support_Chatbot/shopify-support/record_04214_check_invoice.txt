@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I am trying to locate my invoice #85632
-
-Answer: I understand your desire to locate the invoice with number {{Invoice Number}}. I can certainly help you with that. To find your invoice, please provide me with some additional information such as the date range or any specific details related to the invoice. This will allow me to assist you more effectively and ensure a swift resolution. Thank you for reaching out, and I look forward to assisting you further.

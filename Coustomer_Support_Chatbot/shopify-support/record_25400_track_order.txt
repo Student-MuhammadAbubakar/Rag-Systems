@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: track purchase {{Order Number}}
-
-Answer: I see what you mean! I'm on the same page that you would like to track your purchase with the purchase number {{Order Number}}. To help you with this, could you please provide me with some more details? Specifically, I would need to know the platform or website where you made the purchase, as well as any order number or reference number associated with it. Once I have this information, I will be able to guide you on how to track your purchase.

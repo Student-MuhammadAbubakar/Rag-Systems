@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i have a questio about creating platinum accounts
-
-Answer: That's fantastic! I'm here to help answer any questions you may have about creating {{Account Category}} accounts. Please feel free to ask me anything, and I'll provide you with all the information and guidance you need to make an informed decision. Let's get started!

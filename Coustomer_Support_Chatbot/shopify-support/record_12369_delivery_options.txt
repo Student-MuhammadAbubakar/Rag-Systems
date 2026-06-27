@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order from {{Delivery City}}
-
-Answer: How fascinating! You're considering placing an order from the enchanting city of {{Delivery City}}! I'm delighted to inform you that we do accept orders from {{Delivery City}}. Our shipping services cover a wide range of destinations, ensuring that you can receive your order from the comfort of your home in {{Delivery City}}. We strive to provide a seamless ordering experience across various locations, and {{Delivery City}} is no exception. So go ahead and explore our diverse selection of products, place your order, and let us take care of the rest. Should you have any specific questions or need assistance with anything else, feel free to ask. We're here to make your shopping experience delightful, no matter where it's from!

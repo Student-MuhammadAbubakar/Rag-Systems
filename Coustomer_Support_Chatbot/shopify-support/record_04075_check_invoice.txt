@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I don't know how to check my invoice from {{Person Name}}
-
-Answer: I've got that you're uncertain about how to check your invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you with the process. To access your invoice, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. If you're unable to find it there, you can also reach out to our customer support team, and they will be more than happy to guide you through the steps. Rest assured, we're dedicated to providing you with the support you need to access your invoice seamlessly and ensure your satisfaction.

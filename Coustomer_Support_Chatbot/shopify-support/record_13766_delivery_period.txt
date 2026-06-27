@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am trying to find shipping periods, could you help me?
-
-Answer: We understand your desire to find out the shipping periods and receive clarity on the estimated delivery timeframe. To assist you better, could you please provide the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with detailed information about the shipping periods and the expected arrival date of your package. Your patience is greatly appreciated as we look into this for you.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want assistance to download the invoice #00108
-
-Answer: I can tell that you need assistance in downloading the invoice with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. First, could you please confirm the platform or system you're using to access your invoice? This will allow me to provide you with precise instructions tailored to your specific situation.

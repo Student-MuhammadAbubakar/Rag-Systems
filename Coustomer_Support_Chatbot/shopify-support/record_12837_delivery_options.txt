@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: I don't know how I can check what shipping options you offer
-
-Answer: Not a problem at all! We understand that it can sometimes be challenging to find the information you need. To check our shipping options, you can visit our website and navigate to the "Shipping" or "Delivery" section. There, you will find a detailed breakdown of our available shipping options, along with the estimated delivery times and any associated costs. If you prefer speaking with someone directly, our customer service team is available to assist you. Just give them a call at {{Customer Support Phone Number}} or reach out through the Live Chat feature on our website. They'll be more than happy to provide you with all the information you need. Don't worry; we're here to make your shipping experience as smooth as possible!

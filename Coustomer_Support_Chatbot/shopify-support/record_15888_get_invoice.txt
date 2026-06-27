@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i want assistance downloading the bills from {{Person Name}}
-
-Answer: I've picked up that you'd like assistance with downloading the bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step to ensure a seamless experience. First, please log in to your account on our website. Then, navigate to the "Billing" section where you should find a tab labeled "Download Invoices." Click on that tab, and you should be able to view and download all your bills. If you encounter any issues or have further questions, please don't hesitate to let me know. I'm here to provide you with all the necessary help and support.

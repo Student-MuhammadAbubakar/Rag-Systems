@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I don't have a {{Account Type}} account, help registering
-
-Answer: Thank you for getting in touch to us for assistance with registering for a {{Account Type}} account. We're here to help you through the process step by step. To start, could you please provide us with your full name, email address, and a preferred username? Once we have these details, we'll guide you through the registration process, ensuring you have all the information you need. Rest assured that the security of your personal information is of utmost importance to us. We're committed to keeping your data safe and protected.

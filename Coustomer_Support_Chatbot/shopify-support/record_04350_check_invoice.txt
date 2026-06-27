@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help me checking my bills from {{Person Name}}
-
-Answer: I appreciate that you're seeking help with checking your bills from {{Person Name}}. Rest assured, I'll do my best to assist you in locating the information you need. To get started, could you please provide me with any specific details such as the timeframe or any relevant invoice numbers? This will help me streamline the process and provide you with accurate and efficient support.

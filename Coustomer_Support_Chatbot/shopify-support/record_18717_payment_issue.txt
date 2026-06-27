@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: how to notify of a trouble with online payment
-
-Answer: I'm here to assist you with notifying us about the trouble you're experiencing with your online payment. To ensure a swift resolution, I recommend contacting our customer support team either through our website chat or by calling {{Customer Support Phone Number}}. Our dedicated team will guide you through the reporting process and help resolve the issue promptly. We value your feedback and appreciate your efforts in bringing this matter to our attention.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: closing {{Account Type}} account
-
-Answer: We've received your message to us regarding the closure of your {{Account Type}} account. We understand that you may have made this decision for various reasons, and we are here to assist you. To proceed with the closure of your {{Account Type}} account, please log into your account and navigate to the account settings or preferences section. Within that section, you should be able to locate an option to cancel or close your account. If you are unable to find this option or encounter any difficulties during the process, don't worry. Our dedicated customer support team is available to provide you with step-by-step guidance and ensure a smooth closure experience. They can be reached via email at support@example.com or through the Live Chat on our website at www.example.com. We value your experience with us and will do our utmost to ensure that everything goes smoothly during the account closure process.

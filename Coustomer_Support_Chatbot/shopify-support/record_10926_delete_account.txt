@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i dont know what to do to delete my platinum account
-
-Answer: Thanks for dropping us a line to us for assistance with deleting your {{Account Category}} account. I understand that you are unsure about the steps involved in the process, and I'm here to help. To proceed with the account closure, I kindly request you to provide me with some additional details such as your account username or any specific concerns you may have. Once we have the necessary information, we can guide you through the deletion process and ensure a smooth experience. We appreciate your patience and cooperation as we work together to meet your needs.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get invoices from {{Person Name}}
-
-Answer: I'm following the importance of accessing your invoices from {{Salutation}} {{Client Last Name}}. Give me just a moment to retrieve the invoices for you. In the meantime, if you have any other questions or need further assistance, feel free to let me know. I'm here to help!

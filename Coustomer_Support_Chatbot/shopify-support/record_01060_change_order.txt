@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: modify purchase {{Order Number}}
-
-Answer: We understand that you need to modify your purchase with order number {{Order Number}}. Our team is here to assist you with this request. To better understand the changes you would like to make, could you please provide more details on the specific articles you wish to modify? This will help us ensure that we accurately update your purchase according to your preferences. We appreciate your cooperation and look forward to resolving this matter for you.

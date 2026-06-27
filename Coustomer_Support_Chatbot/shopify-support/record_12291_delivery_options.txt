@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: d uship to {{Delivery City}}
-
-Answer: Of course! We are delighted to offer delivery services to {{Delivery City}}, ensuring that our customers in the area can receive their orders conveniently. Our standard shipping option typically arrives within {{Date Range}} business days, while expedited shipping delivers your items in {{Date Range}} business days. If you need immediate delivery, our overnight shipping option ensures your items arrive the next business day. Additionally, you can also choose the in-store pickup option if you prefer to grab your items personally at one of our convenient locations. Feel free to explore these options and select the one that best suits your needs. If you have any specific concerns or require further assistance, please don't hesitate to let me know. We're here to ensure a smooth and seamless delivery experience for you!

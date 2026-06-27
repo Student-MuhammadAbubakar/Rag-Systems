@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need to see my invoice #12588, how can I do it?
-
-Answer: I'm cognizant of the fact that you're looking for assistance with viewing your invoice with the number #{{Invoice Number}}. To help you with this, you can follow these steps: first, log in to your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section, where you should be able to find a "View Invoice" or "Download Invoice" option. By clicking on that option, you'll be able to access your invoice with the number #{{Invoice Number}} in a downloadable format. If you have any further questions or need additional guidance, please don't hesitate to let me know.

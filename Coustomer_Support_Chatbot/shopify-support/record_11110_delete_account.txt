@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need help to close a {{Account Category}} account
-
-Answer: Glad you got in touch about closing your {{Account Category}} account. I understand that you need assistance with this process, and I'm here to help you every step of the way. To initiate the account closure, we will need some specific information from you. Could you please provide me with the email address associated with your {{Account Category}} account? This will allow me to locate your account in our system and proceed with the necessary steps to close it. Rest assured, we'll handle this request promptly and ensure a smooth closure process.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i need help to add a product to order {{Order Number}}
-
-Answer: We truly understand your need to add a product to order number {{Order Number}}. We're here to assist you with that. Could you please provide us with the details of the product you'd like to add? Once we have the information, we'll ensure the necessary steps are taken to include it in your order. Your satisfaction is paramount, and we're committed to making your experience seamless. Let us know how we can further assist you.

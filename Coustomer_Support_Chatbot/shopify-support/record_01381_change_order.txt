@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I am trying to swap some goddamn items of purchase {{Order Number}}
-
-Answer: Thank you for bringing this to our attention! I understand that you are looking to swap some items in your purchase with the number {{Order Number}}. Our goal is to ensure that you have the best shopping experience and that your order meets your expectations. To assist you further, could you please provide the details of the specific items that you would like to swap? This will allow us to promptly process your request and make the necessary adjustments. We appreciate your patience and look forward to resolving this for you.

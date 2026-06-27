@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not have a pro account yet, help me register
-
-Answer: Thank you for getting in touch to us with your request to register for a {{Account Type}} account. I'm here to assist you throughout the process and ensure a seamless experience. To get started, could you please provide me with your full name, email address, and a preferred username for your new {{Account Type}} account? Once I have these details, I'll guide you step-by-step through the registration process. It's important to highlight that your privacy and security are our top priorities, and all the information you provide will be handled with utmost care.

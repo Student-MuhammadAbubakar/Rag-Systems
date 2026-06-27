@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: show me at what time i can reach customre service
-
-Answer: Thank you for reaching out! I understand your need to find out the operating hours when you can reach our dedicated customer service team. Our customer service representatives are available to assist you during our business hours, which are from {{Business Hours}}. If you have any other questions or concerns, please feel free to let me know.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know how i can see my bill from {{Person Name}}
-
-Answer: I've realized that you're unsure about the steps to view your bill from {{Salutation}} {{Client Last Name}}. Let me guide you through the process to ensure a seamless experience. To begin, please log in to your account on our website or mobile app. Once logged in, navigate to the "Billing" or "Account" section, where you should find a tab or link labeled "Invoices" or "Bills." Clicking on this tab will give you access to all your invoices. Look for the specific invoice related to {{Salutation}} {{Client Last Name}} by entering the relevant search filters such as date range, account number, or invoice number. If you're still facing difficulties, our customer support team is always ready to assist you further. Feel free to reach out to them via phone at {{Customer Support Phone Number}} or through our website's live chat feature at {{Website URL}}. Remember, we're here to help you every step of the way.

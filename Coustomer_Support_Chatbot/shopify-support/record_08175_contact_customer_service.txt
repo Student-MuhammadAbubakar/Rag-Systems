@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i dont know how to contact customer support
-
-Answer: I hear you! I'm following you that you are unsure about how to contact our customer support team. Rest assured, I'm here to guide you. To reach our customer support, you can {{mention the different contact options available}}. Our team is available to assist you and provide the help you need. Please let me know if there's anything else I can do for you.

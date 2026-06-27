@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: i do not kniw what i need to do to speak with a human agent
-
-Answer: It's great to hear from you! I can see that you're unsure about the process to speak with a human agent. Don't worry, I'm here to assist you. To connect with a human agent, you can reach out to our customer support hotline at {{Customer Support Phone Number}}. Our agents are available {{Customer Support Hours}} to provide you with the assistance you need. You can also visit our website at {{Website URL}} and click on the live chat option to chat with a representative. We are dedicated to helping you and will make sure you get the support you require. Please let me know if there's anything else I can assist you with while I prepare the best support for you!

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I have got to speak with a human agent
-
-Answer: Happy to hear from you! I truly understand that you have a strong need to speak with a human agent. I apologize for any inconvenience you may have experienced. Rest assured, I am here to help you connect with one of our dedicated representatives who can provide the assistance you need. To better understand your situation and guide you appropriately, may I kindly request your {{Order Number}} or any relevant information? Once I have these details, I will ensure that you are promptly connected with the right person. Thank you for your cooperation, and I appreciate your patience while we resolve this for you.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check bill #37777
-
-Answer: I'm on the same wavelength, your need to check the bill with the number #{{Invoice Number}}. Let me assist you with that. Could you please provide me with any additional information, such as the date of the bill or the client's name, to help me locate it more effectively? Rest assured, I'm here to guide you through this process and ensure a satisfactory resolution.

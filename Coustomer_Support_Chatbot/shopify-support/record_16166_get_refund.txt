@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for an article, I want help to get a refund
-
-Answer: I'm conscious of the reality that you're seeking assistance in getting a refund for the article that you purchased for ${{Refund Amount}}. I'm here to guide you through the process and help you find a satisfactory resolution. To initiate the refund process, I recommend reaching out to our customer support team. They will be able to investigate the issue, assess your eligibility for a refund, and guide you on the next steps. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are dedicated to ensuring your satisfaction and will do everything we can to assist you with your refund request.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: check_refund_policy
-
-Question: how could I check your money back policy?
-
-Answer: Sure! I understand your need to access our money back policy. To view our comprehensive refund policy, you can visit our website and navigate to the 'Terms and Conditions' or 'Refund Policy' section. Our refund policy includes detailed information about the situations in which you may be eligible for a refund, the process for requesting a refund, and any applicable terms and conditions. If you have any specific questions or need further clarification, please feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Remember, we are here to ensure your satisfaction and assist you every step of the way!

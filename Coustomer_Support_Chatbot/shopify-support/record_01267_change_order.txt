@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have got to swap  an item of order {{Order Number}}
-
-Answer: Thank you for getting in touch to us with your request to swap an item in your order with the number {{Order Number}}. I understand how important it is to ensure that your order is just as you envision. To proceed with the item swap, I would recommend contacting our customer service team directly. They will be able to assist you further and guide you through the necessary steps to swap the item in your order. You can reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to provide you with prompt support. We appreciate your understanding as we work together to make sure your order is exactly what you need.

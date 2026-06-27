@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where to see what hours i can reach customer service
-
-Answer: Thank you for reaching out! I completely understand your need to check the operating hours of our customer service team. To find the hours of availability, you can visit our website at {{Website URL}}. On our website, you will find a dedicated page or section specifically for customer service where you can easily view the hours of operation. If you have any other questions or concerns, please feel free to let me know. I'm here to assist you!

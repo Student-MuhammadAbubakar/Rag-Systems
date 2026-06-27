@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'm not registered i want assistance creating a {{Account Type}} account
-
-Answer: Thank you for contacting to us regarding the creation of a {{Account Type}} account. I'm here to guide you through the process, and I greatly appreciate your interest in joining our {{Account Type}} account community. As you mentioned that you're not registered yet, don't worry! We can easily help you get started. To begin, I kindly request you to share some basic details such as your full name, email address, and a preferred username. Once I have this information, I will provide you with step-by-step instructions on how to create your {{Account Type}} account, ensuring that you have a smooth and hassle-free experience. If you have any questions or concerns along the way, please feel free to let me know. I'm here to assist you at every step of the process.

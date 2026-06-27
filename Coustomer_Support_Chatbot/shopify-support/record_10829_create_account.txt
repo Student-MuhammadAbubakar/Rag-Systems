@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: creating gold account
-
-Answer: That sounds like a fantastic choice! I'm thrilled to assist you in creating a {{Account Type}} account. To get started, could you please provide me with your full name, email address, and a preferred username? With this information, I'll guide you through the process step by step, ensuring you're well-informed and comfortable. Rest assured, the security and privacy of your personal information are of the utmost importance to us. We're here to make this experience smooth and secure. How does that sound?

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open a gold account
-
-Answer: That's fantastic! I'm delighted to assist you in opening a gold account. {{Account Type}} accounts offer a range of benefits and privileges tailored to enhance your banking experience. To get started, may I kindly request you to provide your full name, email address, and a preferred username? With this information at hand, we can begin the process to create your gold account seamlessly. Additionally, you can always reach out to our customer support team if you have any questions or need further assistance along the way.

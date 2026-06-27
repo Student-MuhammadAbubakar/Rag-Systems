@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Refund Amount}} dollars
-
-Answer: I'm on the same page, the importance of receiving a restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are here to assist you with your refund inquiry. Allow me a moment to check the current status of your restitution. While I investigate this for you, I want to ask if you have any previous experience with refund requests? Your feedback can help us continuously improve our services and address your concerns effectively. Thank you for your patience, and we'll provide you with an update shortly.

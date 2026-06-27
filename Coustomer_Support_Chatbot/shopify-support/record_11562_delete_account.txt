@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need my damn {{Account Category}} account, help to close it
-
-Answer: We're here for you to us regarding the closure of your {{Account Category}} account. I understand that you no longer require this service and I apologize for any inconvenience you may have experienced. Rest assured, I'm here to assist you every step of the way in closing your account. To proceed with the closure, I kindly request you to provide me with your account details or any specific instructions you may have. Once I have the necessary information, I will initiate the account closure process for you.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: could I place a damn order from {{Delivery Country}}?
-
-Answer: I'll get right on it! We welcome orders from {{Delivery Country}} with open arms. Our international shipping options ensure that you can place an order and have it delivered to your desired location. Let's explore the available shipment methods and find the perfect one that suits your needs. Feel free to ask any further questions or share specific details, and I'll gladly assist you throughout the process. Together, we'll make your order placement a smooth and enjoyable experience.

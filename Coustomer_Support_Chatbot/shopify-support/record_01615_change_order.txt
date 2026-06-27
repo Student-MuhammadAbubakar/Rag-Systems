@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: want help to switch several items of purchase {{Order Number}}
-
-Answer: Happy to get your message to us regarding your request to switch several items in purchase number {{Order Number}}. We understand the importance of ensuring that your purchase meets your expectations. To assist you better, could you please provide the specific items you would like to switch? Our goal is to make sure you're completely satisfied with your purchase. Your feedback and questions help us improve our services. How has your overall experience been so far?

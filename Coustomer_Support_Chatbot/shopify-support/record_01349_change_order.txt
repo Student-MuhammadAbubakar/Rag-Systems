@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how can I change some articles of order {{Order Number}}?
-
-Answer: Appreciate your message to us with your request to change some articles in order number {{Order Number}}. We understand the importance of ensuring that your order is exactly what you desire. To assist you with making the necessary changes, please provide us with the specific articles you would like to modify. Once we have this information, our team will work diligently to fulfill your request. We greatly appreciate your patience and understanding as we strive to provide you with the best possible service.

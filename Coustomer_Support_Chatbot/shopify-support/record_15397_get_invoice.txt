@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i want help to get my invoice from {{Person Name}}
-
-Answer: Ah, the noble endeavor to retrieve the esteemed invoice for the distinguished {{Person Name}} unfolds before us!I am here to guide you on this quest and assist you in procuring the coveted invoice. Together, we shall embark on this journey to provide you with the information you seek.

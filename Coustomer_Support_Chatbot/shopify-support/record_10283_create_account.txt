@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: give me information about opening a {{Account Category}} account
-
-Answer: I'm delighted to provide you with information on opening a {{Account Category}} account. A {{Account Category}} account offers exclusive benefits and enhanced features that cater to your specific needs. To get started, could you please provide me with your contact information such as your full name, email address, and phone number? Once you share these details, I will guide you through the account opening process step-by-step. Rest assured, our top priority is to ensure a seamless and secure experience for you. How would you like to proceed?

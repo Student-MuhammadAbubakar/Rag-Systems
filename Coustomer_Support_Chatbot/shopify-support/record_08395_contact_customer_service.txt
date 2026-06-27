@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help seeing what hours I can contact customer assistance
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to know the operating hours during which you can contact our customer assistance. Our dedicated team is available and ready to assist you during {{Customer Support Hours}}. You can reach out to us anytime within these hours, and our team will be more than happy to help you with any questions or issues you may have. How else may I assist you today?

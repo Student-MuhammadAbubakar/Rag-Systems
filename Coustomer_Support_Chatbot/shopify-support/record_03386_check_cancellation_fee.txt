@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: I'm trying to see the cancellation fee
-
-Answer: To view the cancellation fee, please log in to your account and go to the "Cancellation Fees" section. There you will find all the information regarding cancellation fees for your specific plan.

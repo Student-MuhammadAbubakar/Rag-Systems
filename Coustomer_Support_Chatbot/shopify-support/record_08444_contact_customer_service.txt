@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to get in touch with customer service
-
-Answer: Sure! I understand your need to get in touch with our customer service team. Our dedicated support representatives can assist you with any questions or concerns you may have. You can reach them during our {{Customer Support Hours}}. Alternatively, you can also contact them through the Live Chat feature on our website at {{Website URL}}. They are always ready to help you. How else can I assist you today?

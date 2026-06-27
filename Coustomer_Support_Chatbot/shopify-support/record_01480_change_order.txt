@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how could I switch several articles of purchase {{Order Number}}?
-
-Answer: We understand that you would like to switch several articles from purchase number #{{Order Number}}. Our goal is to assist you in making the necessary changes to ensure your satisfaction. To proceed with the article switch, please provide us with the details of the articles you would like to swap, including their names and quantities. Our team will then review the request and guide you through the process. We appreciate your patience and cooperation while we work on modifying your purchase.

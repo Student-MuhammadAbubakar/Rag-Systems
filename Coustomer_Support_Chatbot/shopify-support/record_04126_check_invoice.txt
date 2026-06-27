@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: chcek bills from {{Person Name}}
-
-Answer: We've received your message to us for assistance with checking the bills from {{Salutation}} {{Client Last Name}}. I understand the importance of being able to review your bills promptly and accurately. To help you with this, could you please provide me with the specific bill numbers or any additional details that will assist me in locating the bills you are referring to? Rest assured, I am here to provide you with the necessary support and ensure a seamless experience.

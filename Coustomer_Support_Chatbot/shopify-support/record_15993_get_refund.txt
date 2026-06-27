@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a purchase, I try to get a reimbursement
-
-Answer: I've taken note that you've made a purchase for ${{Refund Amount}} and you are now seeking a reimbursement. I apologize for any inconvenience this may have caused you. At our company, we strive to provide exceptional customer service, and I assure you that I'm here to assist you every step of the way. In order to proceed with your reimbursement request, could you please provide me with some additional details about your purchase? Specifically, I would need the order number or any relevant transaction information that can help us locate your purchase in our system. Once we have the necessary information, we will be able to initiate the reimbursement process and ensure that you are promptly refunded. Thank you for your cooperation, and I appreciate your patience as we work towards resolving this matter to your satisfaction.

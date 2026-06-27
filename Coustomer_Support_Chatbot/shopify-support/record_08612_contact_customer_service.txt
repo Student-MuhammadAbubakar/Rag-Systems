@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to get in touch with customer service
-
-Answer: Thank you for contacting! I certainly recognize that you're looking to get in touch with our customer service team. We're here to assist you. You can reach our customer service team during {{Customer Support Hours}}. Whether you have questions, concerns, or need assistance, our team is ready to help. We value your time and are committed to providing exceptional service. How can I make your experience even better today?

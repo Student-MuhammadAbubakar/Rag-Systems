@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: want help giving a quick look at my inovice #85632
-
-Answer: Positively! I'm here to assist you in giving a quick look at your invoice with the number {{Invoice Number}}. To access the details of your invoice, please provide me with your account information or any other relevant details. With this information, I can quickly locate your invoice and provide you with the necessary information. Thank you for reaching out, and I look forward to helping you with your invoice!

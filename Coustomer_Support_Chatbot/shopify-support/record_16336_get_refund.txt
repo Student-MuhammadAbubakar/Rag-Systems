@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refund {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've come to understand that you are seeking a refund of ${{Refund Amount}}. I apologize for any inconvenience this may have caused. To initiate the refund process, I suggest reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the information needed for the refund. Rest assured, our team is committed to resolving this matter by ensuring a smooth and efficient refund process.

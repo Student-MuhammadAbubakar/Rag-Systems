@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need help to call customer support
-
-Answer: Happy to hear from you! I truly understand that you need assistance in calling our customer support. We strive to provide the best support for our customers, and I'm here to guide you through the process. To call our customer support, please dial our toll-free number at {{Customer Support Phone Number}}. Our team will be more than happy to assist you with any inquiries or concerns you may have. Feel free to reach out to us whenever you need help.

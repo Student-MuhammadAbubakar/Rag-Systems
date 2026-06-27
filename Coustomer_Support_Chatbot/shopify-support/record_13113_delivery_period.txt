@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: want hel seeing how long the shipping takes
-
-Answer: We absolutely understand your desire to know the estimated shipping duration for your package. To assist you better, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with an accurate estimate of when your shipment will arrive. Your patience is greatly appreciated as we work on resolving this for you.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where to download my bill #85632?
-
-Answer: I'm on it! I completely understand your need to locate the download location for your bill with the number #{{Invoice Number}}. To download your bill, you can visit our website at {{Website URL}} and navigate to the 'Billing' or 'Account' section. There, you will find the option to download your bill as a PDF or in another format. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

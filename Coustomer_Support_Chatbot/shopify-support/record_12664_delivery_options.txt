@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order from {{Delivery Country}}
-
-Answer: I'll get right on it! We welcome orders from the {{Delivery Country}} with open arms. We value our international customers and strive to provide a seamless ordering experience across borders. Rest assured, we have the necessary systems and processes in place to ensure smooth delivery of your desired products from the {{Delivery Country}} to your location. Feel free to explore our delivery options that cater perfectly to your needs. Should you have any further queries or if there's anything else I can assist you with, please don't hesitate to reach out. Your complete satisfaction is our priority!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: deliverids to {{Delivery Country}}
-
-Answer: Sure! We offer delivery services to {{Delivery Country}}, ensuring that customers like you can receive their orders conveniently. Our delivery options include Standard Shipping, which typically arrives within a specified number of business days, Expedited Shipping for faster delivery, Overnight Shipping for urgent needs, and In-Store Pickup if you prefer to collect your items personally. Please note that the exact timeframes may vary based on factors such as location and current circumstances. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. Your satisfaction is our priority!

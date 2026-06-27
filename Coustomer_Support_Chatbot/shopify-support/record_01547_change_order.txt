@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: si it possible to add some products to order {{Order Number}}
-
-Answer: We appreciate your inquiry about adding products to your order with the number #{{Order Number}}. Our team is committed to providing the best possible assistance. To ensure accuracy, could you please specify the products you would like to add to your order? We will do our utmost to accommodate your request and make your shopping experience seamless and enjoyable.

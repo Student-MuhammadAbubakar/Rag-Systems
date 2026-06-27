@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I need to do to call customer support?
-
-Answer: We're here for you! I'm aware that you would like to know how to contact our customer support team. To call our customer support, you can dial {{Customer Support Phone Number}} during our {{Customer Support Hours}}. Our team will be happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

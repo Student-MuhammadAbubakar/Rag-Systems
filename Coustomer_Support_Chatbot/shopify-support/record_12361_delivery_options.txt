@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place a damn order from  {{Delivery Country}}
-
-Answer: Indeed! We welcome orders from {{Delivery Country}} with open arms. Our delivery options are available for customers in {{Delivery Country}}, ensuring a seamless shopping experience. You can explore our diverse range of products and simply proceed with placing your order. Our efficient shipping partners will make sure your package reaches you in a timely manner. If you have any specific requirements or need further assistance with placing your order, please feel free to let me know. Together, let's create a delightful shopping journey for you!

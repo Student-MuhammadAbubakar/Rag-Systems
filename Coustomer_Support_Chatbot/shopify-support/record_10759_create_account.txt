@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not know how to create a {{Account Type}} account
-
-Answer: Thank you for reaching out! I appreciate your interest in creating a {{Account Type}} account with us. Rest assured, I'm here to assist you every step of the way. To create a {{Account Type}} account, you can visit our website and navigate to the account creation page. Alternatively, you can also contact our customer support team, who will be more than happy to guide you through the process. Remember, with a {{Account Type}} account, you'll have access to exclusive benefits and features. If you have any questions or need further assistance, feel free to let me know. I'm here to help!

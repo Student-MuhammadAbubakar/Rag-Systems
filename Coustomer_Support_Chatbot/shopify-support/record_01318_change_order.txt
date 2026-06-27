@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant delete some items from order {{Order Number}}
-
-Answer: I'm conscious of the reality that you're facing difficulties in deleting specific items from order number {{Order Number}}. We apologize for any inconvenience caused. To assist you further, could you please provide us with the details of the items you wish to remove? Once we have the necessary information, we'll promptly take the necessary actions to resolve this for you. Thank you for your understanding and patience.

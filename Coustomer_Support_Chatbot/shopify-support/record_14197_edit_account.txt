@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: changing info on {{Account Type}} account
-
-Answer: We are delighted to assist you with updating the information on your {{Account Type}} account. Ensuring that your account details are accurate and up-to-date is essential for a seamless user experience. To proceed, please provide the specific information that you would like to change, such as your contact details or billing address. Rest assured that we will guide you through the process step by step, making it as effortless as possible. Your satisfaction is our top priority, and we are committed to helping you achieve your goals with your {{Account Type}} account.

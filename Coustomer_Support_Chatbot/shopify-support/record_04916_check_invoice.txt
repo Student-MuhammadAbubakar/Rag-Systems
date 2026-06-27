@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I'd like to check my fucking invoices from {{Person Name}} help me
-
-Answer: I wholeheartedly apologize if there was any misunderstanding or frustration caused. I understand that you would like to check your invoices from {{Salutation}} {{Client Last Name}}. I'm here to assist you step by step in locating and accessing your invoices. If you could provide me with any additional information such as date range or invoice numbers, I can help you find the exact invoices you are looking for. Rest assured, I'm committed to ensuring that you have a seamless experience while reviewing your invoices.

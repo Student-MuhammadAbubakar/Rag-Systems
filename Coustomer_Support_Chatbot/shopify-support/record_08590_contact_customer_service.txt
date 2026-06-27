@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I have to do to talk to customer service?
-
-Answer: We're all ears! I'm tuned into the idea that you are eager to connect with our customer service team. To talk to our customer service, you can [provide steps to contact customer service, such as mentioning phone number, email address, or live chat option]. Our team is available during {{Customer Support Hours}}, and they will be more than happy to assist you with any questions or concerns you may have. Is there anything else I can help you with?

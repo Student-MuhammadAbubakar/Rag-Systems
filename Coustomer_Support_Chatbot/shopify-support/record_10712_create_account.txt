@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: what do I hqve to do to create a platinum account?
-
-Answer: Fantastic! You're interested in creating a {{Account Category}} account with us, and I'm here to guide you through the process. To get started, please visit our website at {{Website URL}} and click on the 'Sign Up' or 'Create Account' button. You'll be redirected to a registration page where you'll need to provide some personal information like your full name, email address, contact number, and any other details required for account verification. Once you've filled in the necessary information, you'll be asked to select the '{{Account Category}}' account type. Double-check that all the information provided is accurate before submitting the form. After successfully creating your {{Account Category}} account, you'll gain access to exclusive benefits, privileges, and personalized support. If you have any questions or need further assistance throughout the registration process, feel free to reach out. We're here to help you every step of the way!

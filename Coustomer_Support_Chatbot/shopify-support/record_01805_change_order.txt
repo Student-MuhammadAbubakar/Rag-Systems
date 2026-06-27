@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how do i change an item of order {{Order Number}}
-
-Answer: Thank you for contacting us with your inquiry about changing an item in order number {{Order Number}}. We appreciate your interest in modifying your order to meet your specific requirements. To proceed with the change, please provide us with the details of the item you would like to modify. Our team will review your request and assist you in making the necessary adjustments.

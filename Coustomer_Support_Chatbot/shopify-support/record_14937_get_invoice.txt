@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i want help to download my bill from {{Person Name}}
-
-Answer: I acknowledge that you're seeking assistance to download your bill from {{Person Name}}. Just give me a moment to retrieve the necessary information for you. In the meantime, I'd like to thank you for providing the specific details. This will help me ensure that I retrieve the correct bill and provide you with accurate guidance.

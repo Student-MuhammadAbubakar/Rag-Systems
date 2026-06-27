@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a compenastion of {{Currency Symbol}}{{Refund Amount}}, was it processed already
-
-Answer: Firstly, I genuinely appreciate you reaching out about your expected ${{Refund Amount}} compensation. We understand the importance of keeping updated on the processing status. Allow me to assist you with checking whether your compensation has been processed or not. This will only take a moment, and thank you for your patience.

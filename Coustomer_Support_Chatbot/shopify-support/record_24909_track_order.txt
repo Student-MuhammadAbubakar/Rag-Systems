@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: where is ordered {{Order Number}}
-
-Answer: Thank you for reaching out! I completely understand that you would like to know the location of your order with order number {{Order Number}}. To track the whereabouts of your order, I recommend visiting the '{{Order Tracking}}' section on our website. There, you will be able to get real-time updates on the status and location of your order. If you have any further questions or concerns, please feel free to let me know. I'm here to assist you in any way I can to ensure a smooth shopping experience!

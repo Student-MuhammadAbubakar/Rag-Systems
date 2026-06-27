@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: another {{Account Type}} acconut
-
-Answer: Fantastic! We're thrilled that you're interested in creating another {{Account Type}} account with us. Our goal is to make the account creation process as smooth and convenient as possible. To begin, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step by step, ensuring that you have a clear understanding of each stage. Remember, the security and privacy of your information are of utmost importance to us, and we will handle your data with the utmost care. Let's get started on creating your new account!

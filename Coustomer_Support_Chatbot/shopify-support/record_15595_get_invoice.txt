@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can uhelp me downloading the invoice from {{Person Name}}
-
-Answer: Definitely! I completely understand your request to download the invoice from {{Salutation}} {{Client Last Name}}. Let me assist you with that. Please wait a moment while I retrieve the invoice for you. Once I have it, I'll provide you with the necessary instructions on how to download it. Thank you for your patience!

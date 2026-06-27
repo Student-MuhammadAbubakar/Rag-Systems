@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a fucking ocmpensation of {{Currency Symbol}}{{Refund Amount}}, was it processed
-
-Answer: Firstly, I truly understand how pivotal the {{Currency Symbol}}{{Refund Amount}} reimbursement is for you. Every dollar counts, and we’re in this together. We acknowledge the importance of swift resolutions to your queries. Let me swiftly dive into the current status of your refund. As you patiently await, might I ask if you’ve ever had to follow up on a reimbursement before? We value your insights and your patience alike. Rest assured, we're doing everything we can to ensure your satisfaction and trust.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: wanna remoev a bloody article from order {{Order Number}}
-
-Answer: I comprehend your concern about removing a specific article from your order with the number {{Order Number}}. We value your satisfaction and are here to help. To proceed with the removal, can you please provide more details about the article you'd like to remove? This will assist us in ensuring that we accurately update your order. Thank you for your patience while we resolve this for you.

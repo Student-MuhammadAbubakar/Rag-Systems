@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how do I speak to someone?
-
-Answer: I see what you mean! I'm on the same page that you're looking for guidance on how to speak to someone. Rest assured, I'm here to help you with that. To connect with one of our dedicated representatives, I recommend reaching out to our customer support line at {{Customer Support Phone Number}} or visiting our website at {{Website URL}} and looking for the "Contact Us" section. There you will find various options to get in touch with us, such as live chat, email, or filling out a contact form. Our team is available and ready to assist you. Feel free to contact us through any of these channels, and we'll be happy to help you with your inquiry. We value your time and appreciate your patience."

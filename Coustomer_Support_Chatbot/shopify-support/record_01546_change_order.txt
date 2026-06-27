@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how to switch an item of purchase {{Order Number}}?
-
-Answer: I'm on the same page, your need to switch an item in your purchase with order number {{Order Number}}. We're here to help you with that! To proceed with the switch, could you please provide us with the specific details of the item you would like to switch? This will allow us to assist you further and ensure that your purchase meets your expectations. Thank you for choosing our services, and we appreciate your cooperation in making this modification.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: where to request compensations of money?
-
-Answer: I'm picking up what you're putting down, your need to know where you can request compensations of money. To initiate the compensation process, I recommend reaching out to our dedicated customer support team. They are available to assist you and guide you through the entire process. You can contact them through the Live Chat feature on our website at {{Website URL}} or by calling our customer support hotline at {{Customer Support Phone Number}}. Rest assured, our team will be more than happy to help you with your compensation request and ensure a satisfactory resolution.

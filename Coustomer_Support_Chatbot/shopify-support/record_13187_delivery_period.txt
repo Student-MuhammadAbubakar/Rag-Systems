@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I want to see how long it tyakes for my package to arrive
-
-Answer: We understand your curiosity about the delivery timeframe of your package. To assist you further, could you please provide us with the {{Tracking Number}} or {{Order Number}}? This will enable us to provide you with an accurate estimate of the delivery time. We appreciate your cooperation in this matter.

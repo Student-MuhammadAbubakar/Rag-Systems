@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i try to speak to customer service
-
-Answer: Glad you contacted us! I'm clearly cognizant that you have been trying to speak to our customer service team. I apologize for any inconvenience you may have experienced. Our team is available during {{Customer Support Hours}} and is here to assist you. If you encounter any issues while trying to contact us, please let me know, and I'll do my best to help you resolve them.

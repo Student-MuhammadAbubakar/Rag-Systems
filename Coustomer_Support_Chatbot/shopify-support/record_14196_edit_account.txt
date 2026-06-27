@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: edit {{Account Type}} account
-
-Answer: Your determination to modify the details on your {{Account Type}} account is truly inspiring!I'm here to provide you with the guidance and support you need throughout this process. To ensure a seamless updating experience, please remember not to share any personal information here. Please access the appropriate section on our website or reach out to our dedicated customer support team for personalized assistance. What specific details would you like to change on your {{Account Type}} account? Let's work together to make it happen!

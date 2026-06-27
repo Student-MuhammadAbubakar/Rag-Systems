@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a refund of {{Refund Amount}} dollrs
-
-Answer: I can relate to the understanding that you're eagerly waiting for a refund of {{Currency Symbol}}{{Refund Amount}}. I apologize for any inconvenience this delay may have caused. Let me quickly check the current status of your refund for you. In the meantime, I want to assure you that we value your time and your business, and we're committed to resolving this matter as swiftly as possible. Thank you for your patience and understanding.

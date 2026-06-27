@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help switching several items of order {{Order Number}}
-
-Answer: We sincerely appreciate your inquiry regarding switching several items in order {{Order Number}}. Rest assured, we are here to assist you with this matter. To proceed with the necessary modifications, we kindly request you to provide us with the specific details of the items you wish to switch. Your satisfaction matters to us, and we are committed to ensuring that your order reflects your preferences accurately. Please let us know the exact items you would like to switch, and we will take care of the rest.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: wanna talk with customer assistance
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to talk to our customer assistance team. Our dedicated team is available to assist you during {{Customer Support Hours}}. To connect with our team, please call {{Customer Support Phone Number}} or visit our website at {{Website URL}} and access our live chat feature. We're here to help with any questions or concerns you may have. How else can I assist you today?

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: see invoices from {{Person Name}}
-
-Answer: I gather that you're looking to view the invoices associated with Mr. {{Client Last Name}}. To access the invoices, you can log in to your account on our website and navigate to the "Invoices" or "Billing" section. If you're unable to find the invoices there, please provide me with your account details, and I'll be happy to assist you further in locating the invoices.

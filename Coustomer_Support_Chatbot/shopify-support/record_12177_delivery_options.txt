@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to ordet from {{Delivery Country}}
-
-Answer: Bienvenido! We're delighted to offer our services to customers in {{Delivery Country}}. You can absolutely place an order with us from {{Delivery Country}}. We strive to provide seamless international shipping options to bring our products right to your door. Our delivery partners ensure reliable and efficient shipping, making it convenient for you to receive your order. If you have any specific concerns or queries regarding the ordering process or shipping to {{Delivery Country}}, please feel free to ask. We're here to guide you every step of the way!

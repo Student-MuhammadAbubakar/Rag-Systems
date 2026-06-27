@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i cant find my invoice #12588 can ya mail it to me
-
-Answer: Absolutely! I completely understand your frustration in trying to locate your invoice with the number #{{Invoice Number}}. Sending the invoice to you via email would be a great solution. Could you please provide me with your email address so that I can forward the invoice directly to you? Once I have that information, I'll take care of the rest.

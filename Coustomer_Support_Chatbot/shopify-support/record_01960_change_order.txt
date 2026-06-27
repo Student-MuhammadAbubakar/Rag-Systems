@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I made a mistake, help me to change purchase {{Order Number}}
-
-Answer: We understand that you would like to make changes to your purchase with the number #{{Order Number}} as you've realized there was a mistake. We're here to assist you with that. Could you please provide specific details about the changes you would like to make? This will help us ensure that we fulfill your requirements accurately. We appreciate your cooperation and look forward to resolving this for you.

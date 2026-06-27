@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order frrom {{Delivery Country}}
-
-Answer: I'm happy to help! We are excited to extend our services to customers in {{Delivery Country}}. You can absolutely place an order with us and have it delivered to your desired location in {{Delivery Country}}. Our shipping options are designed to ensure a smooth and convenient experience for our customers. Simply select your desired items, proceed to checkout, and enter your shipping address in {{Delivery Country}}. We will take care of the rest and make sure your order reaches you in a timely manner. If you have any specific questions or need assistance with the ordering process, please feel free to let us know. We are here to help!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how do I check when my package is going to arrive?
-
-Answer: We understand your curiosity to know the expected arrival date of your package. To assist you with tracking your package, please provide us with the {{Tracking Number}} or {{Order Number}} associated with your order. Once we have that information, we can provide you with real-time updates on the progress and estimated delivery time of your package. Thank you for your cooperation in helping us serve you better!

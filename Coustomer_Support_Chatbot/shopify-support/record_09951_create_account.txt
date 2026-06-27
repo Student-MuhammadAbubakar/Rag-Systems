@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want to open a {{Account Type}} account for my son, how can I do it?
-
-Answer: That's great to hear that you want to open a {{Account Type}} account for your son! We have a simple and straightforward process to help you get started. To initiate the account opening, kindly provide your son's full name, date of birth, and email address. Additionally, please share your contact information and relationship to your son for verification purposes. Once we have these details, we'll guide you through the necessary steps to create the {{Account Type}} account and provide you with all the benefits and features it offers. Rest assured that we prioritize the security and privacy of our customers, so you can feel confident in entrusting your son's financial journey to us. How does that sound?

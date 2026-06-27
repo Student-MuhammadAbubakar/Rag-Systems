@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship  to {{Delivery Country}}?
-
-Answer: I'll get right on it! We are delighted to offer shipments to {{Delivery Country}}, ensuring that our international customers, like you, have access to our products. Rest assured, we strive to provide reliable and efficient shipping services to deliver your items to your desired location. If you have any specific concerns or questions regarding shipping to {{Delivery Country}} or any other inquiries, feel free to let me know. I'm here to assist you every step of the way!

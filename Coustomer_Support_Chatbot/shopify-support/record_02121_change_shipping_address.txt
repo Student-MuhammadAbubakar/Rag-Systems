@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: can you help me to correct the delivery address?
-
-Answer: Of course! We understand the importance of having the correct delivery address. To update your shipping address, please log into your account and navigate to the "Shipping Address" section. From there, you should be able to edit or add a new address. If you encounter any issues or need further assistance, please don't hesitate to reach out to our customer support team. We're here to help!

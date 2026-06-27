@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: give me information about  the removal of my {{Account Type}} account
-
-Answer: Glad you got in touch about the removal of your {{Account Type}} account. I understand that you're looking for information on how to proceed with canceling your account, and I'm here to help. To ensure that your request is properly handled, could you please provide me with your account details such as your account number or any other identifying information? This will allow me to give you accurate and personalized information on the removal process.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how do I see how soon can I expect the bloody delivery?
-
-Answer: We understand your impatience and desire to know the estimated delivery time of your package. To track the progress of your delivery, we kindly ask you to provide the {{Tracking Number}} or {{Order Number}}. With this information, we can provide you with an accurate estimate of when you can expect your delivery. Thank you for your cooperation, and we appreciate your understanding while we assist you in tracking your shipment.

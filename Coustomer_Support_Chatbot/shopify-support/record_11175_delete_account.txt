@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know what I have to do to delete my platinum acount
-
-Answer: We appreciate your inquiry regarding the deletion of your {{Account Category}} account. I understand that you're unsure about the steps involved, and I'm here to provide you with the necessary guidance. Deleting your {{Account Category}} account is a straightforward process that we can assist you with. To initiate the deletion, please provide us with the necessary information, such as your account details or any specific preferences you have regarding the deletion process. With this information, we can ensure a seamless experience for you.

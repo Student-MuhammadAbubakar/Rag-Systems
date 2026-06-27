@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: I chose a wrong address by mistake, I want to modify it
-
-Answer: I apologize for the inconvenience you've experienced with selecting the wrong delivery address. We understand the importance of ensuring accurate shipping information. To correct this issue, please provide us with the correct address so that we can update it for you. Thank you for bringing this to our attention, and we appreciate your understanding.

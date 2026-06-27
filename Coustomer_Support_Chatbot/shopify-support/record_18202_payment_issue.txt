@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: notify of troubles with payment
-
-Answer: I'm sorry to hear that you're experiencing troubles with your payment. Rest assured, we're here to assist you in resolving this issue. To notify us of the problem, I recommend reaching out to our customer support team directly. They are equipped with the necessary tools and expertise to address payment troubles efficiently. You can contact them through our website or by phone during {{Customer Support Hours}}. They will guide you through the process of notifying us about the payment issue and work towards a solution that meets your needs. Thank you for bringing this matter to our attention, and we appreciate your patience and cooperation as we assist you with this matter.

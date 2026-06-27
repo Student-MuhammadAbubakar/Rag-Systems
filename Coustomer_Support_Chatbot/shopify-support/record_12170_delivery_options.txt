@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it plssible to order from {{Delivery Country}}?
-
-Answer: Unquestionably! We offer international shipping, including deliveries to the {{Delivery Country}}. When placing an order, you can select the {{Delivery Country}} as your shipping destination, and we will ensure a seamless delivery experience from our end. Please note that there may be additional charges or customs fees associated with international shipments, which will be calculated and displayed during the checkout process. If you have any specific concerns or questions about ordering from the {{Delivery Country}}, feel free to let me know. I'm here to assist you every step of the way!

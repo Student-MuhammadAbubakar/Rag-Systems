@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I cannot see order {{Order Number}} damn current status
-
-Answer: Glad you contacted to us regarding the current status of your order with the order number {{Order Number}}. I apologize for any inconvenience you may have experienced. To assist you further, could you please provide some additional information, such as your full name or any alternative identifiers associated with your order? This will allow me to locate the order details and provide you with an accurate update on its status. Thank you for your understanding, and I'm here to help you every step of the way.

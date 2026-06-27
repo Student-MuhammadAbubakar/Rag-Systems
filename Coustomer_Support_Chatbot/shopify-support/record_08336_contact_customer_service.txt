@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need help talking with customer service
-
-Answer: Honored to assist! I'm clued in that you need assistance in speaking with our customer service team. I'm here to guide you through the process and provide you with the help you need. To get in touch with our customer service, you can reach out to them during our {{Customer Support Hours}}. They can be contacted through phone at {{Customer Support Phone Number}} or via the Live Chat feature on our website at {{Website URL}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Feel free to provide any additional details about your query, and I'll make sure to address it appropriately.

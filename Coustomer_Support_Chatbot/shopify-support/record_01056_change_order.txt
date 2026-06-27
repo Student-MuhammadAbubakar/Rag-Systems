@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant switch several aritcles of purchase {{Order Number}}
-
-Answer: I'm sorry to hear that you're having trouble switching several articles for purchase number {{Order Number}}. I understand how important it is to have the flexibility to make changes to your order. Allow me to assist you further with this issue. Could you please provide me with more details about the specific articles you want to switch? This information will help us find the best solution for you.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can I check when my bloody product is going to arrive?
-
-Answer: We understand your frustration and eagerness to know when you can expect your product to arrive. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we will be able to track your order and give you an estimated delivery date. We appreciate your patience as we work to resolve this matter for you.

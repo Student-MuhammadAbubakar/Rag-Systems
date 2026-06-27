@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to find bill #12588?
-
-Answer: I'll do my best! I'm here to help you find the bill with the number #{{Invoice Number}}. To locate your bill, you can go to your account dashboard and navigate to the "Billing" or "Invoices" section. In most cases, you'll find a tab or link specifically dedicated to invoices. If you're having trouble locating it, I'd be more than happy to guide you through the process step-by-step. Just let me know and I'll provide you with detailed instructions tailored to your specific account setup.

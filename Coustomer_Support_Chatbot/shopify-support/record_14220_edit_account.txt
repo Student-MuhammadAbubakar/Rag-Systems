@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modify details on platinum account
-
-Answer: We're delighted to assist you in modifying the details on your platinum account. Your account's security and your satisfaction are our utmost priorities. To ensure your account remains secure, please refrain from sharing any personal identifiers such as your full account number or password. If you need assistance pertaining to sensitive information, I recommend accessing {{Online Company Portal Info}} directly or reaching out to our dedicated customer support team. Could you please provide me with specific details you would like to modify? I'm here to guide you through the process and ensure a seamless experience.

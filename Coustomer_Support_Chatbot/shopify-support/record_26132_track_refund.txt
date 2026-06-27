@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm on your side your expectation for a restitution of {{Currency Symbol}}{{Refund Amount}}. Your reimbursement is of utmost importance to us, and we want to make sure we resolve this to your satisfaction. Allow me a moment to check the current status of your restitution. While I do that, could you please confirm if you have any specific concerns or questions related to the restitution process? Your insights are valuable to us as we work towards your happiness and trust.

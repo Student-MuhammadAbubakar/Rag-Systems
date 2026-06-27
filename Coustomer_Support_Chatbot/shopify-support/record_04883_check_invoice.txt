@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how do I give a quick look at the invoice from {{Person Name}}?
-
-Answer: I understand your need to quickly view the invoice from {{Salutation}} {{Client Last Name}}. To give a quick look at the invoice, you can log in to your account on our website and navigate to the "Invoices" section. There, you should be able to find a list of your invoices, including the one from {{Person Name}}. If you need further assistance with navigating our website or accessing your account, please don't hesitate to let me know.

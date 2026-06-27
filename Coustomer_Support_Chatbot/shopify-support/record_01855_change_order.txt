@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help switching some products oforder {{Order Number}}
-
-Answer: I've been informed that you need assistance with switching some products for order number {{Order Number}}. We're here to help you with that. Could you please provide more details about the specific products you would like to switch? This will allow us to assist you more effectively and ensure that your order is just as you want it.

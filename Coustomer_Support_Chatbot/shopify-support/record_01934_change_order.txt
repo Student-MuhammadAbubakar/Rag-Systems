@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: could uhelp me correct order {{Order Number}}
-
-Answer: I grasp your request to correct order number {{Order Number}}. Our team is here to assist you with any modifications you need to make. To better understand the changes you require, could you provide more details about what specifically needs to be corrected in the order? Your feedback is valuable in ensuring your satisfaction and enhancing our services.

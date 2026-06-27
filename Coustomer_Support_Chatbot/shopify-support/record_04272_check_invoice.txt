@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know what i need to do to find ibll #12588
-
-Answer: I've realized you're unsure about the steps to locate the bill with the number #{{Invoice Number}}. Let me assure you that I'm here to guide you through the process. To find the bill, you can start by accessing your account on our website or contacting our customer support team. They'll be able to provide you with the necessary details and assist you in locating the specific bill. Don't hesitate to reach out if you need any further assistance.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Refund Amount}} dollars
-
-Answer: I see that you would like assistance with refunding a specific amount of ${{Refund Amount}}. It's essential to take some necessary steps to initiate the refund process. To begin, please ensure that you have the relevant details regarding your purchase, such as the order number or transaction ID. It would be best to reach out to our customer support team via phone or email, providing them with the necessary information and explaining the reason for the refund request. Our team will guide you through the refund procedure, verifying the details and ensuring that you receive your refund in a prompt manner. Please do not hesitate to ask any further questions or seek additional support throughout this process.

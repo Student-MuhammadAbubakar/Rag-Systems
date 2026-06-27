@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: deliveries to {{Delivery Country}}
-
-Answer: I'll make it happen! I'm excited to let you know that we provide deliveries to {{Delivery Country}}. We understand the importance of reaching out to our customers all across the globe and ensuring a seamless shipping experience. Whether you're in Budapest, Debrecen, Szeged, or any other part of {{Delivery Country}}, we've got you covered. Our trusted delivery partners will ensure that your package reaches you safely and on time. If you have any specific requirements or if there's anything else I can assist you with, please feel free to let me know. I'm here to ensure your satisfaction!

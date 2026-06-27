@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a rebateof {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'll do my best! I completely understand the significance of waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}. It's essential to stay updated on the status and progress of your reimbursement. Allow me a moment to check the current status for you. While I do that, I'd like to ask if you have any specific preferences or concerns regarding the refund process. Your feedback is valuable in ensuring a seamless experience for you. Thank you for your patience and cooperation.

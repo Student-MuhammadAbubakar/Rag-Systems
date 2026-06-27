@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: wanna know more about the shipping periods
-
-Answer: We completely understand your desire to gain more information about our shipping periods. Our shipping durations can vary based on several factors, including the destination, shipping method selected, and any potential customs procedures. To provide you with the most accurate estimate, could you please share the {{Tracking Number}} or {{Order Number}}? With this information, we'll be able to give you a precise timeline for your package's arrival. We appreciate your patience and look forward to assisting you further.

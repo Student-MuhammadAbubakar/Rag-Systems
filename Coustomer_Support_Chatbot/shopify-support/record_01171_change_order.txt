@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me to add a goddamn item to purchase {{Order Number}}
-
-Answer: We appreciate you reaching out to us for assistance with adding an item to your purchase with the number #{{Order Number}}. We understand the importance of this request and we're here to help. To proceed with the addition, could you please provide us with the details of the item you would like to add? Our team will ensure that the necessary adjustments are made to your purchase and that you have a seamless shopping experience.

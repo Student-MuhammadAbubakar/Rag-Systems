@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can i locate the bill ffom {{Person Name}}
-
-Answer: Of course! I understand your need to locate the bill related to {{Salutation}} {{Client Last Name}}. To help you with that, it would be helpful if you could provide me with any additional information such as the {{Date Range}}, invoice number, or any other details you might have. With those details, I'll be able to assist you more effectively in finding the correct bill. Don't worry, I'm here to support you every step of the way!

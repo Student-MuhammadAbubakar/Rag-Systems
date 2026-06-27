@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open {{Account Type}} cacount for wife
-
-Answer: We appreciate your interest in opening a {{Account Type}} account for your wife. Rest assured, I'm here to guide you through the process. To create a {{Account Type}} account for your wife, we'll need some basic information such as her full name, email address, and a username of her preference. Once we have these details, we can proceed to create the account and provide her with access to our platform's exciting features. Please note that the security and privacy of our users are of utmost importance to us, and we take extensive measures to protect their information. Let's get started on opening an account for your wife and ensuring a smooth experience for her!

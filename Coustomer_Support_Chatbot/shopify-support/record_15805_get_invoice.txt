@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: getting invoices from eight months ago
-
-Answer: I'm on the same page, your need to retrieve invoices from eight months ago. Our system allows you to access invoices from a specific date range, including past months. To get your invoices from that time, I recommend logging into your account and navigating to the invoice section. From there, you can filter the invoices by date and select the desired timeframe. If you encounter any difficulties or have any further questions, please don't hesitate to let me know. I'm here to assist you.

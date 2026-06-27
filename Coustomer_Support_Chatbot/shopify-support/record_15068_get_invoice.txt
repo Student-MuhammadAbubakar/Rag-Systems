@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: assistance getting my invoice #37777
-
-Answer: Certainly! I completely understand your need for assistance in retrieving your invoice with the number #{{Invoice Number}}. I'm here to help you with that. Allow me a moment to locate the invoice and provide you with the necessary information. In the meantime, if you have any other questions or concerns, please feel free to let me know.

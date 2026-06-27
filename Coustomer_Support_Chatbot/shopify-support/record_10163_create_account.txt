@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i dont have a {{Account Category}} account eyt i need to sign up
-
-Answer: I appreciate your interest in signing up for a {{Account Category}} account with us, despite not having one yet. Rest assured, I'm here to guide you through the process. To get started, may I kindly request your full name, email address, and a preferred username? With this information, I'll be able to assist you in signing up for the {{Account Category}} account smoothly. Additionally, I want to assure you that our sign-up process is quick, secure, and designed to protect your privacy. Let me know if you have any questions or concerns along the way.

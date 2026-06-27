@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I want information about shipping period
-
-Answer: We understand your need for information about the shipping period. To provide you with accurate details, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can quickly check the estimated delivery date. Your patience is greatly appreciated as we work to assist you better.

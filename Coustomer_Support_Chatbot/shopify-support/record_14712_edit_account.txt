@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: update info on {{Account Category}} account
-
-Answer: We're excited to support you in updating the information on your {{Account Category}} account! Your commitment to keeping your account details accurate and relevant shows us that you're proactive in optimizing your experience with us. Rest assured, we have a seamless process in place to guide you through the changes you want to make. Can you please provide us with more details about the specific information you would like to update? With your collaboration, we'll ensure that your {{Account Category}} account aligns perfectly with your evolving needs.

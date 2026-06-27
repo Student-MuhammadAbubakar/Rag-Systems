@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I lost the damn bill from {{Person Name}}, send it to me
-
-Answer: I'm on your side your frustration with losing the bill from {{Salutation}} {{Client Last Name}}. I'll do my best to assist you in retrieving it. However, for security and privacy reasons, I won't be able to send it directly through this platform. Instead, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They'll be able to verify your account details and provide you with the necessary assistance to retrieve the bill. Let me know if there's anything else I can help you with in the meantime.

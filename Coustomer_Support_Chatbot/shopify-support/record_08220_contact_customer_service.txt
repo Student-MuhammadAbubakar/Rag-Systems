@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how do I check at what time I can call customer assistance?
-
-Answer: Thank you for trusting us! I'm fully aware of you would like to know the process for checking the operating hours of our customer assistance team. To check the available hours, you can visit our website at {{Website URL}} and navigate to the customer support section. Alternatively, you can reach out to our customer assistance team directly at {{Customer Support Phone Number}} for the most up-to-date information regarding their availability. Our team is dedicated to assisting you and will be happy to provide you with the information you need. Is there anything else I can help you with?

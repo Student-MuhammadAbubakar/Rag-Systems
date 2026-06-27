@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: wanna cange an item of order {{Order Number}} how could i do it
-
-Answer: I appreciate your need to change an item in your order with the number {{Order Number}}. To assist you with this, I recommend contacting our customer service team as they have the necessary expertise to make the desired modifications. You can reach out to them via our website's live chat or by calling our dedicated customer support hotline at {{Customer Support Phone Number}}. Our team will guide you through the necessary steps to make the changes you require. We value your satisfaction and strive to provide you with the best possible assistance.

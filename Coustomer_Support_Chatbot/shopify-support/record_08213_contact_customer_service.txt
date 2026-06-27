@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can ya show me at what time customr service available is
-
-Answer: Happy to hear from you! I truly understand that you would like to know the operating hours during which our customer service team is available. I'm here to assist you with that. Our customer service team is available during {{Customer Support Hours}}. These are the hours when you can reach out to our team for any inquiries or assistance. Feel free to let me know if there's anything else I can help you with.

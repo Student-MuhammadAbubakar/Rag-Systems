@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i dont know what i need to do to inform of payment errors
-
-Answer: No worries! I'm here to guide you on how to inform us about any payment errors you've encountered. To get started, you can reach out to our customer support team through various channels, such as phone, email, or live chat. Our dedicated team is available {{Customer Support Hours}} to assist you with reporting the payment errors you've experienced. Alternatively, you can also visit our website and navigate to the "Contact Us" page, where you'll find detailed instructions on how to notify us about payment issues. Remember, the more information you provide about the errors, such as the date, time, payment method, and any error codes or messages you received, the better equipped we'll be to assist you and resolve the issue swiftly. We value your feedback, and by informing us about the payment errors, you're helping us improve our system for a smoother payment experience in the future. Thank you for reaching out, and we're here to help every step of the way.

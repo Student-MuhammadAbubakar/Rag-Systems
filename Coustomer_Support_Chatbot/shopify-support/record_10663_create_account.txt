@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need a different bloody {{Account Type}} account, can you create it?
-
-Answer: Thank you for your request to create a different {{Account Type}} account with us! I'm here to assist you with that. Just to clarify, you mentioned that you would like a different account from the one you currently have, is that correct? Please provide me with the specific details of the account you would like to create, such as the account type or any specific features you're looking for. Once I have the necessary information, I'll proceed accordingly and ensure a smooth account creation process for you.

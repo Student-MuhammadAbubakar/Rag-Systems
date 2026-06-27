@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i need assistance takinmg a quick look at invoice #00108
-
-Answer: I'm on it! I understand that you require assistance in quickly reviewing the details of invoice number #{{Invoice Number}}. Let me guide you step by step to ensure the process is smooth and seamless. Firstly, could you please verify your account credentials for security purposes? Once you've done that, I will be able to provide you with the necessary information to take a quick look at your invoice.

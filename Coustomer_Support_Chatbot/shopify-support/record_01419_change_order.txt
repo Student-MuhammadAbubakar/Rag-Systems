@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I update purchase {{Order Number}}?
-
-Answer: I'll make it happen! I understand your desire to update your purchase with order number {{Order Number}}. We want to ensure that your order meets your expectations. Please provide us with the specific changes you would like to make, such as adding or removing items, modifying quantities, or updating shipping details. Our team is here to assist you in making the necessary updates to your purchase. Let us know how we can help!

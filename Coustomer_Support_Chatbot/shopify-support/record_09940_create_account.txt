@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where do I open a standard account?
-
-Answer: Sure! I can assist you with that. To open a standard account, you can visit our website at {{Website URL}}. There, you will find a "Sign Up" or "Open Account" button on the homepage. Click on it, and you will be directed to the account registration page. Fill in the required information, such as your personal details and contact information, and choose the "{{Account Type}}" account type. Once you've completed the registration process, your standard account will be created, and you can start enjoying the benefits and features that come with it. If you encounter any issues while opening your account, please don't hesitate to let me know, and I'll be more than happy to assist you further.

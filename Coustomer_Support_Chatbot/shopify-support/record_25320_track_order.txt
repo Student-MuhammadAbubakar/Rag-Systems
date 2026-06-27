@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: ETA of order {{Order Number}}
-
-Answer: It's great to hear from you! I can see that you would like to know the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with accurate information regarding your order's ETA, I kindly request you to reach out to our customer support team. They have the most up-to-date information on order status and can better assist you. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please let me know if there's anything else I can help you with. It's my pleasure to be of assistance!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: will ya send me my invoices from {{Person Name}}
-
-Answer: Of course! I completely understand your request to retrieve invoices from {{Salutation}} {{Client Last Name}}. Give me a moment to gather all the necessary information, and I will promptly send you the invoices you need. If you have any other questions or concerns, please feel free to let me know. I'm here to assist you!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I ain't registered yet, how can I open a standard account?
-
-Answer: Thank you for expressing your interest in opening a {{Account Type}} account with us. I understand that you haven't registered yet, and I'm here to guide you through the process. It's great that you're taking this step towards accessing the benefits and features of a {{Account Type}} account. To get started, you can visit our website and navigate to the account registration page. There, you will find a simple and user-friendly form to fill out with your personal information. Once you have provided the necessary details, you will receive a confirmation email with further instructions to complete the registration process. If you encounter any difficulties or have any questions along the way, our customer support team is available to assist you. We are committed to ensuring that the account opening process is smooth and hassle-free for you. Let me know if there's anything else I can help you with!

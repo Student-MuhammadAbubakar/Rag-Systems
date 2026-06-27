@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: need help changing some articles  of order {{Order Number}}
-
-Answer: I fathom that you need assistance with changing some articles in your order with number {{Order Number}}. We are here to help you with that. To ensure that we process your request accurately, could you provide specific details about the articles you would like to change? Your input will enable us to make the necessary adjustments and ensure your satisfaction. Thank you for reaching out to us!

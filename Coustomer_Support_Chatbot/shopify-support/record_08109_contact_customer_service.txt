@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a free customer assistance phone number?
-
-Answer: We appreciate your message! It's clear to me that you're interested in knowing if we have a free customer assistance phone number. We offer customer support services free of charge to assist you with any inquiries or concerns. You can reach our customer support team at {{Customer Support Phone Number}}. We're here to help you and provide the best assistance possible. How else may I assist you today?

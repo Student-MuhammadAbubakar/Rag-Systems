@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have paid {{Currency Symbol}}{{Refund Amount}} for an article want helo getting a rebate
-
-Answer: I understand your concern regarding the rebate for the article you purchased for ${{Refund Amount}}. I apologize for any inconvenience you may have experienced, and I'm here to guide you through the process. In order to assist you effectively, could you please provide me with the following details: the purchase date, the order number, and any relevant supporting documentation such as receipts or invoices. With this information, I will be able to initiate the refund process and ensure you receive the appropriate rebate. Thank you for bringing this to our attention, and rest assured, I will do my best to resolve this matter promptly and to your satisfaction.

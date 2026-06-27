@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: assistance speaking with customer support
-
-Answer: We're listening! I'm keyed into the fact that you need assistance in speaking with our customer support team. We are here to help and provide the support you need. To get in touch with our customer support, you can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Please don't hesitate to reach out to us.

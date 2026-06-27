@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new {{Account Category}} acount
-
-Answer: That's great! I'm excited to assist you in creating your new {{Account Category}} account. To get started, please visit our website and click on the "Sign Up" button. From there, you'll be guided through the registration process where you can choose the {{Account Category}} account option. If you have any questions or need further assistance, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.

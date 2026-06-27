@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modify information on {{Account Category}} account
-
-Answer: We truly appreciate your proactive approach to modifying the information on your {{Account Category}} account. Keeping your account details up to date is crucial for enjoying all the benefits of our services. To make modifications, you can log in to your account on our platform and navigate to the account settings or profile section. From there, you should be able to edit the necessary information such as your personal details, contact information, or preferences. If you encounter any difficulties or have specific questions about modifying certain details, our dedicated customer support team will be more than happy to assist you. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Don't hesitate to reach out if you need any further guidance or support. We're here to help you make the necessary modifications seamlessly.

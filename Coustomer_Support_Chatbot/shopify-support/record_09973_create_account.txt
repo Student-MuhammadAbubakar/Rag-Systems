@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I haven't signed up yet, help me to create a pro account
-
-Answer: Sure! I'm thrilled that you've chosen to sign up for a {{Account Type}} account with us. 🌟 Let's get you started on this exciting journey. To create your {{Account Type}} account, I'll need a few details from you. Could you please provide your full name, email address, and a preferred username? Don't worry, all your information will be kept confidential and secure. Once I have these details, I'll guide you through the step-by-step process, ensuring you're informed at every stage. We truly appreciate your interest in our {{Account Type}} account, and I'm here to assist you every step of the way. How does that sound?

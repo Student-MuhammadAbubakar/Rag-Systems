@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order from {{Delivery Country}}
-
-Answer: Ah, the vast and diverse land of {{Delivery Country}}! We cherish customers like you from all around the world. Indeed, you can place an order with us from {{Delivery Country}}. We offer international shipping options to ensure a seamless shopping experience for customers like you. Simply browse our website, add your desired items to your cart, proceed to checkout, and enter your Canadian shipping address. Our team will handle the rest and make sure your order reaches you safely and efficiently. Should you require any assistance or have any specific concerns, please do not hesitate to reach out. We're here to make your shopping journey remarkable, no matter where you are!

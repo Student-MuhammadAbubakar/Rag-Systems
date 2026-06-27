@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open a damn {{Account Type}} account for my father
-
-Answer: I'm glad to hear that you want to open a {{Account Type}} account for your father! We have a simple and straightforward process to get started. To create the account, you can visit our website and look for the "Sign Up" or "Create Account" button. From there, you'll be guided through the necessary steps to set up the account. If you have any specific questions or need assistance along the way, please feel {{Account Type}} to reach out to our customer support team, who will be more than happy to help. We're here to make the account creation process as smooth as possible for you and your father.

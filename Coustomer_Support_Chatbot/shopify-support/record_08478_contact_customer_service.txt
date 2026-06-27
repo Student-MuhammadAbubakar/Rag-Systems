@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to see at what time I can call customer support
-
-Answer: Always good to connect! I'm attuned to the fact that you want to know the specific hours when you can call our customer support team. We strive to provide excellent service and assistance, and our customer support team is available to take your calls during {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. I'm here to help!

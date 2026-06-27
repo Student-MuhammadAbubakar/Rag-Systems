@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I do not know how to request a compensation
-
-Answer: I've understood, you're unsure about the process of requesting compensation. Don't worry, I'm here to guide you. To initiate the compensation request, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will provide you with all the necessary information and assist you in submitting your compensation request. Feel free to ask any further questions, and I'll be more than happy to help you.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I don't know how to locate the invoice #85632
-
-Answer: I comprehend that you're facing some difficulties in locating the invoice with the number #{{Invoice Number}}. No worries, I'm here to guide you through the process. To find the invoice, you can try accessing your account on our website and navigate to the "Invoices" section. Alternatively, you can reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in finding the specific invoice you're looking for.

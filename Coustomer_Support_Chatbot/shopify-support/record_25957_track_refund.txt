@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a reimbursement of 1200dollars
-
-Answer: I'm fully aware of how important it is for you to receive the reimbursement of ${{Refund Amount}}. We value your trust in our services, and it's crucial for us to ensure that you have a smooth experience throughout this process. Allow me to check the current status of your reimbursement. While I retrieve the information, I'd like to inquire if you have any additional questions or concerns regarding the reimbursement process? Your insights are valuable, and we want to make sure we address all your needs. Thank you for your patience as I assist you further.

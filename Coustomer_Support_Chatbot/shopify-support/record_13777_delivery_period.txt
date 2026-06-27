@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: what is the delivery period for this order
-
-Answer: We understand your eagerness to know the delivery period for your order. To provide you with the most accurate information, could you please provide us with the {{Order Number}}? With that, we'll be able to access your order details and give you an estimated delivery period. We appreciate your cooperation and understanding.

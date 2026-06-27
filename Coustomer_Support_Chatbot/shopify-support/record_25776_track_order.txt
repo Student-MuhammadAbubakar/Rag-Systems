@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i try to track order {{Order Number}}
-
-Answer: Thanks for getting in touch! I grasp that you are trying to track your order with the order number {{Order Number}}. To assist you with that, please visit the order tracking section on our website. There you will find real-time updates on the status and estimated delivery date of your order. If you need any further assistance or have any other questions, please don't hesitate to ask.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: would it be possible to close a {{Account Category}} cacount
-
-Answer: Thank you for your message to us about closing your {{Account Category}} account. We understand that account closure is an important decision, and we are here to guide you through the process. To assist you further, could you please provide us with some additional information, such as your account username or email address? This will help us locate your account and provide you with the necessary steps to close it. We value your choice and are committed to making this process as smooth as possible for you.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I need help to track purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to assist you with tracking the status of the purchase with purchase number {{Order Number}}. To provide you with accurate information, could you please provide me with additional details such as the email address or name associated with the purchase? This will allow me to locate the order and provide you with the most up-to-date tracking information.

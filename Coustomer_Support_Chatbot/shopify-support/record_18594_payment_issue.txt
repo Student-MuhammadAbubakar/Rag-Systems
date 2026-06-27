@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I do not know what I need to do to inform of payment errors
-
-Answer: No worries at all! I'm here to guide you through the process of informing us about any payment errors you've encountered. To provide us with the necessary information, you can reach out to our dedicated support team via email, phone, or live chat. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. By contacting them, you'll be able to explain the payment errors in detail, and they will assist you in resolving the issue swiftly. Rest assured, we're committed to working together with you to ensure a smooth payment experience.

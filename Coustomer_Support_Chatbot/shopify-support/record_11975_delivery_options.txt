@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery City}}?
-
-Answer: I'm on it! We have shipping services available for {{Delivery City}}, ensuring that our customers in that area can receive their orders promptly. We understand the importance of reliable and efficient delivery, and we're committed to making it happen for you. So go ahead and place your order with confidence, knowing that we can deliver it to {{Delivery City}} seamlessly. If you have any other questions or need further assistance, feel free to ask. We're here to help!

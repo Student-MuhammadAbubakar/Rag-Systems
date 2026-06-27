@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i dont know what i need to do to create a {{Account Category}} account
-
-Answer: I appreciate your interest in creating a {{Account Category}} account! Allow me to walk you through the process step by step so that you can join our community seamlessly. First, visit our website and look for the "Sign Up" or "Create Account" button. Click on it to begin the registration process. You'll be prompted to provide some basic information such as your name, email address, and preferred username. Once you've entered the required details, you'll need to set a password to secure your account. After completing these steps, you'll receive a confirmation email with further instructions. If you have any questions or encounter any difficulties along the way, please don't hesitate to reach out to us. We're here to assist you throughout the process.

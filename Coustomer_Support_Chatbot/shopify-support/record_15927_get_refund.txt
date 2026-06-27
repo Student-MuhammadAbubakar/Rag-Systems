@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this order, help me getting a compensation
-
-Answer: I understand your concern regarding obtaining compensation for the ${{Refund Amount}} you spent on your order. I'm here to assist you in this process and ensure you receive the appropriate resolution. To begin, could you please provide more details about the issue you encountered with your order? By understanding the specifics, I can guide you towards the most effective course of action to seek compensation. Your satisfaction is of utmost importance, and I'm committed to helping you through this.

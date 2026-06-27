@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I have got to close my damn platinum account, I need help
-
-Answer: We're here to help about closing your {{Account Category}} account. I completely understand your urgency and frustration. Let's work together to get this resolved swiftly. To assist you effectively, could you please provide me with some additional details about your account and the specific issue you are facing with the closure process? Your satisfaction is our top priority, and we are here to help you every step of the way.

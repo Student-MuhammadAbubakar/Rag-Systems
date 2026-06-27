@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: is it possible to edit purchase {{Order Number}}?
-
-Answer: We understand that you would like to edit purchase number {{Order Number}}. Editing a purchase is possible in certain cases, depending on the status of the order and the specific changes you would like to make. To provide you with accurate information, could you please specify the specific edits you have in mind? This will help us determine the feasibility and guide you accordingly. We are committed to ensuring your satisfaction and will do our best to assist you with your request.

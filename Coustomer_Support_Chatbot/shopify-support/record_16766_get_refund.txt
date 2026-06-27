@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this article, where can I get a rebate?
-
-Answer: I've picked up that you have made a payment of ${{Refund Amount}} for this article and you are looking to obtain a rebate. Allow me to assist you with that. To initiate the rebate process, I recommend reaching out to our customer support team. They will be able to provide you with the necessary information and guide you through the steps to obtain your rebate. You can contact our customer support team through our website or by calling {{Customer Support Phone Number}}. Rest assured, our team is dedicated to ensuring customer satisfaction and will work diligently to process your rebate request in a timely manner.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: modify order00004587345
-
-Answer: We appreciate you contacting us to modify order number {{Order Number}}. We understand the importance of making changes to your order according to your specific requirements. To better assist you, could you please specify the modifications you would like to make? Our team is here to ensure that your order is tailored to your satisfaction.

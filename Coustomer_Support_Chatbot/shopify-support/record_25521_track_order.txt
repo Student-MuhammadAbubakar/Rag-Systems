@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: can you show me the current status of order {{Order Number}}?
-
-Answer: Grateful for your contact! I get the sense that you would like to know the current status of your order with the order number {{Order Number}}. To provide you with accurate and up-to-date information, may I request your email address or the name associated with the order? This will allow me to quickly locate your order in our system and provide you with the current status.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need the {{Account Type}} account, can you help me to close it?
-
-Answer: Thank you for your message to us about closing your {{Account Type}} account. We understand that you no longer require the {{Account Type}} account and we're here to assist you with the termination process. To better assist you, could you please provide us with the email address or username associated with your account? Once we have this information, we will be able to guide you through the steps required to close your {{Account Type}} account. We appreciate your cooperation and look forward to helping you with the account closure.

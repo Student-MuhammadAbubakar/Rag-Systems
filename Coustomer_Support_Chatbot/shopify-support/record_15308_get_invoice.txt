@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want to get my invoices from {{Person Name}}, how can I do it?
-
-Answer: Sure thing! I completely understand that you want to access your invoices from {{Person Name}}. Allow me to provide you with a step-by-step guide on how to do it. Firstly, log in to your account on our website and navigate to the "Invoices" section. From there, you should be able to view and download all the invoices associated with {{Person Name}}. If you encounter any difficulties along the way, feel free to reach out to our customer support team, and they will be more than happy to assist you further. Have a great day!

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: would it be possible to speak with customer support?
-
-Answer: Thank you for reaching out! I understand your desire to speak with our customer support team. We have various options available to assist you. You can reach our dedicated team through the phone at {{Customer Support Phone Number}} or connect with us through our Live Chat feature on our website at {{Website URL}}. Our knowledgeable representatives are here to provide you with the support you need. Please feel free to let me know if there's anything else I can assist you with.

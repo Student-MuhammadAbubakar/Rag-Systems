@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create new pro account for daughter
-
-Answer: That's wonderful! I'm thrilled to assist you in creating a new {{Account Type}} account for your daughter. To begin, I'll require a few details to personalize her account. Can you please provide her full name, email address, and a preferred username? Once I have these details, I will guide you through the account creation process step by step. Rest assured, we prioritize the security and privacy of our customers' information, so you can trust that her data will be handled with utmost care.

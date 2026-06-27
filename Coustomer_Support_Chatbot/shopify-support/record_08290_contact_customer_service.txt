@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need assistance to talk with damn customer service
-
-Answer: Always good to connect! I'm attuned to the fact that you need assistance in talking to our customer service. Our team is here to help you and provide the support you need. Have you tried reaching out to our customer service phone number or using our live chat feature on our website? These channels are available during {{Customer Support Hours}}. Let me know if there's anything specific I can do to assist you further.

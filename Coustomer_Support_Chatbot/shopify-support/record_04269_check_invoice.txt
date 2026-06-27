@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I have got to locate bill #85632, how do I do it?
-
-Answer: I see what you mean the importance of locating the bill associated with the number #{{Invoice Number}}. Let me guide you through the process. To locate your bill, you can visit our website and log into your account. Once logged in, navigate to the "Billing" or "Invoices" section where you should find all your invoices listed. Look for the invoice with the number #{{Invoice Number}} and you should be able to access all the details you need. If you face any difficulties or require further assistance, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.

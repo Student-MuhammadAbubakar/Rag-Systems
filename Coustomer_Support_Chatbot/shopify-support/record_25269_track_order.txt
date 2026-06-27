@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: check purchase {{Order Number}} current status
-
-Answer: We're all ears! I'm tuned into the idea that you would like to check the current status of your purchase with the number {{Order Number}} {{Order Number}}. To provide you with accurate information, could you please verify if you are referring to an online purchase or a purchase made in-store? This will help me assist you better and guide you to the right channel for tracking your order. I'm here to help, so don't hesitate to provide any additional details or ask any other questions you may have.

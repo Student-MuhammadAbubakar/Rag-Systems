@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can you help me switching a fucking item of order {{Order Number}}?
-
-Answer: We understand that you would like assistance with switching an item in order number {{Order Number}}. Our team is dedicated to helping you with your request. To ensure we provide you with the best support, could you please share the details of the item you would like to switch? We'll do everything we can to assist you promptly and efficiently.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a compensation of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: We completely understand how important it is for you to receive the compensation you are expecting. Your satisfaction is our priority, and we want to ensure that we address your concerns promptly. Let me investigate the current status of your compensation and provide you with an update. While I gather this information, may I ask if you have any specific questions or additional details that could assist us in expediting the resolution process? Thank you for your patience and cooperation.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: i do not know what to do to talk to a live agent
-
-Answer: Thank you for trusting us! I'm fully aware of you are unsure about the steps to talk to a live agent. Let me guide you through the process. First, please visit our website and navigate to the "Contact Us" page. There, you will find different options to connect with a live agent, such as a phone number or a live chat feature. If you prefer to speak over the phone, you can call our customer support helpline at {{Customer Support Phone Number}}. Alternatively, if you prefer live chat, you can click on the live chat icon on our website and one of our agents will assist you. We are here to provide the prompt assistance you need. Let me know if there's anything else I can help you with.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i have a question about opening a premium account
-
-Answer: Appreciate your message with your question about opening a {{Account Category}} account. I'm here to provide you with the information you need. Please go ahead and ask your question, and I'll do my best to assist you. Let's make sure you have all the details you require to make an informed decision.

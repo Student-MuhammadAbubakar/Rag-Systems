@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i have to see how soon can i expect my package how to do ig
-
-Answer: We understand your anticipation to know when your package will arrive. To track the estimated delivery time of your package, you can use our tracking service. Could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can provide you with an accurate estimate of your package's arrival. We appreciate your patience and look forward to assisting you further.

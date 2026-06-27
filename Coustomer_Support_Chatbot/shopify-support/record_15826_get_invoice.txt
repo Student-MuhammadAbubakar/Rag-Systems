@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: help to get my bill from {{Person Name}}
-
-Answer: Ah, the quest for retrieving the cherished bill from the esteemed {{Person Name}}! Fear not, for I am here to assist you in acquiring this important document. Allow me just a moment to locate and retrieve the requested bill for you. While I do that, please feel free to let me know if there is anything else I can help you with. Your satisfaction is our utmost priority, and I am committed to providing you with the support you need.

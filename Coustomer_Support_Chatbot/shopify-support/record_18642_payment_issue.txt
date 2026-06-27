@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I want to notify of errors with payment, how to do it?
-
-Answer: I appreciate your effort in notifying us of the errors you're encountering with your payment. To report these issues, you can reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will diligently investigate the matter and provide you with a prompt resolution. Your feedback is highly valued and will help us improve our payment system. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

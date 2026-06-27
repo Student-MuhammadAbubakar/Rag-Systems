@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: assistance checking the invoice from {{Person Name}}
-
-Answer: I truly appreciate your request for assistance with checking the invoice related to {{Salutation}} {{Client Last Name}}. Our main goal is to provide you with the support you need to locate the invoice and ensure a seamless experience. Could you please provide me with any specific details or additional information that can help us narrow down the search? This will enable us to find the invoice and provide you with accurate and efficient assistance. Rest assured, I'm here to guide you every step of the way, ensuring you feel empowered and satisfied.

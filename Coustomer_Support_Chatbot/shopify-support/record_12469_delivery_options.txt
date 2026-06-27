@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shiping to {{Delivery City}}
-
-Answer: I'm happy to help! {{Delivery City}} is a delightful destination, and we're here to assist you in exploring our delivery options that cater to your needs. You'll have a range of shipping choices to select from, ensuring your package arrives at the right time. Whether you prefer expedited shipping for a timely delivery or standard shipping for a more budget-friendly option, we have you covered. So go ahead and dive into our selection of delivery methods, and if you have any further questions or need assistance with anything else, feel free to let me know. Your satisfaction is our top priority!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how do I check when will my purchase arrive?
-
-Answer: We understand your anticipation to know the estimated arrival time of your purchase. To check the delivery status, you can visit our website and go to the "{{Order Number}}" page. There, you'll find all the relevant information, including the expected delivery date. If you have any trouble locating this page or need further assistance, our {{Customer Support Team}} is available to help you {{Customer Support Hours}} through our Live Chat feature on our website at {{Website URL}}. We want to ensure that you stay updated and informed throughout the shipping process. How else can I assist you today?

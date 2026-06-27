@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: have problems with cancelling purchase {{Order Number}}
-
-Answer: I realized that you're experiencing difficulties with canceling your purchase related to the order number {{Order Number}}. As a valued customer, your satisfaction is our top priority, and we're here to help you resolve this issue. To better assist you, could you please provide more details about the specific problems you're encountering with the cancellation process? With this information, we will be able to identify the root cause of the issue and provide you with the appropriate guidance to successfully cancel your purchase.

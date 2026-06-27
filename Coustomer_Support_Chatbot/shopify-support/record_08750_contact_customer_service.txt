@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have got to contact customer assistance
-
-Answer: Happy to hear from you! I truly understand that you need to contact our customer assistance team. We are here to provide you the necessary support. You can reach our customer assistance team during {{Customer Support Hours}} either by calling {{Customer Support Phone Number}} or by sending an email to {{Customer Assistance Email Address}}. We are committed to resolving your queries and assisting you with any concerns you may have. How else can I assist you today?

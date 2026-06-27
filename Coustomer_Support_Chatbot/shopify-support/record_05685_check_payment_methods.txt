@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: I need to see the available payment modalities
-
-Answer: Certainly, I understand that you would like to know the available payment methods. To provide you with accurate information, could you please specify the country or region you are located in? This will allow me to give you the most relevant payment options available in your area. Thank you for your understanding and cooperation.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a reufnd of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Your expectation of receiving a refund of {{Currency Symbol}}{{Refund Amount}} is completely valid, and I understand the importance of resolving this matter for you. I will promptly investigate the status of your refund and ensure that you receive the necessary updates. Thank you for your patience as we work towards a satisfactory resolution.

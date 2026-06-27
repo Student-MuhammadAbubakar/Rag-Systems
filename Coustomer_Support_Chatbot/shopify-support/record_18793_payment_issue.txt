@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where do I report a payment issue?
-
-Answer: Appreciate you reaching out to us regarding the payment issue you're experiencing. We're here to help. To report a payment issue, you can contact our dedicated customer support team. They can be reached through our customer support hotline at {{Customer Support Phone Number}} or via our website's live chat feature at {{Website URL}}. Our team is available {{Customer Support Hours}} and will be more than happy to assist you in resolving the payment issue promptly. Rest assured that we will work closely with you to address your concerns and find a suitable solution.

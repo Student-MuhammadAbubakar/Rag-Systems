@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: update details on {{Account Type}} account
-
-Answer: "Your dedication to updating the details on your {{Account Type}} account is truly commendable! We understand the importance of keeping your account information accurate and up to date to ensure you have the best experience with our services. Rest assured, we are here to assist you every step of the way. Could you please provide more specific details about the information you would like to update? We are eager to help you make those changes and enhance your experience with us."

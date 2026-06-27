@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how to see how long it takes for my delivery to arrive?
-
-Answer: We understand your eagerness to track the progress and estimated time of arrival for your delivery. To check the expected delivery time, you can log in to your account on our website and navigate to the "Order History" or "Track Order" section. There, you will find the shipping details along with the estimated delivery date. If you don't have an account, you can reach out to our customer support team with your {{Order Number}} or {{Tracking Number}}, and they will be more than happy to assist you in obtaining the information. Tracking your delivery helps us ensure a seamless experience and empowers you with real-time updates. How else may we assist you today?

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order from {{Delivery City}}
-
-Answer: Unquestionably! {{Delivery City}} is one of the many places where we offer our order placement services. You can conveniently place your order and have it shipped to your desired location, whether it's within the United States or internationally. We strive to ensure that ordering from {{Delivery City}} or any other location is a seamless experience for you. If there's anything specific you'd like to know about the ordering process or any other assistance you require, feel free to let me know. I'm here to assist you every step of the way!

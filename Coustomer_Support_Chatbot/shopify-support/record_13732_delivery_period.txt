@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am trying to see how soon can I expect my fucking product
-
-Answer: We understand your eagerness to receive your product and would be happy to provide you with an estimated delivery time. Kindly provide us with the {{Order Number}} or {{Tracking Number}} of your purchase, and we will promptly assist you in tracking the progress of your shipment and provide you with the expected delivery date. We appreciate your patience and apologize for any inconvenience caused.

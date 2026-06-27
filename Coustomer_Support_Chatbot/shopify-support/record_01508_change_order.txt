@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant add some articles to purchase {{Order Number}}
-
-Answer: We understand that you are facing difficulties in adding some articles to purchase number {{Order Number}}. We apologize for the inconvenience caused. In order to assist you better, could you please provide us with the specific details of the articles you are trying to add? Once we have the information, we will do our best to resolve the issue and ensure that your purchase is accurate and complete. Your satisfaction is our top priority, and we appreciate your patience and cooperation in this matter.

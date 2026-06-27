@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}} ?
-
-Answer: Absolutely! We offer delivery services to {{Delivery City}} and various other locations across Canada. Whether you're in {{Delivery City}}, Vancouver, Montreal, or any other city, we've got you covered. Our wide network ensures that your orders reach you no matter where you are. So you can confidently place your order and expect it to be delivered to your doorstep in {{Delivery City}}. If you have any specific concerns or need assistance with the delivery process, feel free to let me know. I'm here to ensure a smooth delivery experience for you!

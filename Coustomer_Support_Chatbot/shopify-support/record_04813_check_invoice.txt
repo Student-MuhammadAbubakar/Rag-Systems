@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I have got to locate my invoice from {{Person Name}}
-
-Answer: I truly appreciate your trust in our assistance to help you locate the invoice from Ms. {{Person Name}}. Rest assured, I'm here to guide you through the process and provide you with the necessary information you need. To assist you more efficiently, could you please provide me with any relevant details such as the invoice number, date range, or any other specific information? This will enable me to narrow down the search and find the invoice you are looking for. Thank you for your cooperation, and I look forward to resolving this matter for you.

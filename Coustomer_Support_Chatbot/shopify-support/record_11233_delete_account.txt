@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I no longer use the {{Account Type}} account, I want help removing it
-
-Answer: I appreciate you reaching out regarding your {{Account Type}} account. It seems that you no longer have a need for it, and I understand that sometimes priorities change. Let's work together to find a solution. Please provide me with some additional information, such as your account details or any specific steps you have already taken towards removing the {{Account Type}} account. This will allow us to proceed efficiently and ensure a smooth removal process.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can ya help me to open an platinum account
-
-Answer: For sure! I'm here to assist you in opening a {{Account Category}} account. Thank you for choosing to start this exciting journey with us! To get started, I'll need a few details from you. Could you please provide your full name, email address, and a preferred username? Once I have this information, I will guide you step-by-step through the process, ensuring that you are fully informed. Please rest assured that your security and privacy are of utmost importance to us, and we will handle your information with the utmost care and confidentiality. Let's make this process as smooth as possible for you!

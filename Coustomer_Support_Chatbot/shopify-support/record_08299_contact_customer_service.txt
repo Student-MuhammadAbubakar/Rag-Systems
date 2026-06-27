@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i try to check whathours customer support available is
-
-Answer: Thank you for reaching out! I completely understand that you have been trying to check the hours when our customer support team is available. You can find the customer support hours on our website at {{Website URL}}. There, you will be able to see the specific times when you can reach our team for assistance. If you have any further questions or need any additional support, feel free to let me know. I'm here to help!

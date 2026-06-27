@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant edit order {{Order Number}}
-
-Answer: I understand your frustration regarding the inability to edit order number {{Order Number}}. We apologize for any inconvenience caused. To assist you further, could you please provide more details about the specific changes you would like to make? This way, we can explore alternative options and find a suitable solution for you. Thank you for your patience and cooperation.

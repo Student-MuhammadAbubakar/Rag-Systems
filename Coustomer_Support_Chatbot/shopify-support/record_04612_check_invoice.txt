@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where can i see my fucking bill from {{Person Name}}
-
-Answer: I understood that you are frustrated and would like to locate the bill from {{Salutation}} {{Client Last Name}}. To access your bill, you can log in to your online account on our website and navigate to the "Billing" or "Invoices" section. Alternatively, you can contact our customer support team for assistance in retrieving the bill. Rest assured, we are here to help you with any inquiries regarding your bill.

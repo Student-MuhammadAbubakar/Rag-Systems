@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: delete pro account
-
-Answer: Appreciate your message to us regarding the deletion of your {{Account Type}} account. I understand that you would like to remove your account and I'm here to assist you. To provide you with accurate guidance and ensure a smooth process, could you please provide us with your account details such as the email address or username associated with your {{Account Type}} account? This will allow us to locate your account and proceed with the deletion process. Your cooperation is greatly appreciated as we work towards resolving your request.

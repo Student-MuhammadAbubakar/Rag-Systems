@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an order from {{Delivery Country}}?
-
-Answer: How delightful! You're considering placing an order from the beautiful country of {{Delivery Country}}! I'm pleased to inform you that we do offer shipping to {{Delivery Country}}. Our delivery options ensure that you can conveniently receive your order at your desired location. Whether you choose standard shipping for an expected delivery within a certain number of business days or expedited shipping for a faster arrival, we've got you covered! During the checkout process, simply select {{Delivery Country}} as your shipping destination, and our system will provide you with the available delivery options and estimated delivery times. If you have any specific concerns or questions regarding shipping to {{Delivery Country}} or any other aspect of the ordering process, please don't hesitate to let me know. I'm here to make your experience smooth and enjoyable every step of the way!

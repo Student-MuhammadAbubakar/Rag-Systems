@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I don't know how to check how soon can I expect the product
-
-Answer: We understand that you're unsure about how to check the estimated delivery time for your product. Don't worry, we're here to assist you. To determine the shipping duration, we'll need some information. Could you please provide us with the {{Order Number}} or {{Tracking Number}}? With these details, we can quickly look up the status of your order and provide you with an accurate estimate of when you can expect your product. Your patience is greatly appreciated, and we'll do our best to assist you promptly.

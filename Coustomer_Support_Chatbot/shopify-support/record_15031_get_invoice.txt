@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: nede to get the bill from {{Person Name}} how to do it
-
-Answer: No worries! I understand that you need to get the bill from Ms. {{Client Last Name}}. Let me guide you through the process. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section, where you should find a list of all the bills associated with your account. Look for the bill from Ms. {{Client Last Name}} and click on it to access the details. If you're unable to locate the bill or encounter any difficulties, please don't hesitate to reach out to our customer support team, who will be more than happy to assist you further. Remember, we're here to make things easier for you!

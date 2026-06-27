@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get bills from {{Person Name}}
-
-Answer: Ah, the noble quest to retrieve the bills from the honorable {{Person Name}}!I am here to guide you on this mission. To proceed, could you please provide me with the specific period or date range for the bills you wish to access? Once I have this information, I will swiftly assist you in locating and retrieving the desired bills.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery City}}?
-
-Answer: I'll make it happen! We're thrilled to let you know that we offer convenient shipping services to {{Delivery City}}. We deliver to major cities, including {{Delivery City}}, ensuring that your order reaches you promptly and securely. Feel free to explore our wide range of delivery options to select the one that best suits your needs. If you have any specific questions or require further assistance, please don't hesitate to ask. We're here to assist you every step of the way!

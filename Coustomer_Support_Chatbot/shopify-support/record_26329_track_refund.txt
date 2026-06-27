@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: where do I see the status of the compensation ?
-
-Answer: Glad you got in touch to us regarding the status of your {{Compensation Type}}. We recognize the importance of keeping you informed about the progress of your compensation. To check the status, you can visit our website and log in to your account. Once logged in, navigate to the "My Account" or "Dashboard" section, where you will find a dedicated tab or page displaying the status of your compensation. If you encounter any difficulties or need further assistance, our customer support team is available to guide you through the process. We appreciate your patience and understanding while we work to ensure a satisfactory resolution for you.

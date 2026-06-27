@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I remove an article from order {{Order Number}}?
-
-Answer: Thanks for reaching out to us regarding your request to remove an article from order number {{Order Number}}. We understand that sometimes changes need to be made, and we're here to assist you. To proceed with the removal, please provide us with the details of the article you would like to remove. This will enable us to resolve the issue promptly and ensure your satisfaction. We truly appreciate your patience and cooperation in this matter. How may I assist you further?

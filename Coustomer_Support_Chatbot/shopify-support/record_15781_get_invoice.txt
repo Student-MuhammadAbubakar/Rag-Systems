@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can I get the bills from {{Person Name}}?
-
-Answer: Certainly! I understand your request to retrieve the bills from {{Salutation}} {{Client Last Name}}. Allow me a moment to gather all the relevant invoices and provide you with the necessary information. Rest assured, I am here to assist you throughout the process. If you have any other questions or concerns, feel free to let me know.

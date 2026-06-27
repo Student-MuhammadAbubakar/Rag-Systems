@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: is it possible to download my bills from {{Person Name}}?
-
-Answer: I'm on your side your need to download your bills from {{Person Name}}. Our system provides the option to download bills for your convenience. Let me guide you through the process. First, log in to your account on our website using your credentials. Once logged in, navigate to the "Billing" or "Account" section. You should find an option to view and download your bills. If you encounter any difficulties during this process, please don't hesitate to reach out to our customer support team, available 24/7 at {{Customer Support Phone Number}}, or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way.

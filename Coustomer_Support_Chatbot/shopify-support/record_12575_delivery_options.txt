@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order frlm {{Delivery City}}
-
-Answer: Of course! We have no limitations on ordering from different locations, including {{Delivery City}}. You can place an order with us, and we will ensure it gets delivered to you promptly, whether you're in {{Delivery City}} or any other location. Just choose your preferred shipping option during the checkout process, and we'll take care of the rest. If you need any assistance in placing your order or have any other questions, feel free to ask. We're here to make sure your shopping experience is smooth and delightful!

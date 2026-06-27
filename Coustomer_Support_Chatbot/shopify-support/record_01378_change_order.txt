@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: want assistance to switch something of purchase {{Order Number}}
-
-Answer: We appreciate you reaching out to us for assistance with modifying your purchase with the number #{{Order Number}}. We understand that you need to make a switch regarding something in your purchase, and we're here to help. To better assist you, could you please provide specific details about what you would like to switch? This will enable us to provide you with the most accurate guidance. We value your satisfaction and look forward to resolving this issue for you.

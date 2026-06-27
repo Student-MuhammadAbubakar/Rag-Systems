@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I do not know what I need to do to inform of a payment issue
-
-Answer: Not to worry! I'm here to guide you through the process of reporting a payment issue. To get started, you can reach out to our customer support team either through our website's live chat feature or by calling our helpline at {{Customer Support Phone Number}}. They will be able to assist you further and provide you with the necessary steps to inform us about the payment issue you've encountered. Remember, we're committed to resolving this matter swiftly and ensuring you have a seamless payment experience.

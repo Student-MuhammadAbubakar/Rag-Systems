@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: need help to notify of an issue with payments
-
-Answer: I'm happy to help! I'm here to assist you in notifying us about any issues you're facing with your payments. To report the problem, I recommend reaching out to our dedicated customer support team. They have the expertise to provide you with the necessary guidance and solutions. You can contact them by calling {{Customer Support Phone Number}} or chatting with them through the Live Chat on our website at {{Website URL}}. Rest assured, our team will work diligently to address your concerns and help resolve the issue with your payments. Thank you for reaching out to us, and we appreciate your patience throughout this process.

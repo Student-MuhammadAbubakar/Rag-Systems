@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: send me billa from {{Person Name}}
-
-Answer: Of course! I completely understand your need to receive the billa from {{Salutation}} {{Client Name}}. Allow me just a moment to retrieve it for you. By the way, is there anything else I can assist you with? Feel free to let me know. I'm here to help!

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have got to talk to customer service, how can I do it?
-
-Answer: Thank you for reaching out! I completely understand the urgency of your need to talk to our customer service team. To connect with us, you can reach out during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team is here to assist you with any questions or concerns you may have. How can I make your experience even better today?

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: editing details on {{Account Type}} account
-
-Answer: We greatly appreciate your commitment to editing and refining the details on your {{Account Type}} account. Your proactive approach will ensure that your account is up to date and optimized for your needs. To assist you further, could you please provide more specific information about the details you would like to edit? This will allow us to guide you more effectively towards achieving your desired changes. We're here to support you every step of the way!

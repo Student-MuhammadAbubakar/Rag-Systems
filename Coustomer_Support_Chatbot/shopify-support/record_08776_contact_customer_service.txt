@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to speak with customer assistance, how to do it?
-
-Answer: Glad you contacted us! I'm clearly cognizant that you need to speak with our customer assistance team. To get in touch with them, you can reach out to our dedicated customer support phone number at {{Customer Support Phone Number}} or you can also connect with them through the live chat on our website at {{Website URL}}. They will be more than happy to assist you with any questions or concerns you have. Is there anything else I can help you with?

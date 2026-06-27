@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: assistance to give a  quick look at the bill #85632
-
-Answer: Absolutely! I understand your need for a quick look at the bill with number #{{Invoice Number}}. To assist you with this, I recommend visiting your account dashboard where you can easily access all your bills and invoices. From there, you should be able to locate and view the bill you're looking for. If you encounter any difficulties or need further assistance, please feel free to let me know.

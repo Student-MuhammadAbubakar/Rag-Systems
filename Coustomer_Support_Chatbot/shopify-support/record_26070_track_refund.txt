@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a bloody reimbursement of {{Refund Amount}} dollars
-
-Answer: First and foremost, I truly understand the significance of your anticipated reimbursement of {{Currency Symbol}}{{Money Amount}}. Every dollar matters, and we are committed to ensuring your satisfaction. Allow me to expedite the process by checking the current status of your reimbursement. While I do that, may I kindly ask if you have any supporting documentation or reference number for your reimbursement request? Your input will greatly assist us in resolving this promptly and accurately. Thank you for your patience and cooperation.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I missed a product in order {{Order Number}}, how can I add it?
-
-Answer: Thank you for informing us about the missing product in order number {{Order Number}}. We apologize for the inconvenience caused. To add the missed product to your order, I recommend reaching out to our customer service team. They will assist you in updating your order and ensure that the additional product is included. Our customer service representatives are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you with this matter.

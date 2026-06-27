@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: tracking order {{Order Number}}
-
-Answer: Thank you for reaching out! I see that you would like to track the order with the number {{Order Number}}. To assist you with this, please provide me with your email address or any other relevant information associated with your order, such as the shipping address or contact number. This will allow me to access the necessary details and provide you with the most accurate tracking information.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: where to create a pro account?
-
-Answer: I appreciate your interest in creating a {{Account Type}} account with us! To proceed with creating a {{Account Type}} account, you can visit our website at {{Website URL}}. On the homepage, you will find a dedicated section or a prominent button labeled "Create {{Account Type}} Account." Clicking on that will take you to the account creation page. Follow the step-by-step instructions provided on the page to set up your {{Account Type}} account successfully. If you encounter any issues or have any questions along the way, please don't hesitate to reach out to our customer support team who will be more than happy to assist you.

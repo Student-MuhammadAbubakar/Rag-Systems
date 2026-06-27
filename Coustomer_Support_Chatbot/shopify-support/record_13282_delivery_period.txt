@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can ya help me see how soon can i expect my item
-
-Answer: We understand your eagerness to receive your item and the importance of knowing when it will arrive. Could you please provide the {{Tracking Number}} or {{Order Number}}? With that information, we'll be able to give you an accurate estimate of the delivery timeframe. Your patience is greatly appreciated as we gather the necessary details to assist you.

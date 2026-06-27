@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i want help to get in touch with customer service
-
-Answer: Thanks for getting in touch! I grasp that you're seeking assistance in contacting our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us by phone at {{Customer Support Phone Number}} or through our Live Chat feature on our website at {{Website URL}}. Feel free to connect with us, and we'll be more than happy to help you with any questions or concerns you may have.

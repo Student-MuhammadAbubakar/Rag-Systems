@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a refund of {{Currency Symbol}}{{Refund Amount}}, was it processeed
-
-Answer: I'm with you, the importance of verifying the status of your refund of {{Currency Symbol}}{{Refund Amount}}. It's crucial for us to provide you with an update as soon as possible. Allow me a moment to check the system for the current status of your refund. I appreciate your patience while I gather the necessary information. It won't take long.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimbusre {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I fathom that you are seeking a refund of ${{Refund Amount}}. I apologize for any inconvenience this may have caused you. To ensure a prompt refund process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or by visiting our website at {{Website URL}}. Our dedicated team will guide you through the necessary steps to initiate the refund request and assist you with any additional inquiries or concerns you may have. Thank you for bringing this to our attention, and we appreciate your patience as we work to resolve this matter for you.

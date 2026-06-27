@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: remove a damn product from order {{Order Number}}
-
-Answer: Thank you for bringing this to our attention. I understand that you want to remove a product from order {{Order Number}}. We apologize for any inconvenience caused by this situation. To assist you further, could you please provide me with the details of the product you wish to remove? This will allow us to take the necessary steps to update your order accordingly. Your satisfaction is our top priority, and we appreciate your patience while we work on resolving this for you.

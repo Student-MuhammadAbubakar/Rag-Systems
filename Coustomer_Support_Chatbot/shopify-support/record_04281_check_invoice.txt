@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check bill #00108
-
-Answer: I've observed that you need assistance with checking the bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you find the information you need. To check the invoice, please log in to your account on our website and navigate to the Billing or Account section. You should be able to view and download the bill associated with the number {{Invoice Number}} from there. If you encounter any difficulties or have any further questions, feel free to let me know.

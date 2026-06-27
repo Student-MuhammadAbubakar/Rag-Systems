@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help me seeing my invoice #37777
-
-Answer: Glad you contacted to us for assistance in accessing your invoice with the number #{{Invoice Number}}. I understand that having quick and convenient access to your invoice is important to you. To help you with this, could you please provide me with some additional information such as your account details or the date range for the invoice? This will enable me to locate and retrieve the invoice for you promptly. Rest assured, I'm here to assist you every step of the way to ensure you have a seamless experience.

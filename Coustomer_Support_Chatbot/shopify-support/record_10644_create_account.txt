@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'd like information about creating a pro account
-
-Answer: That's fantastic! I'm thrilled that you're interested in creating a {{Account Type}} account with us. Our {{Account Type}} account offers a range of advanced features and benefits tailored for professionals like you. To get started, let me provide you with all the information you need. The process is simple and straightforward. Could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step by step and address any questions you may have. Rest assured that your security and privacy are our topmost priorities.

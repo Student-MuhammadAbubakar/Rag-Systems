@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can ya help me swapping an article of order {{Order Number}}
-
-Answer: Thank you for reaching out to us for assistance with swapping an article from your order with the number {{Order Number}}. We understand the importance of making necessary adjustments to your order, and we're here to help. To proceed with the swap, could you please provide us with the details of the article you wish to swap and the replacement article you would like to receive? Our goal is to ensure that you are completely satisfied with your order, and we appreciate your cooperation in helping us fulfill that goal.

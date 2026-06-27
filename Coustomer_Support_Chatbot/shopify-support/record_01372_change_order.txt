@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I edit order {{Order Number}}?
-
-Answer: We understand that you would like to edit order number #{{Order Number}}. We are here to assist you with that. Please provide us with the specific changes you would like to make to your order, such as adding or removing items, changing quantities, or updating shipping information. Our team will do their best to accommodate your request and ensure that your order meets your expectations. Thank you for reaching out to us for assistance in modifying your order.

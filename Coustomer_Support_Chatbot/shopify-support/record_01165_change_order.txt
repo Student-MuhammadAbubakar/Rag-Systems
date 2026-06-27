@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: problems with deleting some productsfrom order {{Order Number}}
-
-Answer: We appreciate your message! It's clear to me that you're experiencing difficulties with deleting some products from your order with the number {{Order Number}}. I apologize for any inconvenience this may have caused you. To better assist you, can you please provide more details about the specific products you are trying to delete? This will allow us to investigate the issue and find the best solution for you. Your feedback is highly valuable to us, and we are committed to resolving this matter as quickly as possible.

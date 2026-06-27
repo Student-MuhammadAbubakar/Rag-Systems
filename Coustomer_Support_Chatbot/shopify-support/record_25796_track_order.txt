@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: what do I have to do to locate order {{Order Number}}?
-
-Answer: We're here to help! I take note that you are looking for guidance on how to locate your order with the number {{Order Number}}. To easily find the status and location of your order, you can visit our website and go to the "{{Online Order Interaction}}" section. There, you will be able to see the current status, estimated delivery date, and tracking information for your order. If you have any issues or need further assistance, feel free to let me know. I'm here to help ensure a smooth and seamless experience for you throughout the process.

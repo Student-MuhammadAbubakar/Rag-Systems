@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I have problems with creating my {{Account Type}} acount
-
-Answer: I'm sorry to hear that you're experiencing difficulties in creating your {{Account Type}} account. Let's work together to get this resolved and get you up and running with your new account. First, could you please provide me with some more details about the specific issues you're encountering during the account creation process? Are you receiving any error messages or facing any challenges in entering your information? Once I have a better understanding of the problem, I'll be able to guide you through the necessary steps to resolve it.

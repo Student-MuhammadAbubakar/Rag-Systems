@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i need information about opening platinum accounts
-
-Answer: Thank you for your interest in obtaining information about opening {{Account Category}} accounts. Our {{Account Category}} accounts provide a range of exclusive privileges and benefits tailored to meet your financial needs. With a {{Account Category}} account, you'll have access to enhanced features such as higher transaction limits, priority customer support, premium interest rates, and personalized financial advice. To open a {{Account Category}} account, you can visit our website and follow the step-by-step instructions for account creation. If you have any specific questions or if there's anything else I can assist you with, please feel free to let me know.

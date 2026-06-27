@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya ship toUSA
-
-Answer: Of course! We offer shipping options to various locations in the {{Delivery Country}}, including major cities and states. Our aim is to bring our products to customers across the country. If you have a specific location in mind, please let me know and I'll be more than happy to provide you with detailed information on the shipping options available to that destination. Ensuring a seamless delivery experience is our priority, so feel free to reach out with any further questions or concerns you may have.

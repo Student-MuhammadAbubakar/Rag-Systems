@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: question about the removal of a standard account
-
-Answer: Thank you for trusting to us with your question about removing your {{Account Type}} account. I'm here to assist you in the best way possible. Please let me know the specific information you need or any concerns you have regarding the removal process. Remember, there are no wrong questions, and our goal is to ensure that you have a smooth experience.

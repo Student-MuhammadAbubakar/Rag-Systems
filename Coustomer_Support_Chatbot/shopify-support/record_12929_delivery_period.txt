@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how long does it take for a delivery to arrive?
-
-Answer: We understand that you're eager to know how long it takes for a delivery to arrive. The estimated delivery time can vary depending on various factors such as the shipping method, destination, and any unforeseen circumstances during transit. To provide you with an accurate estimate, may I please have the {{Tracking Number}} or {{Order Number}}? With this information, we can look up the details and provide you with the most up-to-date information regarding your delivery. Thank you for your understanding.

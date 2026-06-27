@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: have a question about opening {{Account Type}} accounts
-
-Answer: That's great to hear that you have a question about opening {{Account Type}} accounts! I'm here to help you with any queries you may have. Please go ahead and let me know what specific questions or concerns you have regarding opening a {{Account Type}} account. I'll provide you with all the information and guidance you need to get started. Remember, our {{Account Type}} accounts come with amazing features and benefits, so it's an excellent choice to explore. Let's dive into your question and ensure you have a clear understanding of the process.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I delete a damn article from order {{Order Number}}?
-
-Answer: I'm fully aware of your frustration in wanting to delete a specific article from order number {{Order Number}}. We are here to assist you with making the necessary adjustments. Could you please provide the details of the article you would like to remove? This will allow us to promptly resolve the issue and ensure your satisfaction.

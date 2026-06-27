@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: mail me my bill from {{Person Name}}
-
-Answer: I get it your request to have your bill from {{Salutation}} {{Client Last Name}} mailed to you. Let me assist you with that. Could you please provide me with the mailing address where you'd like us to send the bill? Once I have that information, I'll make sure to get it sent out as soon as possible.

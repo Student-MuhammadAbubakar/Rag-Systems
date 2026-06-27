@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: problem with {{Account Type}} account terminations
-
-Answer: Appreciate your message to us about the problems you're facing with the termination of your {{Account Type}} account. I apologize for any inconvenience this may have caused you. It's important that we address and resolve this issue promptly. Can you please provide more details about the specific problems you're encountering? This will allow us to better understand the situation and provide suitable solutions. Your satisfaction is our priority, and we are committed to assisting you every step of the way.

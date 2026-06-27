@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: would it be possible to lolok for my bill #12588
-
-Answer: I'm on the same page, your desire to locate your bill with the number #{{Invoice Number}}. Rest assured, I'm here to assist you in finding it. To better help you, could you please provide me with any additional information such as the date range or any specific details associated with the bill? This will enable me to locate the bill more efficiently and provide you with the necessary information. Thank you for reaching out, and I look forward to helping you with this.

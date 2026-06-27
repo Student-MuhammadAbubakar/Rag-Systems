@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I have paid {{Currency Symbol}}{{Refund Amount}} for an order, how oculd I receive a refund?
-
-Answer: Thank you for trusting to us regarding your payment of ${{Refund Amount}} for your order. I understand your concern about receiving a refund, and I'm here to assist you. To process a refund, we would need some additional information from you, such as the order number or the payment method used. Once we have the necessary details, we can initiate the refund process and ensure it is completed as quickly as possible. Please provide the required information, and I will take care of the refund for you.

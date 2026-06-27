@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want to know more about creating a {{Account Category}} cacount
-
-Answer: Thank you for your interest in creating a {{Account Category}} account! I'm here to provide you with all the details you need. Our {{Account Category}} account offers exclusive benefits such as [[higher interest rates]], [[priority customer service]], and [[access to premium features]]. To create a {{Account Category}} account, you can visit our website at {{Website URL}} and navigate to the account creation page. During the process, you will be required to provide your [[full name]], [[email address]], and other necessary information. If you have any specific questions or need further assistance, please feel free to ask. We're here to help!

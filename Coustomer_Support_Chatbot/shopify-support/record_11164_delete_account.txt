@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I no longer need my {{Account Category}} account, I want to cancel it
-
-Answer: Thank you for getting in touch to us about canceling your {{Account Category}} account. We understand that circumstances may change, and we are here to assist you with the cancellation process. To ensure a smooth experience, could you please provide us with some additional details about your account, such as your account number or username? This information will help us locate your account and initiate the cancellation procedure promptly. We appreciate your cooperation and aim to resolve this as efficiently as possible.

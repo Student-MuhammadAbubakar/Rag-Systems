@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i need assistance giving a quick look at the invoice #00108
-
-Answer: I recognize the urgency in quickly reviewing the invoice with the number #{{Invoice Number}}. Let me guide you through the process to locate and access the details of this specific invoice. First, may I ask if you have any specific platform or system where you usually access your invoices? Knowing this information will enable me to provide you with tailored instructions on how to find and access the invoice swiftly.

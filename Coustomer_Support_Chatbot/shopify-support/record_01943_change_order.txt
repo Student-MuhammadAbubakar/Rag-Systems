@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how to swap some goddamn articles of order {{Order Number}}?
-
-Answer: We appreciate your inquiry about swapping articles for your order with the number #{{Order Number}}. Our team is here to assist you with making the necessary changes. To proceed with the swap, please provide us with the specific articles you would like to exchange, along with the articles you intend to replace them with. This information will enable us to ensure a seamless exchange process and ensure your utmost satisfaction. We thank you for your patience and cooperation.

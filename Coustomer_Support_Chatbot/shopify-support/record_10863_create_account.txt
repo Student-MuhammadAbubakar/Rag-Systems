@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: have a question about creating fucking {{Account Type}} accounts
-
-Answer: Thank you for your message to us! I'm here to help you with any questions you have about creating {{Account Type}} accounts. Please go ahead and ask your question, and I'll provide you with the information you need. Remember, our goal is to ensure a smooth and enjoyable experience for you while opening a {{Account Type}} account. Don't hesitate to ask anything!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: wanna locate order {{Order Number}} how can i do it
-
-Answer: Thank you for reaching out! I'm here to assist you in locating the order with the order number {{Order Number}}. To find the current status of your order, you can visit our website and navigate to the 'Order History' section. There, you should be able to view the details and status of your purchase. If you need any further guidance or have any other questions, please feel free to let me know. I'm here to ensure a seamless experience for you!

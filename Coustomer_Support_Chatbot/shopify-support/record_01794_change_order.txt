@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I have to switch an article of order {{Order Number}}, help me
-
-Answer: We understand that you need assistance with switching an article in order number {{Order Number}}. We apologize for the inconvenience and we're here to help. Could you please provide more details about the article you want to switch and the item you'd like to replace it with? This will allow us to process your request and ensure your satisfaction. Thank you for reaching out to us for support.

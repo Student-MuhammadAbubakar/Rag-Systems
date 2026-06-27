@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a restitution of {{Refund Amount}} dollars
-
-Answer: Your patience is greatly appreciated while we work on processing your restitution of {{Currency Symbol}}{{Money Amount}}. We understand the importance of promptly resolving your refund request. To provide you with an accurate update on the status of your restitution, could you please provide us with any relevant information such as a reference number or the date of your request? This will allow us to provide you with a more personalized and precise response. We value your trust and want to ensure that we address your concerns as efficiently as possible.

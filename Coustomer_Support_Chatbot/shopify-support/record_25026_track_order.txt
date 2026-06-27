@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: wanna see orer {{Order Number}} current status can ya help me
-
-Answer: We value your outreach! I'm in tune with the fact that you would like assistance in checking the current status of your order with order number {{Order Number}}. To provide you with the most accurate information, could you please confirm the correct order number? Once I have the correct order number, I will be able to guide you on how to check the status.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a compensation of {{Refund Amount}} dollars
-
-Answer: I understand your expectation to receive a compensation of {{Currency Symbol}}{{Refund Amount}}. Your understanding of the value of fair and justified compensation is commendable, and we take your concern seriously. Let me assure you that I will do everything in my power to investigate and provide you with the information you need. In the meantime, could you please provide me with any relevant details or documentation regarding the compensation request? This will help expedite the process and ensure a swift resolution.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I do not know what I have to do to talk to customer suppory
-
-Answer: Thank you for trusting us! I'm fully aware of you are uncertain about the necessary steps to speak with our customer support team. To reach our customer support, you can either call us at {{Customer Support Phone Number}} or visit our website at {{Website URL}} and access the live chat option. Our team will be happy to assist you with any questions or concerns you may have. Feel free to let me know if there's anything else I can help you with!

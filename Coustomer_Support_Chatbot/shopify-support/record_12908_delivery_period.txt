@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can I see how soon can I expect the product?
-
-Answer: We understand your eagerness to know the estimated delivery time for your product. To provide you with the most accurate information, we recommend visiting our website and navigating to the "Order Status" or "Track Your Order" page. There, you can enter your {{Order Number}} or {{Tracking Number}} to track the progress of your shipment and get an estimated delivery date. If you have any further questions or need assistance, feel free to reach out to our customer support team. We're here to help!

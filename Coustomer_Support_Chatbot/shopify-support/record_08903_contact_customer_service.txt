@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can I talk with customer support?
-
-Answer: We're here to help! I take note that you would like to speak with our customer support team. Rest assured, our dedicated team is here to assist you. You can reach our customer support by calling {{Customer Support Phone Number}} during our operational hours from {{Customer Support Hours}}. Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. Please let me know if there's anything else I can help you with.

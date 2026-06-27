@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I get that you're seeking a rebate of ${{Refund Amount}}. Rebates are a common way for customers to receive a financial reimbursement, and I'm here to assist you in this process. To start, could you please provide me with more details on the reason for the rebate and the purchase or transaction in question? This information will allow me to guide you through the necessary steps to initiate the rebate process and ensure that you receive the reimbursement you are entitled to.

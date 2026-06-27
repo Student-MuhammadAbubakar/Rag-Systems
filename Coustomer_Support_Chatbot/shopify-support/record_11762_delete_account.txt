@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not know what to do to close the {{Account Category}} account
-
-Answer: Thank you for reaching out to us regarding the process of closing your {{Account Category}} account. I understand that it can be confusing and overwhelming to navigate account closures sometimes. Don't worry, I'm here to help you through every step of the way. To initiate the closure of your {{Account Category}} account, please contact our customer support team via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with all the information you need. Remember, our goal is to ensure a smooth experience for you, so please feel free to ask any questions or share any concerns you may have along the way. You're not alone in this process, and I'm confident that together we can successfully close your {{Account Category}} account.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I lost my bill from {{Person Name}}, will you show it to me?
-
-Answer: I've been informed that you lost your bill from {{Salutation}} {{Client Last Name}} and you're looking for assistance in retrieving it. I apologize for the inconvenience this may have caused. To better assist you, could you please provide me with some additional information such as the approximate date the bill was issued or any specific details mentioned in the bill? This will help me locate the bill more efficiently and ensure that you receive the support you need.

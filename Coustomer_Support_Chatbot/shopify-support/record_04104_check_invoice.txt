@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: assistance giving an quick look at my invoice from {{Person Name}}
-
-Answer: I'm on it! I'm here to help you take a quick look at your invoice from {{Salutation}} {{Client Last Name}}. To assist you more efficiently, could you please provide me with the invoice number or any other relevant details you have? With that information, I'll be able to provide you with the necessary assistance to view your invoice and address any queries you may have.

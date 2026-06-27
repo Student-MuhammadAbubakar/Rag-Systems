@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I no longer need the {{Account Type}} account, I want to delete it
-
-Answer: Thank you for trusting to us about deleting your {{Account Type}} account. I appreciate you taking the time to inform us of your decision. Deleting your account is a significant step, and I'm here to assist you. To proceed with the account deletion process, I need some essential information from you. Could you please provide me with your account details, such as your username or email address, so that I can locate your account and initiate the deletion process? Rest assured that your privacy and data security are our top priorities, and we will handle your request with utmost care.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: what do i have to do to remove a {{Account Category}} account
-
-Answer: I appreciate your inquiry regarding the removal of your {{Account Category}} account. I understand that you may no longer find value in your current account and wish to proceed with the deletion process. To better assist you, could you please provide me with your account details, such as your username or email address? This will allow us to locate your account and guide you through the necessary steps to remove it. Rest assured, our team is dedicated to making this process as seamless as possible for you.

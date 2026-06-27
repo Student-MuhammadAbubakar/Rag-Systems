@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: track purchase {{Order Number}}
-
-Answer: Thank you for getting in touch! I understand that you would like to track the purchase with the purchase number {{Order Number}}. To provide you with the most accurate information on the current status of your purchase, may I kindly ask you to provide me with your email address or the name associated with the purchase? This way, I can look up the details and assist you further.

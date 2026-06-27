@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery Country}}?
-
-Answer: Certainly! I'm delighted to inform you that we offer shipping services to {{Delivery Country}}. We understand the need to reach customers in different parts of the world, and {{Delivery Country}} is definitely on our list. Whether you're in Toronto, Vancouver, Montreal, or any other city in {{Delivery Country}}, we've got you covered. Our shipping options will ensure that your package reaches you in a timely manner, making your shopping experience seamless. If you have any specific concerns or questions regarding shipping to {{Delivery Country}}, feel free to let me know, and I'll be more than happy to assist you further.

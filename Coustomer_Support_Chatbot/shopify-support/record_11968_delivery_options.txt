@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery Country}}?
-
-Answer: Great question! We do offer shipping services to {{Delivery Country}}. It's wonderful to hear that you're interested in our products and would like to have them delivered to {{Delivery Country}}. We have a variety of shipping options available, including standard shipping, expedited shipping, and even in-store pickup if you're located near one of our stores. Our goal is to provide you with a smooth and convenient delivery experience, ensuring that your package arrives safely and in a timely manner. If you have any specific concerns or questions about shipping to {{Delivery Country}}, please let me know. I'm here to assist you every step of the way!

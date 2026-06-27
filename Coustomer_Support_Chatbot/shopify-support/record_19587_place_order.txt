@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where do I purchase some products?
-
-Answer: Thank you for your interest in purchasing our products! We have made it convenient for you to buy them through various channels. You can either visit our physical store located at {{Store Location}}, or you can browse and make a purchase directly from our website at {{Website URL}}. Additionally, you may also find our products available on popular e-commerce platforms such as {{E-commerce Platform Names}}. Wherever you choose to make your purchase, rest assured that we are committed to delivering quality products and exceptional service to you. Happy shopping!

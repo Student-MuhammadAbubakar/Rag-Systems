@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I do not know how to check the status of the reimbursement
-
-Answer: I've realized that you're unsure of how to check the status of your reimbursement. Don't worry, I'm here to help you navigate through it. To access the information you need, you can visit our website and log into your account. Once you're logged in, you should be able to find a section specifically dedicated to reimbursement status. If you're still having trouble locating it, I recommend reaching out to our customer support team who can provide you with step-by-step guidance. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're committed to helping you track your reimbursement and will assist you in every possible way.

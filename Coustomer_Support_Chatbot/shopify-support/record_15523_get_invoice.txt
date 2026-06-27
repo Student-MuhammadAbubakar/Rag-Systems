@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i cant find the bill #00108 will umail it to me
-
-Answer: I pick up what you're putting down, your frustration in not being able to locate the bill with the number #{{Invoice Number}}. As the bill cannot be found, I apologize for the inconvenience caused. To assist you further, may I please have your email address? I will ensure that a copy of the missing bill is sent to you as soon as possible. Thank you for your patience and cooperation in this matter.

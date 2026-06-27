@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where can I get the invoices from {{Person Name}}?
-
-Answer: I certainly recognize your need to locate the invoices from {{Salutation}} {{Client Last Name}}. You can access the invoices by logging into your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section, where you should find a list of all your invoices. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!

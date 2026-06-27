@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a bloody compensation of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm not mistaken the importance of your pending compensation of {{Currency Symbol}}{{Refund Amount}}. Your satisfaction is our top priority, and I apologize for any inconvenience caused by the delay. Let me assure you that I will personally investigate the status of your compensation and take the necessary steps to expedite the process. Thank you for your patience and understanding as we work towards resolving this matter promptly.

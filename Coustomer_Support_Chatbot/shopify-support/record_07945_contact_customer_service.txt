@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i dont know how to speak with customer service
-
-Answer: Always good to connect! I'm attuned to the fact that you're unsure about how to speak with our customer service team. I'm here to guide you through the process. You can reach our customer service through multiple channels, such as phone, email, or live chat. Let me provide you with the necessary information to connect with them. Our customer service hours are {{Customer Support Hours}}. They can be reached at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please let me know if there's anything else I can assist you with.

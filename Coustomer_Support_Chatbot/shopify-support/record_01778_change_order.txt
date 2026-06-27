@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i nerd help to add some items to purchase {{Order Number}}
-
-Answer: We've received your message to us for assistance in adding items to purchase number {{Order Number}}. We understand how important it is to have a seamless and convenient shopping experience. To assist you further, could you please provide us with the specific items you would like to add? This way, we can ensure that your purchase is updated accurately and to your satisfaction. Your feedback and questions are valuable to us, as they help us improve our services.

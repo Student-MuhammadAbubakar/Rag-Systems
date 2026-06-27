@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: notify of a problem with payment
-
-Answer: Thank you for getting in touch to notify us about the problem you're experiencing with your payment. Your feedback is essential to us, and we appreciate you taking the time to inform us of this issue. To ensure we fully understand the problem and provide you with the appropriate assistance, could you please provide more details about the specific problem or error you encountered during the payment process? Once we have all the necessary information, we will work diligently to address and resolve the problem for you. Thank you again for bringing this to our attention.

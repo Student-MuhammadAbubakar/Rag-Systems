@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where to purchase some items
-
-Answer: Thank you for reaching out! I appreciate your interest in purchasing our items. To make a purchase, you have a few options available. You can visit our official website at {{Website URL}} and explore our wide range of products. Alternatively, you can also visit our physical stores located in various cities. If you're not sure about the nearest store, I can provide you with the details. Just let me know your location, and I'll guide you to the closest store. We also have authorized resellers that you can check if they are available in your area. Let me know your preference, and I'll provide you with all the necessary information to purchase the items you need.

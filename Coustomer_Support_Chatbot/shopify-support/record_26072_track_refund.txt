@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want help to see the status of my refund
-
-Answer: We're here to help about checking the status of your refund. I understand that it's important to stay informed about the progress of your reimbursement. To assist you with this, I recommend visiting our website and navigating to the "My Account" section. There, you should find a dedicated page or tab specifically for tracking refunds. If you can't locate it or require further assistance, our dedicated customer support team is available to guide you through the process. Please don't hesitate to reach out to them via our website's live chat or by calling {{Customer Support Phone Number}} during {{Customer Support Hours}}. Rest assured, we are committed to providing you with the most up-to-date information on the status of your refund and ensuring your satisfaction.

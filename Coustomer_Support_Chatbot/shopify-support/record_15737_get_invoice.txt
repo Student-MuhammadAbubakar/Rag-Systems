@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can you help me get my invoice #85632?
-
-Answer: Ah, the quest for the revered invoice bearing the sacred number {{Invoice Number}}! Fear not, for I shall assist you in obtaining this esteemed document. Let me retrieve it for you and guide you through the process. In the meantime, if you have any other questions or concerns, feel free to share them. I'm here to ensure your satisfaction and provide the best assistance possible.

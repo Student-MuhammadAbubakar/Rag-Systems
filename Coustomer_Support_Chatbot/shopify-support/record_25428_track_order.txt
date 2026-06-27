@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want help locating order {{Order Number}}
-
-Answer: Honored to assist! I'm clued in that you need assistance with locating the order with order number {{Order Number}}. I'm here to help you with that. To locate your order, you can check the '{{Online Order Interaction}}' section on our website. If you have any further questions or need additional support, please feel free to let me know.

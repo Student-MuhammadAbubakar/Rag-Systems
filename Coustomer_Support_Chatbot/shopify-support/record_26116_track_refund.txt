@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a refund of {{Currency Symbol}}{{Refund Amount}} has it been processed already
-
-Answer: Firstly, I truly understand how important the refund of ${{Refund Amount}} is for you. Rest assured, I'm here to assist you every step of the way. Let me quickly check the current status of your refund and provide you with the necessary information. As you patiently await, may I ask if you've received any email confirmation or reference number regarding your refund? Your insights will help us expedite the process and ensure your satisfaction.

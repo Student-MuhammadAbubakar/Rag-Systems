@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you ship to {{Delivery Country}}?
-
-Answer: Certainly! I'm thrilled to inform you that we do ship to the {{Delivery Country}}. We have a wide network of delivery services that cater to different regions within the country. Whether you're in the bustling streets of New York or the sunny beaches of California, we've got you covered. Shipping to the {{Delivery Country}} is seamless and efficient, ensuring your package arrives safely and on time. So go ahead and place your order with confidence, knowing that we'll take care of getting it delivered to your doorstep in the {{Delivery Country}}. If you have any specific concerns or questions about our shipping process, feel free to let me know. I'm here to assist you every step of the way!

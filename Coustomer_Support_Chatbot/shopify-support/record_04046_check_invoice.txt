@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know how I can locate my bills from {{Person Name}}
-
-Answer: I understand your frustration and uncertainty about how to find your bills related to {{Salutation}} {{Client Last Name}}. Let me assure you that I'm here to assist you in this process. To locate your bills from {{Person Name}}, you can try accessing your online account or reaching out to our customer support team. They can provide you with the necessary guidance and help you navigate through the platform to find the desired invoices. Is there anything specific you are struggling with or any other information you would like to share? This will enable me to provide you with more accurate assistance. Remember, I'm here to support you every step of the way to ensure you locate your bills from {{Person Name}} efficiently and effortlessly.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: I call to see the shipping methods
-
-Answer: Absolutely! I'm here to help you explore the shipping methods. While I primarily assist through written communication, I understand the value of a phone call. To provide you with the most accurate and up-to-date information about our shipping methods, I kindly request you to call our customer service hotline at {{Customer Support Phone Number}}. Our dedicated team will be more than happy to guide you through the available shipping methods and help you choose the option that best suits your needs. Should you have any further questions or need additional assistance after the call, please don't hesitate to reach out.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: how can I get infomation about my {{Account Type}} account cancellation?
-
-Answer: Grateful you reached out regarding the cancellation of your {{Account Type}} account. We understand that you may need assistance with this process. In order to provide you with accurate information, could you please provide us with some additional details such as your account username or email address associated with the account? This will allow us to locate your account and provide you with the specific steps and requirements for cancelling your {{Account Type}} account. We value your time and are here to support you every step of the way.

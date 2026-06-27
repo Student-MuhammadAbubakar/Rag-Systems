@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i lost the invoices from {{Person Name}} can ya mail them to me
-
-Answer: I'm clearly cognizant your concern about losing the invoices from {{Salutation}} {{Client Last Name}}. Our team can definitely assist you with that. To ensure the security and privacy of your information, I recommend reaching out to our customer support via email or live chat. They will verify your account details and assist you in retrieving and mailing the invoices from {{Person Name}}. Rest assured, we are here to help you throughout the process and ensure your satisfaction.

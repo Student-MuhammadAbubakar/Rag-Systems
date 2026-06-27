@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: help me to check ur avialable payment options
-
-Answer: Positively! I'm here to assist you in checking the available payment options. To provide you with the most up-to-date information, could you please specify the country or region you are in? This will help me give you accurate and relevant details about the payment methods we offer in your area. Thank you!

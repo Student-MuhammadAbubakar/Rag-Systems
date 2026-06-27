@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancelling gold account
-
-Answer: Thank you for contacting us regarding the cancellation of your {{Account Type}} account. We understand that you may have your reasons for wanting to cancel, and we are here to assist you. To begin the cancellation process, please provide us with the necessary details such as your account information and the reason for cancellation. Our team will review your request and guide you through the next steps. We value your membership and want to ensure a smooth experience during the cancellation process.

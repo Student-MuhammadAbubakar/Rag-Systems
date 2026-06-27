@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where to see at what time customer support available is?
-
-Answer: Honored to assist! I'm clued in that you would like to know where to find the information about the availability of our customer support. You can visit our website at {{Website URL}} and navigate to the "Contact Us" page or the "Support" section. There, you will find the operating hours and contact details of our customer support team. Please let me know if there's anything else I can assist you with!

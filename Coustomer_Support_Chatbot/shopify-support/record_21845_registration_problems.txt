@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: registration_problems
-
-Question: i dont know what i need to do to report errors with sign-up
-
-Answer: We understand that reporting errors with the sign-up process can sometimes be confusing. To ensure you can easily report any issues you encounter, we have a designated support system in place. Our customer service team is available {{Customer Support Hours}} to assist you in resolving any sign-up problems or errors. You can reach out to us through our Live Chat feature on our website at {{Website URL}} or by calling our customer support hotline at {{Customer Support Phone Number}}. We value your feedback and will do everything we can to provide you with a seamless sign-up experience.

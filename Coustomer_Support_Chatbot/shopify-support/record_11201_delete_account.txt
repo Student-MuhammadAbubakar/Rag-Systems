@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: deleting pro account
-
-Answer: I acknowledge that you would like assistance with deleting your {{Account Type}} account. I apologize for any inconvenience this may cause you. Our team is here to guide you through the process. Could you please provide me with some additional details? Specifically, I would need your account information, such as your username or email address, to assist you further. Rest assured that we prioritize the security and privacy of our users, and any information you provide will be handled with utmost care. Let's work together to ensure the smooth deletion of your {{Account Type}} account.

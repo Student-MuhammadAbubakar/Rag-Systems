@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimburse {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I certainly recognize your need to be reimbursed for the amount of ${{Refund Amount}}. To assist you further, could you please provide me with some additional information regarding your purchase? This will enable me to gather all the necessary details and guide you through the refund process smoothly and efficiently. Your cooperation is greatly appreciated as we work towards resolving this matter to your satisfaction.

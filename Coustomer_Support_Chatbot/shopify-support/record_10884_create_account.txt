@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i do not know what i need to do to open a {{Account Type}} account
-
-Answer: Thank you for your interest in opening a {{Account Type}} account! I'll be more than happy to guide you through the process. To start, you'll need to provide some basic information such as your full name, email address, and a preferred username. Once you've gathered this information, you can visit our website and locate the 'Sign Up' page. From there, you'll find an option to create a {{Account Type}} account. Simply click on it and fill in the required details. If you encounter any difficulties or have any questions along the way, feel free to reach out to our customer support team. They are available 24/7 through our live chat or by phone. We're excited to have you join our {{Account Type}} account community!

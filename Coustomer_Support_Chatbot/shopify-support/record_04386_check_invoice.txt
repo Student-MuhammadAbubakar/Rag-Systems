@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need help to take a quick look at bill #00108
-
-Answer: Positively! I'm here to assist you with taking a quick look at your bill with the number #{{Invoice Number}}. To access your bill, please log in to your account on our website and navigate to the "Billing" section. You should be able to find the bill you're looking for by entering the bill number or selecting the corresponding date range. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to ensure you have a seamless experience!

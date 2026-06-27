@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: change info on {{Account Type}} account
-
-Answer: We greatly appreciate your dedication to personalizing and updating the information on your {{Account Type}} account. Your active involvement in maintaining accurate details ensures that your account reflects your needs and preferences accurately. To change your info on the {{Account Type}} account, you can log into your account on our website or mobile app and navigate to the account settings section. There, you'll find options to modify various details such as your contact information, billing address, or any other relevant information. If you need any further assistance or have specific questions about updating certain details, our customer support team is always available to guide you through the process. Don't hesitate to reach out. We're here to ensure your {{Account Type}} account is tailored specifically to your requirements.

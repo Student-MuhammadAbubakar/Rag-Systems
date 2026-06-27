@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a reimbjrsement of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I certainly recognize the importance of your anticipated reimbursement of {{Currency Symbol}}{{Refund Amount}}. Your patience is greatly appreciated as we strive to provide you with an update on the status of your refund. As I investigate further, could you please confirm the date when you submitted the request? Your input will greatly assist us in expediting the process. We are committed to ensuring your satisfaction and will do everything possible to resolve this matter promptly.

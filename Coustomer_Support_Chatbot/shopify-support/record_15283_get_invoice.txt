@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i do not know how to download the damn bills from {{Person Name}}
-
-Answer: I truly understand your frustration and confusion about downloading the bills from Mr. {{Salutation}} {{Client Last Name}}. Let me guide you through the process step-by-step to ensure you can easily access and download the bills you need. Are you using our website or a specific platform to access the bills?

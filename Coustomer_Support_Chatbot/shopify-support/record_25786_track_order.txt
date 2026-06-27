@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: purchase {{Order Number}} current  status
-
-Answer: I see what you mean! I'm on the same page that you would like to know the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please confirm if you made the purchase on our website? This will help me guide you to the right place to track your order.

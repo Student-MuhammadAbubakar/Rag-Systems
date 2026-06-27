@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i have problems with the deletion of a {{Account Type}} account
-
-Answer: Thank you for contacting to us regarding the deletion of your {{Account Type}} account. I'm sorry to hear that you are experiencing difficulties with this process. To assist you better, could you please provide more details about the specific problems you are facing? Understanding the challenges you are encountering will allow us to provide you with a more accurate and tailored solution. Your satisfaction is our top priority, and we are committed to resolving any problems you may be experiencing with the deletion of your {{Account Type}} account.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i need assistance to create a {{Account Type}} account
-
-Answer: That's great! I'm here to provide you with the assistance you need to create your {{Account Type}} account. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through the account creation process, ensuring you have a smooth and informed experience. Rest assured that the security of your information is of utmost importance to us, and we have robust measures in place to protect your privacy. Please feel {{Account Type}} to ask any questions or seek clarification along the way. Let's begin this exciting journey together!

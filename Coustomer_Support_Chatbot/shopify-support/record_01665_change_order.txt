@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can ya help  me remove some products from order {{Order Number}}
-
-Answer: I'm on the same page that you need assistance in removing products from order {{Order Number}}. We're here to help! To ensure we provide accurate support, could you kindly specify which specific products you would like to remove? Your satisfaction is our top priority, and we look forward to resolving this for you swiftly. How has been your overall experience with our service so far?

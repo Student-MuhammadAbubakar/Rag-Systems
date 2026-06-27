@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I do not know what I need to do to get my invoice #00108
-
-Answer: Ah, the enchanting quest to obtain the illustrious invoice with number {{Invoice Number}}!I am honored to guide you through this journey of discovery. Let me assist you in retrieving your invoice swiftly and effortlessly. Please bear with me for a moment while I gather the necessary information and provide you with the steps to obtain your invoice. Rest assured, your satisfaction is my utmost priority.

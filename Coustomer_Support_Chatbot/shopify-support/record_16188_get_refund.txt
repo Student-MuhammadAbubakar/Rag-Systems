@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have paid {{Currency Symbol}}{{Refund Amount}} for these order help me receiving a refund
-
-Answer: Thank you for bringing this issue to my attention. I can understand that you have paid ${{Refund Amount}} for this order and are seeking assistance in receiving a refund. Rest assured, I'm here to help you navigate the refund process and ensure a satisfactory resolution. To begin, could you please provide some additional details about your order, such as the order number or any relevant transaction information? This will allow me to locate your order and provide you with the most accurate and efficient support in getting your refund.

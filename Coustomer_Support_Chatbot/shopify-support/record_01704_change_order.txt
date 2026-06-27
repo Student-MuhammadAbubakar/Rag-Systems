@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I have to add some articles to order {{Order Number}}
-
-Answer: Thank you for bringing this to our attention. I understand that you would like to add some articles to your order with the number {{Order Number}}. We are here to assist you in making the necessary changes to ensure your complete satisfaction. To proceed with adding the articles, please provide us with the specific details of the articles you would like to include. This will allow us to update your order accordingly. We appreciate your patience and cooperation in this matter.

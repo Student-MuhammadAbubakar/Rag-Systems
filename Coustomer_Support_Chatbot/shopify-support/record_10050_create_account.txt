@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open a standard acocunt
-
-Answer: Fantastic! I'm thrilled that you've decided to open a {{Account Type}} account with us. It's a great choice! To get started, I'll guide you through the process step by step. Could you please provide me with your full name, email address, and a preferred username? Once I have these details, we can proceed and set up your {{Account Type}} account. Remember, your privacy and security are our utmost priority, so you can trust that your information will be handled with the highest level of care and protection. Let's embark on this journey together!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I espect a goddamn reimbursement of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: We genuinely understand the importance of your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. Please allow me a moment to investigate the current status of your refund. I appreciate your patience and assure you that we are dedicated to resolving this matter as quickly as possible.

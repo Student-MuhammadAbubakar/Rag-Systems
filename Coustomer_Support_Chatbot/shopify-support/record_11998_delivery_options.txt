@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order frim {{Delivery Country}}
-
-Answer: Indeed! We are thrilled to extend our services to customers in {{Delivery Country}}. You can definitely place an order from {{Delivery Country}} and have it delivered to your desired location. We offer various shipping methods to ensure your order reaches you efficiently and securely. Whether you prefer standard shipping for non-urgent items, expedited shipping for faster delivery, or even overnight shipping for those time-sensitive orders, we have you covered. Additionally, you also have the option of in-store pickup if that works best for you. Our goal is to make your shopping experience seamless and convenient, no matter where you are. If you have any specific questions or need further assistance regarding placing an order from {{Delivery Country}}, please feel free to let me know. I'm here to help every step of the way!

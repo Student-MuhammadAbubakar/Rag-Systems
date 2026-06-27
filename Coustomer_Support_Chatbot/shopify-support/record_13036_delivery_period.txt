@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how can i check how logn it takes for the package to arrive
-
-Answer: We understand your eagerness to track the progress of your package and know when it will arrive. To provide you with the most accurate information, please provide us with the {{Tracking Number}} or {{Order Number}} associated with your package. With those details, we will be able to give you an estimated delivery time and keep you updated on any changes along the way. Thank you for your understanding and patience.

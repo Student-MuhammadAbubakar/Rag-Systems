@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for these products, how to receive a refund?
-
-Answer: I've understood that you're seeking assistance on how to receive a refund for the products you purchased. I apologize for any inconvenience caused, and I'm here to support you through this process. To initiate your refund, I recommend reaching out to our customer support team through our designated channels. They will guide you through the necessary steps and provide you with all the information you need to successfully complete the refund. It's essential to have your purchase details and payment information readily available when contacting them. Rest assured, they will do their best to resolve the issue promptly and ensure that you receive the refund you're entitled to. If you have any other questions or concerns, please don't hesitate to let me know.

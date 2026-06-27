@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an order from {{Delivery Country}}?
-
-Answer: I'm happy to help! We extend our services to customers from {{Delivery Country}}, enabling you to place orders conveniently. We take pride in delivering our products to various locations worldwide, and {{Delivery Country}} is no exception. Whether you're in the lush landscapes of {{Delivery Country}} City, the beautiful beaches of Cancun, or any other vibrant city in {{Delivery Country}}, we're here to fulfill your wishes. Rest assured that we'll handle the logistics and ensure a smooth delivery process for you. Should you have any further questions or need assistance with placing an order, feel free to reach out. We're here to make your shopping experience a success!

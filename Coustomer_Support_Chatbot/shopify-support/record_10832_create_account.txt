@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening new {{Account Category}} account
-
-Answer: I'm delighted to hear that you're interested in opening a new {{Account Category}} account! We're here to make the process as seamless as possible for you. To get started, you can visit our website at {{Website URL}} and look for the "Sign Up" or "Create Account" button on the homepage. Click on it, and you'll be directed to a registration page where you can provide the necessary information to create your account. If you encounter any difficulties along the way or have any questions, feel free to reach out to our customer support team, available {{Customer Support Hours}} via {{Customer Support Phone Number}} or through the Live Chat feature on our website. We're excited to have you onboard and look forward to supporting you in your {{Account Category}} account journey!

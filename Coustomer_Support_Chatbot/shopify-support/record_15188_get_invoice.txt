@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where to download my bills from {{Person Name}}?
-
-Answer: Unquestionably! I completely understand your need for assistance in locating the download location for your bills from {{Person Name}}. Allow me a moment to find the specific details for you. Once I have the information, I'll provide you with the exact steps on where and how to download your bills. Thank you for your patience, and I'll be right back with you shortly!

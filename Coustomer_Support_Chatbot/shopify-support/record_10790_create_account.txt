@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need information about opening pro accounts
-
-Answer: Thank you for your interest in opening a {{Account Type}} account! Our {{Account Type}} accounts offer exclusive features and benefits to enhance your experience. To provide you with detailed information, may I know if you have any specific questions or concerns about opening a {{Account Type}} account? Feel free to ask, and I'll make sure to address them promptly.

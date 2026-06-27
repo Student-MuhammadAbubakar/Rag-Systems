@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i want information about the deletion of my gold accounnt
-
-Answer: Glad you contacted to us for information about deleting your {{Account Type}} account. We understand that account deletions can be crucial decisions, and we're here to assist you throughout the process. To initiate the deletion, there are a few steps you can follow. First, log in to your account and navigate to the account settings page. From there, you should see an option to delete or deactivate your account. Click on that option and carefully follow the prompts to complete the deletion process. Please note that once your {{Account Type}} account is deleted, all associated data and benefits will be permanently removed. If you have any further questions or if there's anything else we can assist you with, please don't hesitate to let us know.

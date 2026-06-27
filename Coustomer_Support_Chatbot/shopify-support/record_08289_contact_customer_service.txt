@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where do i see at what time i can call customer assistance
-
-Answer: We're here to help! I take note that you would like to know where you can find the contact hours to call our customer assistance team. You can easily find this information on our website under the 'Contact Us' section. Alternatively, our customer assistance team is available during {{Customer Support Hours}}. If you have any other questions or need further assistance, feel free to let me know.

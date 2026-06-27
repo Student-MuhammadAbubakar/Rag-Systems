@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what is your customer assistance number?
-
-Answer: Honored to assist! I'm clued in that you would like to know our customer assistance number. Our dedicated team can be reached at {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Feel free to reach out to them for any support needed. Is there anything else I can assist you with?

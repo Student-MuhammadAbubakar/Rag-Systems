@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how can I contact an agent?
-
-Answer: Grateful for your contact! I get the sense that you are looking for ways to contact an agent. We have several options available for you to reach out to our team. You can contact our customer support hotline at {{Customer Support Phone Number}}, or you can visit our website and engage in a live chat with one of our representatives. Alternatively, you can send us an email at {{Customer Support Email}} or reach out to us via social media platforms such as Facebook or Twitter. We strive to provide prompt assistance through any of these channels. Let me know which option works best for you, and I'll be happy to guide you further.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: what do I need to do to give a quick look at invoice #12588?
-
-Answer: Assuredly! I completely understand your eagerness to take a quick look at the invoice with the number #{{Invoice Number}}. To access it quickly, you can log in to your account on our website and navigate to the "Billing" section. There, you should be able to view and download the invoice for your reference. If you have any trouble finding it, please let me know, and I'll be more than happy to assist you further.

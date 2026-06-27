@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can I check my bill #12588?
-
-Answer: I'm not mistaken the importance of being able to check your bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To access your bill, please visit our website and navigate to the 'Billing' or 'Account' section. You may need to log in to your account to view the details. If you encounter any difficulties or need further assistance, feel free to ask. I'm here to help!"

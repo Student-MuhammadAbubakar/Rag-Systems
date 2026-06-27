@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to speak with customer support, can you help me?
-
-Answer: Thank you for reaching out! I completely understand your need to speak with our customer support team. Our dedicated team is available to assist you {{Customer Support Hours}}. You can reach them by {{Live Chat Support}}. Is there anything specific you would like to discuss with our customer support team?

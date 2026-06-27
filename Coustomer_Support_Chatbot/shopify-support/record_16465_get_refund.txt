@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this order, I have got to get a rebate
-
-Answer: I understand the urgency and importance of receiving a rebate for your order, especially when you've paid ${{Refund Amount}}. This is certainly a matter that requires immediate attention, and I'm here to help you through the process. To proceed with your request, I kindly ask you to provide some additional details regarding your order, such as the order number, date of purchase, and any relevant documentation. With this information, I will be able to expedite your reimbursement request and ensure a smooth resolution. Rest assured, I'll do everything in my power to assist you and ensure that you receive the reimbursement you deserve.

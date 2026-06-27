@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i ahve got to find the bloody bill from {{Person Name}} help me
-
-Answer: I'm on the same page, your urgency in finding the bill from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you in this matter. Could you please provide me with any additional details that can help me locate the bill more efficiently? Any specific date range or any other information you can provide will be valuable. Together, we'll find the bill you need.

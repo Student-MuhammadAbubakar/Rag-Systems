@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I lost my invoices from {{Person Name}}, show them to me
-
-Answer: I understand your concern about accessing your lost invoices from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you in retrieving them. To proceed further, could you kindly provide me with some details such as the approximate date range of the invoices or any specific information related to them? With this information, I'll be able to help you locate and show your invoices.

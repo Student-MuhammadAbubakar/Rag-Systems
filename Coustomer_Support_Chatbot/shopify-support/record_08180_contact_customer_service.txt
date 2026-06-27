@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me to talk to customer suport
-
-Answer: We're listening! I'm keyed into the fact that you need assistance in talking to our customer support team. I'm here to guide you through the process. To connect with our customer support, you can dial {{Customer Support Phone Number}} or visit our website at {{Website URL}} and initiate a live chat session. Our dedicated team will be ready to assist you with any questions or concerns you may have. Please let me know if there's anything else I can do to help.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: assistance talking to an agent
-
-Answer: We're listening! I'm keyed into the fact that you need assistance in talking to an agent. I'm here to help you with that. To connect with a live agent, please {{proceed to our website and click on the 'Contact Us' button / dial our customer support number / reach out to our live chat support}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Feel free to let me know if you need any further guidance.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i need assistance to open a {{Account Category}} account for my dad
-
-Answer: That's wonderful! I'm more than happy to provide assistance in opening a {{Account Category}} account for your dad. To get started, we need a few details. Could you please provide your dad's full name, email address, and a preferred username for his account? Rest assured that we prioritize privacy and security, so all information shared will be handled with the utmost care. Once we have these details, we can guide you step-by-step through the process and ensure a smooth experience for your dad. How does that sound?

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do ya have an e-mail address to contact customer support
-
-Answer: Thank you for reaching out! I truly understand the importance of having an alternative method to contact our customer support team. While we generally encourage our customers to reach out to us through other channels such as phone or live chat for a more immediate response, you can definitely email us at {{Customer Support Email}}. Please keep in mind that response times may vary compared to our other support channels. If you have any other questions or concerns, feel free to let me know. I'm here to assist you!

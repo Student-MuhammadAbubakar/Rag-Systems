@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance to remove an article from order {{Order Number}}
-
-Answer: I've got that you require assistance in removing an article from your order with the number {{Order Number}}. I apologize for any inconvenience this may have caused you. To ensure accurate and prompt resolution, could you please provide me with the specific details of the article you would like to remove? Your satisfaction is our top priority, and we will do our best to fulfill your request.

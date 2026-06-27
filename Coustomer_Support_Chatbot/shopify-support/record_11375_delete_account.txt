@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: pfoblem with {{Account Category}} account terminations
-
-Answer: Thank you for bringing your issue regarding {{Account Category}} account terminations to our attention. I'm here to assist you and ensure we resolve this in a satisfactory manner. To better understand the problem you're facing, could you please provide more details about the specific issue you're encountering? This will allow us to find the best solution possible. We appreciate your patience and look forward to assisting you further.

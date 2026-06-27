@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: cn I place an order from {{Delivery City}}?
-
-Answer: Definitely! {{Delivery City}} is definitely within our reach for order placement. Our flexible delivery options can bring your desired items right to your doorstep. Whether you choose standard shipping or expedited delivery, we’ll ensure your order reaches you in a timely manner. Just let us know your preferences, and we'll take care of the rest. If you have any specific questions or concerns about placing an order from {{Delivery City}}, please feel free to ask. Your satisfaction is our top priority!

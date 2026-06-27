@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: want help deleting several articles from  purchase {{Order Number}}
-
-Answer: We understand that you would like assistance with deleting several articles from your purchase with the order number #{{Order Number}}. Rest assured, we're here to help you with that. To proceed with the deletion, please provide us with the specific articles you would like to remove from your purchase. Your satisfaction is our priority, and we want to ensure that your order meets your expectations. Thank you for reaching out to us!

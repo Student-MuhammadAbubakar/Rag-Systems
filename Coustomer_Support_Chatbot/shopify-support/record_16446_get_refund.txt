@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this article, I need help getting a refund
-
-Answer: I understand your frustration in paying ${{Refund Amount}} for this article and not receiving the refund you expected. I apologize for any inconvenience caused. To initiate the refund process, I would recommend reaching out to our customer support team directly. They will be able to guide you through the necessary steps and provide you with the required assistance. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, they will work diligently to resolve this matter for you as quickly as possible. Your satisfaction is our top priority, and we will do everything we can to make things right.

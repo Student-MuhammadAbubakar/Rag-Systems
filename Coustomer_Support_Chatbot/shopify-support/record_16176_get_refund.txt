@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebate {{Refund Amount}} dollars
-
-Answer: I've understood, you're looking for assistance in obtaining a rebate of ${{Refund Amount}}, and I'm here to help you with that. To proceed with your request, may I kindly ask you to provide me with some more information? Specifically, could you let me know where and when you made the purchase? This information will allow me to guide you through the appropriate process to secure your rebate. Rest assured, I'll do my best to make this experience as smooth and efficient as possible for you.

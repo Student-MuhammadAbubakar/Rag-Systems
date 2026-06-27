@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how do I see how soon can I expect my package?
-
-Answer: We understand your anticipation and curiosity about the arrival of your package. To provide you with an estimate of the delivery date, you can check the tracking information using your {{Tracking Number}} or {{Order Number}}. By entering this information on our website or the delivery carrier's website, you will be able to see the current status of your package and an estimated delivery window. If you need any further assistance, please don't hesitate to let us know.

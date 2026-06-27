@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a compensation of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm clearly cognizant the significance of the ${{Refund Amount}} compensation you are expecting. We value your trust in our company, and I assure you that I will do everything I can to assist you with this matter. Let me investigate the status of your compensation and ensure that it is being processed promptly. While I look into this, is there anything specific you would like me to keep in mind or any additional details you would like to share? Your input is valuable and greatly appreciated as we work towards resolving this issue to your satisfaction.

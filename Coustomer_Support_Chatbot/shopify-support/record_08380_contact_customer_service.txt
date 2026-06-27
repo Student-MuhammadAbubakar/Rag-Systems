@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to talk with customer assistance, how can I do it?
-
-Answer: Thanks for getting in touch! I grasp that you need to talk to our customer assistance team. We are here to assist you and provide the necessary support. To get in touch with our customer assistance, you can reach out to us through our customer service hotline at {{Customer Support Phone Number}} or send us an email at {{Customer Support Email}}. You can also visit our website at {{Website URL}}, where you can find a Live Chat option to connect with our representatives. Please let me know if there's anything else I can assist you with.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: assistance ordering several of ur product
-
-Answer: We appreciate your interest in ordering several of our products! I'm here to provide you with the necessary assistance to make your shopping experience seamless and enjoyable. To proceed with the order, please visit our official website at {{Website URL}}. Once you're there, you can browse through our extensive collection and add the desired items to your cart. If you encounter any difficulties or have any questions along the way, feel free to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website. They will be more than happy to guide you through the process and ensure that your order is placed successfully. Happy shopping!

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: problem with switching a bloody product of order {{Order Number}}
-
-Answer: We understand that you're facing an issue with switching a product in order number {{Order Number}}. We apologize for any inconvenience caused. To better assist you, could you please provide more details about the specific product you wish to switch and the reason for the switch? Our team is committed to resolving this matter promptly and ensuring your satisfaction.

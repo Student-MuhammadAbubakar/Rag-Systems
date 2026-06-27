@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: I'll do my best! We offer delivery services to {{Delivery City}}, ensuring that you receive your desired items right at your doorstep. We strive to provide convenient and timely deliveries to all our customers, including those in {{Delivery City}}. If you have any specific preferences or requirements regarding your delivery, please let me know, and I'll be more than happy to assist you further.

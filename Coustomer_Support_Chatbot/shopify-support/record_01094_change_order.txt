@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I have to add something to order {{Order Number}}
-
-Answer: We understand that you would like to add something to order number #{{Order Number}}. We apologize for any inconvenience caused and we appreciate your patience. To assist you better, could you please provide more details on what you would like to add to your order? This will enable us to ensure a seamless ordering experience for you.

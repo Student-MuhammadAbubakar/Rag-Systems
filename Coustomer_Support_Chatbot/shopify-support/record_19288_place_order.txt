@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I don't know how to order several of your product
-
-Answer: No worries at all! I'm here to guide you through the process of ordering several of our products. First, let's start by selecting the items you wish to purchase. You can browse our website or online store to explore the wide range of options available. Once you have chosen the products you want, you can add them to your cart. To do this, simply click on the "Add to Cart" button or icon associated with each item. Once you have added all the desired products to your cart, proceed to the checkout page. Here, you will need to provide your shipping and billing information. Make sure to double-check the accuracy of your details to ensure a smooth delivery. Finally, select your preferred payment method, such as credit card, PayPal, or bank transfer, and complete the purchase. If you have any specific questions or encounter any difficulties during the process, feel free to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}}. They will be more than happy to assist you every step of the way and make your shopping experience as pleasant as possible. Happy shopping!

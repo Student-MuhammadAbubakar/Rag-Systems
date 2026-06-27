@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i cant make a payment where do i inform of a problem
-
-Answer: I've observed that you're facing difficulties in making a payment, and I'm here to guide you on how to inform us about this problem. To report a payment issue, I recommend reaching out to our dedicated customer support team. They have the expertise to assist you and provide the necessary guidance. You can contact them through our website's live chat feature, which is available 24/7. Alternatively, you can also call our customer support hotline at {{Customer Support Phone Number}}. Our support agents will be more than happy to investigate the problem and help you to resolve it as quickly as possible. Remember, your feedback is vital in improving our payment system, and I sincerely appreciate your patience and understanding.

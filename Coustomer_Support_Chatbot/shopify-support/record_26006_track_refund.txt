@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a compensation of {{Refund Amount}} dollars
-
-Answer: I pick up what you're putting down, your anticipation for a compensation of {{Currency Symbol}}{{Refund Amount}}. Every dollar counts, and we strive to provide timely updates. Please allow me to quickly check the current status of your compensation. While I investigate, I would like to ask if you have any other concerns or questions regarding your reimbursement experience. Your insights are valuable to us, and your patience is genuinely appreciated. Rest assured, we are committed to ensuring your satisfaction and trust in our services.

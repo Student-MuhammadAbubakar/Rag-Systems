@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to speak to customer service, can you help me?
-
-Answer: Glad you contacted us! I'm clearly cognizant that you want to speak to our customer service team and I'm here to help. To connect with them, you can reach out to our support hotline at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Alternatively, you can also visit our website at {{Website URL}} and initiate a live chat session with our support agents. They will be more than happy to assist you. How else may I be of service to you today?

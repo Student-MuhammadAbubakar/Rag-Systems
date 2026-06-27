@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help to remove several articles from purchase {{Order Number}}
-
-Answer: We understand that you're looking for assistance in removing several articles from purchase number {{Order Number}}. We apologize for any inconvenience caused and are here to help you. To proceed with the removal, could you kindly provide us with the specific articles you would like to remove from your purchase? Once we receive this information, we will promptly assist you in making the necessary adjustments. Your satisfaction is our priority, and we appreciate the opportunity to assist you. Is there anything else we can help you with?

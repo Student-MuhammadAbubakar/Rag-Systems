@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i cant make payments how to inform of issues with payment
-
-Answer: I apologize for the trouble you're experiencing in making payments. To inform us about the issues you're facing, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you in notifying us about the payment problems and provide you with the necessary guidance to resolve them. Rest assured that we are here to help you every step of the way.

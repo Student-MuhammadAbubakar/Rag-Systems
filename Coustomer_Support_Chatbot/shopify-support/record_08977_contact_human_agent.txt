@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how can I speak to a live agent?
-
-Answer: Your input is valuable! I'm picking up that you are looking for assistance on how to speak to a live agent. I'm here to help! To connect with a live agent, please dial our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team is available {{Customer Support Hours}} to address any queries or concerns you may have. Alternatively, you can also reach out to us through our Live Chat feature on our website at {{Website URL}}. Our knowledgeable agents are ready to assist you in real-time. We value your time and want to ensure that you receive the prompt and personalized assistance you deserve. Don't hesitate to reach out. We're here to support you every step of the way!

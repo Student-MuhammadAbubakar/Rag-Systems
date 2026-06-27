@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: help to check how long it takes for the product to arrive
-
-Answer: We understand your curiosity about the estimated delivery time for your product. To provide you with the most accurate information, we would need some details. Could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we will be able to give you an updated estimated delivery date. Thank you for your cooperation in this matter.

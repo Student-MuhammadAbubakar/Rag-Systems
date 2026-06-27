@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I do not know what I need to do to egt the bill #85632
-
-Answer: Not to worry! I understand your confusion about how to retrieve the bill with the number #{{Invoice Number}}. Allow me to guide you through the process step by step so that you can easily access your bill. Just give me a moment, and I'll provide you with clear instructions on how to egt the bill #{{Invoice Number}}.

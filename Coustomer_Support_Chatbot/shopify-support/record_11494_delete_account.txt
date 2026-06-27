@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: hwlp me remove the {{Account Category}} account
-
-Answer: I've realized you need assistance with removing your {{Account Category}} account, and I'm here to help you. To proceed with the account cancellation, please provide me with the necessary details such as your account username or any other information that can help us locate your account. Once I have the required information, I will guide you through the process step by step. Rest assured, I will ensure a smooth and hassle-free experience for you throughout the cancellation process.

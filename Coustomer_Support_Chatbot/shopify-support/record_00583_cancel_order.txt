@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I purchased some items, help me cancel order {{Order Number}}
-
-Answer: I acknowledge that you have recently made a purchase and would now like to cancel the order with the order number {{Order Number}}. I understand that circumstances can change, and I'm here to assist you with the cancellation process. Let's take the necessary steps together to ensure your satisfaction.

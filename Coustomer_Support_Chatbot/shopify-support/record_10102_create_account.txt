@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need information about opening premium accounts
-
-Answer: Sure, I'd be happy to provide you with information about opening premium accounts. {{Account Category}} accounts offer a range of exclusive benefits and personalized services tailored to meet your unique financial needs. To get started, can you please provide me with some more details? For example, are you looking to open an individual premium account or a joint premium account? Additionally, do you have any specific requirements or preferences? Once I have this information, I can guide you through the process and provide you with all the details you need to make an informed decision.

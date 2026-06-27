@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: close {{Account Type}} account
-
-Answer: Glad you got in touch to us about closing your {{Account Type}} account. I understand that you no longer wish to continue using our services and I'm here to assist you with the account closure process. To ensure a smooth transition, please provide me with your account details, such as your registered email address and any other relevant information. Once we have verified your identity, we will proceed with closing your {{Account Type}} account. If you have any questions or concerns throughout this process, feel {{Account Type}} to let me know and I'll be more than happy to help you.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Firstly, I truly understand how important the refund of {{Currency Symbol}}{{Refund Amount}} is for you. Every dollar matters, and we are committed to resolving your concerns promptly. Let me quickly check the status of your refund for you. While I do that, I'd like to ask if you have encountered any delays or issues with past refund processes. Your insights are valuable to us. Thank you for your patience, and rest assured, we are working diligently to ensure your satisfaction and trust.

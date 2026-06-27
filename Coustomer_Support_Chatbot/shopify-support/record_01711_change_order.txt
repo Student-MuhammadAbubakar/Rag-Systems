@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I don't know how to change a item of purchase {{Order Number}}
-
-Answer: I've realized you're unsure about how to change an item in your purchase with the order number {{Order Number}}. Allow me to provide you with some guidance. To change an item in your purchase, you can follow these steps: 1) Go to your purchase history or order details page on our website or app. 2) Locate the specific purchase with the order number {{Order Number}}. 3) Look for an option or button that allows you to edit or modify the items in your purchase. 4) Click on the edit or modify option and proceed to make the desired changes to the item. 5) Review your changes and confirm the update. If you encounter any difficulties or have any further questions, please don't hesitate to let me know. I'm here to assist you throughout the process.

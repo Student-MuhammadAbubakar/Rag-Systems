@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help me deleting an item from purchase {{Order Number}}
-
-Answer: Thank you for contacting to us for assistance with deleting an item from purchase number {{Order Number}}. We understand that you would like to modify your purchase, and we're here to help. To proceed with the deletion, could you please provide us with the details of the specific item you would like to remove? Once we have that information, we will guide you through the necessary steps to make the change. Your satisfaction is our priority, and we appreciate your patience as we work together to ensure your purchase meets your expectations.

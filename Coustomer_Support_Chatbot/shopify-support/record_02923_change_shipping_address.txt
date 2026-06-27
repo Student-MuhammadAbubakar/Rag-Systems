@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: my delivery address has changed correct it
-
-Answer: Thank you for informing us about the change in your delivery address. To update your address, please log in to your account and navigate to the "Account Settings" or "Profile" section. From there, you should be able to make the necessary changes to ensure your package is delivered to the correct location. If you encounter any difficulties or have any further questions, please don't hesitate to reach out to our customer support team for assistance.

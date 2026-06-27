@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how do i find my invoice #00108
-
-Answer: I've come to understand that you are looking for guidance on locating your invoice with the number {{Invoice Number}}. Let me assist you in finding the information you need. Could you please provide me with more context or details about the platform or service you used to generate this invoice? This will help me direct you to the right resources and steps to retrieve your invoice.

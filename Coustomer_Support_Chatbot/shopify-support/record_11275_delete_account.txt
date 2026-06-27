@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know what I have to do to close a standard account
-
-Answer: Thank you for getting in touch to us with your inquiry about closing your {{Account Type}} account. I understand that you may be unsure about the steps involved in this process, and I'm here to provide you with the necessary assistance. To ensure that I guide you accurately, could you please provide me with some additional details about your account? Specifically, I would need your account username or email address that is associated with your {{Account Type}} account. Once I have that information, I will be able to give you specific instructions on how to proceed with closing your account.

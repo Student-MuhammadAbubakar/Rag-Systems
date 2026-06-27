@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possibleto place an order from {{Delivery City}}
-
-Answer: For sure! We happily accept orders from {{Delivery City}} and deliver to various locations worldwide. Whether you're in {{Delivery City}}, Spain or {{Delivery City}}, California, we've got you covered. Simply select your desired items, proceed to checkout, and enter your shipping address. Our shipping options will be displayed, allowing you to choose the one that best suits your needs. Should you require any assistance during the ordering process, please don't hesitate to reach out. We're here to ensure a seamless and delightful shopping experience, regardless of your location!

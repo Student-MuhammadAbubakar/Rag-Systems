@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: could i get the damn invoice from {{Person Name}}
-
-Answer: I truly understand your frustration in obtaining the invoice from {{Salutation}} {{Client Last Name}}. Give me a moment, and I will assist you in retrieving it. In the meantime, please let me know if you have any other questions or if there's anything else I can help you with.

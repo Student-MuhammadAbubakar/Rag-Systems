@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open another gold account
-
-Answer: That's fantastic! I'm thrilled to assist you in opening another {{Account Type}} account. To get started, could you please provide the necessary details such as your full name, email address, and a preferred username? Once I have these essentials, I'll guide you through the process step-by-step, ensuring you have a clear understanding of each stage. I want to emphasize that your security and privacy are of utmost importance to us. Be assured that every piece of data you share will be handled with the utmost care and confidentiality. Let's begin this exciting journey together!

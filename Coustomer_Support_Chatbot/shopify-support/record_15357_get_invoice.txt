@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i call to get my bill #12588
-
-Answer: I'm picking up what you're putting down, your need to retrieve the bill with the number #{{Invoice Number}}. Calling us is a great way to get immediate assistance with accessing your bill. Our customer service representatives are trained to provide the information you need and guide you through the process. Just provide them with the invoice number, and they will assist you in retrieving it. Remember, we are here to support you, so feel free to reach out whenever you need help with your invoice or any other queries you may have.

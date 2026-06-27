@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i do not know what to do to ask for rebates of money
-
-Answer: I've decoded that you're unsure about the steps to take when asking for rebates of money. It can be confusing and overwhelming, but I'm here to guide you. To initiate the process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to provide you with the necessary instructions and assist you in submitting a rebate request. Remember, it's important to provide all relevant details and documentation to support your claim. Our team will review your request and work towards resolving it to the best of our abilities. If you have any further questions or concerns along the way, don't hesitate to reach out. We're here to support you throughout the entire process.

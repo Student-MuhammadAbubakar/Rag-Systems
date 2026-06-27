@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: remove gold account
-
-Answer: Thanks for dropping us a line about removing your {{Account Type}} account. I understand that you no longer wish to use it and would like to cancel it. To proceed with the account cancellation, I kindly ask you to provide some information so that I can assist you better. Could you please provide me with your account details, such as your username or the email address associated with your {{Account Type}} account? This will help me locate your account and take the necessary steps to assist you with the cancellation process.

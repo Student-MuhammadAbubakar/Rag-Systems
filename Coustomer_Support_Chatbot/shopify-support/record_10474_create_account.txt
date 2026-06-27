@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want information about opening {{Account Category}} accounts
-
-Answer: I'll make it happen! I'm here to provide you with all the information you need about opening a {{Account Category}} account. {{Account Category}} accounts are a great way to get started with our services. They offer a basic level of access for free, allowing you to experience the key features and benefits. To create a {{Account Category}} account, you can visit our website and click on the "Sign Up" or "Register" button. You'll then be prompted to provide some basic information, such as your name, email address, and a password. Once you've completed the registration process, you'll have access to your new {{Account Category}} account. If you have any further questions or need assistance along the way, feel free to let me know. I'm here to help!

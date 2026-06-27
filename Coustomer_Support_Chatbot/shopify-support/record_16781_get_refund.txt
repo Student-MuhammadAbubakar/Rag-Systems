@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimburse {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I gather that you are seeking a reimbursement of ${{Refund Amount}}. Please let me assure you that I will do my best to assist you with this request. To proceed with the reimbursement process, I kindly ask you to provide me with some additional details such as the reason for the reimbursement, any supporting documentation, and the preferred method for receiving the refund. This information will help expedite the process and ensure a smooth resolution. Thank you for reaching out, and I appreciate your patience and cooperation.

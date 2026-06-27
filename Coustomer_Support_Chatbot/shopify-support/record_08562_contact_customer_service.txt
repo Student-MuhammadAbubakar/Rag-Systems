@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help speaking with customer support
-
-Answer: Thank you for trusting us! I'm fully aware of you require assistance in speaking with our customer support team. Rest assured, I'm here to help. To connect with our representatives, you can reach our customer support during the following hours: {{Customer Support Hours}}. If there's anything else I can assist you with, please let me know.

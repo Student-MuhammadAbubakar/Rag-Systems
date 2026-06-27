@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I lost the bills from {{Person Name}}, will you show them to me?
-
-Answer: I'll get right on it! I understand that you've misplaced the bills from {{Person Name}} and you need assistance in viewing them. To help you further, could you please provide me with any relevant information such as the date range or any specific details related to those bills? With this information, we can quickly locate and display the bills for your convenience. Rest assured, I'm here to guide you every step of the way to ensure you can access the necessary information smoothly.

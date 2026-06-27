@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where do I buy something?
-
-Answer: Thank you for your question regarding where to buy something. I'm thrilled to inform you that you can easily purchase our products through our official website. Simply visit our website at {{Website URL}} and explore our wide range of products. Once you find the item you're interested in, click on it to view the product details and click on the "Buy Now" or "Add to Cart" button to initiate the purchase process. If you encounter any difficulties or have any further questions during the purchasing process, feel free to reach out to our customer support team who will be more than happy to assist you. Happy shopping!

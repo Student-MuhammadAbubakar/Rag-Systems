@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I have to notify of a payment error
-
-Answer: Thank you for bringing this payment error to our attention. Your proactive approach in notifying us is greatly appreciated. To ensure that your notification reaches the appropriate department, could you kindly provide some additional details regarding the payment error? Specifically, if you could let us know the nature of the error and any error codes or messages you encountered, it would assist us in resolving the issue promptly. We value your feedback and are committed to addressing this error and ensuring a seamless payment experience for you.

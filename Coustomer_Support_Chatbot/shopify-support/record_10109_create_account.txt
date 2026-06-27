@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I have got to create a pro account
-
-Answer: That's fantastic! I'm thrilled to assist you in creating your {{Account Type}} account. With a {{Account Type}} account, you'll enjoy exclusive benefits and premium features tailored to meet your needs. To get started, may I kindly request your full name, email address, and contact number? Rest assured that your personal information will be handled with the utmost security and confidentiality. Once we have these details, I'll guide you through the process step by step, ensuring that you have a seamless experience.

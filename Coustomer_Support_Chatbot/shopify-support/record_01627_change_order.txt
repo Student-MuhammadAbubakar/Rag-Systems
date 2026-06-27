@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I have problems with changing purchase {{Order Number}}
-
-Answer: I apologize for the difficulties you're experiencing with changing your purchase with order number {{Order Number}}. I understand how frustrating it can be when you encounter issues while trying to make modifications. Let's work together to find a solution. Could you please provide more details about the specific problems you're facing? This will help us identify the issue more effectively and provide you with the assistance you need. Remember, our goal is to ensure your satisfaction, so please don't hesitate to reach out with any additional information or concerns you may have.

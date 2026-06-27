@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: problems with correcting order {{Order Number}}
-
-Answer: I've ascertained that you're experiencing some difficulties with correcting order number {{Order Number}}. Rest assured, I'm here to assist you. Could you please provide more details about the specific problems you're encountering? This will help me better understand the issue and provide you with appropriate solutions. Your feedback is essential in ensuring we address the concerns you have effectively and efficiently.

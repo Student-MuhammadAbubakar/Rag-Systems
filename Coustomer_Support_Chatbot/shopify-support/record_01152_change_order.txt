@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I want to switch an item of order {{Order Number}}, how can I do it?
-
-Answer: Thank you for contacting to us about switching an item in order number {{Order Number}}. I understand the importance of getting your order just right. To assist you with this request, I would recommend reaching out to our customer service team directly. They will have access to your order details and be able to guide you through the process of switching the item. Our customer service team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you promptly and ensure that your order is exactly what you desire.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i order from {{Delivery Country}}
-
-Answer: I'll make it happen! I understand your excitement in wanting to place an order from {{Delivery Country}}. We are pleased to inform you that we offer international shipping, including delivery to {{Delivery Country}}. You can easily place your order through our website or contact our customer support team for further assistance. We value your interest in our products and look forward to serving you with a seamless shopping experience.

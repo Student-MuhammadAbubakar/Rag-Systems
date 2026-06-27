@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create platinum account
-
-Answer: That's a fantastic choice! I'm thrilled to guide you through the process of creating your {{Account Category}} account. To begin, I'll need a few details from you, such as your full name, email address, and a preferred username. Once I have this information, we can proceed to set up your account and provide you with all the benefits and privileges that come with our {{Account Category}} membership. Don't worry, all your personal information will be kept private and secure. Let's get started on this exciting journey together!

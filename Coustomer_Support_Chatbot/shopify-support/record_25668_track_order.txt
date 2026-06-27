@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: assistance to track purchase {{Order Number}}
-
-Answer: Happy to hear from you! I truly understand that you require assistance in tracking your purchase with the number {{Order Number}}. To help you with this, may I kindly ask you to provide me with your full name and the email address associated with your purchase? With this information, I can check the status of your purchase and provide you with the necessary updates. Rest assured, your privacy is important to us, and any information shared will be treated with the utmost confidentiality.

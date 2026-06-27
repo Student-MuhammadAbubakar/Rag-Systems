@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I odn't know how I could speak to customer support
-
-Answer: Your reach-out is appreciated! I'm sensing that you are unsure about how to contact our customer support. Don't worry, I'm here to help you find the best way to reach them. We offer multiple channels for support, including phone, email, and live chat. To speak directly to a customer support representative, you can call our toll-free number at {{Toll-Free Number}}. Alternatively, you can visit our website at {{Website URL}} and click on the "Contact Us" section to find other contact options. If you have any specific questions or concerns, please let me know, and I'll be happy to assist you further.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i do not have a {{Account Type}} account ned help creating one
-
-Answer: I appreciate your interest in creating a {{Account Type}} account with us! Rest assured, I'm here to lend a helping hand. Let's get started on this exciting journey together. To begin, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I will guide you step-by-step through the account creation process, ensuring you feel supported every step of the way. Remember, the security of your information is of utmost importance to us, so you can trust that we will handle it with care. How can I assist you further in this regard?

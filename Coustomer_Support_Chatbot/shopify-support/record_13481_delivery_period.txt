@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I need to see how soon can I expect my item, how to do it?
-
-Answer: We understand your anticipation to know the estimated arrival time of your item. To find out this information, you can track your package using the {{Order Number}} or {{Tracking Number}} provided by the seller. Simply visit the seller's website or the shipping carrier's website and enter the relevant information in the designated tracking section. This will provide you with the most up-to-date status of your shipment, including the expected delivery date. If you have any further questions or need assistance with tracking your item, feel free to let us know. We're here to help!

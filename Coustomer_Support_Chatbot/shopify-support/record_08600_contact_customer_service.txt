@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to talk to fucking customer assistance
-
-Answer: Thank you for contacting! I certainly recognize that you have a need to contact our customer assistance team. We apologize for any frustration or inconvenience you may have encountered. Our team is available during {{Customer Support Hours}} to assist you. If you have any questions or concerns, please feel free to share them with me. Together, we can find a solution and ensure your satisfaction. How can I assist you further?

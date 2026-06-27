@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I ain't registered, I want to create a pro account
-
-Answer: Thank you for expressing your interest in creating a {{Account Type}} account! I understand that you are not yet registered. Not to worry, I'm here to assist you in the process of creating a {{Account Type}} account from start to finish. We value your commitment to upgrading your account, and I assure you that this decision will unlock a range of exclusive benefits and features designed to elevate your experience with us. Let's get started on this exciting journey together and create your {{Account Type}} account effortlessly.

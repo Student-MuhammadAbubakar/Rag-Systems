@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: how could i edmand a refund of my money
-
-Answer: I comprehend your need to request a refund for your money. To initiate the refund process, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps to request a refund. It's important to provide them with the necessary details such as your purchase information and any supporting documents. Rest assured, our team is dedicated to assisting you and ensuring a smooth refund process.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: could you help me to remove the damn standard account?
-
-Answer: I appreciate your request to remove your {{Account Type}} account. I apologize for any frustrations you may have experienced. Rest assured, I'm here to assist you in resolving this matter promptly. To better assist you, could you please provide me with more details about the issues you're encountering while trying to remove your {{Account Type}} account? This information will enable me to guide you through the process more effectively and ensure your account is canceled successfully.

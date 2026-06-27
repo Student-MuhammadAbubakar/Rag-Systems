@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: assistance checking what hours I can call customer service
-
-Answer: Thanks for getting in touch! I grasp that you need assistance in checking the hours when you can call our customer service. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach out to them at {{Customer Support Phone Number}} or connect with us through the Live Chat on our website at {{Website URL}}. Please feel free to ask any other questions or share any other concerns you may have. We are here to help you!

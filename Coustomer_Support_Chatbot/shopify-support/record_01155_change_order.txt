@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: problem with swapping something of order {{Order Number}}
-
-Answer: Thank you for bringing this issue to our attention. I apologize for any inconvenience caused. In order to better assist you, could you please provide more details about the problem you are facing while swapping items in order number {{Order Number}}? This information will allow us to investigate and offer you an appropriate solution. Your satisfaction is our priority, and we are committed to resolving this issue for you as efficiently as possible.

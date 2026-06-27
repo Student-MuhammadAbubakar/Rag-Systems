@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i no longer make us of my pro account need help deleting it
-
-Answer: We've received your message regarding the deletion of your {{Account Type}} account. I understand that you no longer utilize the account and need assistance with deleting it. I'm here to help you with the process and ensure that it is done smoothly. To proceed with the deletion, please provide me with the necessary details such as your account username or any other relevant information. Rest assured, once we have all the required details, we will delete your account according to our standard procedures.

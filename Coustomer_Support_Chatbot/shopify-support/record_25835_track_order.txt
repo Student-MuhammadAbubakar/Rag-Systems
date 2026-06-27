@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: checking status of order {{Order Number}}
-
-Answer: We value your outreach! I'm in tune with the fact that you would like to check the status of your order with the order number {{Order Number}}. To provide you with the most accurate information, could you please provide me with your email address or phone number associated with the order? Once I have that information, I will be able to assist you further in tracking the status of your order and providing any necessary updates.

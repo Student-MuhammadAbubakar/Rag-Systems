@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I want information about the fucking delivey period
-
-Answer: We understand your frustration and eagerness to know the delivery period of your package. To provide you with accurate information, may I have the {{Tracking Number}} or {{Order Number}}? Once we have this information, we will be able to give you an estimated delivery date. Thank you for your patience and understanding.

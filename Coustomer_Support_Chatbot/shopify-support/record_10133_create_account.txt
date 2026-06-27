@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I can't create a {{Account Category}} account
-
-Answer: I'm sorry to hear that you're experiencing difficulties in creating a {{Account Category}} account. Rest assured, I'm here to assist you in resolving this issue. Could you please provide me with more details about the problem you're facing? This will allow me to understand the situation better and provide you with the most suitable solution. Your satisfaction is of utmost importance to us, and I'm committed to ensuring that we find a resolution together. Thank you for bringing this to our attention."

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can i correct order {{Order Number}}
-
-Answer: We understand that you would like to correct order number {{Order Number}}. Our team is here to assist you with any modifications you need to make. To ensure we provide you with the best solution, could you please let us know exactly what changes you would like to make to your order? We are committed to ensuring your complete satisfaction and will do our best to accommodate your request. Thank you for bringing this to our attention.

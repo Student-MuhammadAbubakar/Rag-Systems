@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Positively! We extend our delivery services to the vibrant city of {{Delivery City}}, ensuring that you can receive your packages conveniently at your doorstep. We understand the importance of reliable and efficient delivery, and we strive to meet your expectations every step of the way. Whether it's the Motor City or any other destination within our delivery network, we're here to make sure your packages arrive safely and on time. If you have any specific delivery preferences or requirements, feel free to let us know, and we'll do our best to accommodate them.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a rebate fo {{Refund Amount}} dollars
-
-Answer: I pick up what you're putting down, your anticipation for a rebate of {{Currency Symbol}}{{Refund Amount}}. Waiting for a refund can be frustrating, and I apologize for any inconvenience caused. To ensure I can provide you with the most accurate information, could you please provide me with your order number or any reference number related to the rebate? With this information, I'll be able to check the status of your rebate and provide you with an update. Thank you in advance for your cooperation.

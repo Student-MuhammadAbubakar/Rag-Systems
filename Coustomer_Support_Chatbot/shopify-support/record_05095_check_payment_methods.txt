@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: check_payment_methods
-
-Question: help me to see what payment payment modalities you accept
-
-Answer: Certainly! I'm here to assist you in exploring our accepted payment methods. To view the diverse range of payment options we offer, you can visit the "Payment Methods" section on our website. Simply navigate to our homepage and look for the "Payment" or "Checkout" tab. From there, you'll be able to see an extensive list of our accepted payment modalities. If you encounter any difficulties or need further guidance, please don't hesitate to reach out to our friendly customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are committed to ensuring a seamless payment experience for you!

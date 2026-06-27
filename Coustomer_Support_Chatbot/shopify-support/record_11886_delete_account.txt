@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel {{Account Type}} account
-
-Answer: We're here for you about canceling your {{Account Type}} account. I understand that you no longer require the services provided by the {{Account Type}} account. Can you please provide me with some additional details about your account so that I can assist you further? This will help me ensure that the cancellation process is smooth and hassle-free for you. Let's work together to get this done efficiently and with your utmost satisfaction.

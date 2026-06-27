@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel standard acount
-
-Answer: Thank you for getting in touch to us regarding the cancellation of your {{Account Type}} account. We understand that you would like to cancel your account, and we are here to assist you with that process. To proceed with canceling your {{Account Type}} account, please follow the steps outlined in our account cancellation procedure. If you encounter any difficulties or have any questions along the way, don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We appreciate your understanding and cooperation throughout this process.

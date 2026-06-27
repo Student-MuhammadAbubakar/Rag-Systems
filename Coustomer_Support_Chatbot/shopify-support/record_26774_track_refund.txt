@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a restitution of {{Refund Amount}} dollras
-
-Answer: We understand that you're eagerly waiting for a restitution of {{Currency Symbol}}{{Refund Amount}}. I apologize for any inconvenience caused by the delay. Rest assured, we value your time and commitment, and we're actively working on expediting the process. To provide you with an accurate status update, please allow me a moment to review your case. I appreciate your patience and cooperation while I investigate this matter further.

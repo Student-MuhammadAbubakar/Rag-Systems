@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I do not know how to contact customer service
-
-Answer: Always good to connect! I'm attuned to the fact that you're unsure about how to contact our customer service team. I'm here to assist you with that. To get in touch with our customer service, you can reach out to us through our hotline at {{Customer Support Phone Number}}, or you can visit our website at {{Website URL}} and use the Live Chat function to chat with one of our representatives. We're available {{Customer Support Hours}}. If you have any other questions or concerns, please feel free to ask.

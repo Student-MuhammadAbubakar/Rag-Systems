@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: wanna edit order {{Order Number}}
-
-Answer: We appreciate your request to edit order number {{Order Number}}. It's important to us that we assist you in making any necessary changes to your order. Please provide us with the specific details of the modifications you would like to make, and we will ensure that they are taken care of promptly. Your satisfaction is our top priority, and we're here to help you every step of the way.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have got to remove an item from order {{Order Number}} help me
-
-Answer: Thank you for contacting us for assistance with removing an item from order number {{Order Number}}. We understand the importance of addressing your request promptly. To ensure we provide you with the correct instructions, could you please provide us with the details of the item you would like to remove? Your satisfaction is our priority, and we are here to help you every step of the way.

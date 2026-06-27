@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to take a quick look at my invoice #85632
-
-Answer: Absolutely! I understand your request for assistance in quickly accessing your invoice with the number #{{Invoice Number}}. In order to help you, could you please provide me with some additional information? Specifically, could you let me know the name of the platform or website where you made the purchase or received the invoice? With this information, I'll be able to guide you to the exact location where you can take a quick look at your invoice. Rest assured, I'm here to assist you every step of the way.

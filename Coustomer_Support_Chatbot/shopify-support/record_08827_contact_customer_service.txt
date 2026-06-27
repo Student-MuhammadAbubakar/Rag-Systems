@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me check what hours i can call customer assistancr
-
-Answer: We value your outreach! I'm in tune with the fact that you would like assistance in checking the hours during which you can call our customer assistance. Our team is available to assist you during {{Customer Support Hours}}. This is the optimal time to reach us and get the support you need. We value your time and are committed to providing excellent service during these hours. If you have any other questions or need further assistance, please don't hesitate to let me know.

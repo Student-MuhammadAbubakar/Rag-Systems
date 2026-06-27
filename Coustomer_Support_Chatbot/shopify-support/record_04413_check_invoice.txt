@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: seein invoices from {{Person Name}}
-
-Answer: I realized, you want to view invoices from {{Salutation}} {{Client Last Name}}. To assist you with this, could you please provide me with the date range or any additional details associated with the invoices you are looking for? This information will help me locate the invoices more efficiently and provide you with the necessary guidance. Rest assured, I'm here to support you every step of the way.

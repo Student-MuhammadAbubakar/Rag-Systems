@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can I delete an item from purchase {{Order Number}} ?
-
-Answer: Positively! I understand that you would like to delete an item from your purchase with the number {{Order Number}}. Deleting items from a purchase is possible, and I'm here to guide you through the process. To ensure accuracy, could you please let me know which item you would like to remove?

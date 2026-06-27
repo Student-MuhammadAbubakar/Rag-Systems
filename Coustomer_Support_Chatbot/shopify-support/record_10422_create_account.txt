@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i aint registered yet help me opening an {{Account Type}} account
-
-Answer: Thank you for your interest in opening a {{Account Type}} account with us! I am here to assist you in the registration process step by step. To get started, please provide me with your full name, email address, and a preferred username. Once I have this information, I will guide you through the necessary steps to create your {{Account Type}} account. Rest assured, we prioritize your security and privacy, and all the information you provide will be handled with utmost care and confidentiality. Let's begin this exciting journey together! How are you feeling about opening your {{Account Type}} account?

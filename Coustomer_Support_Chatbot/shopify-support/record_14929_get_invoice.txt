@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: could you mail me my goddamn invoices rfom {{Person Name}}?
-
-Answer: I'll take care of it! I completely understand your request to receive your invoices from {{Salutation}} {{Client Name}}. Please allow me a moment to gather the necessary information. In the meantime, could you please provide me with your email address so that I can send the invoices directly to you? Thank you for your cooperation, and I'll ensure that you receive the invoices promptly.

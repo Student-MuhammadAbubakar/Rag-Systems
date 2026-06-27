@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: is it possible to take a quick look at my invoice #37777
-
-Answer: Unquestionably! I understand that you would like a quick overview of your invoice with the number #{{Invoice Number}}. Let me assist you in retrieving the necessary information. Please bear with me while I locate your invoice and provide you with the details you need.

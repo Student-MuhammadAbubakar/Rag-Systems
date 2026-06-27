@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I no longer use my {{Account Type}} account, help me cancelling it
-
-Answer: We appreciate your inquiry to us about canceling your {{Account Type}} account. I understand that you no longer use it and would like assistance with the cancellation process. To ensure a smooth experience, I will guide you through the necessary steps. First, please log into your account and navigate to the account settings or profile section. Look for an option related to account cancellation or deactivation. Click on that option and you should be presented with further instructions or a confirmation prompt. Follow the on-screen instructions and confirm the cancellation when prompted. If you encounter any difficulties or have any specific questions during the process, please feel {{Account Type}} to ask. We are here to support you every step of the way.

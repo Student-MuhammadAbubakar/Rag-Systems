@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I order from {{Delivery City}}?
-
-Answer: I'm on it! We welcome customers from {{Delivery City}} and various other locations worldwide. Our system is designed to cater to a global customer base, allowing you to conveniently place your orders from anywhere, including {{Delivery City}}. Whether you're in the bustling city center or in the tranquil suburbs, our delivery options are crafted to ensure a seamless shopping experience. Feel free to explore our range of shipping choices, from standard to expedited, to find the one that best suits your needs. Should you have any further inquiries or require assistance in navigating our website or placing your order, please don't hesitate to let me know. Together, let's make your shopping journey a truly delightful one!

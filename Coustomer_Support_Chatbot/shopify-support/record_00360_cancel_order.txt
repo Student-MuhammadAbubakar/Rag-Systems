@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I bought some items, help canceling order {{Order Number}}
-
-Answer: I can tell that you've made a purchase and now you need assistance with canceling order number {{Order Number}}. Allow me to guide you through the process and provide the necessary support to resolve this for you.

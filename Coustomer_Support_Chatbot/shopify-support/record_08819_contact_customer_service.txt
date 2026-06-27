@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i dont know what to do to call customer support
-
-Answer: Your reach-out is appreciated! I'm sensing that you're unsure of the steps to follow in order to call our customer support. Don't worry, I'm here to guide you through the process. To reach our customer support, you can dial {{Customer Support Phone Number}} during our business hours which are {{Customer Support Hours}}. If you prefer, you can also visit our website at {{Website URL}} and use the Live Chat feature to connect with our support team. They will be more than happy to assist you with any questions or concerns you may have. Let me know if there's anything else I can help you with!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this purchase, I have to get a damn refund
-
-Answer: I pick up what you're putting down, your frustration and urgency in seeking a refund for your purchase. It can be disheartening when you feel like you didn't receive what you expected. Rest assured, I'm here to assist you every step of the way. In order to initiate the refund process, could you please provide me with some additional information? Specifically, I would need details such as the order number, the date of purchase, and any supporting documentation or evidence that you may have. Once I have these details, I will be able to expedite the refund request and work towards resolving this matter to your satisfaction. Thank you for your patience and cooperation.

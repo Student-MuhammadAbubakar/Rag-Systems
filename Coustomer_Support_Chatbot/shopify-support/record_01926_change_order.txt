@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I'd like to dad an item to purchase {{Order Number}}
-
-Answer: Happy to get your message to us with your request to add an item to your purchase with order number {{Order Number}}. We are here to assist you with this. Could you please provide us with the details of the item you would like to add? This will help us ensure that we process your request accurately and efficiently. We appreciate your cooperation in helping us improve your shopping experience.

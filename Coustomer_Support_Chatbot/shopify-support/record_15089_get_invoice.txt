@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: mail me bill #00108
-
-Answer: I understood that you would like to receive your bill with the number {{Invoice Number}} via email. Allow me to assist you with that. Could you please provide me with your email address so that I can ensure the bill is sent to the correct email? Thank you!

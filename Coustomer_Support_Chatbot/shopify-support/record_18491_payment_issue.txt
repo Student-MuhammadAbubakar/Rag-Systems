@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: my card was declined i wanna inform of troubles with payment
-
-Answer: I'm sorry to hear that your card was declined. I understand that you want to inform us about the troubles you're facing with your payment. Rest assured, I'm here to assist you in resolving this issue. To better assist you, could you please provide some more details about the specific error or message you received when your card was declined? This information will help us investigate the matter and find an appropriate solution. Thank you for bringing this to our attention, and together we'll work towards resolving the payment troubles you're experiencing.

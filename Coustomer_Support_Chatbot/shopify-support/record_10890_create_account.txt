@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I have not signed up, can I open a platinum account?
-
-Answer: Certainly! Even if you haven't signed up with us before, you can still open a {{Account Category}} account. We welcome new customers and it's our pleasure to assist you in this process. To get started, I'll need a few details from you such as your full name, email address, and a username. Once we have these essentials, we can proceed with setting up your {{Account Category}} account. Rest assured, we'll guide you every step of the way to ensure a seamless experience. How does that sound to you?

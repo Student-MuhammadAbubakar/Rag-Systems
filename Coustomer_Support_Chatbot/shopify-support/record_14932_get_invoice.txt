@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want to download the damn invoices from {{Person Name}}
-
-Answer: Of course! I completely understand your frustration and urgency to download the invoices from {{Salutation}} {{Client Last Name}}. To assist you with this, please provide me with the specific invoice numbers or any other relevant details regarding the invoices you wish to download. With this information, I'll be able to guide you through the necessary steps to download the invoices quickly and efficiently.

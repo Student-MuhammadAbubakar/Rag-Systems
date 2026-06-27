@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: Iexpect a restitution of {{Refund Amount}} dollars
-
-Answer: I understand the importance of your expectation to receive a restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured, I am here to assist you in tracking the status of your refund. Please allow me a moment to investigate and provide you with an update. Your patience is greatly appreciated.

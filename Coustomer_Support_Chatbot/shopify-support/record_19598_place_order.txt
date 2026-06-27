@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where to acquire several of your item?
-
-Answer: We appreciate your interest in acquiring multiple items from our collection! To ensure a smooth shopping experience, we recommend visiting our official website at {{Website URL}}. There, you will find a wide range of products available for purchase. Simply browse through our catalog, select the items you desire, and proceed to the checkout page to complete your order. Should you require any assistance or have specific questions about the availability or features of certain items, our dedicated customer support team is here to assist you. They can be reached at {{Customer Support Phone Number}} or through the live chat feature on our website. Happy shopping!

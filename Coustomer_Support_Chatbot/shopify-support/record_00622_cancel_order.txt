@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I can't afford purchase {{Order Number}}
-
-Answer: I comprehend your financial concerns regarding purchase {{Order Number}}. We strive to provide flexible options and want to assist you in the best possible way. Please allow me a moment to review your purchase details and explore the available solutions for you. Thank you for your patience.

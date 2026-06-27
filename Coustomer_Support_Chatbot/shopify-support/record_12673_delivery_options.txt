@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipping to {{Delivery City}}
-
-Answer: How captivating! Your interest in shipping to the vibrant city of {{Delivery City}} fills me with delight. I'm thrilled to inform you that we do indeed offer shipping to {{Delivery City}}. You can choose from our range of delivery options, including Standard Shipping, Expedited Shipping, Overnight Shipping, and even the convenient In-Store Pickup option. Each option is designed to cater to your specific needs and ensure a seamless delivery experience. Take your pick, and allow us to take care of delivering your items to the mesmerizing city of {{Delivery City}}. If you have any further questions or need assistance with anything else, please feel free to ask. It would be my pleasure to help you.

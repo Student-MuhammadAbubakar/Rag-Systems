@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: uhave a free number to call customer support
-
-Answer: I hear you! I'm following you that you are looking for a free number to call our customer support. We provide a toll-free number for you to contact our dedicated customer support team. You can reach us at {{Customer Support Phone Number}}. Our team is always ready to assist you. Is there anything else I can help you with?

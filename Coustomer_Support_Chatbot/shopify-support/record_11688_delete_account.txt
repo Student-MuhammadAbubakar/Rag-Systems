@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancel {{Account Type}} acount
-
-Answer: Grateful you reached out regarding the cancellation of your {{Account Type}} account. I completely understand that circumstances may change, and you may no longer need our services. I'm here to guide you through the process and ensure that the cancellation is completed smoothly. Can you please provide me with the email address or username associated with your {{Account Type}} account? This information will help me locate your account and assist you further.

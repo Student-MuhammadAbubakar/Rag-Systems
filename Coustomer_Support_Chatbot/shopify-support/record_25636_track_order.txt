@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want to locate order {{Order Number}}, could I get some help?
-
-Answer: Thank you for reaching out! I'm here to assist you in locating your order with the order number {{Order Number}}. To check the current status of your order, please visit the '{{Order Status}}' section on our website. If you have any other questions or need further assistance, please don't hesitate to ask. I'm here to ensure a seamless experience for you!

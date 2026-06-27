@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: seebills from {{Person Name}}
-
-Answer: I appreciate your request to view the bills from {{Salutation}} {{Client Last Name}}. In order to assist you with this, could you please provide me with your account number or any other identifying information? Knowing these details will enable me to locate and provide you with the necessary information regarding the bills from {{Person Name}}.

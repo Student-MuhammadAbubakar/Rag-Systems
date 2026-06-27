@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating  {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I understood, you are seeking a rebate of ${{Refund Amount}}. We appreciate your bringing this matter to our attention, and I empathize with your concerns regarding the refund. To help expedite the process, could you please provide me with some additional details, such as the purchase date, the method of payment used, and any related transaction or invoice numbers? With this information, I'll be better equipped to assist you in obtaining the refund you are entitled to. Rest assured, I'll do everything within my capabilities to ensure a prompt and satisfactory resolution to this matter.

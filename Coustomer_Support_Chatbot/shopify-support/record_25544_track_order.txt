@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I don't know how to track purchase {{Order Number}}
-
-Answer: It's great to hear from you! I can see that you are unsure of how to track your purchase with the purchase number {{Order Number}}. Tracking your purchase is important, and I'm here to assist you. To track your purchase, you can visit our website and navigate to the "Order History" section. There, you will find the status and tracking information for your purchase. If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to ensure that you have a seamless tracking experience!

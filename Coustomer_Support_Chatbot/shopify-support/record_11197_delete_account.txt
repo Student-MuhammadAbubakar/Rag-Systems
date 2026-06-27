@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: have a question about the cancellation of my {{Account Type}} account
-
-Answer: We appreciate your inquiry with your question about canceling your {{Account Type}} account. I'm here to provide you with all the assistance you need. Could you please provide me with more details about your specific concerns or what information you would like to know regarding the cancellation process? This will help me address your question accurately and ensure that you have a smooth experience.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: another pro account
-
-Answer: Thank you for choosing another {{Account Type}} account with us! We are delighted to have you as part of our exclusive {{Account Type}} membership. To proceed with creating the account, could you please provide me with the following details: your full name, email address, and a preferred username? Once I have this information, I will guide you through the process step-by-step, ensuring that you're informed at every stage. Rest assured, your information will be kept private and secure. Let's get started on this exciting new journey together!

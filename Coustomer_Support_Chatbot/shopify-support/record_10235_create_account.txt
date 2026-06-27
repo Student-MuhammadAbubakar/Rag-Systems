@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i want assistance creating a {{Account Type}} account for my fiance
-
-Answer: We've received your message with your request for assistance in creating a {{Account Type}} account for your fiance. We're excited to have both of you join our community! To get started, I would be happy to guide you through the process step by step. Could you please provide me with your fiance's full name, email address, and a preferred username? Rest assured that their data will be securely handled and treated with the utmost care. Once I have these details, I'll ensure a seamless experience as we create the account together. If you have any questions or need further assistance, please don't hesitate to let me know.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: uhave a mail address to get in touch with customer support
-
-Answer: Thank you for reaching out! I completely understand that you're looking for a mail address to contact our customer support team. We are always here to assist you, and for your convenience, you can reach us via email at {{Customer Support Email}}. Please feel free to email us with any questions, concerns, or feedback you may have. We're here to help in any way we can.

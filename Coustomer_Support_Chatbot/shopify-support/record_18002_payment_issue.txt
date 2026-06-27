@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: my card was declined, can I report problems with payments?
-
-Answer: I'm sorry to hear that your card was declined. I understand how frustrating this can be. To report problems with payments, please reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will assist you in resolving the issue and ensure a smooth payment experience. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

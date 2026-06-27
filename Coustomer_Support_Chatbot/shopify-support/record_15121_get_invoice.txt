@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: assistance downloading my invoices from {{Person Name}}
-
-Answer: I'm with you, your need for assistance in downloading your invoices from {{Salutation}} {{Client Last Name}}. Our system allows you to easily access and download your invoices for your convenience. Let me guide you through the process step by step so that you can quickly and efficiently retrieve your invoices.

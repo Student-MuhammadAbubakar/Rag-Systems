@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: want help to get my invoices from {{Person Name}}
-
-Answer: I'll take care of it! I completely understand your need for assistance in retrieving your invoices from {{Person Name}}. Let me gather the necessary information and retrieve the invoices for you. By the way, is there a specific time range or any other details you would like me to consider while searching for the invoices? Let me know, and I'll make sure to provide you with the most accurate and helpful information.

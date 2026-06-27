@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know what I have to do to remove a {{Account Type}} account
-
-Answer: We appreciate your inquiry to us regarding the removal of your {{Account Type}} account. I understand that you're unsure about the exact steps to take, and I'm here to assist you. To cancel your {{Account Type}} account, you can follow these steps: first, log in to your account on our website or app. Then, navigate to the account settings or preferences section. Within that section, you should find an option or link to cancel or delete your account. Click on that option and carefully follow the instructions provided. If you encounter any difficulties during the process, please don't hesitate to reach out to our customer support team, who will be more than happy to guide you through it. Remember, we are here to ensure a seamless experience and address any concerns you may have.

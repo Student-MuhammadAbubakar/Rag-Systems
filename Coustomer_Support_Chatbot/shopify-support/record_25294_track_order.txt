@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need assistance to track order {{Order Number}}
-
-Answer: We value your outreach! I'm in tune with the fact that you need assistance tracking your order with the order number {{Order Number}}. To track your order, please visit the '{{Order Tracking}}' section on our website. There you can enter your order number and get the most up-to-date information on its status and expected delivery date. If you have any further questions or need additional help, feel free to ask. I'm here to provide you with a seamless tracking experience!

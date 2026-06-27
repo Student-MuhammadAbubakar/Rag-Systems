@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I have a problem with cancelling order {{Order Number}}
-
-Answer: I've got that you're experiencing difficulties with canceling order {{Order Number}}, and I'm here to assist you in resolving this issue. Can you please provide me with more details about the specific problem you're encountering? This will help me better understand the situation and provide you with the most appropriate guidance to cancel your order.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: question about the cancellation of a {{Account Category}} acclunt
-
-Answer: Thank you for contacting to us with your question regarding the cancellation of your {{Account Category}} account. We understand that account cancellations are important decisions, and we're here to help you through the process. Please provide us with specific details about your concerns or any information you need about how to cancel your account. We want to ensure that we address all your queries and provide you with the necessary guidance to make the cancellation as smooth as possible.

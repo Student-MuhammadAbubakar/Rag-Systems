@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: information about the removal of a {{Account Type}} account
-
-Answer: Thank you for reaching out to us for information regarding the removal of your {{Account Type}} account. We understand that you may have different reasons for wanting to close your account, and we're here to help. To assist you with the removal process, could you please provide us with some additional details about your account? Specifically, we would like to know if you have any remaining balances or pending transactions on your account. Once we have this information, we can guide you through the necessary steps to remove your {{Account Type}} account. Remember, our goal is to ensure a smooth and hassle-{{Account Type}} experience for you.

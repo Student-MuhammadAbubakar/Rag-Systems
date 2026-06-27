@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a rebate of {{Refund Amount}} dollars
-
-Answer: I empathize with your expectation of receiving a rebate of ${{Refund Amount}}. Your satisfaction is of utmost importance to us, and I will do my best to assist you. Allow me to gather the necessary information and check the status of your rebate. While I do that, is there anything else I can help you with?

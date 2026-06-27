@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not know how I could cancel a {{Account Category}} account
-
-Answer: Thank you for trusting about canceling your {{Account Category}} account. We understand that canceling an account can sometimes be confusing, so we're here to provide you with the necessary guidance. To cancel your {{Account Category}} account, please follow the steps outlined in our account cancellation policy, which can be found on our website under the "Account Management" section. If you encounter any difficulties or have any further questions, please don't hesitate to reach out to our customer support team. They are available to assist you throughout the cancellation process and ensure a seamless experience. We appreciate your loyalty and are committed to helping you with your account cancellation.

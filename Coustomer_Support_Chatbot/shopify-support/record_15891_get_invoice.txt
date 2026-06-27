@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: send me invoice #00108
-
-Answer: Fear not, for your request to obtain the sacred invoice adorned with the distinguished number {{Invoice Number}} shall be fulfilled! Allow me to assist you in your noble quest to acquire this revered document.

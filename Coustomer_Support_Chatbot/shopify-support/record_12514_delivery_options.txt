@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: cn I place an order from {{Delivery City}}?
-
-Answer: I'm on it! You can definitely place an order from {{Delivery City}}. We offer shipping services to various locations, including {{Delivery City}}. When you proceed with placing an order, simply enter your shipping address details, including the city and postcode, during the checkout process. Our system will automatically calculate the shipping options available for your location. If you have any specific concerns or questions regarding the shipping process or need assistance with placing your order, please don't hesitate to reach out to our customer support team. We're here to ensure a seamless and satisfactory experience for all our customers, including those in {{Delivery City}}.

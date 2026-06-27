@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help to give a quick look at my invoice #37777
-
-Answer: I get it your need for a quick look at your invoice with the number #{{Invoice Number}}. Let's streamline this process together. To provide you with the most accurate information, may I please confirm a few details? Can you please provide me with the name associated with the invoice or any other relevant information? This will enable us to locate and retrieve your invoice swiftly.

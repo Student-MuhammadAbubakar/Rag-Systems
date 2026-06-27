@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help deleting some products from purchase {{Order Number}}
-
-Answer: Grateful for your contact! I get the sense that you need assistance with deleting some products from your purchase with the order number {{Order Number}}. We want to make sure that your purchase meets your expectations, so please provide me with the specific products you would like to remove, and I will be happy to assist you with that.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I do not know how I can receive a refund of my money
-
-Answer: I comprehend that you're unsure about the process of receiving a refund for your money. Don't worry, I'm here to help you navigate through this. To initiate the refund process, you will need to contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps, verify your details, and assist you in submitting your refund request. Rest assured, our team is well-equipped to handle your query with utmost care and provide you the necessary support and guidance throughout. Is there anything else I can assist you with?

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: problem with creating a gold account
-
-Answer: I'm sorry to hear that you're experiencing difficulties in creating a {{Account Type}} account. I understand the importance of resolving this issue promptly, and rest assured, I'm here to help. To better assist you, could you please provide more details about the problem you're encountering? This will allow me to identify the cause of the issue and provide you with the necessary guidance to successfully create your {{Account Type}} account. Your satisfaction is important to us, and we're committed to ensuring that you have a seamless account creation experience.

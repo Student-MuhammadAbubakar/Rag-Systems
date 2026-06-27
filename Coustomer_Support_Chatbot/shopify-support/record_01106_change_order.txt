@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to add a product to purchase {{Order Number}}, help me
-
-Answer: Firstly, thank you for contacting us and sharing your concern about adding a product to purchase number {{Order Number}}. We understand the importance of making adjustments to your purchase, and we'll do our best to assist you. In order to add a product to your purchase, we kindly request you to provide us with the following details: the name or description of the product you would like to add and any other relevant information such as its SKU or item number if available. This information will help us ensure that the product is added accurately and your purchase reflects your preferences. We appreciate your cooperation and look forward to resolving this for you. How can we further assist you today?

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I don't know how I can check the ETA of order732201349959
-
-Answer: We value your outreach! I'm in tune with the fact that you're unsure about how to check the Estimated Time of Arrival (ETA) for your order with the number {{Order Number}}. To assist you with this, you can visit our website and navigate to the section labeled '{{Order Tracking}}' or '{{Track Order}}' to access the information you're looking for. If you encounter any difficulties or have further inquiries, please don't hesitate to let me know. I'm here to ensure you have a seamless experience and are fully informed about your purchase!

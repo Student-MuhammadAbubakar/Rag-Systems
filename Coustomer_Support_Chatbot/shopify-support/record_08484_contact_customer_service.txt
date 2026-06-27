@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do you have a mail to get in touch with customer assistance?
-
-Answer: Always good to connect! I'm attuned to the fact that you are looking for a way to get in touch with our customer assistance team via email. We value your inquiry, and our dedicated team is available to assist you promptly. To reach out to our customer assistance team, kindly send an email to {{Customer Assistance Email Address}}. They will be glad to address any concerns or queries you may have. Is there anything else I can assist you with?

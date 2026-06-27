@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i don use my {{Account Type}} account i dont know how i can cancel it
-
-Answer: Thank you for contacting to us about canceling your {{Account Type}} account. I understand that you would like assistance with the cancellation process. To better assist you, could you please provide me with your account details or any specific issues you are facing while trying to cancel your account? This information will help us guide you through the process and ensure that everything is taken care of smoothly.

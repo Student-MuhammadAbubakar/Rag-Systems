@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where can I order some items?
-
-Answer: Fantastic! I can see that you're ready to place an order for some items. We have multiple options available to facilitate your purchase. You can visit our website at {{Website URL}} and explore our wide range of products. Alternatively, if you prefer a more personalized experience, our friendly customer service team is also here to assist you in placing your order. They can be reached at {{Customer Support Phone Number}} or through the Live Chat feature on our website. So, whether you prefer the convenience of online shopping or the guidance of a dedicated representative, we've got you covered! Let me know if there's anything specific you're looking for, and I'll be more than happy to provide further assistance.

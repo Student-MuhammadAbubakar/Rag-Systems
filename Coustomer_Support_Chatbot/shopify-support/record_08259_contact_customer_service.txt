@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can uhelp me to contact customer service
-
-Answer: Indeed! I understand that you need assistance in contacting our customer service team. To reach them, you can dial {{Customer Support Phone Number}} during our customer support hours, or you can also visit our website at {{Website URL}} and use the Live Chat feature to chat with one of our representatives. Don't hesitate to let me know if there's anything else I can help you with!

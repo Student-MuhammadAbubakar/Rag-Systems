@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: deleting gold account
-
-Answer: Thank you for contacting us regarding the deletion of your {{Account Type}} account. I'm here to assist you every step of the way. Could you please provide more details about the specific issues you are facing with the deletion process? This will allow me to offer you the most accurate guidance and support. Remember, no question is too small or insignificant. Your satisfaction is our top priority.

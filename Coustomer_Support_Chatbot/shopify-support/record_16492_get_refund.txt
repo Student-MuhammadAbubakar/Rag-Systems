@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm aware that you're requesting a rebate of ${{Refund Amount}}. Obtaining a refund can be a complex process, and I'm here to assist you every step of the way. To begin, could you please provide me with some additional details about the purchase or transaction? This information will help me determine the most appropriate course of action to ensure a successful refund.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how do I call customer assistance?
-
-Answer: Thank you for reaching out! I completely understand your need to contact our customer assistance team. To speak with a customer service representative, you can dial our toll-free number, {{Customer Support Phone Number}}, during our customer support hours, which are {{Customer Support Hours}}. Our team will be delighted to assist you with any questions or concerns you may have. Is there anything else I can help you with?

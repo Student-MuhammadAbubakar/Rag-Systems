@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I do not know how I could speak with an agent
-
-Answer: We're listening! I'm keyed into the fact that you're unsure about how to speak with an agent, and I'm here to assist you. To connect with one of our dedicated agents, you can reach out to our customer support team through various channels such as phone, email, or live chat. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Don't worry, I'll make sure you get the help you need. How else may I assist you today?

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i dont know what i need to do to download the bill #85632
-
-Answer: I'm clearly cognizant your frustration and confusion regarding downloading the bill with the number #{{Invoice Number}}. Let me guide you through the process. To download your bill, you can log in to your account on our website and navigate to the billing section. There, you should be able to find the option to download your bill by entering the bill number or selecting the corresponding invoice. If you encounter any difficulties or have any further questions, please feel free to let me know. I'm here to assist you every step of the way.

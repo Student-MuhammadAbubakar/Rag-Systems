@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I want information about opening a {{Account Type}} account
-
-Answer: Fantastic! I'm delighted to provide you with all the information you need to open a {{Account Type}} account. As part of our commitment to delivering exceptional banking services, we offer a {{Account Type}} account option that comes with a range of valuable features. To get started, I'll need some basic details from you, such as your full name, email address, and a preferred username. Once we have this information, we can begin the account creation process. Rest assured that our team is dedicated to keeping your personal information secure and confidential. Let's take this exciting step towards financial empowerment together!

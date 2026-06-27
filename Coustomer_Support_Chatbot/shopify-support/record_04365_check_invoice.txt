@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: give a quick look at the damn invoices from {{Person Name}}
-
-Answer: Sure! I understand that you would like to have a quick look at the invoices from {{Salutation}} {{Client Last Name}}. I'm here to assist you with that. To provide you with the most accurate information, could you please specify the time period or any other relevant details for the invoices you are looking for? This will help me narrow down the search and ensure that I find the right invoices for you.

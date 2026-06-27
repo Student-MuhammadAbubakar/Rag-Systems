@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i need assistance seeing when will my package arrive
-
-Answer: We completely understand your eagerness to know when your package will arrive. To provide you with an accurate estimate, we would need the {{Tracking Number}} or {{Order Number}} associated with your package. Once we have that information, we will be able to give you the most up-to-date delivery timeline. Thank you for your patience as we work to assist you in the best way possible.

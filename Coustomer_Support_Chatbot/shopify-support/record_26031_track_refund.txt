@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a fucking compensatio of {{Refund Amount}} dollars
-
-Answer: I'm following how crucial it is for you to receive your compensation of {{Currency Symbol}}{{Money Amount}}. Please accept my sincere apologies for any inconvenience caused. Rest assured, I'm here to help you track the status of your compensation. Let me quickly check the details and provide you with an update. Thank you for your patience.

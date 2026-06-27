@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i aint registered yet assistance creating a {{Account Type}} account
-
-Answer: Thanks for dropping us a line to us for assistance in creating a {{Account Type}} account. I'm here to guide you through the process. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll ensure a smooth and seamless account creation experience for you. Rest assured that your personal information will be treated with the utmost care and security. Let's begin your journey to a {{Account Type}} account!

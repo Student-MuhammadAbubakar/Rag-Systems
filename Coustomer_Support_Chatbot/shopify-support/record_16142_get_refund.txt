@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I have paid {{Currency Symbol}}{{Refund Amount}} for a purchase, where to obtain a rebate?
-
-Answer: I've picked up that you have made a purchase of ${{Refund Amount}} and you are seeking information about how to obtain a rebate. Thank you for reaching out to us regarding this matter. It's important to us that you receive the necessary assistance. In order to process your rebate, I would kindly request you to provide me with the following details: the date of your purchase, the purchase number or order number, and any proof of payment that you may have. With this information, I will personally ensure that your request is handled promptly and efficiently. We value your business and will do our best to assist you in obtaining the rebate you are entitled to.

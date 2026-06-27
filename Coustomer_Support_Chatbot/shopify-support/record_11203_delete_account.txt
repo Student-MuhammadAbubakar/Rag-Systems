@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: can you help me to delete the platinum account?
-
-Answer: Glad you contacted about deleting your {{Account Category}} account. I understand that you may need assistance with this process, and I'm here to support you. To ensure that I provide you with the accurate information and guide you through the deletion process, could you please provide me with the following details: your account username or email address associated with the {{Account Category}} account? This will enable me to locate your account and provide you with the necessary steps to delete it.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i have paid {{Currency Symbol}}{{Refund Amount}} for na article i need to get a rebate
-
-Answer: I've decoded that you have paid ${{Refund Amount}} for an article and now you are seeking a rebate. I apologize for any inconvenience caused. To assist you with your request, could you please provide me with the order or invoice number related to your purchase? This information is essential for us to locate your transaction and process your rebate request promptly. Thank you for your cooperation, and I assure you that we will do our best to resolve this matter for you.

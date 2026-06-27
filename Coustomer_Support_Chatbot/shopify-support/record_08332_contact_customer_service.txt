@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: do uhavea toll-free number to speak to customer assistance
-
-Answer: Grateful for your contact! I get the sense that you are looking for a toll-free number to speak with our customer assistance team. We value your need for convenient communication. To ensure the best possible support, our toll-free number is {{Toll-Free Number}}. You can reach our customer assistance team at your convenience to discuss any questions or concerns you may have. We look forward to assisting you!

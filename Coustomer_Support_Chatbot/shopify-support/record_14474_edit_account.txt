@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: edit info on {{Account Category}} account
-
-Answer: We appreciate your commitment to maintaining accurate information on your {{Account Category}} account. Your dedication to personalization allows us to provide you with the best possible experience. To edit your information, please log in to your {{Account Category}} account on our website and navigate to the account settings section. From there, you will be able to update your personal details, such as your name, email address, or contact information. If you encounter any difficulties during this process, our dedicated customer support team is available to assist you. Feel free to reach out to them via our chat support or by phone. Let us know if there's anything else we can help you with.

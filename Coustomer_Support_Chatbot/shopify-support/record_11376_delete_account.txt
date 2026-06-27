@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: could uhelp me to close my freemium account
-
-Answer: We appreciate your inquiry about closing your {{Account Category}} account. We understand that you no longer wish to use this account and we're here to help you through the process. To get started with the account closure, you can follow the instructions provided on our website or contact our customer support team directly. They will guide you through the necessary steps to close your {{Account Category}} account completely. We appreciate your understanding and cooperation throughout this process.

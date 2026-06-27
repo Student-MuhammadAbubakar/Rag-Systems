@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where to see at what time I can contact customer service?
-
-Answer: Thank you for contacting! I certainly recognize that you would like to know where to see the timings of our customer service availability. To check the operating hours and the best way to contact our customer service team, please visit our website at {{Website URL}}. There, you will find the designated customer support hours, contact information, and additional ways to reach out for assistance. If you have any other questions or concerns, feel free to let me know, and I'll be happy to help!

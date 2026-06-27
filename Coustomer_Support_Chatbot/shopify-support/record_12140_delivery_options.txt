@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you edliver to {{Delivery Country}}?
-
-Answer: Positively! We have the pleasure of delivering our products to {{Delivery Country}}, showcasing the vibrancy and richness of its culture. Whether it's the bustling streets of {{Delivery Country}} City or the tranquil beauty of Cancun, our delivery services are here to bridge the distance and bring our exceptional products to your doorstep. The journey of your purchase starts with a click, and we'll take care of the rest, ensuring a smooth and delightful experience. Should you have any further questions or require additional assistance, please don't hesitate to let us know. We're here to make your delivery experience exceptional!

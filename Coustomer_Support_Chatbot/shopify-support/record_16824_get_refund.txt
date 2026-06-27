@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i paid $1499for this article help obtaining a refund
-
-Answer: I get that you're seeking assistance in obtaining a refund for the article you purchased for ${{Refund Amount}}. I apologize for any inconvenience caused, and I'm here to guide you through the process. To initiate a refund, it would be helpful if you could provide me with some additional details. Could you please share the date of purchase, the payment method used, and any relevant order or transaction numbers? With this information, I'll be able to assist you more effectively in getting your refund. Rest assured, I'm committed to resolving this matter in the most satisfactory way possible.

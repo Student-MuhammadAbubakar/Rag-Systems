@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: how can i report an trouble with payment
-
-Answer: I appreciate you reaching out to report the trouble you're facing with your payment. Rest assured, I'm here to help you navigate through this. To report a payment issue, our support team is available {{Customer Support Hours}} to assist you. You can reach them by phone at {{Customer Support Phone Number}} or by accessing the Live Chat feature on our website at {{Website URL}}. They will guide you through the process and ensure that your issue is properly documented and addressed. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

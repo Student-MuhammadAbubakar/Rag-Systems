@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: need help contacting customer service
-
-Answer: We're all ears! I'm tuned into the idea that you need assistance in contacting our customer service team. We're here to help! To get in touch with our dedicated support representatives, you can reach out to them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the live chat on our website at {{Website URL}}. They will be more than happy to assist you with any questions or concerns you may have. Remember, we are committed to providing exceptional customer service, and we appreciate your patience and understanding. How else can I assist you today?

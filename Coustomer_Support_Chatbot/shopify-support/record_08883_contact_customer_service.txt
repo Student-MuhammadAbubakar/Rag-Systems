@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to call customer suupport, could I get some help?
-
-Answer: We're here for you! I'm aware that you have a need to call our customer support team and require assistance. Our knowledgeable and dedicated team is available to provide the help you need. To ensure a seamless connection, please contact our customer support during the available {{Customer Support Hours}}. They can be reached at {{Customer Support Phone Number}}. Please don't hesitate to reach out if you have any further inquiries or concerns. How else may I be of assistance to you?

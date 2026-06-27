@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have made a mistake i wanna edit order {{Order Number}}
-
-Answer: I've become conscious that you have made a mistake and would like to edit order number {{Order Number}}. I apologize for any inconvenience caused, and I'm here to assist you with the necessary changes. Can you please provide me with the specific details of the modifications you would like to make to your order? This will help us ensure that your order is exactly as you expect it to be. Thank you for bringing this to our attention, and we'll work together to make the necessary adjustments to your order.

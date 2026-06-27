@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for an item, how could I get a bloody refund?
-
-Answer: I can tell that you're frustrated and seeking assistance on how to obtain a refund for the item you purchased for ${{Refund Amount}}. I apologize for the inconvenience caused, and I'm here to guide you through the process. To initiate the refund, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will be able to assist you with the necessary steps to request a refund. Rest assured, we value your satisfaction, and we'll do our best to resolve this matter to your utmost satisfaction.

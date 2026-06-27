@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: need to track purchase {{Order Number}}
-
-Answer: Happy to hear from you! I truly understand that you need assistance in tracking the status of your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, could you please provide me with your current location or the shipping address associated with the purchase? This will allow me to check the status and estimated delivery time of your purchase. If you have any other questions or concerns, feel free to let me know. Your satisfaction is my priority!

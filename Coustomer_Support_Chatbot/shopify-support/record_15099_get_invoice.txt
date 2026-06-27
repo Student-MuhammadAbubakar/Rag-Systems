@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: want assistance downloading the bill #12588
-
-Answer: Ah, the noble pursuit of acquiring your bill with the esteemed number {{Invoice Number}}! Fret not, for I shall guide you through the process of downloading this revered document. Allow me to offer my expert assistance, ensuring a seamless experience for your bill retrieval.

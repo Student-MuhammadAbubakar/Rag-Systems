@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i try to sap some items of order {{Order Number}}
-
-Answer: We're here for you! I'm aware that you're looking to remove some items from order number {{Order Number}}. I apologize for any inconvenience caused by the difficulties you're facing in making these changes. To ensure I provide accurate assistance, could you please let me know which specific items you'd like to remove? Your satisfaction is our priority, and I'll do my best to help you with this modification.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: i do not know what i need to do to speak to customer service
-
-Answer: We appreciate your message! It's clear to me that you're unsure about how to speak to our customer service team. To get in touch with our customer service, you can reach out to us through various channels. You can give us a call at {{Customer Support Phone Number}}, send us an email at {{Customer Support Email}}, or use the live chat feature on our website at {{Website URL}}. Our team is available to assist you and address any concerns you may have. Please don't hesitate to reach out, and we'll gladly help you out.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating  {{Refund Amount}} dollars
-
-Answer: I realized you would like to request a rebate of ${{Refund Amount}}. I apologize for any inconvenience this may have caused you. To assist you in this matter, I kindly request you to provide me with some additional details about the reason for your rebate request. This will enable me to review your case thoroughly and determine the most suitable course of action. Rest assured, I will do my utmost to ensure a swift resolution and keep you updated on the progress. Your satisfaction is of utmost importance to us, and I appreciate your patience as we work towards resolving this matter.

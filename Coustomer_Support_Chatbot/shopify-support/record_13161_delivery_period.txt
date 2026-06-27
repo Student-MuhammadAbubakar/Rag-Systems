@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how to see how soon can I expect my goddamn product?
-
-Answer: We understand your eagerness to track the estimated delivery time of your product. To provide you with the most accurate information, we kindly request you to provide us with the {{Tracking Number}} or {{Order Number}} of your purchase. With this information, we will be able to give you an update on the expected arrival date. Thank you for your patience and cooperation during this process.

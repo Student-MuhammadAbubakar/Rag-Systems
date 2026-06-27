@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: checking order {{Order Number}} status
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to check the status of your order with the order number {{Order Number}}. To provide you with accurate information about your order, could you please share your full name and email address associated with the order? We take privacy and security seriously, and we want to ensure that we are accessing the correct order details for you. Once you have provided this information, I will be able to assist you further in tracking the status of your order.

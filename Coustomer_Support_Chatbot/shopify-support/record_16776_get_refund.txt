@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I have paid {{Currency Symbol}}{{Refund Amount}} for this item, how to get my money back?
-
-Answer: I've observed that you're seeking assistance on how to obtain a refund for the item you purchased for ${{Refund Amount}}. Rest assured, I'm here to guide you through the process and ensure a swift resolution. To initiate the refund, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to provide you with detailed instructions and assist you in submitting the necessary documentation or initiating the refund process on your behalf. We understand the importance of your money and will work diligently to ensure your refund is processed efficiently.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: change details on {{Account Category}} account
-
-Answer: We are here to assist you in making any necessary changes to your {{Account Category}} account details. Your commitment to maintaining an exceptional level of service is truly commendable. To ensure the security of your account, please refrain from sharing any sensitive information here. You can either log in to our dedicated {{Online Company Portal Info}} to make the desired modifications or reach out to our customer support team for personalized assistance. How may I assist you in updating your {{Account Category}} account details today? Rest assured, we will work together to make sure your account reflects your needs and preferences accurately.

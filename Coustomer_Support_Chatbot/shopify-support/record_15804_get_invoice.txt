@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want assistance downloading my invoice #85632
-
-Answer: I'll make it happen! I completely understand your need for assistance in downloading your invoice with the number #{{Invoice Number}}. To help you with that, I recommend visiting our website and navigating to the "Billing" or "Invoices" section. There, you should be able to find the option to download your invoice. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to provide you with any additional support you may need.

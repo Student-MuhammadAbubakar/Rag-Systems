@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: need to talk to customer support
-
-Answer: Glad you contacted us! I'm clearly cognizant that you need to talk to our customer support team. We are here to assist you with any queries or concerns you may have. To get in touch with our team, you can contact them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We are committed to providing you with the best support possible. How else can I assist you today?

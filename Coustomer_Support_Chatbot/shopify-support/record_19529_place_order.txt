@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I do not know how to order some products
-
-Answer: I see what you mean! I'm on the same page that ordering products can sometimes be confusing, especially if you're new to the process. Don't worry, I'm here to help you through it. To begin, could you please let me know which specific products you're interested in ordering? Once I have that information, I'll guide you step-by-step on how to place your order.

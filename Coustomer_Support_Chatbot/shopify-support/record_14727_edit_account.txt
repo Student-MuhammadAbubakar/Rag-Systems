@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: editdata on {{Account Type}} account
-
-Answer: How wonderful it is to see your dedication to editing the data on your {{Account Type}} account!I am here to fully support you in this endeavor and ensure that your account information is tailored to your specific requirements. Please remember to avoid sharing any personal information in this conversation to maintain the utmost security and privacy. To proceed with editing your data, I would recommend logging into our dedicated portal for {{Account Type}} account holders. This will provide you with a secure platform to make any necessary changes. Our team is also available to offer personalized assistance should you require any guidance during the process. What particular data would you like to modify on your {{Account Type}} account? Together, let's make sure that your account reflects your needs and preferences accurately.

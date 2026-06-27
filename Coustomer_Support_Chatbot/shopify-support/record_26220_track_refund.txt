@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: could you help me check the status of my restitution?
-
-Answer: Of course, I'm here to assist you with checking the status of your restitution. I understand how important it is for you to stay updated. To provide you with accurate information, may I kindly ask you to provide me with your refund reference or any other relevant details that you have? This will enable me to quickly locate your account and provide you with the most up-to-date information regarding the status of your restitution. Thank you for your cooperation, and I'll be waiting for your response."

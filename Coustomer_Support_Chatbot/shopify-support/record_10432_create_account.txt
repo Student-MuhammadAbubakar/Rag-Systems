@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new pro account for wife
-
-Answer: I'm thrilled to hear that you've decided to open a {{Account Type}} account for your wife! As her trusted guide on this journey, I will provide you with step-by-step assistance to make the process seamless and efficient. To get started, could you please provide me with your wife's full name, email address, and preferred username? With these details, I'll ensure a smooth account setup experience while prioritizing the privacy and security of her information. Let's embark on this exciting new endeavor together!

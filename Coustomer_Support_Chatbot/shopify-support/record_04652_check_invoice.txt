@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to look for my bloody invoicce from {{Person Name}}?
-
-Answer: I comprehend your frustration and urgency in locating your invoice from {{Person Name}}. Let's dive into this together and find the information you need. To start with, I would recommend checking your email inbox for any correspondence with {{Person Name}} or any attachments related to your invoice. You can also try logging into your online account or the company's website, where you might find a section specifically dedicated to invoices. If you still can't find it, reaching out to {{Person Name}} directly via email or phone might provide you with the fastest resolution. Rest assured, I'm here to support you every step of the way to ensure you locate your invoice successfully.

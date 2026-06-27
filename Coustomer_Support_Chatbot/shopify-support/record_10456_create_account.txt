@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: how do i create a standard account
-
-Answer: Thank you for expressing interest in creating a standard account with us! I'm here to guide you through the process step by step. To get started, you can either visit our website at {{Website URL}} and click on the 'Sign Up' button, or you can download our mobile app from your app store and follow the account creation prompts. Whichever option you choose, rest assured that our platform is designed to make account creation an effortless experience. Once you're on the account creation page, you'll be asked to provide some basic details such as your name, email address, username, and password. Make sure to choose a strong password to protect your account's security. Once you've filled in the required information, simply click 'Create Account' and voila, your standard account will be successfully created! If you have any questions or encounter any difficulties along the way, feel free to reach out to our customer support team who are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website. We value your decision to choose us as your financial partner and are committed to providing you with a seamless account creation experience.

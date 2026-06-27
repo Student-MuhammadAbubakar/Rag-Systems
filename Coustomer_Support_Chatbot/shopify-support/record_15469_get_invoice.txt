@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where to get my bill #00108?
-
-Answer: Unquestionably! I understand your need to locate your bill with number #{{Invoice Number}}. Allow me a moment to assist you with finding the exact location where you can access it. Thank you for your patience.

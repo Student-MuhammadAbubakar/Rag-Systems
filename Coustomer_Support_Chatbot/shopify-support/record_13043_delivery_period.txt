@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I have to see how soon can I expect my package
-
-Answer: We understand your anticipation and eagerness to know when your package will arrive. In order to provide you with an accurate estimate of the delivery time, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we'll be able to track your package and give you a precise update on its expected arrival date. We appreciate your patience and cooperation in this matter.

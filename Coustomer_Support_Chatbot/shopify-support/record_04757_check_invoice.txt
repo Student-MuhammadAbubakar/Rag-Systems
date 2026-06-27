@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need help to give a quick look at the bill from {{Person Name}}
-
-Answer: I'm fully aware of your desire for a quick and convenient way to view the bill from {{Salutation}} Smith. To assist you, I recommend accessing your account portal or contacting our customer support team. By logging into your account, you can usually find a section dedicated to viewing invoices or bills. Alternatively, our customer support team can provide you with the necessary information and guide you through the process. Please let me know which option you prefer, and I'll be more than happy to help you further.

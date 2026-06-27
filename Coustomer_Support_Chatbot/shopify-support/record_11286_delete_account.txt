@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: can I close a {{Account Category}} account?
-
-Answer: Thank you for your question regarding closing a {{Account Category}} account. We understand that circumstances may change, and you may need to close your account. To assist you with this process, we will need some information from you. Please provide us with your account details, such as the account number or any other relevant information, so that we can proceed with the account closure promptly and accurately. Rest assured that we are here to support you throughout this process and ensure a seamless experience.

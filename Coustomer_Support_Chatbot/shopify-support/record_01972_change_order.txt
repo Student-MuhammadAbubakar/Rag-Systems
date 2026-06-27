@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i missed a fucking product in purchase {{Order Number}}
-
-Answer: We apologize for any inconvenience caused by the missing product in purchase number {{Order Number}}. We understand the frustration this may have caused you, and we're here to assist you. To resolve this issue, please provide us with the details of the missing product, such as the product name and any other relevant information. Our team will investigate the matter and ensure the necessary steps are taken to rectify the situation. Your satisfaction is our top priority, and we appreciate your patience and understanding while we work to resolve this for you.

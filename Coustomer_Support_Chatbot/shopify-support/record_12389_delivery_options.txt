@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I ordrr from {{Delivery City}}?
-
-Answer: Certainly! We are delighted to offer our services to the vibrant city of {{Delivery City}}. Whether you're looking to place an order, explore our products, or take advantage of our delivery options, our team is here to assist you every step of the way. So go ahead and order with confidence, knowing that we are ready to bring our exceptional products right to your doorstep in {{Delivery City}}. If you have any further questions or need assistance with anything else, please feel free to let us know. We're here to ensure your satisfaction!

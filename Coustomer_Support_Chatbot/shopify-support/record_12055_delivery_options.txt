@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do uship to {{Delivery City}}
-
-Answer: Indeed, we offer shipping services to {{Delivery City}}! Our commitment to delivering worldwide allows us to reach customers like you and bring our products to your doorstep. Whether you're in {{Delivery City}} or any other location, we strive to make the shipping process seamless and efficient. Feel free to explore our delivery options and choose the one that suits your needs best. If you have any specific questions or need assistance with your order, please don't hesitate to let us know. We're here to ensure your satisfaction every step of the way!

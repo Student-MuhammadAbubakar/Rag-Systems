@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: need to see how soon can i expect the order could uhelp me
-
-Answer: Glad you contacted regarding your order. I understand your eagerness to know when it will arrive. To provide you with the most accurate information, could you please provide me with the {{Order Number}}? With that information, I will be able to check the status of your order and provide you with an estimated delivery date. Your patience is greatly appreciated as we work to assist you further.

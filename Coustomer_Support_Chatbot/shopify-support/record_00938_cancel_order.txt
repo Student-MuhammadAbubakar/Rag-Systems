@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I can no longer pay for order {{Order Number}}
-
-Answer: I'm sensitive to the fact that you're facing difficulties in making the payment for order {{Order Number}}. I'm here to assist you in resolving this issue. To further understand the situation, could you please provide me with more details about the specific difficulties you're encountering? This will enable me to guide you through the necessary steps to resolve the payment issue and ensure a positive outcome. Thank you for your cooperation.

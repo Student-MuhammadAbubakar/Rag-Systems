@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: I can't afford order {{Order Number}}, could I cancel it?
-
-Answer: I've deduced from your message that you're currently unable to afford order {{Order Number}}, and you're seeking assistance with canceling it. I'm here to help you navigate through the cancellation process.

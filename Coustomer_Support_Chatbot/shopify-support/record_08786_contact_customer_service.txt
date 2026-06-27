@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I have to do to talk with customer support?
-
-Answer: Grateful for your contact! I get the sense that you would like to know what steps you need to take to talk with our customer support team. To connect with our customer support, you can visit our website and look for the "Contact Us" or "Support" page, where you'll find various options such as a phone number, email address, or live chat. Our dedicated team is available during {{Customer Support Hours}} to assist you with any queries or concerns you may have. Please don't hesitate to reach out to us, and we'll be more than happy to help!

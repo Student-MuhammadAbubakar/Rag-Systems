@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Refund Amount}} dollars
-
-Answer: I've ascertained that you are seeking assistance in obtaining a refund of ${{Refund Amount}}. I'm here to help guide you through the process and ensure that you receive the appropriate resolution. To begin, could you please provide me with some additional details? Specifically, could you let me know the reason for the refund request and any relevant documentation or transaction information that you may have? This information will enable me to better understand your situation and provide you with the most accurate guidance moving forward.

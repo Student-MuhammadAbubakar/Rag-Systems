@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm picking up what you're putting down, the importance of the refund of {{Currency Symbol}}{{Refund Amount}} to you. Waiting for a refund can certainly create anticipation and curiosity. Allow me to check the current status of your refund. In the meantime, I would like to know if you have ever encountered delays in receiving a refund before. Your experience and insights are valuable to us, and we want to ensure your satisfaction and trust. Rest assured, we are doing everything possible to expedite the process and keep you updated.

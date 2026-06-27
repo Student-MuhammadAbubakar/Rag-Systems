@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can i locate invoice #12588
-
-Answer: I'm on your side your desire to locate invoice number #{{Invoice Number}}. Let me assist you in finding the information you need. To locate this specific invoice, you can try accessing our online portal and navigating to the "Billing" or "Invoices" section. Once you're there, you can use the search or filter options to enter the invoice number #{{Invoice Number}} and retrieve the details. If you are unable to locate it there, please reach out to our customer support team who will be happy to further assist you in finding the invoice.

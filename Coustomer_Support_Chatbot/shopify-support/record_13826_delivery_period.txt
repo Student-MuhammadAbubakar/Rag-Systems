@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: will you show me how long it takes for the parcel to arrive?
-
-Answer: Assuredly! We understand your eagerness to track the progress of your parcel and determine its estimated arrival time. To assist you further, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can quickly provide you with the most accurate update on your delivery. We appreciate your patience and look forward to helping you with your inquiry!

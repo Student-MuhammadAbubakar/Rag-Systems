@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I order from {{Delivery City}}?
-
-Answer: Definitely! We are thrilled to announce that we offer shipping services to {{Delivery City}}, allowing you to place an order with ease. Whether you're looking to purchase an item for yourself or send a gift to someone in {{Delivery City}}, we've got you covered. Just select the items you want, follow the simple checkout process, and we'll take care of the rest. If you have any specific concerns about shipping to {{Delivery City}} or if there's anything else I can assist you with, please feel free to let me know. Your satisfaction is our top priority!

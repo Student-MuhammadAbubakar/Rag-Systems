@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can i remove a product from purchase {{Order Number}}
-
-Answer: I'm picking up what you're putting down, your need to remove a product from your purchase with the order number {{Order Number}}. Our team is here to assist you with this request. Please provide us with the details of the specific product you would like to remove, such as the name or SKU. Once we have this information, we will promptly proceed with the necessary actions to ensure your satisfaction.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I need assistance to remove my {{Account Type}} account
-
-Answer: Appreciate you reaching out to us for assistance with removing your {{Account Type}} account. We understand that sometimes it's necessary to make changes and we're here to support you through this process. To ensure that we address all of your concerns and guide you properly, could you please provide us with some more details about your account and the specific assistance you require for its removal? Your satisfaction is our priority, and we want to make sure that we provide you with the best possible support.

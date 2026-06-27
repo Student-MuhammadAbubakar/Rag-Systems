@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can i see my invoices from {{Person Name}}
-
-Answer: I grasp your desire to see your invoices from {{Salutation}} {{Client Last Name}}. To assist you better, could you please provide me with the specific date range or any other details related to the invoices you would like to access? Knowing this information will help me narrow down the search and provide you with the most accurate and efficient assistance.

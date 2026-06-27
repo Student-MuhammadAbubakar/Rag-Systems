@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I have got to cancel the bloody {{Account Category}} account, help me
-
-Answer: Thank you for your message to us regarding the cancellation of your {{Account Category}} account. I understand that you're feeling frustrated and need assistance with this process. Rest assured, I'm here to help you. To proceed with the cancellation, I'll need a few details from you, such as your account information and any specific reasons for canceling. Once I have this information, I can guide you through the necessary steps to cancel your account promptly. We appreciate your patience and look forward to resolving this for you.

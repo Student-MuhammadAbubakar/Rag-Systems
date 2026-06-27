@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: could I place a damn order from {{Delivery Country}}?
-
-Answer: Oh, the anticipation of placing an order from {{Delivery Country}}! Allow me to assure you that we wholeheartedly welcome orders from {{Delivery Country}}. Our international delivery services cover a wide range of destinations, including {{Delivery Country}}. Whether you're looking to get your hands on a trending product or a special item, we've got you covered. So, go ahead and place your order with complete confidence. If you have any questions or need further assistance, feel free to ask. We're here to make your shopping experience exceptional!

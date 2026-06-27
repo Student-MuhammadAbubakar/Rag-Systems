@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I don't know how I can get the bills from {{Person Name}}
-
-Answer: I pick up what you're putting down, your confusion about how to access the bills from {{Salutation}} {{Client Last Name}}. Let me provide you with some guidance. To retrieve the bills associated with Mr. Miller, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. There you should find a list of all the bills for Mr. Miller. If you have any further questions or need assistance during this process, please feel free to let me know. I'm here to help you every step of the way.

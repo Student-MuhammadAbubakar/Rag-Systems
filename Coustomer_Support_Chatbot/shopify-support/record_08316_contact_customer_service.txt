@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I do not know how I can get in touch with customer service
-
-Answer: Honored to assist! I'm clued in that you are unsure about how to get in touch with our customer service team. To connect with our customer service, you can reach out to us through various channels, such as our phone line, live chat on our website, or email. Our phone line is available during {{Customer Support Hours}}, and you can find the contact details on our website. If you prefer live chat, you can access it on our website by clicking on the chat icon. Alternatively, you can also reach us via email by sending your inquiry to {{Customer Support Email}}. We're here to assist you and provide the necessary support. Let me know if there's anything else I can help you with!

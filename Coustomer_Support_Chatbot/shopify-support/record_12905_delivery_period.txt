@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I call to check how sono can I expect my order
-
-Answer: We understand your eagerness to receive your order as soon as possible. To provide you with an accurate estimation of the delivery time, may I please have your {{Order Number}}? With this information, we can check the status of your order and give you a better idea of when it will arrive. Your patience is greatly appreciated, and we're here to assist you throughout the process.

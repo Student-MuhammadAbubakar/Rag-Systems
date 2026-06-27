@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help me to see at what time customer service available is
-
-Answer: I hear you! I'm following you that you would like to know the operating hours of our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. Please feel free to reach out within those hours, and we'll be happy to help you. Is there anything else I can assist you with?

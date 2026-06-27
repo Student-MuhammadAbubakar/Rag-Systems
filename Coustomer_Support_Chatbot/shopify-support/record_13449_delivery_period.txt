@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where to check how long it takes for my shipment to arrive?
-
-Answer: We understand that you are interested in knowing the estimated time for your shipment to arrive. To provide you with this information, we kindly request the {{Tracking Number}} or {{Order Number}} associated with your shipment. Once we have these details, we will be able to accurately determine the expected delivery time. Thank you for your patience and cooperation.

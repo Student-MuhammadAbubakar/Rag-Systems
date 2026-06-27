@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want to locate purchase {{Order Number}}, help me
-
-Answer: Definitely! I'm here to guide you on how to locate your purchase with the number {{Order Number}}. To find the current status of your purchase, kindly visit the '{{Online Order Interaction}}' section on our website. It will provide you with the most up-to-date information regarding your order. If you encounter any difficulties or have additional questions, feel free to ask. I'm here to ensure your seamless navigation through the process and guarantee your utmost satisfaction.

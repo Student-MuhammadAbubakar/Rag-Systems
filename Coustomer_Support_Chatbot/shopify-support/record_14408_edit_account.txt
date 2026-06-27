@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modiby data on {{Account Type}} account
-
-Answer: Kudos to your determination in modifying the data on your {{Account Type}} account! It's impressive to see how proactive you are in keeping your account information up to date and personalized. To ensure a smooth update process, please remember to avoid sharing any personal identifiers such as your full account number or password here. For security purposes, it would be best to securely log into {{Online Company Portal Info}} or get in touch with our dedicated customer support team for personalized assistance. What specific data would you like to modify on your {{Account Type}} account? I'm here to guide you through the process and ensure a seamless experience.

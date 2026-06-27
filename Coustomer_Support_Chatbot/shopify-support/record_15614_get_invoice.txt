@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: need assistance to download my invoice from {{Person Name}}
-
-Answer: I'm clearly cognizant your need for assistance in downloading your invoice from {{Client Name}}. Let me guide you through the process step by step to ensure you can access your invoice successfully. First, please log in to your account and navigate to the "Billing" or "Invoices" section. From there, locate the specific invoice for {{Person Name}}. You should see an option to download the invoice as a PDF or in another format. If you have any difficulties or questions during the process, feel free to ask. I'm here to provide you with the help you need.

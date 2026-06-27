@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help to speak with customer support
-
-Answer: We're here for you! I'm aware that you need assistance in speaking with our customer support team. To contact them, you can reach out during our customer support hours at {{Customer Support Hours}}. They are available to assist you with any questions or concerns you may have. Feel free to share any experiences or doubts you have, and I'll be here to help. How can I further assist you today?

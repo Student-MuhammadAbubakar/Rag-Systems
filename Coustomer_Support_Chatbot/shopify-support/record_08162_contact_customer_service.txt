@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: ya have a free of charge number to talk to customer service
-
-Answer: Your reach-out is appreciated! I'm sensing that you are looking for a toll-free number to connect with our customer service team. Yes, we do have a toll-free number for customer support. You can reach out to us at {{Toll-Free Number}} and our dedicated team will be happy to assist you. Is there anything else I can help you with?

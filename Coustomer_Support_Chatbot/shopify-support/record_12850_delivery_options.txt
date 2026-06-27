@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipping to {{Delivery Country}}
-
-Answer: How fascinating! The allure of shipping to the breathtaking country of {{Delivery Country}} ignites my curiosity. I'm thrilled to share that we offer shipping options to {{Delivery Country}}. From the capital city of Helsinki to the stunning landscapes of Lapland, your package will make its way to you with utmost care and efficiency. Whether you opt for our standard shipping or wish to expedite the process, we are here to cater to your needs. Should you have any specific requirements or questions during the shipping process, please do not hesitate to reach out. Your satisfaction is our top priority in this exciting journey to {{Delivery Country}}!

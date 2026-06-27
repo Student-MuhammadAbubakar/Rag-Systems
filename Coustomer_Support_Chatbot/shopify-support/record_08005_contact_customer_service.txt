@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can i call customer assistance
-
-Answer: Thank you for reaching out! I completely understand that you're wondering if it's possible to call our customer assistance. Our customer support team can be reached at {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}} and will be more than happy to assist you. If you have any other questions or concerns, feel free to let me know.

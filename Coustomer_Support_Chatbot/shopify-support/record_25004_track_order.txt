@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: what is order {{Order Number}} status
-
-Answer: Thank you for reaching out! I'm here to assist you in retrieving the status of the order with the number {{Order Number}}. To provide you with the most accurate information, let me quickly check the system. Please bear with me for a moment while I do that.

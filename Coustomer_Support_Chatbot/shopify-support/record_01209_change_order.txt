@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: switch a product of order {{Order Number}}
-
-Answer: I get it your request to switch a product in your order with number {{Order Number}}. Our team is dedicated to providing you with the best shopping experience, and we are here to assist you with this process. Kindly provide us with the specific details of the product you would like to switch, including the product name, SKU, or any other relevant information. Additionally, please let us know which product you would like to replace it with. This information will help us initiate the necessary actions to fulfill your request accurately and promptly.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: need to download the bills from {{Person Name}}
-
-Answer: I'm on it! I completely understand your need to download the bills from {{Salutation}} {{Client Last Name}}. Just give me a moment to retrieve the invoices for you. I'll make sure you have easy access to them. If you have any other questions or need further assistance, feel free to ask. I'm here to help you every step of the way.

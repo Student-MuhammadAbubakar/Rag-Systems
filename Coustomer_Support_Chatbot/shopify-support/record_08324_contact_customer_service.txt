@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to talk to customer service, I need assistance
-
-Answer: I see what you mean! I'm on the same page that you need to speak to our customer service team and require assistance. Rest assured, we are here to help. Our customer service representatives are available during {{Customer Support Hours}} to address all your concerns and provide the support you need. Is there anything specific you would like to discuss or any particular issue you need assistance with? Let me know, and I'll be happy to assist you further.

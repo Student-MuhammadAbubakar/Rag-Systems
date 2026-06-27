@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: send me bill from {{Person Name}}
-
-Answer: Absolutely! I understand your request to receive the bill from {{Salutation}} {{Client Last Name}}. We can definitely assist you with that. Please provide us with the email address where you would like us to send the bill, and we will promptly send it to you. If you have any other questions or need further assistance, feel free to let me know. We're here to help you!

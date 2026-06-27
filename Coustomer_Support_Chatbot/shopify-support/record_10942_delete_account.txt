@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: need to remove the platinum account
-
-Answer: Thanks for dropping us a line about your {{Account Category}} account. It seems that you would like to remove or cancel your {{Account Category}} account. I understand that this is an important decision for you, and I'm here to assist you. To proceed with the cancellation of your {{Account Category}} account, I kindly request you to provide some specific details about your account, such as your account number or any other verification information that will help me assist you further. Once I have the necessary details, I will be able to guide you through the process and ensure that your {{Account Category}} account is successfully removed.

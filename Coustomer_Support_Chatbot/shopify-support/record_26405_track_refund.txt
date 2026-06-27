@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want to see the damn status of my reimbursement, help me
-
-Answer: I completely understand your frustration and urgency in wanting to check the status of your reimbursement. Rest assured, I'm here to assist you in getting the information you need. Could you please provide me with your {{Reimbursement ID}} or any other relevant details? This will help me look into the status of your reimbursement and provide you with an update. Your satisfaction is important to us, and we're committed to resolving this matter as quickly as possible.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how can i contact a operator
-
-Answer: Glad you contacted us! I'm clearly cognizant that you're looking for information on how to contact an operator. I'm here to assist you with that. To contact an operator, you can reach out to our customer service helpline at {{Customer Support Phone Number}}. They will be more than happy to assist you further. Alternatively, you can also visit our website at {{Website URL}} and initiate a live chat session with one of our operators. They will be ready to help you in no time. Remember, we are here 24/7 to provide you with the support you need.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I have lost the bill #37777, will you send it to me?
-
-Answer: Ah, the unfortunate plight of losing the esteemed bill with the revered number {{Invoice Number}}!I am here to assist you in resolving this predicament. Regrettably, I am unable to send the bill directly to you. However, I can guide you through the process of retrieving and accessing the bill. Shall we embark on this quest together?

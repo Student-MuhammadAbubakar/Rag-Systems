@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I can see that you are seeking a refund of ${{Refund Amount}}. To assist you further, could you please provide more details about the product or service you purchased, the reason for the refund request, and any relevant order or transaction numbers? This information will enable me to guide you through the refund process accurately and efficiently, ensuring that you receive the assistance you need. Your satisfaction is our top priority, and I appreciate your patience and cooperation in providing the necessary information.

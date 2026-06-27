@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can i place an order from {{Delivery Country}}
-
-Answer: How delightful to have you join us all the way from {{Delivery Country}}! Rest assured, we happily accept orders from {{Delivery Country}} and offer worldwide shipping to make your shopping experience seamless. Our delivery options extend to your country, ensuring your package arrives safely and in a timely manner. Simply add your desired items to the cart, proceed to checkout, and enter your shipping information, including the address in {{Delivery Country}}. If you have any specific concerns or questions about the process, feel free to ask. We are here to guide you every step of the way. Happy shopping!

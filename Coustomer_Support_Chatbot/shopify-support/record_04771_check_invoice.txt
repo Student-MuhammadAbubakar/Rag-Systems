@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: seeing bills from {{Person Name}}
-
-Answer: Absolutely! I completely understand your need to view your bills connected to {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process. To access your bills, please log in to your account on our website and navigate to the "Billing" section. From there, you should be able to view and download all the bills associated with your account. If you encounter any difficulties or have any additional questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

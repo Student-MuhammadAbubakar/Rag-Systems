@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how can I add an article to purchase {{Order Number}}?
-
-Answer: I can tell that you'd like to add an article to purchase number {{Order Number}}. We're here to help! To assist you effectively, could you please provide me with the details of the article you would like to add? This information will allow us to ensure a seamless and satisfactory experience for you. Thank you for your cooperation!

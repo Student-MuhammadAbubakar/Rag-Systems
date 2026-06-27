@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check invoice from eight purchases ago
-
-Answer: I've been informed that you need assistance with checking the invoice from the purchase made eight purchases ago. To help you with this, I would need some more information such as the purchase date or any other specific details related to the purchase. With those details, I'll be able to locate the invoice and provide you with the necessary information. Don't worry, I'm here to guide you every step of the way and ensure that you have a smooth experience.

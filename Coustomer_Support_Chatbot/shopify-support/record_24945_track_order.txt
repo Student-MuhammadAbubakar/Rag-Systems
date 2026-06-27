@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i want assistance seeing order {{Order Number}} status
-
-Answer: Your message means a lot! I'm aligned with the idea that you need support in checking the status of your order with the order number {{Order Number}}. Our team is here to help you with that. To provide accurate information about your order status, we kindly request you to share your order details such as the date of purchase or any other relevant information. This will enable us to assist you more effectively. Please feel free to provide the necessary details, and we will guide you through the process. Alternatively, you can also visit the '{{Online Order Interaction}}' section on our website for real-time updates on your order. We want to ensure a seamless experience for you, so if you have any other questions or concerns, please let us know.

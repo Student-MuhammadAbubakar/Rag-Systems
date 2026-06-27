@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an order from {{Delivery Country}}?
-
-Answer: Assuredly! We are thrilled to offer our services for customers in {{Delivery Country}} as well. You can absolutely place an order from {{Delivery Country}} on our platform. Just browse through our wide range of products, select the items you desire, and proceed to the checkout. During the checkout process, you will be able to enter your shipping address in {{Delivery Country}}, ensuring a seamless delivery experience right to your doorstep. If you need any further assistance or have any specific concerns, feel free to let me know. We are here to assist you throughout your order placement process.

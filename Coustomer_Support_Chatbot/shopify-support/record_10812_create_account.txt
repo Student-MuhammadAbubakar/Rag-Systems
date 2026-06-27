@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can I open a {{Account Type}} account?
-
-Answer: Thank you for considering opening a {{Account Type}} account with us! 🌟 I'm excited to provide you with all the information you need. Yes, absolutely, you can open a {{Account Type}} account with us. Our {{Account Type}} account offers a range of advanced features and benefits tailored to meet your specific needs and requirements. To get started, I would recommend visiting our website where you'll find detailed information about the {{Account Type}} account and the steps to open one. If you have any questions or need assistance throughout the process, please don't hesitate to reach out. We're here to ensure a seamless experience for you. Let me know how I can assist you further!

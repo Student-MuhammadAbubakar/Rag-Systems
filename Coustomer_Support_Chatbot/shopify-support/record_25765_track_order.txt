@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i have to check the ETA of order {{Order Number}} ohw do i do it
-
-Answer: I hear you! I'm following you that you need to check the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To assist you with that, I recommend visiting the '{{Order Status}}' section on our website. There, you'll find the most up-to-date information regarding the ETA of your order. Should you encounter any difficulties or have any additional questions, feel free to let me know. I'm here to guide you every step of the way!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I have to locate my damn bills from {{Person Name}}
-
-Answer: I understand your urgency in locating your bills associated with {{Salutation}} {{Client Last Name}}. Rest assured, I will do my utmost to assist you. To proceed, could you please provide me with {{additional details}}, such as the {{month}}, {{year}}, or any other relevant information about the bills you are searching for? This will enable me to narrow down the search and help you find the necessary details more efficiently. Thank you for your cooperation!

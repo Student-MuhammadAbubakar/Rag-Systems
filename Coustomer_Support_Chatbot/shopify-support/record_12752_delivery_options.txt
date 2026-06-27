@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an ordewr from {{Delivery Country}}?
-
-Answer: Sure! I'm delighted to inform you that we offer shipping services to {{Delivery Country}}. Whether you're in Budapest, Debrecen, or any other city, we've got you covered. Simply place your order as usual, and our dedicated team will ensure a seamless delivery experience. Should you have any specific questions or need assistance with your order, please don't hesitate to let us know. We're here to make your shopping experience effortless and enjoyable. Happy shopping from {{Delivery Country}}!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help me see my bills from {{Person Name}}
-
-Answer: I'm on it! I'm here to assist you in accessing your bills from {{Salutation}} {{Client Last Name}}. To view your bills, you can log into your account on our website and navigate to the "Billing" or "Account" section. If you encounter any difficulties, please feel free to ask for further guidance.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i have lost my bill from {{Person Name}} find it for me
-
-Answer: I understand the urgency and frustration of losing your bill from {{Person Name}}. Don't worry, I'll do my best to assist you in finding it. To start, could you please provide me with some additional details such as the date range, invoice number, or any other relevant information that could help narrow down the search? With these details, I'll be able to locate your bill more effectively and get you the information you need.

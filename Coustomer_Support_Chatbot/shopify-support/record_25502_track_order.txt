@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I can't locate purchase {{Order Number}}
-
-Answer: We're here to help! I take note that you are having trouble locating your purchase with the purchase number {{Order Number}}. I apologize for the inconvenience caused. To assist you further, could you please provide me with some additional details such as the date of purchase or any other relevant information? This will enable me to investigate the issue and help you find the status of your purchase. I'm here to ensure a seamless experience for you, so please feel free to share any other concerns or questions you may have.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a reimbursement of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'll get right on it! I understand how important it is to receive your reimbursement of {{Currency Symbol}}{{Refund Amount}}. Let me promptly check the current status of your reimbursement for you. While I do that, may I ask if you have previously received a reimbursement from our company? Your experience and insights would be valuable in ensuring we meet your expectations. Rest assured, I am committed to resolving this matter for you as quickly as possible. Thank you for your patience.

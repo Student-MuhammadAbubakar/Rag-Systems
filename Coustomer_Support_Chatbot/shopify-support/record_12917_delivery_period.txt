@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i try to check how long itg takes for the shipment to arrive
-
-Answer: I appreciate your inquiry about tracking the expected delivery time for your shipment. To provide you with the most accurate information, could you please provide me with the {{Tracking Number}} or {{Order Number}} associated with your shipment? With that information, I'll be able to give you an estimate of when you can expect your shipment to arrive. Your patience is greatly appreciated.

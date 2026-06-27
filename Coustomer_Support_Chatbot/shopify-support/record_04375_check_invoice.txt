@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: look for bill #00108
-
-Answer: Of course! I understand your request to locate the bill with the number #{{Invoice Number}}. Allow me to assist you with that. Could you please provide me with a bit more information, such as the date range or any specific details related to this bill? This will help me narrow down the search and provide you with the most accurate results.

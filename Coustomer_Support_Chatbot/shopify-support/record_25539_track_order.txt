@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i want help checking purchase {{Order Number}} status
-
-Answer: Thank you for reaching out! I'm here to provide you with assistance in checking the status of your purchase with the purchase number {{Order Number}}. To do so, you can visit the '{{Order Status}}' section on our website. This will provide you with the most up-to-date information on the status and estimated time of arrival (ETA) of your purchase. If you have any other questions or need further guidance, please feel free to let me know. I'm here to help make your experience seamless and enjoyable!

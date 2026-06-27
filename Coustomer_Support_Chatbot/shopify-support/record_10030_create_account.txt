@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I am not registered, can you help me create a {{Account Type}} account?
-
-Answer: I am thrilled to assist you in creating a {{Account Type}} account! Registering for a {{Account Type}} account is a straightforward process that I'll guide you through step by step. To get started, I'll need some essential information from you. Could you please provide me with your full name, email address, and a preferred username? Rest assured that your personal information remains confidential and secure with us. Once I have these details, I'll help you complete the registration process swiftly, making sure you have all the necessary information at each stage.

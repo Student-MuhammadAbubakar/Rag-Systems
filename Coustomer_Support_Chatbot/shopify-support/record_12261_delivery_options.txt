@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: hsipping to {{Delivery Country}}
-
-Answer: You've come to the right place! We're ready to ship your packages to {{Delivery Country}} with care and efficiency. Whether you're in Toronto, Montreal, Vancouver, or any other city across the great expanse of {{Delivery Country}}, we've got you covered. Our delivery options are designed to suit your needs and preferences, ensuring that your shipments arrive safely and on time. From standard shipping to expedited options, we offer a range of choices to accommodate your requirements. So go ahead and place your order with confidence, knowing that we'll take care of the rest. If you have any specific concerns or questions related to shipping to {{Delivery Country}}, feel free to let me know. I'm here to assist you every step of the way!

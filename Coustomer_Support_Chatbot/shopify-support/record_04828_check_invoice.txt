@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check bills from {{Person Name}}
-
-Answer: Glad you got in touch to us for assistance with checking your bills from {{Client First Name}} {{Client Last Name}}. I understand how important it is for you to stay updated on your financial matters. To help you with this, could you please provide me with some additional details such as the date range you would like to analyze or any specific bill numbers? This information will allow me to provide you with a more accurate and personalized response. Rest assured, I'm here to guide you through the process and ensure a smooth experience.

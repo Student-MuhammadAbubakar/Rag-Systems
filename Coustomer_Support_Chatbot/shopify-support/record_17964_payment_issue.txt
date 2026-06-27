@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: how can I inform of an issue with payment?
-
-Answer: If you're experiencing an issue with your payment, don't worry, we're here to help. To inform us about the problem, you can reach out to our dedicated customer support team via our helpline at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that your issue is properly documented and resolved. We understand the importance of addressing payment issues promptly, and we appreciate your proactive approach in bringing it to our attention. We're committed to providing you with the necessary support and assistance every step of the way. Thank you for reaching out to us.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: i dont know how to check when my product is gonna arrive
-
-Answer: We understand that you're unsure about how to track the arrival of your product. Allow us to guide you through the process so you can stay informed. To begin, may I kindly ask for your {{Tracking Number}} or {{Order Number}}? This information will enable us to provide you with accurate details on the estimated delivery time of your product. We are here to assist you every step of the way!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: changing info on pro account
-
-Answer: We appreciate your dedication to maintaining accurate and up-to-date information on your {{Account Type}} account. Rest assured, we're here to assist you with making the necessary changes. Could you please provide more details about the specific information you would like to update? This will help us guide you through the process more efficiently.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: is it possible to swap an item of purchase {{Order Number}}?
-
-Answer: Thank you for trusting to us regarding the possibility of swapping an item from purchase number {{Order Number}}. We understand the importance of making any necessary adjustments to your order. To proceed with a swap, please provide us with the details of the item you would like to replace and the item you would like to swap it with. Our customer service team will be more than happy to assist you with this request and ensure that you have a satisfactory shopping experience.

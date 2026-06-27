@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I'd like to soeak with customer assistance could uhelp me
-
-Answer: Absolutely! I'm here to guide you. To speak with our dedicated customer assistance team, you have several options. You can reach out to us via phone at {{Customer Support Phone Number}} during our customer support hours, which are from {{Customer Support Hours}}. You can also chat with us live on our website at {{Website URL}}. Alternatively, you can send us an email at {{Customer Support Email}}. Please let me know if there's anything else I can assist you with.

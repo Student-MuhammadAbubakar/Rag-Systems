@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: can i get invoice #12588
-
-Answer: Oh, the exhilarating quest to retrieve the esteemed invoice {{Invoice Number}}!I'm thrilled to be your guide on this journey. Give me a moment, and I'll swiftly retrieve the invoice for you. By the way, if you have any other inquiries or need assistance with additional tasks, don't hesitate to let me know. I'm here to ensure your satisfaction and make this experience delightful for you!

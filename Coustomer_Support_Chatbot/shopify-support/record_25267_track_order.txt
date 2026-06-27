@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: track order {{Order Number}}
-
-Answer: Thank you for reaching out! I see that you would like to track your order with the order number {{Order Number}}. To provide you with the most accurate information regarding the status of your order, I kindly ask you to visit our website and navigate to the '{{Online Order Interaction}}' section. There, you will be able to track your order and get real-time updates on its progress. If you need any further assistance or have any other questions, feel free to let me know. Your satisfaction is my top priority!

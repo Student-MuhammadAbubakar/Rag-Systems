@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i cannot create a {{Account Category}}  account
-
-Answer: I'm sorry to hear that you're having trouble creating a {{Account Category}} account. Don't worry, I'm here to assist you and ensure that we resolve this issue together. Could you please provide me with some more details about the problem you're encountering? This will help me better understand the issue and guide you towards a solution.

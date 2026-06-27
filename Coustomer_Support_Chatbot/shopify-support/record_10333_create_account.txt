@@ -1,8 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new bloody {{Account Type}} cacount
-
-Answer: Thank you for expressing interest in creating a new account with us. I want to make sure I understand your request correctly. Are you looking to open a {{Account Type}} account with us? Please provide me with your full name, email address, and a username you would like to use. 
-
-Please note that while we offer {{Account Type}} accounts, we have different account types available, such as bronze, silver, and gold, which provide additional features and benefits. If you have any specific requirements or preferences in mind, please let me know, and I'll be more than happy to assist you in finding the most suitable account option.

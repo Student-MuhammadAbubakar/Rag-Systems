@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where to inform of problems with online payments ?
-
-Answer: To inform us about any problems you encounter with online payments, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}}, or you can chat with them through the Live Chat option on our website at {{Website URL}}. They will be more than happy to assist you and address any concerns you may have regarding your online payment experience. By sharing the specific details of the problem you encountered, you allow us to identify and resolve any issues promptly, thus improving our system and ensuring a seamless payment experience for you and others. Your feedback plays a vital role in enhancing our services, and we appreciate your assistance in making our platform better.

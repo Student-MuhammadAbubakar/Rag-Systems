@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not know how to close a {{Account Category}} account
-
-Answer: I've realized that you're unsure about how to close your {{Account Category}} account, and I'm here to guide you through the process. Closing an account can sometimes be confusing, but I'll make sure to provide you with clear instructions and assistance every step of the way. To begin, could you please confirm if you are referring to a {{Account Category}} account on our website or a {{Account Category}} subscription with a specific service? Once I have more information, I'll be able to provide you with the specific instructions tailored to your situation.

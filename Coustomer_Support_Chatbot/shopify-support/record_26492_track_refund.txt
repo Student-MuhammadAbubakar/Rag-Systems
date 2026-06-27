@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I need to check my goddamn restitution status
-
-Answer: I'm following your urgency to check the status of your restitution. Rest assured, I'm here to assist you. Could you please provide me with your {{Order/Transaction ID}} or any relevant details so that I can quickly look into this matter for you? Thank you for your patience and cooperation.

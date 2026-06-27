@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I have to order a bloody product, how can I do it?
-
-Answer: Thank you for expressing your intention to order a product from us. I understand that you're eager to proceed with the purchase, and I'm here to assist you every step of the way. To place an order for the specific product you're interested in, please visit our website and navigate to the product page. Once you're on the product page, you can select the desired quantity, add it to your cart, and proceed to the checkout process. If you encounter any difficulties during the ordering process, please feel free to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. They will be more than happy to guide you through the entire process and ensure a smooth and satisfactory purchase experience.

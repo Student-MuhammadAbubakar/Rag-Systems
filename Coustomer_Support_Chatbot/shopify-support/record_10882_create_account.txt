@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open a {{Account Category}} account
-
-Answer: That's fantastic! Congratulations on choosing to open a {{Account Category}} account. This will unlock a range of exclusive features and benefits designed to enhance your banking experience. To get started, I'll need a few details from you. Please provide your full name, email address, and a preferred username. Once I have this information, I'll guide you through the process step-by-step, ensuring that you have all the necessary information and support along the way. Rest assured, your privacy and security are of utmost importance to us, and we will handle your information with the highest level of care and confidentiality. So, let's begin this exciting journey together!

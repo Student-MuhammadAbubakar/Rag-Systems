@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I have got to see my compensation current status
-
-Answer: I comprehend your need to stay informed about the current status of your compensation. We recognize the importance of timely updates. Allow me a moment to check the status of your compensation for you. While I gather the necessary information, could you please confirm the {{Reference Number}} associated with your compensation? Thank you for your patience, and we'll provide you with an update as soon as possible.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can oyu tell me about the shipping period?
-
-Answer: We understand your need for information about the shipping period. To provide you with accurate details, kindly provide us with the {{Order Number}} or {{Tracking Number}} of your shipment. By having this information, we can check the status of your order and provide you with an estimated delivery date. Thank you for your cooperation in advance!

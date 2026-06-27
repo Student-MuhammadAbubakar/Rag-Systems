@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how casn i check at what time i can contact customer support
-
-Answer: Thank you for trusting us! I'm fully aware of you would like to know the available contact hours for our customer support team. You can find the contact hours on our website at {{Website URL}}. Simply navigate to the customer support section, and you will find the hours of operation listed there. If you have any other questions or concerns, feel free to let me know, and I'll be happy to assist you further.

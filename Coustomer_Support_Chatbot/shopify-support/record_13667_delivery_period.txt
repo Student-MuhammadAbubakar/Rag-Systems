@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: where doi check how soon can i expect my article
-
-Answer: We completely understand your curiosity and eagerness to know when your article will arrive. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your article? With that information, we will be able to give you an estimated delivery date and keep you updated on its progress. Your patience is greatly appreciated, and we'll do our best to assist you promptly.

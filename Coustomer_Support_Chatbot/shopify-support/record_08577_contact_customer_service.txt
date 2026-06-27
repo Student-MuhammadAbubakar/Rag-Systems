@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: customer service e-mail
-
-Answer: Thank you for your inquiry! To reach our customer service team via email, please send your message to {{Customer Support Email}}. Our dedicated team is committed to addressing your concerns and providing prompt assistance. If you have any other questions or need further support, please don't hesitate to let me know.

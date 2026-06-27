@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can uhelp me changing some items of order {{Order Number}}
-
-Answer: Your input is valuable! I'm picking up that you would like to make changes to the items in order number {{Order Number}}. I'm here to assist you with that. To ensure I provide you accurate and prompt assistance, could you please provide me with the specific items you would like to modify? Your feedback and queries help us improve our services and ensure your satisfaction.

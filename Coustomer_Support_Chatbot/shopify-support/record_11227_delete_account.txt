@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want assistance deleting a {{Account Category}} account
-
-Answer: Thank you for reaching out to us for assistance with deleting your {{Account Category}} account. I understand that this is an important decision for you, and I'm here to support you through the process. To proceed with deleting your {{Account Category}} account, I will need some specific information from you. Could you please provide me with your account details, such as your account username or email address? Once I have the necessary information, I will be able to guide you through the account deletion process step by step.

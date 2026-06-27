@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: problem with {{Account Category}} account removals
-
-Answer: We're here for you to us regarding the removal of your {{Account Category}} account. I apologize for any difficulties you may be experiencing. It's important to us that we address your concerns and assist you with the account removal process. Could you please provide more details about the specific problem you are encountering? This will help us provide you with the most accurate and effective solution. We appreciate your patience and understanding as we work together to resolve this issue.

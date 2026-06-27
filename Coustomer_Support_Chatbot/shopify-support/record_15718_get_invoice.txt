@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: getting invoice #37777
-
-Answer: Definitely! I completely understand your need to access invoice #{{Invoice Number}}. Let me swiftly retrieve that for you. While I'm at it, is there anything else I can assist you with? I'm here to provide any additional support you may need.

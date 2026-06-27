@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: how can i contact a live agent
-
-Answer: We appreciate your message! It's clear to me that you would like to know how to contact a live agent. To connect with one of our knowledgeable representatives, you have a few options. You can reach out to our customer support team through the Live Chat feature on our website at {{Website URL}}. Alternatively, you can call our customer support hotline at {{Customer Support Phone Number}}. Our agents are available {{Customer Support Hours}} to assist you. Just let us know which method you prefer, and we'll be ready to provide you with the support you need.

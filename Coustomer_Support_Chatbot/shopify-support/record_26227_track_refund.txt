@@ -1,8 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: how could i see the status of my refund
-
-Answer: I certainly recognize your need to check the status of your refund. Let me guide you through the process. To see the status of your refund, you can visit our website and log into your account. Once you're logged in, navigate to the "My Orders" or "Order History" section. Look for the specific order for which you are expecting a refund and click on it. You should find the current status of your refund displayed there.
-
-If you don't see the refund status or have any further questions, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you with any concerns or inquiries regarding your refund. Thank you for your patience and understanding.

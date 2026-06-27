@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need help lpocating the bloody invoice from {{Person Name}}
-
-Answer: We're here to help to us for assistance in locating the invoice from {{Salutation}} {{Client Last Name}}. I understand the frustration and urgency in finding this invoice, and I'm here to support you every step of the way. To assist you more effectively, could you please provide me with any additional details such as the date range, invoice number, or any specific information related to the invoice? This will help us narrow down the search and locate the invoice you're looking for. Rest assured, we're committed to resolving this issue and ensuring your satisfaction.

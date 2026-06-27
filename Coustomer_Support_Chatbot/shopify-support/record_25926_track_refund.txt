@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a restitution of {{Currency Symbol}}{{Refund Amount}}, was it processed
-
-Answer: I understand how crucial it is for you to know the status of your expected restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured, I will do my best to assist you with this. Let me quickly check the current processing status of your refund. While I gather the relevant information for you, could you please confirm your email address associated with the refund? Thank you for your patience and cooperation.

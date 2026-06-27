@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i need information about correcting purchase {{Order Number}}
-
-Answer: I'm glad you contacted us to us for information about correcting your purchase with order number {{Order Number}}. We completely understand the importance of getting accurate and up-to-date information regarding your purchase. To ensure that we provide you with the correct information, could you please specify what kind of correction you would like to make? Whether it's updating the shipping address, changing the quantity of an item, or any other modification, we are here to assist you. Your satisfaction is our priority, and we will do our best to resolve any issues you may have with your purchase.

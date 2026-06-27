@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to talk with customer service, how can I do it?
-
-Answer: Thanks for getting in touch! I grasp that you need to speak with our customer service team. We have several convenient options available to assist you. You can reach us by phone at {{Customer Support Phone Number}}, by email at {{Customer Support Email}}, or through the Live Chat feature on our website at {{Website URL}}. Our customer service representatives are available during {{Customer Support Hours}} to address any questions or concerns you may have. Please let me know if there's anything else I can assist you with.

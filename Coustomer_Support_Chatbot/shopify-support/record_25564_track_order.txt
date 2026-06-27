@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: when will I receive ordered {{Order Number}} ?
-
-Answer: Thank you for getting in touch! I understand that you are eager to know when you will receive your order with the order number {{Order Number}}. I can definitely assist you with that. To provide you with an accurate update on the estimated delivery date, I kindly request you to provide me with your shipping address or any other relevant information related to the order. This will allow me to check the current status of your order and provide you with the most up-to-date information. Your satisfaction is my priority, and I'm here to ensure you have a smooth and informed experience.

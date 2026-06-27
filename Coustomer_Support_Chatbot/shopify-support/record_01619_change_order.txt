@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: what do I need to do to edit order {{Order Number}}?
-
-Answer: We're here to help to us regarding your order number {{Order Number}}. To edit your order, we recommend contacting our customer support team directly. They will be able to assist you further and guide you through the process of modifying your order. You can reach our customer support team through our website or by calling our customer support helpline at {{Customer Support Phone Number}}. Don't hesitate to reach out if you have any other questions or concerns. We're here to help!

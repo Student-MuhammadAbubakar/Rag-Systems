@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: help me cancelling the {{Account Type}} account
-
-Answer: Appreciate your message to us regarding the cancellation of your {{Account Type}} account. I understand that you need assistance with canceling your subscription and I'm here to help you with that. To proceed with the cancellation, I kindly ask you to provide me with some specific details about your account, such as your account username or email address. With this information, I will be able to locate your account and guide you through the cancellation process. Your satisfaction is our priority, and we want to ensure a hassle-free experience for you. Please take a moment to provide the necessary details so that we can promptly assist you with canceling your {{Account Type}} account.

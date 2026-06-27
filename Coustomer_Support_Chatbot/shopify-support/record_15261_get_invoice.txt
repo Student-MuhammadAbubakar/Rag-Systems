@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i do not know what i have to do to get my bill #12588
-
-Answer: Be relieved! Your uncertainty regarding the process to obtain your esteemed bill with the sacred number {{Invoice Number}} shall be vanquished. Allow me to guide you through the necessary steps to successfully retrieve this cherished document.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: canceling {{Account Category}} account
-
-Answer: I'm glad you contacted us about canceling your {{Account Category}} account. We understand that you may have made this decision for various reasons, and we want to ensure that you receive the assistance you need. To initiate the cancellation process, please provide us with the following information: your account username or email address associated with the {{Account Category}} account. Once we have the necessary details, we will proceed with canceling your account and confirming the cancellation via email. Rest assured, we are here to support you throughout this process and address any other questions or concerns you may have.

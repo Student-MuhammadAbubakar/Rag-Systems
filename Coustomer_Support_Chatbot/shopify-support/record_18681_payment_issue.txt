@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: what do i need to do to report an issue with online payment
-
-Answer: I can sense that you're experiencing difficulties with your online payment, and I'm here to assist you in reporting the issue. To ensure a prompt and accurate resolution, I recommend reaching out to our dedicated customer support team. They have the expertise to address your specific concerns and guide you through the reporting process. You can contact them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. When reporting the issue, please provide all relevant details such as the transaction date and time, the payment method used, and any error messages you received. By reporting the issue as soon as possible and providing comprehensive information, we'll be able to investigate and resolve the problem swiftly. Thank you for your cooperation in assisting us in resolving this matter for you.

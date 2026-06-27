@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: what do I have to do to delete a {{Account Type}} account?
-
-Answer: Thank you for reaching out about deleting your {{Account Type}} account. I understand that you would like to end your subscription, and I'm here to guide you through the process. To delete your {{Account Type}} account, you'll need to follow a few simple steps. First, log in to your account on our website. Then, navigate to the account settings or profile section. Look for the option to manage or delete your account. Click on that option and follow the prompts to confirm the deletion. If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We value your time with us and are committed to providing you with the necessary assistance to ensure a smooth account deletion process.

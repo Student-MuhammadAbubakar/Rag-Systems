@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: where to check the invoice from three last purchases?
-
-Answer: I understand your need to locate the invoices from your three most recent purchases. To check these invoices, you can visit your account dashboard on our website or log in to our mobile app. Look for the "Purchase History" or "Invoices" section, where you should find a list of your past purchases and associated invoices. If you are unable to locate the invoices or have any trouble accessing them, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to assist you throughout the process and ensure you have all the information you need.

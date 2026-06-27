@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for these items, where can I receive a refund?
-
-Answer: I've taken note that you paid ${{Refund Amount}} for these items and are now seeking a refund. I apologize for any inconvenience this may have caused and I'll be happy to assist you in resolving this matter. In order to process your refund, I suggest reaching out to our customer support team at {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. They will be able to guide you through the refund process and provide you with the necessary steps to receive your money back. Rest assured, we value your satisfaction and will do everything we can to ensure a smooth and timely refund.

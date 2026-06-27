@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: how to check if there are any news on my rebate?
-
-Answer: I pick up what you're putting down, your eagerness to stay updated on the progress of your rebate. We want to ensure that you're well-informed every step of the way. To check for any updates on your rebate, you can visit our website and log in to your account. Once you're logged in, navigate to the "My Account" section, where you should find a dedicated tab for "Rebate Status." Clicking on it will provide you with the most recent information regarding your rebate. Should you face any difficulties or if you require further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We appreciate your patience and understanding throughout this process.

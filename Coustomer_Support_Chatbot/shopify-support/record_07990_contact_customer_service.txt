@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: tell me what hours I can get in touch with customer support
-
-Answer: It's great to hear from you! I can see that you would like to know the hours during which you can get in touch with our customer support. Our dedicated team is available to assist you during the following hours: {{Customer Support Hours}}. Feel free to reach out to us within these hours, and we'll be glad to help you with any questions or concerns you may have.

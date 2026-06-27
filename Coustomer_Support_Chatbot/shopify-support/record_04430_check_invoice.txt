@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i dont know what i have to do to look for my invoicr #37777
-
-Answer: I can see that you're unsure about the steps to take in order to locate your invoice with number #{{Invoice Number}}. Don't worry, I'm here to help! To find your invoice, you can start by logging into your account on our website. Once logged in, navigate to the "Billing" or "Invoices" section, where you should be able to search for or filter invoices by invoice number. If you still can't locate your invoice, you can reach out to our customer support team who will be more than happy to assist you further. Remember, we're here to make your invoice search as easy and efficient as possible!

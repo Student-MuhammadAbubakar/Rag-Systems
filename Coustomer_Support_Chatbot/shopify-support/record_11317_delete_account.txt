@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: question about the cancellation of my standard account
-
-Answer: Glad you contacted about the cancellation of your {{Account Type}} account. I understand that you have some questions regarding this process. Please let me know the specific details or concerns you have, and I'll be more than happy to assist you further. Remember, there's no such thing as a wrong question, and your satisfaction is our top priority.

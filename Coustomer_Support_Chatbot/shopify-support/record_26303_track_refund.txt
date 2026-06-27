@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for a restitution oof {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Firstly, I completely understand your eagerness to receive the expected restitution of {{Currency Symbol}}{{Refund Amount}}. We value your patience and trust in our service. Let me quickly check the current status of your refund for you. While I do that, could you please confirm the email address associated with your account? This information will help me locate the refund request and provide you with accurate information. Thank you for your cooperation and rest assured, I'm here to assist you every step of the way.

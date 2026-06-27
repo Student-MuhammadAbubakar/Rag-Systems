@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create pro account
-
-Answer: That's great! I'm thrilled to assist you in creating a {{Account Type}} account with us. To begin, can you please provide your full name, email address, and a username that you would like to use? Once I have these details, I will guide you through the process step by step, ensuring that you have a smooth and informed experience. Please rest assured that your privacy and security are of utmost importance to us, and we will take every measure to protect your information.

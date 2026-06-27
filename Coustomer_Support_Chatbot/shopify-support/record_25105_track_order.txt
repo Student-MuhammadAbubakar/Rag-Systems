@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: track order {{Order Number}}
-
-Answer: Thank you for reaching out! I'm here to help you with tracking the order number {{Order Number}}. To check the status of your purchase, please visit our website and go to the 'Track Order' section. There, you can enter the order number {{Order Number}} to view its current status and estimated time of arrival (ETA). If you have any further questions or need additional assistance, please feel free to let me know. Your satisfaction is my top priority!

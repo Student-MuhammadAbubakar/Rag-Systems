@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: hlw do I add several products to purchase {{Order Number}}?
-
-Answer: We appreciate you reaching out to us with your request to add several products to purchase number {{Order Number}}. We understand that you want to make changes to your order, and we're here to assist you. To add products, you can follow these simple steps: first, visit our website and log in to your account. Then, navigate to your order history or the specific purchase page. You should see an option to add items to your purchase. Click on that, and it will take you to our product catalog where you can browse and select the additional products you wish to include. Once you have made your selections, proceed to the checkout page and complete the purchase. If you encounter any difficulties or have further questions, please feel free to ask, and we will guide you through the process. We appreciate your business and are committed to ensuring your satisfaction.

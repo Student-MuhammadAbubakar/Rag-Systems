@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: need assistance to request a reimbursement of my money
-
-Answer: I've grasped that you require guidance in requesting a reimbursement for your funds. Rest assured, I'm here to assist you every step of the way. To initiate the reimbursement process, I recommend reaching out to our customer support team either through our website's live chat or by calling our helpline at {{Customer Support Phone Number}}. They will provide you with the necessary instructions and guide you through the specific requirements for initiating the reimbursement request. By contacting them, you can expect personalized assistance tailored to your unique situation for a swift resolution. Feel free to share any additional details or concerns you might have, so we can ensure your reimbursement request is handled promptly and accurately.

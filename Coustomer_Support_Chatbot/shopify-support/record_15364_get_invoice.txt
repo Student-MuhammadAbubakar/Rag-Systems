@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: mail me bill #37777
-
-Answer: I truly understand your request to have the bill with the number #{{Invoice Number}} mailed to you. Your convenience is our priority, and we want to make sure you have easy access to your invoice. To proceed with this request, could you please provide me with your preferred mailing address? Once I have that information, I will ensure that the bill is promptly sent to you. Thank you for reaching out to us, and please let me know if there's anything else I can assist you with.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: correct details onGold account
-
-Answer: How wonderful it is to see your dedication in correcting the details on your {{Account Type}} account!I am here to assist you every step of the way. To ensure a smooth process, please remember not to share any personal information in this chat. I recommend securely logging into your {{Online Company Portal Info}} account or reaching out to our dedicated customer support team for personalized assistance. Could you please specify which details you would like to correct?

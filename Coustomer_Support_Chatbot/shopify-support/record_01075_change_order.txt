@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how to delete an article from order {{Order Number}}
-
-Answer: Thanks for getting in touch! I grasp that you would like to delete an article from your order with the number {{Order Number}}. I'm here to assist you with that. To proceed with the deletion, could you please provide me with the specific details of the article you wish to remove? This way, I can ensure that the correct item is removed from your order and make the necessary arrangements for you.

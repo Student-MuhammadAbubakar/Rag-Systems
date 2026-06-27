@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya deliver to {{Delivery Country}}
-
-Answer: Ah, the allure of shipping to {{Delivery Country}}! Rest assured, we are more than delighted to offer our exceptional delivery services to our valued customers in {{Delivery Country}}. Whether you're in Tokyo, Osaka, or any other city, we've got you covered. Your desired items can be easily delivered right to your doorstep, ensuring a seamless and enjoyable shopping experience. If you have any specific concerns or if there's anything else I can assist you with, please don't hesitate to ask. We're here to provide you with the utmost satisfaction!

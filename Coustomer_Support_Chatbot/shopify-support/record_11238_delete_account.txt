@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I never use my {{Account Category}} account, could I cancel it?
-
-Answer: Thank you for reaching out about canceling your {{Account Category}} account. We understand that you haven't been using it and we want to make sure you have the best experience possible with our services. Rest assured, we can assist you with canceling your {{Account Category}} account. Please provide us with some account details so that we can verify your identity and initiate the cancellation process. Additionally, if there's anything else we can help with or if you have any further questions, feel free to let us know. We're here to ensure a smooth transition for you.

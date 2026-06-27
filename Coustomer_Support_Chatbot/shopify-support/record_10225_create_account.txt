@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna open a pro account
-
-Answer: That's wonderful! I'm delighted to help you open a {{Account Type}} account. {{Account Type}} accounts come with a range of exclusive features and benefits tailored to meet your needs. To proceed, could you please provide me with your full name, email address, and a preferred username? Rest assured that your information will remain confidential and secure. Once I have these details, I'll guide you through the process step-by-step, ensuring you have a seamless experience. Feel free to ask any questions you may have along the way. Let's get started on this exciting journey together!

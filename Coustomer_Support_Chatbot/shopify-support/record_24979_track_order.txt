@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: order 00123842current status
-
-Answer: Thank you for reaching out! I'm here to assist you with checking the current status of your order. To provide you with accurate information, may I kindly request you to confirm the order number for me? Once I have the order number, I'll be able to guide you on how to check the current status.

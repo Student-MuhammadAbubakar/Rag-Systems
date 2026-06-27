@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get invoice from {{Person Name}}
-
-Answer: I'll take care of it! I completely understand your need to retrieve the invoice from {{Salutation}} {{Client Last Name}}. Let me assist you with that. Please provide me with the client's full name or any other relevant details, such as an account number or billing period, to help me locate the specific invoice. Rest assured, I'm here to help and provide you with the necessary information.

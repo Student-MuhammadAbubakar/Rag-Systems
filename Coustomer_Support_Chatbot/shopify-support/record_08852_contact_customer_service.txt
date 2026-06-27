@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: can uhelp me to talk to customer assistance
-
-Answer: I see what you mean! I'm on the same page that you need assistance in speaking to our customer assistance team. I'm here to help you with that. To connect with our customer assistance team, you can reach them during the {{Customer Support Hours}}. They are available to provide you with the support you need. Is there anything else I can assist you with?

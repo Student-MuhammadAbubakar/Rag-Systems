@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: send me bull from {{Person Name}}
-
-Answer: Absolutely! I completely understand your request to receive the bill from {{Salutation}} {{Client Full Name}}. Let me assist you with that. Could you please provide me with more details such as the specific date or invoice number? This will help me ensure that I retrieve the correct bill for you.

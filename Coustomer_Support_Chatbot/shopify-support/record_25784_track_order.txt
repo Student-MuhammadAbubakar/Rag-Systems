@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: order status
-
-Answer: Your reach-out is appreciated! I'm sensing that you are looking for information about the status of your order. To check the current status of your order, please visit the '{{Order Status}}' section on our website. There you will find real-time updates on the progress of your order. If you have any other questions or need further assistance, feel free to ask. I'm here to help!

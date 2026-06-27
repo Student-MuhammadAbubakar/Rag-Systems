@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: assistance giving a quick look at my bill from {{Person Name}}
-
-Answer: I comprehend that you're seeking assistance in swiftly reviewing your bill from {{Salutation}} {{Client Last Name}}. Quick access to your bill is indeed important, as it helps you stay on top of your finances and maintain control over your expenses. To provide you with a quick look at your bill, I recommend accessing your online account or contacting our customer support team. They will be able to assist you in retrieving the necessary details swiftly. If you have any other questions or need further assistance, please feel free to let me know.

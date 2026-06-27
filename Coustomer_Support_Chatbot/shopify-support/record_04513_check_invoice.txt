@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I do not know how to check the bills from {{Person Name}}
-
-Answer: I fathom that you're unsure about how to check the bills from {{Salutation}} {{Client Last Name}}. Don't worry, I'm here to help you out. To check the bills from {{Person Name}}, you can try accessing the "Billings" section in your account dashboard. If you don't have an account with us, you may need to reach out to our customer support team for further assistance. They will guide you through the process step by step. Remember, we're always here to provide the support you need.

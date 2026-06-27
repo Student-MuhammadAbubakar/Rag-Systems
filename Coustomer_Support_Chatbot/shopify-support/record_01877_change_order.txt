@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cannot switch a product of purchase {{Order Number}}
-
-Answer: We understand that you are experiencing difficulty in switching a product for purchase number #{{Order Number}}. We apologize for any inconvenience caused and would like to assist you with this issue. To better understand your situation, can you please provide us with more details on the specific product you are trying to switch and the reason for the difficulty? This information will help us identify any potential obstacles and find the most appropriate solution for you. We appreciate your patience, and we are committed to resolving this matter as quickly as possible.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: want help to give a quick look at invoice #12588
-
-Answer: Sure! I completely understand your desire to quickly access your invoice with the number #{{Invoice Number}}. It can be frustrating when you need to find important information swiftly. To give you a quick look at your invoice #{{Invoice Number}}, you can try accessing your account portal on our website. From there, navigate to the "Invoices" or "Billing" section, where you should find a list of all your invoices, including the one with the number #{{Invoice Number}}. If you encounter any issues or need further assistance, please don't hesitate to let me know. Your satisfaction is my top priority!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I call to check how soon can I expect my item
-
-Answer: We appreciate your call inquiring about the expected arrival time of your item. To provide you with accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With that information, we can quickly check the status of your item and provide you with an estimated delivery date. Your satisfaction is our top priority!

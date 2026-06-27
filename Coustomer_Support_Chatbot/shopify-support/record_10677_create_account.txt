@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I don't have a {{Account Category}} account, help me opening one
-
-Answer: Thank you so much for expressing your interest in opening a {{Account Category}} account with us! I'm here to assist you every step of the way. To begin, could you please provide me with your full name, email address, and a preferred username to associate with your account? Once I have these details, I will guide you through the process and ensure that you are well-informed about the benefits and features of our {{Account Category}} account. Rest assured, your privacy and security are our top priorities. Any information you share will be handled with the utmost care and protection. Let's get you started on your journey to accessing the exciting benefits of our {{Account Category}} account!

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: want help to talk to customer service
-
-Answer: Thank you for trusting us! I'm fully aware of you would like assistance in speaking with our customer service team. Our dedicated representatives are available and eager to help you. To get in touch with them, you can reach out during our customer support hours at {{Customer Support Hours}}. Alternatively, you can also connect with us through the Live Chat feature on our website at {{Website URL}}. Our goal is to provide you with the support you need, so please don't hesitate to reach out to us. How else may I assist you today?

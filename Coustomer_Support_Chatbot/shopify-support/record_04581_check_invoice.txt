@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want to locate my invoices from {{Person Name}}
-
-Answer: Definitely! I'm here to assist you in locating your invoices from {{Salutation}} {{Client Last Name}}. To begin, could you please provide me with some additional information like a {{Date Range}} or any specific details related to the invoices you are looking for? This will allow me to narrow down the search and provide you with accurate results. Your satisfaction is my top priority, and I'm committed to helping you every step of the way.

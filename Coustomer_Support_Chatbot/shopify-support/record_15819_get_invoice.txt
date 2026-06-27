@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: what do i have to do to download the bills from {{Person Name}}
-
-Answer: I'm on it! I understand that you'd like to know the steps to download the bills from {{Salutation}} {{Client Last Name}}. To access the invoices associated with {{Person Name}}'s account, you will need to log in to our website using Anna's login credentials. Once logged in, navigate to the "Billing" section of your account dashboard. From there, you should be able to view a list of {{Person Name}}'s invoices. To download a specific bill, locate the corresponding invoice number and click on the download icon or link next to it. If you encounter any issues or have further questions, please let me know. I'm here to guide you every step of the way.

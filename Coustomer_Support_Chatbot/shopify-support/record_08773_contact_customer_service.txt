@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: wannaspeak with customer service can ya help me
-
-Answer: I hear you! I'm following you that you would like to speak with our customer service team. I'm here to assist you with that. To connect with our customer service, you can reach them during our {{Customer Support Hours}}. If you have any other questions or concerns, feel free to let me know. How can I assist you further?

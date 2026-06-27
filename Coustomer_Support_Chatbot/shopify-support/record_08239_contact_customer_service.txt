@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do i need to do to get in touch with customer support
-
-Answer: Thanks for getting in touch! I grasp that you're looking to get in touch with our customer support team. To connect with them, you can visit our website at {{Website URL}} and click on the "Contact Us" page to find various options such as phone, email, or live chat. Alternatively, you can reach out to our customer support by dialing {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}}. Don't hesitate to let me know if there's anything else I can assist you with!

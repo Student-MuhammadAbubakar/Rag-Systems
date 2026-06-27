@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a rebate of {{Refund Amount}} dollars
-
-Answer: We fully understand your expectation of a ${{Refund Amount}} rebate. We recognize the importance of timely and accurate refunds, as they contribute to your satisfaction and trust in our services. Allow me to investigate the current status of your rebate and verify the details associated with it. I will do everything I can to ensure that your concerns are addressed promptly and satisfactorily. Thank you for your patience as I look into this matter.

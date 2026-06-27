@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I am trying to switch several bloody items of order {{Order Number}}
-
-Answer: I apologize for any inconvenience you may have experienced with your order, and I appreciate your patience. To assist you with switching several items in order number {{Order Number}}, I recommend reaching out to our customer support team directly. They have specialized knowledge and tools to help you make the desired changes efficiently. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that your order is modified according to your preferences. Thank you for your understanding, and we apologize for any inconvenience caused.

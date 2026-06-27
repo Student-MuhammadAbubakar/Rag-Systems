@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: help editing purchase {{Order Number}}
-
-Answer: I've picked up that you need assistance with editing purchase number {{Order Number}}. We apologize for any inconvenience this may have caused. To ensure that your purchase accurately reflects your preferences, could you please provide me with detailed information about the changes you would like to make? This will allow us to promptly address your request and provide a suitable solution. Thank you for your cooperation, and we look forward to resolving this issue for you.

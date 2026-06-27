@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: problem with adding some articles to order {{Order Number}}
-
-Answer: We understand that you are facing issues with adding articles to order number #{{Order Number}}. Our team is here to assist you in resolving this problem. Can you please provide more details about the specific articles you are having trouble adding? This information will help us investigate and find a solution for you. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help checking at what time I can call customer support
-
-Answer: Thank you for reaching out! I understand your need to know when you can call our customer support. Our customer support team is available for you to reach out during {{Customer Support Hours}}. Knowing the specific times when you can connect with us can surely make it easier for you to plan your call. Is there anything else I can assist you with today?

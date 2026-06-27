@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: talk to customer service
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to talk to our customer service team. Rest assured, our dedicated representatives are available to assist you during {{Customer Support Hours}}. Whether you have questions, concerns, or need any help, our team is here to provide the support you need. Please feel free to share any further details or specific inquiries you have, and I'll be glad to assist you further.

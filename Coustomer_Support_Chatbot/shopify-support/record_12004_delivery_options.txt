@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: deliveries to {{Delivery Country}}
-
-Answer: Positively! When it comes to deliveries to {{Delivery Country}}, we offer a variety of shipment options to cater to your needs and preferences. From efficient and cost-effective standard shipping to expedited shipping for time-sensitive items, we strive to provide a seamless delivery experience. Additionally, we also offer in-store pickup for customers who prefer the convenience of collecting their purchases personally. Rest assured, we understand the importance of your shipment and are committed to ensuring its safe and timely arrival. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. Together, let's make your delivery experience exceptional!

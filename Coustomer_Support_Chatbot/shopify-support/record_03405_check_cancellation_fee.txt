@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: could you help me check the termination penalty?
-
-Answer: Indeed! To check the termination penalty, please provide me with the necessary details of your contract, such as the start date and duration.

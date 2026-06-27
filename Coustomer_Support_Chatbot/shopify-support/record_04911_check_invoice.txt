@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help me see my bill from {{Person Name}}
-
-Answer: I see your need to view your bill from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To access your bill, please log in to your account on our website and navigate to the "Billing" or "Invoices" section. You should be able to find the invoice you're looking for with the necessary details, such as the invoice number and billing period. If you encounter any difficulties or need further assistance, feel free to reach out to our dedicated customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help you every step of the way.

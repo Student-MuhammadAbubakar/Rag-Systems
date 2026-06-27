@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new platinum acount
-
-Answer: I'm thrilled that you're interested in opening a new {{Account Category}} account! Our {{Account Category}} account is designed to provide exceptional benefits and exclusive privileges. To get started, I'll need some basic information from you, such as your full name, email address, and a preferred username. Once we have those details, I'll guide you through the account creation process step-by-step, ensuring that you have a smooth and informed experience. Rest assured that we prioritize the security and privacy of your data. We can't wait to have you as a valued {{Account Category}} account holder!

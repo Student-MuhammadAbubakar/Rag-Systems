@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I am not registered yet, want help to open a damn {{Account Type}} accoun
-
-Answer: We truly appreciate your interest in creating a {{Account Type}} account! I'm here to assist you every step of the way. To get started, could you please provide me with a few details? I will need your full name, email address, and a preferred username. Rest assured that the registration process is straightforward and secure, ensuring that your information is handled with utmost care. Once you provide these details, I will guide you through the process of creating a {{Account Type}} account, ensuring that you have all the information you need.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: give em information about updating order {{Order Number}}
-
-Answer: I see that you would like information about updating order number {{Order Number}}. We appreciate your concern, and we're here to assist you with the necessary details. To update your order, you can do it easily by accessing your account on our website/app and navigating to the 'My Orders' section. From there, you should be able to view your order and find the option to make modifications. If you encounter any issues or have specific instructions regarding the update, please feel free to let us know. We're available to ensure a smooth process for you.

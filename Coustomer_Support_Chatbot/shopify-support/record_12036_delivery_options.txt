@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I order from {{Delivery Country}}?
-
-Answer: Certainly! We are pleased to inform you that we accept orders from the {{Delivery Country}}. We have a global shipping policy that allows customers from various countries, including the {{Delivery Country}}, to place orders with us. You can easily select your preferred delivery options during the checkout process. If you have any specific concerns or need further assistance regarding international shipping, feel free to let us know. We are here to ensure a seamless ordering experience for you, regardless of your location!

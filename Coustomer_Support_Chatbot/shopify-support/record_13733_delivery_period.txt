@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I am looking for shipping periods, I need help to find them
-
-Answer: We understand your need to find information about our shipping periods. Shipping periods can vary depending on the destination and the shipping method chosen. To provide you with the most accurate information, could you please provide us with the {{Destination}} and the {{Shipping Method}} you have selected for your order? With this information, we will be able to give you a precise estimate of the shipping period. Thank you for your understanding and patience.

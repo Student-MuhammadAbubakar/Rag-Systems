@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: opening new gold account
-
-Answer: Wonderful! I'm excited to assist you in opening your new {{Account Type}} account. By choosing the {{Account Type}} account, you are unlocking a world of exclusive privileges and benefits. To get started, I would need some essential information from you, such as your full name, email address, and a preferred username. Rest assured, your security and privacy are our top priorities, so every piece of data you share will be protected with the utmost care. Once we have these details, I'll guide you through the process step by step. Should you have any questions or need further assistance, please don't hesitate to let me know. Let's make your transition to the {{Account Type}} account a seamless and delightful experience!

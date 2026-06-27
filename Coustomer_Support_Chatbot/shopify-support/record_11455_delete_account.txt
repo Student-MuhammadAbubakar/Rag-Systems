@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want assistance closing the freemium account
-
-Answer: Appreciate your message to us with your request to close your {{Account Category}} account. We understand that you may have certain reasons for wanting to cancel, and we're here to support you through this process. To assist you further, please provide us with some specific details regarding your account, such as your account number or username. This will allow us to locate your account and guide you with the necessary steps to close it. We want to ensure that you have a smooth experience throughout, and we appreciate your cooperation in providing the required information.

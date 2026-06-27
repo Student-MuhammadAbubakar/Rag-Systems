@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need assistance with opening a {{Account Type}} acount
-
-Answer: Wow, a {{Account Type}} account! That's an exceptional choice. I'm truly excited to guide you through the process of opening your new {{Account Type}} account. To proceed, I'll need a few details from you, such as your full name, email address, and a preferred username. Once I have this information, we can move forward step-by-step, ensuring you're informed and comfortable at each stage. Rest assured, we prioritize the security and privacy of your information and will handle it with the utmost care. So, shall we get started on this golden journey together?

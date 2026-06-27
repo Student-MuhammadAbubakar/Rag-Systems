@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get bill from {{Person Name}}
-
-Answer: I understand your need to locate the bill from {{Salutation}} {{Client Last Name}}. Allow me a moment to access the system and retrieve that information for you. While I'm working on that, is there anything else I can assist you with?

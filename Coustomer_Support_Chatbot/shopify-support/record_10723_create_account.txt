@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open another {{Account Type}} account for mum
-
-Answer: We appreciate your interest in opening another {{Account Type}} account for your mom. So glad to see that you're finding value in our services! To proceed with this, I kindly ask you to provide your mom's full name, email address and a preferred username. Rest assured, I'll guide you through each step of the process, ensuring a seamless experience for both you and your mom. And remember, the security and privacy of our users is our top priority. We will handle all the personal information shared with the utmost care and confidentiality. How are you feeling about this new account for your mom?

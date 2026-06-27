@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: can uhelp me seeing the cancellation charge
-
-Answer: I'm on it! I would be happy to help you check the cancellation fee.

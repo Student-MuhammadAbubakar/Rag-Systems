@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I want assistance downloading the invoice from {{Person Name}}
-
-Answer: Indeed! I understand your need to download the invoice from {{Person Name}}. Let me guide you through the process. First, please log in to your account and navigate to the "Invoices" section. From there, you should be able to view and download the invoice associated with {{Person Name}}. If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to help you every step of the way.

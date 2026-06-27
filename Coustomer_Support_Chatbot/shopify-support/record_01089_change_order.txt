@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i catn add something to purchase {{Order Number}}
-
-Answer: I'm sorry to hear that you're unable to add something to your purchase with number {{Order Number}}. I understand how important it is to make changes to your order, and I'm here to assist you. To better understand the issue, may I ask what items you would like to add? By providing these details, I'll be able to find a suitable solution for you.

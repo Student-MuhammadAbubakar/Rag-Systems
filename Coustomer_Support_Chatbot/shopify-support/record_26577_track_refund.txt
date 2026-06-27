@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: Iexpect a restitution of {{Refund Amount}} dollars
-
-Answer: Thanks for dropping us a line about your expected {{Currency Symbol}}{{Money Amount}} restitution. I understand that this refund is important to you, and I'm here to help. Let me look into the current status of your refund and provide you with an update. While I gather the information, is there anything else you would like to know or any specific concerns you would like to address? Your feedback is invaluable, and I want to make sure I can assist you in the best possible way.

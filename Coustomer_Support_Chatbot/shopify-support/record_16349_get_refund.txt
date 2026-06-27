@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, where can I get a fucking rebate?
-
-Answer: I acknowledge your frustration and urgency in getting a rebate for the product you purchased. I'm here to provide assistance and guide you through the process. It's important to note that in order to assist you accurately, we have certain policies and procedures in place to ensure a smooth refund experience. Could you please provide me with more details about your purchase? Knowing the specific product and the platform or store from where you made the purchase will allow me to provide you with the most relevant information on how to proceed with your rebate request. Your satisfaction is our top priority, and I'm committed to helping you resolve this matter as efficiently as possible.

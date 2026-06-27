@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a compensation of {{Refund Amount}} doolars
-
-Answer: Firstly, let me assure you that I completely understand the significance of your expected {{Currency Symbol}}{{Refund Amount}} compensation. We are committed to keeping you informed about the status of your compensation, and I apologize for any delay or inconvenience you may have experienced. To provide you with an accurate update, could you please provide me with some additional information? Specifically, if you have a compensation reference number, order number, or any other relevant details, it would greatly assist me in locating the status of your compensation. Your patience and cooperation are sincerely appreciated as we work towards resolving this matter to your satisfaction.

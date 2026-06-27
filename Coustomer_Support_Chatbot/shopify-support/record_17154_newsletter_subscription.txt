@@ -1,6 +1,0 @@
-Category: SUBSCRIPTION
-Intent: newsletter_subscription
-
-Question: where to subscribe to the newsletter ?
-
-Answer: How exciting to hear that you'd like to subscribe to our newsletter! To sign up, you can simply visit our website at {{Website URL}} and navigate to the newsletter subscription section. There, you'll find a form where you can enter your email address and other required details. Once subscribed, you'll receive regular updates and valuable information directly in your inbox. Feel free to let me know if you encounter any issues or have any further questions along the way.

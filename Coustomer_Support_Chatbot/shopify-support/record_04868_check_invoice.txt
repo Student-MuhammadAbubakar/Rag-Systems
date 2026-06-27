@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i need help to see my bill from {{Person Name}}
-
-Answer: Sure! I completely understand your desire to see the bill from {{Salutation}} {{Client Last Name}}. Let me guide you through the process. To access your bill, please log in to your account on our website and navigate to the "Billing" or "Account" section. There, you should find a detailed overview of your bill, including the charges and due dates. If you need any further assistance or encounter any difficulties, please don't hesitate to reach out. I'm here to help you every step of the way.

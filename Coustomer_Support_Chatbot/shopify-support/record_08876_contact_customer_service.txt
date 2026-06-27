@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: assistance to contact goddamn customer support
-
-Answer: Thank you for contacting! I certainly recognize that you need assistance in contacting our customer support team. Our team is available to assist you and resolve any issues you may be facing. To reach customer support, you can call {{Customer Support Phone Number}} during our working hours or visit our website and access the live chat feature for immediate assistance. We are here to help you, so please let us know how we can best assist you.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I place an order from {{Delivery City}}?
-
-Answer: For sure! We are thrilled to offer our services to customers in {{Delivery City}}, allowing you to place your orders conveniently. Our delivery options are tailored to ensure that your packages are delivered to your doorstep in a timely manner. Whether you choose standard shipping, expedited shipping, or opt for in-store pickup, we've got you covered. Rest assured, we are committed to providing a seamless and satisfying shopping experience. If you have any further questions or need assistance with anything else, feel free to ask. We're here to help!

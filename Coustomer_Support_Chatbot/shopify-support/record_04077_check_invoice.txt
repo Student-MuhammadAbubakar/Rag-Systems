@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: help to see my invoice #37777
-
-Answer: Indeed! I completely understand your need to access the details of invoice with the number #{{Invoice Number}}. Let's work together to quickly find the information you're looking for. Could you please provide me with some additional details such as the date range or any specific keywords related to this invoice? Once we have those, we can search our system and retrieve the invoice details for you. Your satisfaction is our top priority, and we're here to assist you every step of the way!

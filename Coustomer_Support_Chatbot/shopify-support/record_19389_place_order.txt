@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where do I acquire some of your article?
-
-Answer: Thank you for your interest in acquiring our articles! I'm here to guide you in the right direction. To purchase our products, you have a few options. You can visit our website at {{Website URL}} to explore our online store and make a purchase directly. Alternatively, you can also find our articles at our physical stores located in various cities. If you prefer to shop in person, I can provide you with the nearest store location based on your current area. Just let me know your city or postcode, and I'll assist you further.

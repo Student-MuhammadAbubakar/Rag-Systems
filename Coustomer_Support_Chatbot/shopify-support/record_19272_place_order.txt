@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where to acquire some of ur item
-
-Answer: Thank you for your interest in acquiring our items! I'm here to guide you through the process of finding and purchasing the products you need. To acquire our items, you can visit our website at {{Website URL}}. Our website provides a user-friendly interface where you can easily browse our wide range of products and place your order. If you prefer a more personalized experience, you can also visit our physical store located at {{Store Location}}. Our knowledgeable staff will be delighted to assist you in finding the items you're looking for. Whichever option you choose, we are committed to providing you with a seamless and enjoyable shopping experience. Let me know if there's anything specific you're looking for, and I'll be happy to assist you further.

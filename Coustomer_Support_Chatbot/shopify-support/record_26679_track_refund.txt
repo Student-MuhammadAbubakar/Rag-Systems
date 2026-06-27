@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: check my refund status
-
-Answer: I'm sensitive to the fact that you would like to check the status of your refund. Rest assured, I'm here to assist you. To provide you with accurate information, could you please provide me with the following details: your name, email address, and the date of your refund request? This will enable me to locate your refund in our system and provide you with the most up-to-date information. Thank you for your cooperation.

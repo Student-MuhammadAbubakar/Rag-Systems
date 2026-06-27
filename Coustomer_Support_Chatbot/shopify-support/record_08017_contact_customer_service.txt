@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have got to call customer service, how to do it?
-
-Answer: Your message means a lot! I'm aligned with the idea that you need assistance with calling our customer service. To connect with our team, you can dial {{Customer Support Phone Number}} during our operating hours, which are {{Customer Support Hours}}. We are also available through our Live Chat feature on our website at {{Website URL}}. These options will allow you to reach our customer service representatives who will be happy to assist you. Let me know if there's anything else I can do to help you!

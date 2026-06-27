@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need to talk with customer assistance, can you help me?
-
-Answer: I've realized you need to talk with our customer assistance team, and I'm here to provide you with the support you require. Our customer service representatives are available during {{Customer Support Hours}} to assist you with any questions or concerns you may have. Please feel free to share your experiences, doubts, or any other inquiries you may have, and I will do my best to help you. How can I make your day even better?

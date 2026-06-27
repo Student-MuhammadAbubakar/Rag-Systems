@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: how to check how long it takes for my delivery to arrive
-
-Answer: We understand your curiosity about the estimated arrival time of your delivery. To assist you with checking the delivery period, you can visit our website and log in to your account. Once you're logged in, navigate to the "Order History" or "Track Package" section. There, you'll find the option to enter your {{Order Number}} or {{Tracking Number}} to track your package. This will provide you with the most up-to-date information regarding the estimated delivery time. If you need any further assistance, please don't hesitate to reach out. We're here to help!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open another pro account
-
-Answer: That's fantastic news! I'm thrilled to assist you in opening another {{Account Type}} account. Our {{Account Type}} accounts offer a wide range of advanced features and benefits to enhance your experience. To begin the process, could you please provide me with the full name, email address, and preferred username for the account? Rest assured, your account details will be handled with the utmost care and security. Once I have this information, I'll guide you through the steps and ensure a seamless account creation process.

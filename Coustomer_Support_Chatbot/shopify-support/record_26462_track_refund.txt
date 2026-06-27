@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want help seeing the restitution status
-
-Answer: I'm fully aware of your desire to seek assistance in checking the status of your restitution. It's frustrating when you're unsure about the progress of your refund. Rest assured, I'm here to help you navigate through this process. Could you please provide me with your {{Order/Transaction/Reimbursement}} details such as the {{Order/Transaction/Reimbursement}} number or any other relevant information? With that, I'll be able to provide you with an accurate update on the current status of your restitution.

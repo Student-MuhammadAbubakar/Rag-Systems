@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebating  {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've picked up that you are seeking information on rebating ${{Refund Amount}}. I apologize for any inconvenience you may have experienced in your recent transaction. To assist you with the refund process, could you please provide me with some additional details? Specifically, could you let me know the date of the transaction, the payment method used, and any relevant order or transaction number? This information will allow me to investigate the issue thoroughly and provide you with the appropriate guidance for obtaining your refund. Thank you for your cooperation, and rest assured that I am here to support you throughout this process.

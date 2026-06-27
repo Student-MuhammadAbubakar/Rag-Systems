@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i cant delete a prodcut from purchase {{Order Number}}
-
-Answer: I've deduced from your message that you're facing difficulties with deleting a product from purchase number {{Order Number}}. I apologize for the inconvenience caused, and I'm here to assist you. To help you more effectively, could you please provide me with the specific product that you want to delete? Once I have this information, I'll be able to guide you through the process and ensure that the necessary changes are made to your purchase. Thank you for your patience and cooperation.

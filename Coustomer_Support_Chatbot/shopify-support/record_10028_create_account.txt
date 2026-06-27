@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: wanna open a pro account for my fiance
-
-Answer: Thank you for considering opening a {{Account Type}} account for your fiance! How thoughtful of you. I'd be more than happy to assist you with this process. To begin, could you please provide me with your fiance's full name, email address, and a preferred username? Once I have these details, I'll guide you through the steps to create the {{Account Type}} account, ensuring a smooth experience for both of you. Please rest assured that protecting your fiance's privacy and security is a priority for us. Your trust is extremely important to us, and we value the opportunity to serve you both.

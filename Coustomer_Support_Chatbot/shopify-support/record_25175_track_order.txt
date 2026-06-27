@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want help checking order {{Order Number}} current status
-
-Answer: Thank you for contacting us! I understand that you need assistance checking the current status of order number {{Order Number}}. I apologize for any inconvenience caused. To provide you with accurate and up-to-date information, could you please provide me with some additional details? Specifically, can you please verify your name and email address associated with the order? This will allow me to assist you effectively and provide you with the necessary information. Thank you for your cooperation, and I look forward to helping you with your order status.

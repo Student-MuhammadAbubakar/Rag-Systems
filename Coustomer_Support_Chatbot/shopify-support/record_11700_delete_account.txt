@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: question about my {{Account Type}} account removal
-
-Answer: We appreciate your inquiry to us with your question about removing your {{Account Type}} account. I understand that you may be unsure about the steps involved or need further guidance. I'm here to assist you in the best possible way. Could you please provide more details about the specific issues or concerns you have regarding the removal of your {{Account Type}} account? By understanding your situation better, I can provide you with the most accurate and helpful information to guide you through the process smoothly.

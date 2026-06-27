@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I don't know what I need to do to downloa the invoice #00108
-
-Answer: I gather that you're uncertain about the steps to download invoice #{{Invoice Number}}. Don't worry, I'm here to help you with that. First, could you please let me know which platform or system you're using to access the invoice? That way, I can provide you with the specific instructions tailored to your situation. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm always available to assist you.

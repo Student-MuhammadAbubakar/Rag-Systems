@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how do i see thne goddamn invoices from {{Person Name}}
-
-Answer: I'll take care of it! I completely understand your frustration with trying to view the invoices from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process step by step so that you can quickly access the information you need. First, please log in to your account on our website or app. Once you're logged in, navigate to the "Billing" or "Invoices" section, where you should find a list of all your invoices. From there, you can use the search or filter options to locate the invoices specifically associated with {{Salutation}} {{Client Last Name}}. If you encounter any difficulties or have further questions, don't hesitate to let me know. I'm here to assist you every step of the way and ensure you find the information you need.

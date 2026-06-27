@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need to call customer support, how do I do it?
-
-Answer: Happy to hear from you! I truly understand that you're looking to contact our customer support team by phone. To reach our customer support representative, you can dial our toll-free number at {{Customer Support Phone Number}}. Our dedicated team is available during {{Customer Support Hours}} to assist you. If you have any other questions or need further assistance, please feel free to let me know.

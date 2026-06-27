@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I do not need the {{Account Category}} account, I have got to delete it
-
-Answer: Appreciate you reaching out to us regarding the deletion of your {{Account Category}} account. I understand that you no longer have a need for it and are looking to remove it from our system. Your satisfaction is of the utmost importance to us, and I want to ensure that we assist you in the best way possible. May I kindly ask you to provide some additional details about your request? This will help us process your account deletion efficiently and make sure you have all the necessary information.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i have to see the status of order {{Order Number}} can ya helo me
-
-Answer: I'll take care of it! Thank you for reaching out. I understand that you need assistance with checking the status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please verify your account details, such as your name and email address? This will help me access your order details and provide you with the most up-to-date information.

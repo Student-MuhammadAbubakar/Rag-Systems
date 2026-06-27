@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: want assistance speaking with a live agent
-
-Answer: Grateful for your contact! I get the sense that you need assistance and would like to speak with a live agent. Your time is valuable to us, and we want to ensure that you receive the best and most personalized support. To connect you with a live agent, I kindly request a few details about {{your issue}}/{{the reason for your call}}/{{the specific topic you need assistance with}}. By providing this information, our live agent will be well-prepared to address your needs and provide you with accurate and efficient assistance. Thank you for your cooperation.

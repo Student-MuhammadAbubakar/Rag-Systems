@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: d uship to {{Delivery City}}
-
-Answer: Indeed, we do! {{Delivery City}} is a remarkable city, and we wouldn't miss the chance to deliver our products there. You can avail yourself of our shipping services to {{Delivery City}} without any worries. We strive to bring our excellent products to customers all around the world, including the enchanting city of {{Delivery City}}. If you have any specific concerns or questions regarding shipping to {{Delivery City}} or anything else, feel free to let me know. I'm here to ensure your satisfaction and provide all the assistance you need.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: modifying {{Account Type}} account
-
-Answer: How amazing it is to hear that you're interested in modifying the information on your {{Account Type}} account! We understand the need for flexibility and personalization when it comes to your account details. Rest assured, we're here to guide you through the process and ensure that your account reflects the changes you desire. Let's work together to make your {{Account Type}} account perfectly tailored to your needs. What specific information would you like to modify?

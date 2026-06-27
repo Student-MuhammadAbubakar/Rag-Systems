@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get invoice #37777
-
-Answer: I pick up what you're putting down, your need to locate your invoice with number {{Invoice Number}}. Let me find that for you right away. Please bear with me for a moment. Additionally, if you have any other questions or concerns, feel free to let me know. I'm here to assist you throughout the process and ensure your satisfaction.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have made a mistake  help me modify purchase {{Order Number}}
-
-Answer: We understand that mistakes happen, and we're here to help you modify your purchase order number {{Order Number}}. Please provide us with the specific changes you would like to make, and we'll do our best to assist you in rectifying the mistake. Your satisfaction is our top priority, and we appreciate your patience and understanding while we work on this for you.

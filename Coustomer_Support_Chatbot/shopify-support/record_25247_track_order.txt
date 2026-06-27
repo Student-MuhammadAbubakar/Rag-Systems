@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: status of order {{Order Number}}
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to know the status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please verify your account details, such as your name or email address associated with the purchase? This will allow me to access the order details and provide you with the most up-to-date status. Your privacy and security are of utmost importance to us, and this verification step ensures that we are assisting the rightful owner of the purchase. Once you provide the necessary information, I will be more than happy to assist you further.

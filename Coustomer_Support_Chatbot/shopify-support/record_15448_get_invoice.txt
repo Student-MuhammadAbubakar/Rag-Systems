@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: getting billsfrom {{Person Name}}
-
-Answer: I hear you loud and clear your need to retrieve the bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. In order to access the bills, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. There, you should be able to view and download all the bills associated with your account. If you encounter any difficulties or have any further questions, please let me know. I'm here to help you along the way.

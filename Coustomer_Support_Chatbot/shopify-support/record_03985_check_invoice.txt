@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i do not know what to do to cdheck my bill #85632
-
-Answer: No worries! I understand that you're unsure about how to check your bill with the number #{{Invoice Number}}. Let me guide you through the process step by step. To view your bill, you can log in to your online account on our website and navigate to the billing section. Alternatively, you can contact our customer support team at {{Customer Support Phone Number}} or access the live chat on our website at {{Website URL}}. They will be more than happy to assist you in accessing your bill and provide any further information you may need. Feel free to ask any questions along the way, and I'll be here to help you every step of the way!

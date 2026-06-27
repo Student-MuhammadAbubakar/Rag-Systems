@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: can you help me check how oson can I expect the parcel?
-
-Answer: Glad you got in touch to us for assistance in tracking the estimated arrival time of your parcel. We understand the importance of staying informed about the delivery status. To better assist you, could you please provide us with the {{Tracking Number}} or {{Order Number}} associated with your parcel? Once we have this information, we will be able to provide you with a more accurate estimate. Your patience is greatly appreciated as we work together to ensure a seamless delivery experience.

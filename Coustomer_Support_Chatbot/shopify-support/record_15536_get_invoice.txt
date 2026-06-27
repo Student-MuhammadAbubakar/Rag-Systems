@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I have to download the bill from {{Person Name}}
-
-Answer: I grasp your need to download the bill from {{Salutation}} {{Client Last Name}}. To download the bill, you can visit your account on our website and navigate to the "Invoices" section. From there, you should be able to locate and download the bill you need. If you need any further assistance or have any other questions, please feel free to let me know. I'm here to help you!

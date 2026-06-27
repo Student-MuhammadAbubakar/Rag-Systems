@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect a restitution of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: Thank you for bringing up your restitution claim for ${{Refund Amount}}. Your request is of utmost importance to us, and we understand the significance of a timely resolution. Allow me to quickly investigate the current status of your restitution. While I gather the information, may I ask if you have any specific concerns or additional details related to your claim? Your input will help us address your request more effectively and ensure your satisfaction with our service.

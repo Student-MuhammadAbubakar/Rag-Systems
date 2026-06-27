@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: give me information about the deletion of a pro account
-
-Answer: Happy to get your message to us for information about deleting your {{Account Type}} account. I completely understand your need for clarity in this process. To ensure that I provide you with accurate and personalized instructions, could you please confirm a few details? Firstly, may I know the platform or service where you have your {{Account Type}} account? Additionally, it would be helpful to know if you have already accessed any account settings or options related to account deletion. This will enable me to guide you through the correct steps and provide any additional information you may need. Thank you for your cooperation, and I'm here to assist you further.

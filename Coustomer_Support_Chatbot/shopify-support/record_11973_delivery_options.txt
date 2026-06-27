@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}}?
-
-Answer: Indeed! We do deliver to {{Delivery City}}. We offer nationwide coverage across Canada, including {{Delivery City}}. You can choose from our range of delivery options, including standard shipping, expedited shipping, and even in-store pickup if you're in the vicinity of one of our stores. {{Delivery City}} is one of our well-served locations, so you can rest assured that we'll get your order to you in a timely manner. If you have any further questions or need assistance with your delivery, please don't hesitate to ask. We're here to ensure your satisfaction and make your {{Delivery City}} delivery a breeze!

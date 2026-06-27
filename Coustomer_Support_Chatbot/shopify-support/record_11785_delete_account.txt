@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: i do not know what i need to do to close a platinum account
-
-Answer: I realized you're unsure about the steps to close your {{Account Category}} account, and I'm here to guide you through the process. To cancel your {{Account Category}} account, you can either contact our customer support team directly or follow the cancellation process outlined on our website. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} to assist you with your account cancellation. Alternatively, you can visit our website and navigate to the account settings section, where you'll find the option to close your {{Account Category}} account. If you have any specific concerns or questions about the cancellation process, please let me know, and I'll be happy to assist you further. Remember, we're here to support you every step of the way.

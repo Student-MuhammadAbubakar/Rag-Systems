@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create {{Account Type}} cacount
-
-Answer: That's wonderful! I'm thrilled to assist you in creating your {{Account Type}} account. To get started, I'll need some essential information from you, such as your full name, email address, and a preferred username. Once I have these details, I'll guide you through the process step by step, ensuring that you have a smooth and enjoyable experience. Rest assured that your privacy and security are our top priority, and all the information provided will be handled with the utmost care. Let's begin this exciting journey together!

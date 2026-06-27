@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a reimbursmeent of {{Refund Amount}} dollars
-
-Answer: We truly understand the importance of your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to resolving this for you as quickly as possible. Allow me to look into the current status of your refund and provide you with an update. While I do that, could you please provide me with any relevant details or reference numbers related to your reimbursement? This will help us expedite the process and ensure accurate information. Thank you for your cooperation and patience.

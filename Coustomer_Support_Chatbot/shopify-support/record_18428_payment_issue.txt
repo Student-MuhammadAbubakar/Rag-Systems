@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where do i inform of goddamn problems with online paymnts
-
-Answer: I apologize for the frustration you're experiencing with the problems you've encountered during your online payment. We appreciate your desire to inform us and help us address these issues. To report the problems you're facing with online payments, I recommend reaching out to our customer support team. They are available during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By providing them with the necessary details and specific information about the errors you've encountered, they will be able to assist you further and work towards resolving the problems. Thank you for taking the time to inform us, as your feedback is invaluable in improving our services for you and all our customers.

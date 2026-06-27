@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: want help downloading the invoice  from {{Person Name}}
-
-Answer: I'm not mistaken your need to download the invoice from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process. First, please log in to your account on our website. Once logged in, navigate to the 'Invoices' section, where you should be able to locate the invoice you're looking for. If you're having trouble finding it, you can use the search function by entering the name or date associated with the invoice. If you still encounter any difficulties, please feel free to ask for further assistance. I'm here to help make the process as smooth as possible for you.

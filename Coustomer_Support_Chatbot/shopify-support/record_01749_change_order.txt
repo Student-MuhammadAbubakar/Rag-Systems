@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can ya help me switching several products  of order {{Order Number}}
-
-Answer: We appreciate you contacting us for assistance with switching several products in order number {{Order Number}}. Our team is dedicated to ensuring your complete satisfaction with your order. To proceed with the switch, please provide me with the specific details of the products you would like to switch, including the product names or SKUs. This will enable us to process your request accurately and promptly. Feel free to ask any questions or concerns you may have throughout the process. We're here to help you make the necessary changes to your order and ensure you have a positive experience with our service.

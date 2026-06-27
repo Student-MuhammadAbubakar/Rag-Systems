@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: checking ETA of order {{Order Number}}
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to check the estimated time of arrival (ETA) for order number {{Order Number}}. To provide you with accurate information, I kindly request you to please bear with me while I retrieve the necessary details. Can you please allow me a moment to check on this for you?

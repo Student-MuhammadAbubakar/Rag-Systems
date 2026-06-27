@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: could i place an orde from {{Delivery Country}}
-
-Answer: Of course! We extend our services beyond borders, and you can certainly place an order from the {{Delivery Country}}. We value your interest in our products and services, and we're here to make your shopping experience seamless, regardless of your location. So go ahead and browse our wide range of options, add your desired items to the cart, and proceed with confidence. Should you have any specific questions or need any assistance during the ordering process, feel free to ask. We're here to assist you every step of the way. Happy shopping!

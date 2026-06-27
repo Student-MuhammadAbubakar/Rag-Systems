@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i lost the invoicesfrom {{Person Name}} mail them to me
-
-Answer: I truly understand your situation regarding the lost invoices from {{Person Name}}. Unfortunately, as a text-based AI, I don't have access to specific user data or the ability to send emails. However, I recommend reaching out to our customer service team at {{Customer Support Email}} or {{Customer Support Phone Number}}. They will be able to assist you further and provide the necessary help in retrieving and sending the invoices you need. Our team is available during {{Customer Support Hours}} and will be more than happy to help you with your request.

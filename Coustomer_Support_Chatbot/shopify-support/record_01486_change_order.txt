@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how can I switch an item of order {{Order Number}}?
-
-Answer: We understand that you are looking to switch an item in your order with the number {{Order Number}}. Our team is here to assist you with this request. In order to provide you with the most accurate solution, could you please provide us with the details of the item you would like to switch and the item you would like to replace it with? Once we have this information, we will be able to guide you through the process and ensure that your order is updated according to your preferences. Your satisfaction is our top priority, and we are committed to making this process as seamless as possible for you. We appreciate your patience and cooperation as we work towards resolving this issue.

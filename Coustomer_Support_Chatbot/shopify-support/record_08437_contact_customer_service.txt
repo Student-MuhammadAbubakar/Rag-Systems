@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I have to do to call fucking customer support?
-
-Answer: Thank you for reaching out! I apologize for any frustration or inconvenience you may have experienced. To connect with our customer support, you can reach us at our dedicated helpline number {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. We strive to provide prompt and efficient service to our valued customers. Is there anything else I can help you with?

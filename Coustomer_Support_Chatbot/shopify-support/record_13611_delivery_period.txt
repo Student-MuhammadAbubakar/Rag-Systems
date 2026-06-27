@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I call to see how long it takes for my package to arrive
-
-Answer: We truly value your enthusiasm to track the progress and estimated arrival time of your package. To offer you the most accurate information, may I kindly request the {{Tracking Number}} or {{Order Number}} associated with your purchase? With this information, we will be able to provide you with an exact estimated delivery date. We appreciate your patience and understanding as we work together to ensure a smooth and satisfying experience.

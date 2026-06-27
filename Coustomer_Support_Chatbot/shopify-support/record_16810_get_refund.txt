@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: refunding{{Currency Symbol}}{{Refund Amount}}
-
-Answer: I've understood that you are seeking a refund of ${{Refund Amount}}. I apologize for any inconvenience this may have caused. To assist you further, I would kindly request some additional information regarding the transaction. Could you please provide me with the date of the purchase and the payment method used? Once I have this information, I will be able to initiate the refund process promptly and ensure that you receive the reimbursement you are entitled to. Thank you for your cooperation, and I appreciate your patience throughout this process.

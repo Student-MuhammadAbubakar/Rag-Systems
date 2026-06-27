@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can i take a quick look at my invoice from {{Person Name}}
-
-Answer: Unquestionably! I completely understand your desire to quickly view the details of your invoice from {{Salutation}} {{Client Last Name}}. To take a quick look at your invoice, you can log in to your account on our website and navigate to the "Invoices" section. There, you should be able to find your invoice with all the relevant information. If you need any further assistance or have any additional questions, feel free to let me know. I'm here to help!

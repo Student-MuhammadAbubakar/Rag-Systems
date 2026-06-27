@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: chcek bills from {{Person Name}}
-
-Answer: I'll make it happen! I understand your need to check the bills associated with Mr. {{Client Last Name}}. To assist you better, could you provide me with the specific details such as the date range or any additional information related to the bills? With this information, I can help you locate the bills more effectively and provide you with the required assistance.

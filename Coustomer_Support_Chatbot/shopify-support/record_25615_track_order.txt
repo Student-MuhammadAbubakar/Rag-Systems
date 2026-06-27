@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I need help tracking purchase {{Order Number}}
-
-Answer: We're here to help! I take note that you need assistance in tracking the purchase with the purchase number {{Order Number}}. Our team is here to help you. To track the status of your purchase, please visit our website and go to the '{{Order Status}}' or '{{Track Order}}' section. You may be required to log in to your account to view the details. If you encounter any difficulties or have further questions, feel free to ask. We are committed to ensuring a smooth and seamless shopping experience for you.

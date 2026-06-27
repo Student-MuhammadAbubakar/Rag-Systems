@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a compensation of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: We understand that you are patiently waiting for a compensation of {{Currency Symbol}}{{Refund Amount}}. We apologize for any inconvenience caused by the delay. Rest assured, our team is working diligently to process your compensation and ensure that it reaches you as soon as possible. We appreciate your patience and understanding in this matter. In the meantime, if you have any further questions or need any additional assistance, please don't hesitate to let us know. We are here to help!

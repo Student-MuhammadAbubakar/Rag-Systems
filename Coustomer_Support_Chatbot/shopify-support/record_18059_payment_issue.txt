@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where do I inform of errors with online payments?
-
-Answer: We greatly appreciate you proactively notifying us about errors with your online payments. To ensure a swift resolution, I recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By providing them with the necessary details, they will be able to assist you promptly and address any concerns you have regarding your online payments. Thank you for bringing this to our attention, and we look forward to resolving this matter for you.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i want assistance to create a premium account
-
-Answer: That's fantastic! I'm here to provide you with the necessary assistance to create a premium account. {{Account Category}} accounts offer a range of exclusive features and benefits that enhance your overall experience. To begin creating your account, please visit our website at {{Website URL}} and locate the "Sign Up" or "Create an Account" button. Once you click on it, you will be guided through the account creation process step by step. If you encounter any difficulties or have questions along the way, feel free to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}}. We're excited to have you join our premium community!

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I don't know what to do to call customer support
-
-Answer: Honored to assist! I'm clued in that you're unsure about how to call our customer support team. Don't worry; I'm here to guide you. To contact our customer support, you can dial our dedicated helpline at {{Customer Support Phone Number}}. Our friendly agents will be ready to assist you with any questions or concerns you may have. Alternatively, you can also reach out to us via Live Chat on our website at {{Website URL}}. We're committed to providing excellent support and ensuring your satisfaction. Please let me know if there's anything else I can help you with.

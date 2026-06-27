@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where can I get the bill #85632?
-
-Answer: I understand your need to locate the bill with the number {{Invoice Number}}. Allow me to assist you with this. To access your bill, you can go to your '{{Billing History}}' section or your '{{Settings}}' page on our website. From there, you should be able to find and download the bill {{Invoice Number}}. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to help!"

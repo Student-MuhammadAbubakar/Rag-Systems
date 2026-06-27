@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can I check my invooce #00108?
-
-Answer: I see your need to check the details of invoice number #{{Invoice Number}}. To access your invoice, you can log in to your account on our website. Navigate to the "Billing" or "Invoices" section, where you should be able to view and download your invoice. If you have any trouble locating it, our customer support team is available to guide you through the process. Please feel free to reach out to them for further assistance.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I want to see how soon can I expect my damn order, help me
-
-Answer: We understand your impatience and frustration regarding the delivery of your order. To provide you with an accurate estimate, may I please have your {{Order Number}}? With this information, I will be able to check the status of your order and give you a better idea of when you can expect it to arrive. We appreciate your patience and understanding.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: help me to see how long it takes for my damn order to arrive
-
-Answer: We understand your frustration and impatience regarding the delivery time of your order. I apologize for any inconvenience caused. To provide you with accurate information, could you please provide the {{Order Number}} or {{Tracking Number}}? With this information, we can track your order and give you an estimated delivery date. Thank you for your understanding and cooperation.

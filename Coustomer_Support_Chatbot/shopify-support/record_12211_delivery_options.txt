@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place na order from {{Delivery Country}}
-
-Answer: Oh, the excitement of international possibilities! Thankfully, we do offer the option to place an order from {{Delivery Country}}. Our global shipping services enable customers like you to enjoy our products and receive them right at your doorstep in {{Delivery Country}}. Simply choose your desired items, proceed to checkout, and select {{Delivery Country}} as your shipping address. We'll take care of the rest and ensure your order is delivered promptly and safely. If you have any specific concerns or if there's anything else I can assist you with, please don't hesitate to let me know. It's our pleasure to make your cross-border shopping experience seamless and delightful!

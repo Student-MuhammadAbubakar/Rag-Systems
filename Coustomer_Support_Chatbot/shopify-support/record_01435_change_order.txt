@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can uhelp me to delete an item from purchase {{Order Number}}
-
-Answer: We appreciate your reaching out to us for assistance with deleting an item from purchase number #{{Order Number}}. We understand the importance of getting your order just right. To help us assist you better, could you please provide us with the specific item you would like to delete? Our team is here to ensure your satisfaction and make the necessary adjustments to your order. Let us know, and we'll take care of it promptly for you.

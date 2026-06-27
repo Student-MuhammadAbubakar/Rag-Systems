@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i cant see the ETA of the order {{Order Number}}
-
-Answer: Grateful for your contact! I get the sense that you're having trouble viewing the estimated time of arrival (ETA) for order {{Order Number}}. I apologize for any inconvenience caused. To assist you with this, could you please provide me with your account information or the email address associated with the order? This will allow me to locate the order details and provide you with the accurate ETA. Your privacy is important to us, and I assure you that any information you provide will be treated with strict confidentiality. Once I have the necessary information, I will promptly look into the matter and provide you with the required ETA.

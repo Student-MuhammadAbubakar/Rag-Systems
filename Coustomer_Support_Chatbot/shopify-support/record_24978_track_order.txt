@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: want assistance to check purchase {{Order Number}} status
-
-Answer: We value your outreach! I'm in tune with the fact that you would like assistance in checking the status of your purchase with purchase number {{Order Number}}. To provide you with the most accurate information, could you please confirm the platform or website from which you made this purchase? This will help me guide you in the right direction to access the purchase status. Additionally, if you have any other questions or concerns, feel free to let me know. I'm here to assist you every step of the way!

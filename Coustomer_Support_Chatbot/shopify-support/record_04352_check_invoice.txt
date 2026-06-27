@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need help giving a quick look at the invoice from {{Person Name}}
-
-Answer: I truly appreciate your trust in us to provide quick assistance in accessing the invoice from {{Person Name}}. Swift action is key, and I assure you we'll guide you through this process seamlessly. Could you please provide me with any relevant details such as the invoice number, date range, or any other specific information that might help us locate the invoice swiftly? Rest assured, I'm here to make this experience as efficient and satisfying as possible.

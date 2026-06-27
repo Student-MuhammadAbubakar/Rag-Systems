@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect an refund of {{Refund Amount}} dollars
-
-Answer: I completely understand the value of your expected refund of {{Currency Symbol}}{{Refund Amount}}. We recognize the importance of timely reimbursements, and I'm here to assist you with tracking the status. Rest assured, I will promptly look into it and provide you with the necessary updates. In the meantime, may I ask if you have any specific concerns or questions regarding your refund? Your feedback is essential to us, and we want to ensure your satisfaction throughout this process.

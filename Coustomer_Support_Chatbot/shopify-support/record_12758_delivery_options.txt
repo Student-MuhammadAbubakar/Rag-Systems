@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipping to {{Delivery Country}}
-
-Answer: Thank you for your interest in shipping to {{Delivery Country}}! We offer shipping options to various international locations, including {{Delivery Country}}. Our delivery options are designed to meet your needs and ensure a smooth shipping experience. Whether you choose our standard shipping, expedited shipping, or even in-store pickup, we strive to provide you with convenient and reliable shipping services. If you have any specific questions or concerns regarding shipping to {{Delivery Country}}, please feel free to let us know. We're here to assist you every step of the way!

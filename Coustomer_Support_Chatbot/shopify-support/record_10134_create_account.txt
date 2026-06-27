@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create {{Account Category}} account
-
-Answer: That's fantastic news! I'm thrilled to assist you in creating your {{Account Category}} account. This account tier offers a variety of exclusive features and privileges tailored to meet your needs. To get started, I'll need a few details from you such as your full name, email address, and a preferred username. Rest assured that your privacy and security are of the utmost importance to us, and we'll ensure that your information is handled with the highest level of confidentiality. Once we have all the necessary information, I'll guide you step-by-step through the account creation process, ensuring that you have a seamless and enjoyable experience. Let's embark on this journey together!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can you give me information about opening {{Account Type}} accounts?
-
-Answer: Of course! I'd be delighted to provide you with information about opening {{Account Type}} accounts. Our {{Account Type}} accounts offer exclusive features and benefits, tailored to meet the needs of our valued customers like you. By upgrading to a {{Account Type}} account, you can unlock advanced functionality, gain access to premium content, enjoy priority customer support, and much more. To proceed with opening a {{Account Type}} account, I kindly request you to follow these simple steps: [provide step-by-step instructions on how to open a {{Account Type}} account]. Should you have any questions or need further assistance along the way, please don't hesitate to reach out. We're here to help you make the most of your {{Account Type}} account experience.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I call to see when my package is going to arrive
-
-Answer: We completely understand your eagerness to track the progress of your package and determine its estimated arrival time. To assist you, could you please provide the {{Tracking Number}} or {{Order Number}}? With that information, we can provide you with an accurate update on the status of your package and the expected delivery date. Thank you for your patience and cooperation as we work together to ensure a smooth delivery experience for you.

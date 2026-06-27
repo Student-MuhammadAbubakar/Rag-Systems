@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I have to delete several items from purchase {{Order Number}}
-
-Answer: Thanks for dropping us a line to us with your inquiry about deleting several items from purchase with the number {{Order Number}}. We understand that you may have changed your mind or encountered any other reasons for modifying your order. Our team is here to provide the necessary assistance. To help you with this request, could you please provide us with the specific items you would like to remove? This way, we can ensure that the necessary changes are made promptly and accurately. We appreciate your cooperation and look forward to helping you with your purchase modification.

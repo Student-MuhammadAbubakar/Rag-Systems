@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need to look for the bill from {{Person Name}}, how to do it?
-
-Answer: Sure! I understand your need to locate the bill from {{Salutation}} {{Client Last Name}}. Let's work together to find the information you're looking for. Could you please provide me with any additional details, such as the date range or any specific keywords related to the bill? This will greatly assist me in narrowing down the search and providing you with accurate results. Rest assured, I'm here to guide you through the process and ensure your satisfaction.

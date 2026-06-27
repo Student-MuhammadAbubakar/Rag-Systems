@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I have a question about the termination of my {{Account Type}} account
-
-Answer: We're here for you about terminating your {{Account Type}} account. We understand that account termination is an important process, and we're here to assist you every step of the way. Please let us know what specific question you have regarding the termination of your {{Account Type}} account, and we'll provide you with the necessary guidance and support. Remember, your satisfaction is our top priority, and we're committed to ensuring a smooth and seamless account termination experience for you.

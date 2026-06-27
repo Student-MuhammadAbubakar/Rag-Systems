@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I never use my {{Account Type}} account, I don't know how I can close it
-
-Answer: I've understood, you no longer use your {{Account Type}} account and would like to close it. I apologize for any confusion or difficulty you may be facing. To assist you with this, I recommend reaching out to our customer support team directly. They will guide you through the process of closing your {{Account Type}} account and provide any additional information you may need. You can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}}. Rest assured that we are here to support you in ensuring a smooth account closure experience.

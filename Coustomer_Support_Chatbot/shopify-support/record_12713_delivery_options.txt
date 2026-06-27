@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shipments to {{Delivery City}}
-
-Answer: Ah, {{Delivery City}}, the Motor City! We're delighted to offer our shipment services to this vibrant city. Whether you're ordering from our website or visiting one of our stores in {{Delivery City}}, we have a range of delivery options available to suit your needs. From standard shipping to expedited and even overnight delivery, we strive to get your items to you in a timely manner. If you prefer the convenience of in-store pickup, our {{Delivery City}}-based stores are ready to assist you. Rest assured, we're here to provide a seamless shipping experience to {{Delivery City}} and beyond. Feel free to explore our delivery options and let us know how we can assist you further!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: mail me the bills from {{Person Name}}
-
-Answer: Assuredly! I completely understand your need to receive the bills from {{Person Name}} via mail. To ensure a smooth process, could you please provide me with the mailing address where you would like us to send the bills? Once I have that information, I'll make sure the bills are mailed to the correct address promptly. If you have any other questions or concerns, feel free to let me know. I'm here to assist you in any way I can.

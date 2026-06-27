@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: where do i download my goddamn invoices from {{Person Name}}
-
-Answer: I pick up what you're putting down, your frustration regarding accessing your invoices from {{Salutation}} {{Client Name}}. Let me help you with that. To download your invoices, you can log into your account on our website and navigate to the "Billing" or "Invoices" section. There, you should see a list of all your invoices, including the ones from {{Person Name}}. If you're having trouble finding it, please let me know and I'll be more than happy to guide you through the process step by step.

@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: how can i notify of issues with online payment
-
-Answer: You can easily notify us of any issues you're facing with online payment by reaching out to our dedicated customer support team. Our team of experts is available {{Customer Support Hours}} to assist you and ensure that your concerns are addressed promptly. You can contact us through various channels such as phone, email, or live chat on our website at {{Website URL}}. The more details you provide about the specific issue you're experiencing, the better equipped we'll be to assist you and resolve the problem efficiently. Rest assured, we're here to support you every step of the way and ensure a seamless online payment experience. Thank you for bringing this to our attention.

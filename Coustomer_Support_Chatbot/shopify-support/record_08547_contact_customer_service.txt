@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I am trying to talk with customer support
-
-Answer: Glad you contacted us! I'm clearly cognizant that you are trying to get in touch with our customer support team. Rest assured that we are here to assist you. Our customer support team is available during our {{Customer Support Hours}}. You can reach out to them through various channels, such as phone, email, or live chat on our website. If you can provide me with your preferred contact method, I will be happy to guide you on how to reach our customer support team effectively.

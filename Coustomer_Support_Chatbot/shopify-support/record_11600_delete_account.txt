@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I don't know how to close my {{Account Type}} account
-
-Answer: I appreciate you reaching out regarding the closure of your {{Account Type}} account. I understand that you may be facing some confusion about the process, and I'm here to assist you. To close your {{Account Type}} account, you can follow the steps mentioned in our support article titled "How to Close Your Free Account." It provides a detailed walkthrough of the procedure and ensures a seamless experience. If you encounter any difficulties or have further questions, please don't hesitate to let me know. Together, we'll make sure your account is closed smoothly and efficiently.

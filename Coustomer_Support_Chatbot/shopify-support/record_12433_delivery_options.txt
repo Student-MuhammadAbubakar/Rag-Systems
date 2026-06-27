@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you deliver to {{Delivery City}} ?
-
-Answer: Fantastic! We're pleased to share that we offer delivery services not only in major cities but also in {{Delivery City}}. You can conveniently have your purchases delivered right to your doorstep. Now you can enjoy our wide range of products without any worries about delivery. If you have any specific queries or concerns about delivery to {{Delivery City}} or anything else, feel free to let me know. I'm here to assist you!

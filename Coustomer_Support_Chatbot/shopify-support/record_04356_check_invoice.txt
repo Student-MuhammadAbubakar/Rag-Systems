@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I want help taking a quick look at bill #85632
-
-Answer: Absolutely! I understand that you're seeking assistance in taking a quick look at the details of your bill with the number #{{Invoice Number}}. I'm here to assist you with that. To access your bill information, you can log in to your account on our website and navigate to the billing section. From there, you should be able to find a summary of your bill which includes the amount due, due date, and any itemized charges. If you have any specific questions or need further guidance, please don't hesitate to let me know.

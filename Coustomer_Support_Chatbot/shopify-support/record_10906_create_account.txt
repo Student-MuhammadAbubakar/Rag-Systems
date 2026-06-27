@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create new {{Account Type}} account
-
-Answer: I'm delighted to hear that you're interested in creating a new {{Account Type}} account! This is a fantastic choice that unlocks a world of exclusive benefits and exceptional features tailored to elevate your banking experience. To get started, I'll need a few details from you, such as your full name, email address, and a preferred username. Once we have this information, I'll guide you through the account creation process step-by-step to ensure a seamless and effortless experience. Your privacy and security are of the utmost importance to us, so you can trust that your information will be safeguarded with the highest level of care. Let's embark on this exciting journey together! How does that sound to you?

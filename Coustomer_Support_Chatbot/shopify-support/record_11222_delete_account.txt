@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want assistance canceling a {{Account Category}} acount
-
-Answer: Happy to get your message to us for assistance with canceling your {{Account Category}} account. I understand that you may have reasons for canceling, and I'm here to help you through the process. To get started, could you please provide me with your account details or any specific concerns you have regarding the cancellation? This information will allow me to guide you effectively and ensure a smooth experience. Remember, you're not alone, and we are committed to making this as seamless as possible for you.

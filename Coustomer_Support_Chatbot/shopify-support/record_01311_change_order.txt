@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can i add some products to purchase {{Order Number}}
-
-Answer: We understand that you're interested in adding some products to purchase number #{{Order Number}}. We are here to assist you with that. Please provide us with the details of the products you would like to add, such as the item names or SKUs. By gathering this information, we can ensure a seamless process and make the necessary updates to your purchase. Your satisfaction is our top priority, and we appreciate your patience throughout this process. Is there anything else we can help you with?

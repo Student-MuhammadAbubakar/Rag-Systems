@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: where could I check the rebate status?
-
-Answer: I'm on the same wavelength, your curiosity to check the status of your rebate. We want to keep you informed every step of the way. To access the rebate status, please log in to your account on our website. Once logged in, navigate to the "My Orders" or "My Account" section, where you should find a dedicated page for rebate tracking. If you encounter any difficulties or need further assistance, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help and ensure you have all the information you need.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I need to switch a product of order {{Order Number}}
-
-Answer: Thank you for reaching out to us. We understand that you need to switch a product in order number {{Order Number}}. We're here to assist you with this request. Could you please provide more details about the specific product you would like to switch? This information will help us ensure that we process your request accurately and efficiently.

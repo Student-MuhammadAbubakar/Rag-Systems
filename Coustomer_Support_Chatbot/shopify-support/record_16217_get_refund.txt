@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: rebate {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I'm with you that you are seeking a rebate of ${{Refund Amount}}. Requesting a rebate is a common practice in situations where you believe you are entitled to a refund or compensation. To proceed with your request, I recommend contacting our customer support team who will assist you in initiating the rebate process. They can guide you through the necessary steps and provide you with detailed information on the rebate eligibility criteria. By reaching out to them, you can ensure that your request is addressed promptly and efficiently, allowing you to receive the rebate you are entitled to.

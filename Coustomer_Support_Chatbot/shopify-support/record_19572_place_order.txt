@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where could I shop several of your item?
-
-Answer: Thank you for your interest in shopping with us! We offer a wide range of items that you can shop conveniently from the comfort of your own home. Our online store is the perfect place to explore and purchase several of our items. Simply visit our website at {{Website URL}}, where you'll find a user-friendly interface and a diverse selection of products to choose from. If you have any specific items in mind or need assistance with your purchase, our dedicated team of customer service representatives is available to provide personalized guidance and support. We're just a click away!

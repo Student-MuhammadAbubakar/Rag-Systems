@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: how do I delete some bloody products from purchase {{Order Number}}?
-
-Answer: We appreciate your inquiry regarding the removal of the products from purchase number {{Order Number}}. To ensure accurate assistance, could you please provide us with the specific products you wish to remove? This will enable us to promptly address your request and make any necessary modifications to your purchase. Thank you for your cooperation, and we look forward to resolving this for you.

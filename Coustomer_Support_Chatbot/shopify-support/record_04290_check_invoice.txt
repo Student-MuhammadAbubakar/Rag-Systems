@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need to see my bills from {{Person Name}}
-
-Answer: I understand your need to see your bills from {{Salutation}} {{Client Last Name}}. Is there a specific time period or any other details I should consider to assist you better? Rest assured, I'm here to guide you and provide the information you require.

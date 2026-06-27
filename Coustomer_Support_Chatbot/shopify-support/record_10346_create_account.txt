@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I don't know how I can create a {{Account Type}} account
-
-Answer: No worries at all! I'm here to guide you through the process of creating a {{Account Type}} account. To get started, you can visit our website and navigate to the account creation page. Once you're there, you'll find a step-by-step guide on how to create a {{Account Type}} account. If you encounter any specific issues or have any questions along the way, feel free to reach out to our customer support team who will be more than happy to assist you. Creating a {{Account Type}} account is quick and easy, and I'm confident you'll have it up and running in no time!

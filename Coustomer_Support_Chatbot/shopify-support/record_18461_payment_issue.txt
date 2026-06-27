@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: help me to inform of an issue with online payment
-
-Answer: Grateful you reached out to us regarding the issue you're facing with your online payment. We understand that reporting the issue promptly is crucial, and we're here to guide you through the process. To inform us of the problem, I recommend reaching out to our customer support team either via phone or live chat. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will listen attentively to your concerns, gather all the necessary information, and provide a swift resolution. Rest assured, we'll do everything we can to ensure your payment issue is resolved effectively and to your satisfaction. Thank you for bringing this to our attention, and we appreciate your patience as we work towards a solution.

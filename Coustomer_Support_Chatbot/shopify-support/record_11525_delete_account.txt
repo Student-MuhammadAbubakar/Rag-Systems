@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I want help canceling my {{Account Type}} account
-
-Answer: Grateful you reached out to us for assistance with canceling your {{Account Type}} account. We understand that canceling a subscription can sometimes be a complicated process, but don't worry, we're here to guide you through it. To initiate the cancellation, please provide us with the registered email address or any other relevant account details associated with your {{Account Type}} account. Once we have the necessary information, we will ensure a smooth cancellation process and send you a confirmation email. We value your membership with us, and we want to make sure you're taken care of every step of the way.

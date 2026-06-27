@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I need an {{Account Type}} account
-
-Answer: Wonderful! Thank you for expressing interest in opening a {{Account Type}} account with us. As our valued customer, your financial aspirations are our top priority. In order to assist you with this process, could you please provide me with the following information: your full name, email address, and a preferred username. Once I have these details, I'll guide you through the steps to create your {{Account Type}} account and ensure you're equipped with all the necessary information. Rest assured, your personal information will be handled with the utmost care and security. Let's embark on this enriching journey together! How are you feeling about this new step?

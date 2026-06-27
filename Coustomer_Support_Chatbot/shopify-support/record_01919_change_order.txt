@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: assistance adding some items to purchase {{Order Number}}
-
-Answer: Thank you for contacting us for assistance with adding items to purchase number {{Order Number}}. I understand that you may want to include additional items or make modifications to your existing purchase, and I'm here to help. To proceed with adding items to your purchase, please provide me with the specific details of the items you'd like to add. This will enable me to guide you through the process seamlessly. Your satisfaction is our priority, and we want to ensure that your purchase meets your expectations. Please let me know how many items you would like to add and any additional specifications regarding the products.

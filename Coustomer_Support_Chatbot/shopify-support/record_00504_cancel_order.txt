@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: cancel_order
-
-Question: can uhelp me cancelliung order {{Order Number}}
-
-Answer: I've realized that you need help canceling order {{Order Number}}. I'm here to assist you throughout the process and provide the necessary guidance. Let's get started!

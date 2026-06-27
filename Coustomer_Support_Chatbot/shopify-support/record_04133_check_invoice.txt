@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need help giving a quick look at my invouce from {{Person Name}}
-
-Answer: I understand your need to quickly review the invoice from {{Salutation}} {{Client Last Name}}. Let's work together to expedite this process. Could you please provide me with any specific details like the date, invoice number, or any other relevant information that can help me locate the invoice more efficiently?

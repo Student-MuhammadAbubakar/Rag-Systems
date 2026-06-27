@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can uhelp me remove several articles from order {{Order Number}}
-
-Answer: Honored to assist! I'm clued in that you need assistance with removing several articles from order number {{Order Number}}. We're here to help you with that. Please let us know the specific articles you would like to remove, and we will promptly make the necessary adjustments to your order. Your satisfaction is our priority, and we want to ensure that your order reflects exactly what you need.

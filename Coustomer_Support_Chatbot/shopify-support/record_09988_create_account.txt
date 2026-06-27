@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: i aint registered yet could i create a bloody gold acocunt
-
-Answer: Thank you for reaching out! I'm thrilled to assist you in creating a {{Account Type}} account. To get started, please provide me with your full name, email address, and a preferred username. Once I have these details, I'll guide you through the process step-by-step, ensuring that you have a seamless experience. Rest assured that your security and privacy are of utmost importance to us. Your information will be handled with the highest level of care. Let's begin this exciting journey together!

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I try to see whne will my item arrive
-
-Answer: We understand your excitement to receive your item and the curiosity to know when it will arrive. In order to provide you with an accurate delivery estimate, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we will be able to track your item and provide you with the most up-to-date information on its expected arrival. We appreciate your cooperation and look forward to assisting you further!

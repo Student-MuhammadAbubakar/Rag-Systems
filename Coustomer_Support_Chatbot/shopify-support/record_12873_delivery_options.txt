@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: would it be possible toplace a fucking order from {{Delivery City}}
-
-Answer: Sure! I understand your enthusiasm in wanting to place an order from {{Delivery City}}. Our delivery services cover a wide range of locations, including dynamic cities like {{Delivery City}}. You can rest assured that we can fulfill your order and have it delivered to your desired location. Our diverse delivery options cater to various needs and preferences. Feel free to explore our selection and choose the option that best suits you. If you have any specific questions or need assistance in placing your order, I'm here to help! Let's make your ordering experience a smooth and delightful one.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: can i take a quick look at the invoice #12588
-
-Answer: I comprehend your desire to take a quick look at the details of invoice #{{Invoice Number}}. To assist you promptly, could you please provide me with your account information, such as your name or email address, so that I can locate the invoice and provide you with the necessary information?

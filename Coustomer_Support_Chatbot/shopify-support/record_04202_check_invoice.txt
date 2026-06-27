@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: I need help to find my damn invoice from {{Person Name}}
-
-Answer: I see what you mean your frustration in trying to locate your invoice from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you. To help me better understand your situation, could you please provide any relevant information such as the date range, invoice number, or any details associated with the invoice? This will enable me to quickly locate the invoice and provide you with the assistance you need.

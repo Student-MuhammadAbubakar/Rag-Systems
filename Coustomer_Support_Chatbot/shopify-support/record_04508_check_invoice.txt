@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: want assustance to look for my bloody bills from {{Person Name}}
-
-Answer: I appreciate your request for assistance in locating your invoice(s) from {{Person Name}}. I completely understand the importance of finding these documents promptly. To better assist you, could you please provide any specific details such as the invoice number, date range, or any other pertinent information you have? With this information, I will be able to help you find your bill(s) efficiently and make sure all your concerns regarding them are addressed.

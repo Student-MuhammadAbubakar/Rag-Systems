@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want assistance seeing the damn reimbursement status
-
-Answer: I fathom that you're frustrated and seeking assistance to check the status of your reimbursement. Rest assured that I'm here to help you with that. Please provide me with your {{Order Number}} or any other relevant information so that I can promptly look into the status and provide you with accurate information. Your satisfaction is our priority, and we will do our best to resolve this for you.

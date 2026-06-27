@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to ordet from {{Delivery Country}}
-
-Answer: Surely! We gladly accept orders from {{Delivery Country}} as well. Our shipping options extend to various locations, including {{Delivery Country}}. So you can definitely place an order from there. If you have any specific concerns or questions regarding the ordering process or need assistance with anything else, feel free to let me know. I'm here to make your experience seamless and enjoyable.

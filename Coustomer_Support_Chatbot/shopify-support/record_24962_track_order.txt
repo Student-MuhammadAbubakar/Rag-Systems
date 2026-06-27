@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: show me purchase {{Order Number}} current status
-
-Answer: We're listening! I'm keyed into the fact that you would like to check the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please share the platform or website where you made the purchase? This will allow me to guide you to the exact location where you can find the purchase status. I'm here to assist you every step of the way!

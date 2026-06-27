@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: need assistance to get my invoice #85632
-
-Answer: I'll take care of it! I completely understand your need to access your invoice with the esteemed number {{Invoice Number}}. Allow me just a moment to retrieve this vital document for you. In the meantime, if you have any other inquiries or concerns, please feel free to let me know. I'm here to provide you with the utmost support and assistance.

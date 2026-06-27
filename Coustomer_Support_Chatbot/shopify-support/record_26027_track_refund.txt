@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a damn rebate of {{Refund Amount}} dollars
-
-Answer: Firstly, I'd like to express my sincere gratitude for your patience in awaiting the rebate of {{Currency Symbol}}{{Refund Amount}}. We understand how important this reimbursement is to you and we are committed to resolving this matter as quickly as possible. Let me personally investigate the current status of your rebate and provide you with an update. In the meantime, I would like to ask if you have any previous experience with rebate requests? Your insights are valuable to us as we strive to improve our processes and ensure your satisfaction. Thank you for your understanding and trust in our service.

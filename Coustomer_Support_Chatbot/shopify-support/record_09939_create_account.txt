@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: new bloody {{Account Type}} account for father
-
-Answer: How exciting! I'm thrilled to assist you in creating a new account for your father. Please allow me a moment to gather the necessary information. Could you please provide me with your father's full name, email address, and a preferred username? Once I have these details, I will guide you through the account creation process step-by-step. Just a reminder, the safety and security of your father's information are of the utmost importance to us, and we have stringent measures in place to protect his privacy.

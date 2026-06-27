@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: where do i report an issue with paynents
-
-Answer: I'm clearly cognizant the frustration you're experiencing with your payment issue, and I'm here to guide you on where to report it. To ensure your concern is addressed promptly, I recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By contacting them, you'll receive personalized assistance and the necessary guidance to report and resolve your payment issue effectively. Thank you for reaching out, and we appreciate your patience as we work towards a solution.

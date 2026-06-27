@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I don't know what I need to do to talk to somebody
-
-Answer: Your message means a lot! I'm aligned with the idea that you're unsure of the steps to take to talk to somebody. Don't worry, I'm here to assist you. To connect with a representative, you can try reaching out to our customer service hotline at {{Customer Support Phone Number}}, or you can use the live chat feature on our website at {{Website URL}}. Our dedicated team is available to provide you with the support you need. Feel free to share any specific concerns you have, and we'll make sure to address them when you connect with our team.

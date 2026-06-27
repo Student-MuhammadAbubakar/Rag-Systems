@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: reimburse {{Refund Amount}} dollars
-
-Answer: I'm with you, your need to be reimbursed for the amount of ${{Refund Amount}}. To proceed with the refund process, I recommend reaching out to our customer support team. They have the expertise to guide you through the necessary steps and documentation required to initiate the reimbursement. You can contact our customer support team through {{Live Chat Support}} or visit our website at {{Website URL}} for further assistance. Rest assured, we are committed to resolving this matter for you as efficiently as possible.

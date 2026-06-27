@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want to talk with customer support
-
-Answer: Honored to assist! I'm clued in that you're looking to have a conversation with our customer support team. We're here to assist you and provide the help you need. You can reach our customer support team during {{Customer Support Hours}}. Please let me know if there's anything specific you would like to discuss or any questions you have in mind. Your satisfaction is our top priority, and we're committed to resolving any concerns you may have. How can I assist you further?

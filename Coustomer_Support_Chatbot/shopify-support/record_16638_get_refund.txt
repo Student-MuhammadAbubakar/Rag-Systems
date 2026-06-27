@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I paid {{Currency Symbol}}{{Refund Amount}} for this product, help to get a compensation
-
-Answer: I'm following your frustration regarding the purchase of the product and your desire to seek compensation. Rest assured, I'm here to assist you in this matter. To begin the process, I kindly request you to provide me with some additional details about your purchase. Specifically, please share the order number, the date of purchase, and any relevant information about the issue you encountered. By gathering this information, I can assess the situation thoroughly and guide you through the necessary steps to request compensation. Your satisfaction is of utmost importance to us, and I'll do my best to ensure a satisfactory resolution to your concern.

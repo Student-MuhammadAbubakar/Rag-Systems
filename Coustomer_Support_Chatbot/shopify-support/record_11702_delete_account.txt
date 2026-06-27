@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I have a question about my {{Account Category}} account deletion
-
-Answer: Thank you for getting in touch about your {{Account Category}} account deletion. I'm here to assist you with any questions or concerns you may have. Please provide me with the specific details of your inquiry so that I can provide you with accurate information and guide you through the deletion process. Your satisfaction is our top priority, and we want to ensure that you have a smooth experience.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_human_agent
-
-Question: I do not know how to speak to an assistant
-
-Answer: Your input is valuable! I'm picking up that you're unsure about the process to speak to an assistant. Rest assured, I'm here to guide you. To connect with one of our dedicated assistants, you can try reaching out to our customer support hotline at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. Our friendly and knowledgeable team will be more than happy to address your concerns and provide the assistance you need. Feel free to ask any further questions you may have. We're committed to ensuring a smooth and helpful experience for you!

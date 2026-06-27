@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need to talk to customer support, how can I do it?
-
-Answer: Your reach-out is appreciated! I'm sensing that you are in need of assistance from our customer support team. To connect with them, you can reach out to our dedicated customer support hotline at {{Customer Support Phone Number}} or utilize the Live Chat feature on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} to address any concerns or queries you may have. Please don't hesitate to reach out and let us know how we can assist you!

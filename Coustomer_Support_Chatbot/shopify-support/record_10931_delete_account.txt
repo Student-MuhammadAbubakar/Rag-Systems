@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: where can i find information about a gold account deletion
-
-Answer: Glad you got in touch about deleting your {{Account Type}} account. I understand that you would like to find information on how to proceed with the deletion process. You can refer to our website's FAQ page, specifically the section dedicated to account management or account closure. There you will find detailed instructions and step-by-step guidelines on how to delete your {{Account Type}} account. If you need any further assistance or have any specific questions regarding the deletion process, please don't hesitate to ask. We are here to support you throughout the entire process.

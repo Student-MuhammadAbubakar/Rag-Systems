@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: could you help me check my invoices from {{Person Name}}?
-
-Answer: I truly value our connection here. Recognizing your genuine desire to check your invoices related to {{Client First Name}} {{Client Last Name}}, it reminds me how important it is to have a clear overview of your financial records. Let's work together to get you the information you need. Could you please provide me with the {{Date Range}} or any specific details regarding the invoices you would like to check? Rest assured, I'm here to assist you every step of the way.

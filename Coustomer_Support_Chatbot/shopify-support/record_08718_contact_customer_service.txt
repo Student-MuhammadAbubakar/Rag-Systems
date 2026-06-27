@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to speak with customer support
-
-Answer: No worries! I completely understand your need to speak with our customer support team. They are available to assist you during {{Customer Support Hours}}. To reach them, you can call {{Customer Support Phone Number}} or connect with them through the Live Chat on our website at {{Website URL}}. Our dedicated team is here to listen, guide, and address any questions or concerns you may have. How can we make your experience exceptional today?

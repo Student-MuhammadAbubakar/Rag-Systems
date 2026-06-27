@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: show early exit penalty
-
-Answer: I'm sorry, but we do not have an early exit penalty for our contracts. You are free to terminate your contract at any time without incurring any additional fees.

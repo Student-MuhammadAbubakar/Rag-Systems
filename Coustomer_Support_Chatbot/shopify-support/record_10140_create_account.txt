@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: what do i need to do to create a {{Account Category}} account
-
-Answer: Thank you for expressing your interest in creating a {{Account Category}} account with us! I'm here to guide you through the process and make it as smooth as possible. To get started, you'll need to visit our website or download our mobile app. From there, you'll find the option to sign up for a new account. During the registration process, you'll be asked to provide some basic information such as your name, email address, and a password. Once you submit the required details, your {{Account Category}} account will be created, and you'll have access to the basic features and services we offer. If you have any additional questions or need further assistance, please feel free to let me know.

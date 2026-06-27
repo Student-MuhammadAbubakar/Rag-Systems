@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do you shp to {{Delivery City}}?
-
-Answer: {{Delivery City}}, a city steeped in history, culture, and stunning architecture. It's my pleasure to inform you that we do offer shipping services to {{Delivery City}}! Our wide range of delivery options ensures that you can receive your items with ease and convenience. Whether you choose our standard shipping, expedited shipping, or even opt for in-store pickup, we've got you covered. If you have any specific concerns or questions regarding shipping to {{Delivery City}} or any other inquiries, feel free to let me know. It's my priority to assist you every step of the way!

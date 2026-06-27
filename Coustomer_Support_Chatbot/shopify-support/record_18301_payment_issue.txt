@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: I try to notify of an error with online payment
-
-Answer: I appreciate you reaching out to inform us about the error you encountered during your online payment. It's essential for us to collect all the necessary details about the error to help us investigate and resolve the issue promptly. Could you kindly provide some specific information about the error you received, such as any error codes, error messages, or a description of what happened? This information will assist us in understanding the problem better and finding an appropriate solution to ensure a seamless payment experience for you in the future. Thank you for bringing this to our attention, and we'll be here for you every step of the way.

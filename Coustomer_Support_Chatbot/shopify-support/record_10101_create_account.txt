@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: help me create a new fucking {{Account Category}} account
-
-Answer: I'll make it happen! I'm here to assist you in creating a new {{Account Category}} account. I apologize if you encountered any frustration along the way. To get started, I would need some information from you. Could you please provide your full name, email address, and a preferred username? Once I have these details, I will guide you through the process step-by-step, ensuring a smooth experience. Rest assured that we take your privacy and security very seriously, and all the information you provide will be treated with the utmost care.

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: create pro account for wife
-
-Answer: Thank you for choosing to create a {{Account Type}} account for your wife! What a wonderful gesture. I'm here to assist you with the process. Could you please provide me with your wife's full name, email address, and a preferred username? Rest assured that I'll make sure the registration is seamless and secure. Let's get started on this exciting new journey together!

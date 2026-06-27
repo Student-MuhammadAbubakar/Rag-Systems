@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: wanna check the status of order {{Order Number}} how to dl it
-
-Answer: We're listening! I'm keyed into the fact that you would like to check the status of order {{Order Number}} and learn how to download it. To view the status of your order, please visit the 'Order History' section on our website. As for downloading the order, it depends on the type of purchase. If it's a digital product, you may find a download link or instructions in your order details. If it's a physical product, there may not be a download option available. If you have any further questions or need assistance, feel free to ask. I'm here to help you every step of the way!

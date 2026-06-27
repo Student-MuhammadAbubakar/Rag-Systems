@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I don't know how I can get in touch with customer support
-
-Answer: We're listening! I'm keyed into the fact that you're unsure about how to contact our customer support team. Rest assured, we're here to assist you. To get in touch with our customer support, you can reach out to us through various channels such as phone, email, or live chat. Our dedicated team is available during {{Customer Support Hours}} to provide you with the necessary assistance. If you can provide more specific details on your query or the nature of your concern, I'll be able to guide you better. How can I further assist you today?

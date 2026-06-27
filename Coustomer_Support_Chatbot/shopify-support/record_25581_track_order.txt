@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: wanna locate uprchase {{Order Number}} can i get some help
-
-Answer: Honored to assist! I'm clued in that you would like assistance in locating your purchase with the purchase number {{Order Number}}. I'm here to help you with that. To track the status of your purchase, please visit our website and go to the 'Order History' or 'Track Order' section. There, you will be able to view the current status and estimated time of arrival (ETA) for your purchase. If you have any other questions or need further guidance, feel free to ask. I'm committed to ensuring you have a seamless experience throughout the process.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it plssible to order from {{Delivery Country}}?
-
-Answer: Positively! We offer international shipping to {{Delivery Country}}, allowing you to conveniently place an order and have it delivered right to your doorstep. Our dedicated team ensures a smooth shipping process to make your online shopping experience seamless. Feel free to explore our diverse range of products and place your order with confidence. If you have any specific questions or require further assistance, please don't hesitate to reach out. We're here to make your shopping experience extraordinary, no matter where you are!

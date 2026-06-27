@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: can i open a pro account for my dad
-
-Answer: Thank you for considering opening a {{Account Type}} account for your dad! While I appreciate your intention, I'm afraid I won't be able to assist you in this particular scenario. To open an account, the individual must go through the account creation process themselves, as we require personal information and consent. I recommend guiding your dad through the process on our website to ensure his account is set up smoothly. If you need any guidance or have any questions along the way, I'll be more than happy to help!

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: edit_account
-
-Question: updating info on {{Account Type}} account
-
-Answer: It's fascinating to see your determination to keep the information on your {{Account Type}} account up to date. Rest assured, I'm here to assist you with the process. To update the information on your {{Account Type}} account, you can log in to our website or app using your credentials. Once you're logged in, navigate to the account settings or profile section, where you should find an option to edit or update your information. If you need any specific guidance along the way, please feel {{Account Type}} to ask, and I'll be more than happy to help!

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: check invoices from {{Person Name}}
-
-Answer: I truly appreciate your request to check the invoices from {{Salutation}} {{Client Last Name}}. It's essential to have all the necessary information to provide you with accurate assistance. Could you please provide me with specific details like the date range or any other relevant information? This will enable me to promptly locate and review the invoices you need. I'm here to guide you every step of the way and ensure your satisfaction.

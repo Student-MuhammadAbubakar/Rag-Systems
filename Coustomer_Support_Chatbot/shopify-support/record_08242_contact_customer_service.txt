@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I have to talk to customer support, can I get some help?
-
-Answer: Your input is valuable! I'm picking up that you need to talk to our customer support team and require assistance. Our dedicated team is available to help you and provide the support you need. You can contact our customer support during {{Customer Support Hours}}. Is there anything else I can assist you with?

@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: i cannot pay want help to report errors with payments
-
-Answer: I'm sorry to hear that you're facing difficulties with making a payment. We understand how frustrating this can be. To report the errors with your payments, I suggest reaching out to our customer support team directly. They will be able to assist you further and provide guidance on how to resolve the issue. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reporting the errors, we will be able to investigate the issue and work towards a resolution. Thank you for bringing this to our attention, and we appreciate your patience as we work on resolving the problem.

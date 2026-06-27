@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: i do not know how i can see the ETA of purcyase {{Order Number}}
-
-Answer: I see what you mean! I'm on the same page that you're unsure about how to view the estimated time of arrival (ETA) for your purchase with the order number {{Order Number}}. Allow me to assist you with that. To check the ETA of your purchase, please visit the '{{Order Status}}' section on our website. There, you will find all the details regarding the tracking and delivery status of your order. If you have any further questions or if there's anything else I can help you with, feel free to let me know. I'm here to ensure your experience with us is smooth and enjoyable!

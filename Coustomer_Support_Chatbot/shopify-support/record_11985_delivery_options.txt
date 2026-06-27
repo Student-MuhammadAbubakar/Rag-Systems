@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: can I order from {{Delivery Country}}?
-
-Answer: I'm happy to help! We offer international shipping, including to {{Delivery Country}}. We believe in making our products accessible to customers worldwide. When you're ready to place your order, simply select the items you'd like, proceed to checkout, and enter your shipping address details. Our system will calculate the shipping cost and provide an estimated delivery timeframe for your convenience. If you have any specific questions or concerns about ordering from {{Delivery Country}}, feel free to let us know, and we'll be more than happy to assist you throughout the process. Happy shopping!

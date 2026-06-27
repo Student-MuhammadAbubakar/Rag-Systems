@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: I have paid {{Currency Symbol}}{{Refund Amount}} for this order, where to get a rebate?
-
-Answer: We're here for you to us regarding your payment and your request for a rebate. I understand that you are looking for information on where to obtain a rebate for your order, which you have paid ${{Refund Amount}} for. Here at {{Company Name}}, we strive to ensure customer satisfaction, and I apologize for any inconvenience caused. To assist you with obtaining a rebate, I recommend contacting our customer support team through the available channels. Our knowledgeable representatives will be able to guide you through the process and provide you with the necessary information and assistance you need. You can reach our customer support team either by phone at {{Customer Support Phone Number}} or through our website's live chat feature at {{Website URL}}. They will be more than happy to help you with your rebate request and resolve any other concerns you may have. We value your business and appreciate your patience. Thank you for giving us the opportunity to assist you.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: I need to see when will my package arrive, how do I do it?
-
-Answer: We understand your desire to track the arrival of your package and would be happy to assist you. To check the estimated delivery time of your package, you can visit our website and go to the "Order Tracking" section. Enter the tracking number or order number, and the system will provide you with the most up-to-date information regarding the status and expected arrival date of your package. If you encounter any difficulties or need further assistance, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}}. Tracking your package has never been easier, and we're here to help make the process smooth for you.

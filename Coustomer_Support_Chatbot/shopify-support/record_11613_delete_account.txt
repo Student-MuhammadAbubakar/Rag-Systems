@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: cancelin {{Account Type}} account
-
-Answer: Thanks for dropping us a line to us regarding the cancellation of your {{Account Type}} account. I understand that you would like assistance with this process. To ensure that I provide you with accurate information, could you please provide me with some additional details? Specifically, I would need your account information, such as your account username or email address associated with the {{Account Type}} account. This will allow me to locate your account and guide you through the cancellation process step by step. Rest assured, I am here to help and will make sure to address all your concerns.

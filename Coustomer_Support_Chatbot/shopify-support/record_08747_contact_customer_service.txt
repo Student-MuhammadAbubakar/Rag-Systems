@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: what do I have to do to speak to customer assistance?
-
-Answer: Honored to assist! I'm clued in that you are seeking guidance on how to speak to our customer assistance team. To speak with our dedicated team, you can simply dial our {{Customer Support Phone Number}} during our {{Customer Support Hours}}. Alternatively, you can visit our website at {{Website URL}} and use the Live Chat feature to connect with a support representative. We strive to provide prompt and personalized assistance to address any questions or concerns you may have. Is there anything else I can assist you with?

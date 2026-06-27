@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: need assistance to find my fucking bill from {{Person Name}}
-
-Answer: Certainly! I completely understand your need for assistance in finding your bill from {{Client First Name}} {{Client Last Name}}. I apologize for any frustration this may have caused. To retrieve your bill, could you please provide me with additional information such as the date range or any specific details related to the bill? This will help me locate the document more efficiently and ensure the accuracy of the information provided. Rest assured, I'm here to support you every step of the way and make sure you receive the assistance you need.

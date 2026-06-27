@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: i lost bill #00108 can usend it to me
-
-Answer: I've realized that you lost your bill with number {{Invoice Number}} and need assistance in retrieving it. I'm here to help you with that. However, for security reasons, I won't be able to send you the bill directly. But I can guide you on how to retrieve it yourself. Could you please provide me with your account information or the email address associated with your account? This will help me in guiding you through the process of retrieving your lost bill.

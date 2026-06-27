@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: I'd like to order some of ur article how coupd i do it
-
-Answer: Thank you for your interest in ordering our articles! I'm excited to guide you through the process and ensure a seamless experience. To place your order, you have a few options. You can visit our website and browse through our collection of articles. Once you've found the ones you'd like to purchase, simply add them to your cart and proceed to checkout. Alternatively, you can contact our customer support team who will be more than happy to assist you with placing your order. We're available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're here to make your ordering process as convenient and enjoyable as possible. Let's get started!

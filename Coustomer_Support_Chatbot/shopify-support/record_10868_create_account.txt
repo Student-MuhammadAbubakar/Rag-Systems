@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: open a standard account
-
-Answer: Thank you for considering opening a {{Account Type}} account with us! We appreciate your interest in our services. To proceed with opening a {{Account Type}} account, you can visit our website and navigate to the account creation page. There, you will find a step-by-step guide to help you through the process. If you have any questions or need assistance at any point, please feel free to reach out to our customer support team. We're here to make the account creation process as smooth as possible for you.

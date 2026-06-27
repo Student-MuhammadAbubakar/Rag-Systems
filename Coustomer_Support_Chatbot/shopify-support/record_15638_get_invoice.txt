@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I have to get the bill from {{Person Name}}, how to do it?
-
-Answer: I'll do my best! I completely understand your need to access the bill from {{Salutation}} {{Client Last Name}}. To assist you with that, could you please provide me with some additional details, such as the account or invoice number associated with the bill? Once I have that information, I'll be able to guide you through the process of accessing your bill from {{Person Name}}.

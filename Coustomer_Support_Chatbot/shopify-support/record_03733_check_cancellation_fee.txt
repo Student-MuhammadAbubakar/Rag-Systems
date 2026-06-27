@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: I want assistsnce seeing the withdrawal penalty
-
-Answer: To view the withdrawal penalty, please log in to your account and go to the "Termination Charges" section. This will provide you with all the information regarding the penalty for cancellation.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do ya ship toMexico
-
-Answer: I'm happy to help! We do offer shipping to {{Delivery Country}} to ensure our valued customers like you can enjoy our products. We have a range of delivery options available to meet your needs. Whether you prefer standard shipping, expedited shipping, or even in-store pickup if you're near one of our store locations, we've got you covered. If you have any specific concerns or questions about shipping to {{Delivery Country}}, feel free to ask, and I'll be more than happy to assist you further.

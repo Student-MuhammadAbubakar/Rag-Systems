@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: can i check purchase {{Order Number}} status
-
-Answer: We're here to help! I take note that you would like to check the status of your purchase with the purchase number {{Order Number}}. To assist you with that, could you please provide me with your full name and email address associated with the purchase? This will enable me to access your order details and provide you with the most accurate information regarding the status. Your privacy is important to us, and rest assured that any information you provide will be handled securely and in accordance with our privacy policy.

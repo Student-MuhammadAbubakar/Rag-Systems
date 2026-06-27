@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: how can I check my fucking bill from {{Person Name}}?
-
-Answer: I've realized that you're looking for assistance on how to check your bill from {{Salutation}} {{Client Last Name}}. I'm here to help! To access your bill, you can log in to your account on our website or app. Once you're logged in, navigate to the billing section where you can view and download your invoice. If you need any further guidance, please don't hesitate to let me know.

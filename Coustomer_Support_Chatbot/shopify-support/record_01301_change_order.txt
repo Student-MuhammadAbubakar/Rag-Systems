@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I try to add some goddamn products to purchase {{Order Number}}
-
-Answer: It's great to hear from you! I can see that you are attempting to add some products to your purchase with the number {{Order Number}}. I apologize for any inconvenience you may have experienced. To assist you further, could you please provide the details of the products you would like to add? This will allow us to proceed with the necessary modifications and ensure your satisfaction with your purchase.

@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: do uship to {{Delivery City}}
-
-Answer: Unquestionably! We are pleased to offer shipping services to {{Delivery City}}. Whether you are sending or receiving packages, we have you covered. Our delivery options are available for both domestic and international shipments. You can choose from standard shipping, expedited shipping, and even overnight shipping for urgent needs. We understand that your parcel is important to you, and we strive to ensure its safe and timely delivery to {{Delivery City}}. If you have any specific questions or need assistance with the shipping process, feel free to let us know. We're here to make your shipping experience as smooth as possible!

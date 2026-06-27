@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I want help to call customer assistance
-
-Answer: Thank you for reaching out! I completely understand your desire to seek help in calling our customer assistance. Rest assured, I am here to guide you through the process. To place a call, you can dial our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team is available to assist you with any questions or concerns you may have. Don't hesitate to reach out—we're just a phone call away!"

@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: problem with {{Account Category}} account cancellations
-
-Answer: Thank you for contacting to us regarding the problems you're facing with {{Account Category}} account cancellations. I understand that canceling an account can sometimes be a complex process, and I apologize for any inconvenience caused. Our team is committed to providing you with the necessary support and assistance to resolve this issue. Could you please provide more details about the specific problems you are encountering? This will help us better understand the situation and provide you with appropriate solutions. Rest assured, we are here to guide you through the cancellation process and ensure a smooth experience.

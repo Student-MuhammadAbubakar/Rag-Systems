@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where to check what hours customer service available is?
-
-Answer: Glad you contacted us! I'm clearly cognizant that you would like to know where you can check the available hours of our customer service team. Our customer service hours can be found on our website under the "Contact Us" or "Support" section. You can also find this information on the "About" or "FAQs" page. Alternatively, you can speak with one of our representatives directly by calling our customer support hotline at {{Customer Support Phone Number}}. We are here to assist you during {{Customer Support Hours}}. Please let me know if there's anything else I can help you with!

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I want help seeing if there are any news on my reimbursement
-
-Answer: "I understand that you're looking for assistance in checking if there are any updates regarding your reimbursement. Rest assured, I'm here to help you with that. To provide you with accurate information, I will need some additional details. Could you please provide me with the transaction or refund reference number? With this information, I'll be able to quickly check the status of your reimbursement and provide you with any available updates. Your cooperation is greatly appreciated!"

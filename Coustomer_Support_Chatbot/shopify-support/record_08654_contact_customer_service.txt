@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: how do I see at what time customer assistance available is?
-
-Answer: We're here to help! I take note that you would like to know how to check the availability of our customer assistance team. To do so, you can visit our website at {{Website URL}} or call our dedicated customer support line at {{Customer Support Phone Number}}. Our representatives will provide you with the accurate information regarding the hours when our customer assistance is available. Is there anything else I can help you with?

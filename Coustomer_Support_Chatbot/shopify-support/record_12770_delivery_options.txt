@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: hsipping to {{Delivery Country}}
-
-Answer: Great to hear that you're interested in shipping to {{Delivery Country}}! We offer international shipping to various countries, including {{Delivery Country}}. Our delivery options are designed to provide a seamless experience for customers like you. From standard shipping to expedited and even overnight shipping, we have you covered. The delivery time may vary depending on the specific destination in {{Delivery Country}}, but rest assured that we strive to ensure your package reaches you in a timely manner. If you have any specific questions about shipping to {{Delivery Country}} or if there's anything else I can assist you with, please feel free to let me know. Together, let's make your shipping experience exceptional!

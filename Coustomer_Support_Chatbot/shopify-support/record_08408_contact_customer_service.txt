@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: help getting in touch with customer assistance
-
-Answer: Your reach-out is appreciated! I'm sensing that you need assistance in getting in touch with our customer assistance team. We have multiple channels available to connect with our customer support experts. You can reach out to us through our toll-free number at {{Toll-Free Number}} or send us an email at {{Customer Support Email}}. If you prefer real-time assistance, you can also chat with our support team on our website at {{Website URL}}. We are here to help, so please don't hesitate to reach out if you have any questions or concerns.

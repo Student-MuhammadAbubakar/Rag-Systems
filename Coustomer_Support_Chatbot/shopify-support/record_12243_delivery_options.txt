@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: is it possible to place an order from {{Delivery City}}
-
-Answer: I'll take care of it! We are delighted to accept orders from {{Delivery City}}. Our shipping services are available nationwide, and we aim to provide a seamless ordering experience no matter where you are. Simply visit our website or contact our customer support team to place your order, and we will take care of the rest. Should you need any further assistance or have any specific questions, please feel free to let me know.

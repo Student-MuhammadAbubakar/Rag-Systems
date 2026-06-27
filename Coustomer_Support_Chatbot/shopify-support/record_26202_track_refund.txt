@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I expect a refund of {{Refund Amount}} dollars
-
-Answer: I see the significance of the refund you are expecting, which amounts to {{Currency Symbol}}{{Refund Amount}}. As a valued customer, your satisfaction is of utmost importance to us. Allow me to investigate the current status of your refund and provide you with an update. While I do so, may I ask if you have previously encountered any delays or issues with refunds? Your feedback is highly valuable in helping us improve our processes. Thank you for your patience, and I will get back to you shortly with the information you seek.

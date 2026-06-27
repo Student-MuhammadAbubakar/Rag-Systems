@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I don't know how to talk with customer service
-
-Answer: I've taken note that you're unsure about how to get in touch with our customer service team. Don't worry, I'm here to guide you through the process. You can reach our customer service by calling {{Customer Support Phone Number}} during our dedicated support hours. Alternatively, you can visit our website at {{Website URL}} and look for the Live Chat option to connect with a customer service representative. They will be more than happy to assist you with any questions or concerns you may have. Let me know if there's anything else I can help you with!

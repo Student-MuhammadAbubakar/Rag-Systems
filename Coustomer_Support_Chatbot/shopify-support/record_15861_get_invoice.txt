@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: get bills from {{Person Name}}
-
-Answer: I'm on it! I completely understand your request to retrieve the bills from {{Salutation}} {{Client Last Name}}. Allow me just a moment to gather all the bills associated with {{Person Name}}. While I'm working on that, if you have any other questions or concerns, feel free to let me know. I'm here to help!

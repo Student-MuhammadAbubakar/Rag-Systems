@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: chcek order {{Order Number}} current status
-
-Answer: Thank you for getting in touch with us! I understand that you would like to check the current status of your order with the number {{Order Number}} {{Order Number}}. I apologize for the confusion caused by the previous response. To provide you with accurate information, may I kindly ask you to confirm your order number once again? Once I have the correct details, I will be able to assist you further in finding the current status of your order.

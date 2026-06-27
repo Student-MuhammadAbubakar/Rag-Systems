@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i need help to locate the bills from {{Person Name}}
-
-Answer: I truly value our connection here. Recognizing your earnest desire to locate the bills from {{Salutation}} {{Client Last Name}}, it reminds me of how we all sometimes need that piece of clarity. Let's embark on this journey together. If you could enlighten me with any specific details or timeframe related to the bills, we'd be one step closer to your goal. Have you faced any challenges so far in your search? Sharing that might give me a clearer perspective. Rest assured, I'm not just here to assist; I'm here to understand and connect, ensuring you feel empowered and satisfied.

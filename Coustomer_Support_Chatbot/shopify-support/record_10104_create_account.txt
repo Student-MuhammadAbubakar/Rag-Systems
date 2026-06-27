@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I'm looking for information about creating standard accounts
-
-Answer: Thank you for your interest in creating a standard account with us! {{Account Type}} accounts offer a wide range of features and benefits tailored to meet your needs. To create a standard account, you can visit our website and click on the "Sign Up" or "Create Account" button. From there, you will be guided through a simple registration process where you will need to provide some basic information such as your name, email address, and a password. Once you have completed the registration, you will have access to all the features and benefits of a standard account. If you have any questions or need further assistance, feel free to reach out to our customer support team who will be more than happy to assist you. We look forward to welcoming you as a valued member of our standard account community!

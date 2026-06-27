@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: I do not have a {{Account Category}} account yet, help me create one
-
-Answer: Happy to get your message to us and expressing your interest in creating a {{Account Category}} account! I'd be more than happy to assist you in the account creation process. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I will guide you step-by-step through the process to ensure a smooth and hassle-free experience. Shall we begin?

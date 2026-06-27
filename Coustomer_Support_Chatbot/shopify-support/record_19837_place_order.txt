@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: place_order
-
-Question: where can I buy some products?
-
-Answer: Thank you for your interest in purchasing our products! I'm here to assist you in finding the best place to buy them. Our products are available for purchase on our website, {{Website URL}}, where you can explore our wide range of options and conveniently complete your purchase. Additionally, you may also find our products in select retail stores near you. To find the nearest store, I recommend visiting our store locator on our website or reaching out to our customer support team, who will be more than happy to provide you with the necessary information. Let me know if there's anything else I can assist you with during this process.

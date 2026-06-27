@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: i expect an reimbursement of {{Refund Amount}} dollars
-
-Answer: Thanks for dropping us a line regarding your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. We understand the importance of timely and accurate resolution of reimbursement requests. To provide you with the most up-to-date information on the status of your reimbursement, I will investigate and verify the current progress. Please bear with me for a moment while I gather the necessary details. Your patience is greatly appreciated.

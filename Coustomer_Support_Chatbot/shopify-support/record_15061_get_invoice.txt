@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I need to get my invoice from {{Person Name}}
-
-Answer: I hear you loud and clear your need to retrieve the invoice from {{Salutation}} {{Client Last Name}}. Allow me a moment to assist you with that. Please provide me with the invoice number if you have it, or any additional details that could help me locate the invoice. I'm here to help you access your invoice efficiently and resolve any other questions or concerns you might have.

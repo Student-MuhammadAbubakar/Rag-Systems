@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I have got to download my invoices from {{Person Name}}
-
-Answer: No problem! I completely understand your request to download your invoices from {{Salutation}} {{Client Name}}. Let me assist you with that. Could you please confirm the timeframe for the invoices you would like to download?

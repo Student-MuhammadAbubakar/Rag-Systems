@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: i try to get a rebate of money
-
-Answer: I catch on to the fact that you've been attempting to obtain a rebate of your money. I apologize for any inconvenience or frustration you may have experienced in this process. To ensure a successful resolution, I recommend reaching out to our customer service team directly. They have the expertise and resources to assist you in navigating the rebate process and addressing any specific concerns you may have. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By contacting them, you can receive personalized guidance and step-by-step instructions to help you secure the rebate you deserve. Rest assured, they will do everything in their power to ensure your complete satisfaction.

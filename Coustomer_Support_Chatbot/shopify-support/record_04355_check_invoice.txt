@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i need assistance giving a quick look at my bill #00108
-
-Answer: I've observed that you're seeking help in quickly accessing and reviewing the details of your bill with the number {{Invoice Number}}. To provide you with the most efficient solution, may I know the platform or system you use to manage your bills? This information will allow me to guide you step-by-step on how to locate and view your bill promptly.

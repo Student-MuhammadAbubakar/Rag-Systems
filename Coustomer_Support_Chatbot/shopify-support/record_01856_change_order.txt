@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: I cannot add a fucking product to order {{Order Number}}
-
-Answer: We understand that you're facing an issue in adding a product to your order with the number {{Order Number}}. We apologize for any inconvenience caused. To resolve this matter, could you please provide more details about the product you're trying to add and any error messages you are receiving? This information will enable us to assist you more effectively and find a suitable solution. We're here to help and ensure your order is just as you envision. Thank you for your understanding and patience.

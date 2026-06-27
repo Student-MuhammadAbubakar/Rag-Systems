@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: what do I need to do to delete a {{Account Category}} account?
-
-Answer: Thank you for trusting about deleting your {{Account Category}} account. We understand that you may have made this decision after careful consideration. To assist you with the account deletion process, we kindly ask you to provide us with some additional information. This will help us verify your account details and ensure a smooth deletion process. Please let us know the username or email associated with your {{Account Category}} account and any other relevant information. Our team will promptly assist you with the necessary steps to delete your account securely.

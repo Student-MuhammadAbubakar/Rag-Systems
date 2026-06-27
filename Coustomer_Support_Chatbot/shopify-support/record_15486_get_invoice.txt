@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I call to get my bills from {{Person Name}}
-
-Answer: I'll do my best! I completely understand your request to retrieve the bills from {{Salutation}} {{Client Last Name}}. As part of our commitment to protecting customer privacy, we follow strict data privacy regulations and require some additional verification to access sensitive information. In this case, I kindly ask you to provide me with the account number or any other identification details associated with {{Person Name}}. Once we have the necessary information, we will be more than happy to assist you in retrieving the desired bills. Let me know how I can further assist you!

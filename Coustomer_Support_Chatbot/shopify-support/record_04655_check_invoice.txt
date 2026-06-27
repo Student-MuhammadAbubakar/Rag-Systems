@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: hepp seeing the bill from {{Person Name}}
-
-Answer: I can tell that you need assistance with looking for the bill from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to guide you through the process and help you locate the information you need. Can you please provide me with any additional details such as the date range or any specific information related to the bill? This will help me narrow down the search and provide you with accurate results.

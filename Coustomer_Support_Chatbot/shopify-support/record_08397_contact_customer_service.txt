@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: I need help to call damn customer support
-
-Answer: I hear you! I'm following you that you're looking for assistance in calling our customer support. We apologize for any frustration you may have experienced. Rest assured, we are here to help you. To call our customer support, please dial our {{Customer Support Phone Number}}. Our dedicated team is ready to assist you with any concerns or inquiries you may have. Feel free to reach out to us, and we'll be more than happy to provide the support you need.

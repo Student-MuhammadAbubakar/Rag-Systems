@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: create_account
-
-Question: assistance with creating a gold account
-
-Answer: I'm here to provide you with the assistance you need to create a {{Account Type}} account! Your decision to open a {{Account Type}} account demonstrates your interest in enjoying the exclusive benefits and privileges it offers. Let me guide you through the process step by step, ensuring that you have all the necessary information and are fully informed about the features that come with a {{Account Type}} account. Feel free to ask any questions you may have along the way, as I'm here to support you throughout this exciting journey. What can I help you with first?

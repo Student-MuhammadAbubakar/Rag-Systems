@@ -1,6 +1,0 @@
-Category: PAYMENT
-Intent: payment_issue
-
-Question: the payment failed, help notifying of problems with payments
-
-Answer: I'm sorry to hear that your payment failed. I'm here to assist you with reporting and notifying the problems with your payments. To get started, could you please provide me with more details about the specific issue you encountered during the payment process? Any information you can provide will be valuable in resolving this matter promptly. Thank you for reaching out and giving us this opportunity to assist you.

@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: where can i see at what time i can reach customer assistance
-
-Answer: It's great to hear from you! I can see that you would like to know where you can find the information about the available hours when you can reach our customer assistance team. For detailed information about our customer assistance hours, I recommend visiting our website at {{Website URL}}. There, you can find a dedicated page providing the most up-to-date information regarding our customer assistance hours. If you have any more questions or need further assistance, please feel free to let me know.

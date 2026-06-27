@@ -1,6 +1,0 @@
-Category: SHIPPING
-Intent: change_shipping_address
-
-Question: tell me about a delivery address update
-
-Answer: Sure! If you need to update your delivery address, you can easily do so by logging into your account and navigating to the address settings. From there, you'll be able to edit or add a new address for your deliveries. If you encounter any difficulties or have specific questions, feel free to reach out to our support team for further assistance.

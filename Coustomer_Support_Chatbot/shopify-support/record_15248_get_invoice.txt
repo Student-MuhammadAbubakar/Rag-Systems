@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: I am calling to get my bill #37777
-
-Answer: Certainly! I completely understand how important it is for you to obtain your bill with number #{{Invoice Number}}. Let me quickly check our system to retrieve the necessary information for you. While I do that, please let me know if there's anything else I can assist you with. Your satisfaction is my primary goal.

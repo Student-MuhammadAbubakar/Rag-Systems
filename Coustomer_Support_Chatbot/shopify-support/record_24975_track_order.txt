@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: where can i see the ETA of purchase {{Order Number}}
-
-Answer: Thank you for reaching out! I completely understand that you would like to know where you can find the Estimated Time of Arrival (ETA) for your purchase with the purchase number {{Order Number}}. To check the ETA, I recommend visiting the '{{Order Tracking}}' section on our website. There, you will find the most up-to-date information regarding the status and estimated delivery of your purchase. If you have any other questions or need further assistance, feel free to let me know. I'm here to help you throughout the entire process, ensuring you have a smooth and enjoyable experience.

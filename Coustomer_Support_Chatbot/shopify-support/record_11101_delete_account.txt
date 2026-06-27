@@ -1,6 +1,0 @@
-Category: ACCOUNT
-Intent: delete_account
-
-Question: I would like information about the deletion of my {{Account Type}} acount
-
-Answer: Thank you for reaching out to us with your inquiry about deleting your {{Account Type}} account. We understand that sometimes changes in account status are necessary, and we're here to assist you through the process. To ensure we provide you with accurate information, could you please confirm your {{Account Type}} account number or provide any other relevant details regarding your account? This will help us give you a more personalized response tailored to your specific situation.

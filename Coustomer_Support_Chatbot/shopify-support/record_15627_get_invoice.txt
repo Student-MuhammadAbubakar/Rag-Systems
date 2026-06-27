@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: get_invoice
-
-Question: need to get the invoicefrom {{Person Name}} can i get some help
-
-Answer: I'll do my best! I completely understand your need to retrieve the invoice from {{Salutation}} {{Client Last Name}}. Let me assist you with that. Just to confirm, are you looking for the most recent invoice or a specific one? Once I have this information, I'll be able to provide you with further instructions on how to access it.

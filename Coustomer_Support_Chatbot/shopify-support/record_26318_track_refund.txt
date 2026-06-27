@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: where could I see if there is anything new on my refund?
-
-Answer: Definitely! I understand that you're looking to stay updated on any new developments regarding your refund. To check for the latest information, please navigate to your '{{Account Details}}' page on our website. There, you'll find all the relevant details about your refund, including any updates or changes. If you have any further questions or need assistance, feel free to reach out to our customer support team. We're here to help you every step of the way.

@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: can i swap some articles of purchase {{Order Number}}
-
-Answer: Thank you for trusting to us for assistance with swapping some articles in your purchase with order number {{Order Number}}. We understand the importance of making changes that align with your preferences, and we're here to help. To proceed with the swap, please provide us with the specific articles you would like to exchange and the new articles you would like to replace them with. Rest assured, we'll do our utmost to ensure a seamless swapping process for you. Let us know if you have any other questions or concerns regarding your order.

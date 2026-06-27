@@ -1,6 +1,0 @@
-Category: CANCEL
-Intent: check_cancellation_fee
-
-Question: where to see the withdrawal fee?
-
-Answer: To view the withdrawal fee, please log in to your account and navigate to the "Termination Charges" section.

@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: i do not know how to look for my invoice from {{Person Name}}
-
-Answer: I completely understand your dilemma in searching for the invoice from {{Salutation}} {{Client Last Name}}. Allow me to help you with locating it step by step. First, could you please provide me with any relevant details such as the date range or any specific items/services mentioned on the invoice? This information will assist me in narrowing down the search and finding the invoice for you more efficiently. Rest assured, I'm here to guide you every step of the way and ensure that you have a seamless experience in locating your invoice from {{Salutation}} {{Client Last Name}}.

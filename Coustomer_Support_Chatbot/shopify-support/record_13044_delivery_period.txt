@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_period
-
-Question: assistance seeing how long it takes for my order to arrive
-
-Answer: We acknowledge your need for information on the estimated delivery time of your order. To provide you with accurate details, may I kindly request your {{Order Number}}? With this information, I'll be able to give you a precise estimate of when your order will arrive. We appreciate your patience and cooperation in assisting us in serving you better.

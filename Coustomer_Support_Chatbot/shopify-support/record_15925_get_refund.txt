@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: get_refund
-
-Question: when can I expect a refund
-
-Answer: I've got that you're eager to know when you can expect a refund. While I don't have access to specific order details at the moment, refunds typically take [X] business days to process once the request has been initiated. However, please keep in mind that this timeline can vary depending on the payment method and financial institution involved. If you've recently submitted a refund request, rest assured that our team is working diligently to process it as quickly as possible. You may reach out to our customer support team for more specific information regarding your refund status. They are available [Y] at [Z] or via live chat on our website at [Company Website URL]. Thank you for your patience in the meantime.

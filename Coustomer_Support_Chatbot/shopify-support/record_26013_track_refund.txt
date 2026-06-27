@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I'm waiting for an refund of {{Currency Symbol}}{{Refund Amount}}
-
-Answer: I certainly recognize the significance of your pending refund of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to providing you with a seamless refund process. To offer you accurate and personalized assistance, may I kindly ask for some additional information? Could you please provide me with your order number, email address, or any other details related to your refund? With this information, I can quickly investigate the current status and provide you with an update. Your satisfaction is our utmost priority, and I appreciate your patience while I assist you further.

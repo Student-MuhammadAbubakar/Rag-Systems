@@ -1,6 +1,0 @@
-Category: DELIVERY
-Intent: delivery_options
-
-Question: shiping to {{Delivery City}}
-
-Answer: I'll get right on it! I'm excited to inform you that we offer delivery services to the vibrant city of {{Delivery City}}. You can choose from our various delivery options, including Standard Shipping, Expedited Shipping, Overnight Shipping, and even In-Store Pickup if you're near one of our store locations in {{Delivery City}}. Each option is designed to cater to your specific needs and preferences. To check the delivery options available for your desired items, simply add them to your cart and proceed to checkout. During the checkout process, you'll be able to select the delivery option that suits you best. If you have any further questions or need assistance with the ordering process, feel free to let me know. I'm here to help make your shopping experience a breeze.

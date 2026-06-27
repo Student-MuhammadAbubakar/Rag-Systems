@@ -1,6 +1,0 @@
-Category: CONTACT
-Intent: contact_customer_service
-
-Question: wanna contact damn customer service i need help
-
-Answer: Honored to assist! I'm clued in that you need assistance and would like to contact our customer service team. We are here to help you resolve any issues you may be facing. Our customer service is available during {{Customer Support Hours}}. You can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please don't hesitate to ask any questions or share any concerns you may have. We're ready to assist you!

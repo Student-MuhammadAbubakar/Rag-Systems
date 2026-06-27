@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: track_order
-
-Question: I want help seeing the status of order {{Order Number}}
-
-Answer: I see what you mean! I'm on the same page that you need assistance in checking the status of your order with the order number {{Order Number}}. To provide you with the most accurate information, may I please have your registered email address or the name associated with the order? This will help me locate your order swiftly and ensure I give you the correct status update.

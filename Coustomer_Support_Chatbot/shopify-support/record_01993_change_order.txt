@@ -1,6 +1,0 @@
-Category: ORDER
-Intent: change_order
-
-Question: i have to change an item of order {{Order Number}} will uhelp me
-
-Answer: I'm glad you contacted us to us for assistance with changing an item in order number {{Order Number}}. We are here to help! To ensure that we provide the most accurate assistance, could you please specify which item you would like to change? By providing us with this information, we can make sure your order is just as you envision it.

@@ -1,6 +1,0 @@
-Category: REFUND
-Intent: track_refund
-
-Question: I am waiting for a bloody compensation of {{Refund Amount}} dollars
-
-Answer: I want to assure you that I understand the urgency and importance of receiving your compensation of ${{Refund Amount}}. It can be frustrating to wait for this process, and I apologize for any inconveniences caused. Let me quickly check the status of your compensation and provide you with an update. Please bear with me for a moment and thank you for your patience.

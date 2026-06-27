@@ -1,6 +1,0 @@
-Category: INVOICE
-Intent: check_invoice
-
-Question: show me invoice #85632
-
-Answer: I can see that you're looking to retrieve the invoice with the number #{{Invoice Number}}. Let me help you with that. Could you please provide me with some additional information such as the date range or any specific details related to the invoice? This will assist me in locating the correct invoice for you as quickly as possible.
