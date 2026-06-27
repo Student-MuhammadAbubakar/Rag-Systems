@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: help me to check order {{Order Number}} goddamn current status
+
+Answer: Your input is valuable! I'm picking up that you need assistance in checking the current status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please confirm the correct order number without using any profanity? Once I have the correct order number, I'll be more than happy to help you track the status of your order and provide you with the latest updates.

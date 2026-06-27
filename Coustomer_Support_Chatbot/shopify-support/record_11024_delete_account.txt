@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: need help closing the {{Account Category}} account
+
+Answer: Appreciate you reaching out to us regarding the closure of your {{Account Category}} account. We understand that this is an important decision for you, and we are here to assist you. To ensure a smooth process, could you please provide us with some specific details about your account and the reason for the closure? This will help us guide you through the necessary steps and address any concerns you may have. We value your time and want to make sure that we provide the best possible support throughout this process.

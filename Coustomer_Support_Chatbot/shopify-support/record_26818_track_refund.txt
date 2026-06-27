@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i dont know what i have to do to see the rebate status
+
+Answer: We're here to help regarding the process to check the status of your rebate. I understand how important it is for you to stay informed. To assist you further, could you please provide me with your {{Rebate Tracking Number}}? With this information, I will be able to provide you with accurate and up-to-date information on the status of your rebate. Thank you for your cooperation and patience.

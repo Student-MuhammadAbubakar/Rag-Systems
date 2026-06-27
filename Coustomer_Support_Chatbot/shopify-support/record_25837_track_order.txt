@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i need assistance checking the status of order {{Order Number}}
+
+Answer: Your message means a lot! I'm aligned with the idea that you need assistance with checking the status of your order with order number {{Order Number}}. I'm here to help you with that. To view the current status of your order, please visit the '{{Online Order Interaction}}' section on our website. It will provide you with all the information you need. If you have any further questions or need additional support, please feel free to ask. I'm committed to ensuring you have a seamless experience!

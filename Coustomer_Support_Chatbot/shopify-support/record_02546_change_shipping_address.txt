@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I want assistance to update my delivery address
+
+Answer: I'll do my best! I'm here to assist you in updating your delivery address. Please provide me with your current address and the new address you want to update it to, and I'll take care of it for you.

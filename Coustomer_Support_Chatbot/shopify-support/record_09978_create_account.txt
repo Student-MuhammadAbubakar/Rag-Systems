@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new bloody {{Account Category}} account for father
+
+Answer: I truly appreciate your intention to create a new bloody {{Account Category}} account for your father. Family accounts are a fantastic way to share the benefits of our {{Account Category}} service with your loved ones. To get started, could you please provide me with your father's full name, email address, and a preferred username? Once I have these details, I'll guide you through the account creation process step by step, ensuring a smooth experience for both you and your father. Rest assured, the security and privacy of your father's information are of the utmost importance to us.

@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I do not know what I have to do to make a customer lcaim
+
+Answer: I can sense that you're uncertain about the process of filing a customer claim. I'm here to guide you through it. To initiate a customer claim, you can start by contacting our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will assist you with the necessary steps and provide you with the required forms or documentation to submit your claim. Please rest assured that we take customer claims seriously, and we're committed to resolving any issues you may have. Is there anything else I can assist you with?

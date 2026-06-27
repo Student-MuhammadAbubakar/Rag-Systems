@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: is it possible to cancel purchase {{Order Number}}?
+
+Answer: I've been informed that you're wondering if it's possible to cancel purchase {{Order Number}}. Let me reassure you that we are here to assist you with your request. To determine the feasibility of canceling your purchase, we would need to access your account and verify the specific details of your order. Kindly provide us with your authentication details, and we'll expedite your request. Our team is committed to providing you with the best possible resolution. Feel free to reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We appreciate your patience and understanding throughout this process.

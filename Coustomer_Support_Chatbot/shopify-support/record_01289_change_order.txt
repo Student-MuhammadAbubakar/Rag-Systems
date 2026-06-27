@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i need help to delete an article from order {{Order Number}}
+
+Answer: I'm clearly cognizant your desire to delete an article from order number {{Order Number}}. We're here to assist you with that. Could you please provide us with the details of the article you would like to remove? By providing us with this information, we can ensure that we accurately process your request. Our goal is to ensure your complete satisfaction, so please don't hesitate to reach out if you have any other questions or concerns.

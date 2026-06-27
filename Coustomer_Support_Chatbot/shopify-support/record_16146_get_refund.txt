@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebate {{Refund Amount}} dollars
+
+Answer: I've decoded that you are requesting a rebate of ${{Refund Amount}}. Obtaining a rebate for a specific amount can vary depending on the company's policies and procedures. To initiate the process, I recommend reaching out to our customer support team directly. They will be able to guide you through the necessary steps to request your rebate. You can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will provide you with the specific instructions to follow and any required documentation. Our team is here to assist you in securing your rebate promptly and efficiently.

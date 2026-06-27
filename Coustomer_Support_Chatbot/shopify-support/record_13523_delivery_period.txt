@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am trying to see when my package is going to arrive
+
+Answer: We understand your curiosity and eagerness to track the delivery status of your package. To provide you with an accurate estimate of its arrival, we kindly request you to share your {{Tracking Number}} or {{Order Number}} with us. With this information, we will be able to provide you with the most up-to-date information on your package's whereabouts and expected delivery date. Thank you for your cooperation in this matter, and we look forward to assisting you further.

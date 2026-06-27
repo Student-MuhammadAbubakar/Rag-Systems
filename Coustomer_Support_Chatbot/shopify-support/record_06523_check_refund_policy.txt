@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I have got to see in which cases can I request my money back
+
+Answer: I'm happy to help! I understand your urgency to understand the various scenarios in which you can request a refund. Allow me to provide you with the information you seek:
+
+1. **Product/Service Defect:** If you receive a product or service that is defective, damaged, or does not meet the stated specifications, you are typically eligible for a refund.
+2. **Cancellation within Grace Period:** In many cases, if you decide to cancel a purchase within a specific grace period, you can request a refund.
+3. **Change in Circumstances:** If unforeseen circumstances or changes occur that prevent you from using or benefiting from the product or service, you may be able to request a refund.
+4. **Unauthorized Charges:** If you notice any unauthorized charges on your account, please inform us immediately, and we will investigate the situation to determine if a refund is warranted.
+5. **Service Not Rendered:** If you have paid for a service that has not been provided or completed, you should be able to request a refund.
+6. **Duplicate Charges:** If you notice duplicate charges for the same product or service in your billing statement, please reach out to us, and we will rectify the matter promptly.
+7. **Non-Delivery of Goods:** If you have not received the goods you ordered within the expected timeframe or if the goods were lost during shipping, you may be eligible for a refund.
+
+Please note that different companies and vendors may have specific refund policies, so it's always a good idea to review their terms and conditions or contact their customer service directly for detailed information. If you have a specific order or situation you would like me to delve into, kindly provide me with the necessary details, such as the {{Order Number}}, and I will assist you further.
+
+I hope this information helps. Is there anything else I can assist you with today?

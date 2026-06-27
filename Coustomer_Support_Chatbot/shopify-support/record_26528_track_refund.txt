@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect an refund of {{Currency Symbol}}{{Refund Amount}} has it been processed
+
+Answer: Rest assured, I understand how crucial it is for you to receive a refund of {{Currency Symbol}}{{Refund Amount}}. Your satisfaction is our priority, and I'm here to assist you. Let me quickly check the status of your refund and ensure that it has been processed. Please bear with me for a moment while I gather the necessary information. Thank you for your patience.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need help with creating a platinum account
+
+Answer: We appreciate your interest in creating a {{Account Category}} account! It's a great choice for accessing exclusive benefits and premium features. To get started, I kindly request a few details to personalize your account. Could you please provide me with your full name, email address, and a preferred username? Once I have this information, I'll guide you through the process step-by-step, ensuring you're well-informed at every stage. Rest assured, your security and privacy are of utmost importance to us, so all your information will be safeguarded with the highest level of care. How does this sound to you?

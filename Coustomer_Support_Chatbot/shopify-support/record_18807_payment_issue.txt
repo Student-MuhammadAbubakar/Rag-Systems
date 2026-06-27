@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I cannot pay, where canI report problems with payment?
+
+Answer: I can see that you're facing difficulties with making payments, and I'm here to help. To report the problems you're experiencing with payments, I recommend reaching out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated support team will assist you in resolving the payment issues you're encountering and provide guidance on the next steps to take. Don't hesitate to contact us, as we are committed to ensuring a smooth payment process for all our valued customers.

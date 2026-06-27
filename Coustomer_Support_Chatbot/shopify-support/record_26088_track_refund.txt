@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a refund of {{Refund Amount}} dollars
+
+Answer: I fully empathize with your expectations for a refund of {{Currency Symbol}}{{Refund Amount}}. Your satisfaction is our top priority, and I assure you that I will do everything I can to assist you. To better understand your situation, could you please provide me with some additional details? Specifically, do you have any reference or transaction number related to the refund request? This information will enable me to track the refund more efficiently and provide you with accurate information. Thank you for your cooperation and patience.

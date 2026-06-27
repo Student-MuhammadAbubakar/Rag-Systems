@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i try to change some items of order {{Order Number}}
+
+Answer: Thank you for bringing up your concern about changing some items in order number #{{Order Number}}. We understand that having the ability to customize your order is crucial. To assist you further, could you please specify the items you would like to modify? Providing us with this information will help us ensure that we accurately process your request and make the necessary adjustments to your satisfaction.

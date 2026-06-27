@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: using gold account
+
+Answer: Thank you for using the {{Account Type}} account! If you're interested in upgrading to a higher-tier account, like Platinum, I'm here to assist you every step of the way. Upgrading your account comes with its own set of benefits and privileges, giving you an enhanced experience with our platform. To get started, simply follow these steps:
+
+1. Log in: Access your account by entering your credentials on our platform.
+2. Account Settings: Once you're logged in, navigate to the Account Settings section or your profile.
+3. Upgrade Options: Look for an option that allows you to "Upgrade Account" or "Switch Account Type".
+4. Platinum Selection: Choose the "Platinum" account option from the available choices.
+5. Confirmation and Payment: Follow the prompts provided to confirm your decision and complete the payment process.
+
+If you encounter any challenges or have any questions along the way, please don't hesitate to reach out to me. I'll make sure this upgrade is seamless and enjoyable for you. Enjoy the exclusive benefits and features that come with a Platinum account!

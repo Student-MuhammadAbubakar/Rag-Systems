@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help me create a new fucking {{Account Type}} account
+
+Answer: I appreciate your interest in creating a new {{Account Type}} account with us. To proceed with the process, could you please provide your full name, email address, and a preferred username? Upon receiving this information, I will guide you step-by-step, ensuring that you have a smooth experience throughout. Your privacy and security are of utmost importance to us, and all the data you provide will be treated with the highest level of confidentiality and protection.

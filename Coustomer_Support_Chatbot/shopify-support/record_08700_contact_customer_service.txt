@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how to get in touch with goddamn customer service
+
+Answer: Thank you for reaching out! I completely understand your frustration and the urgency to get in touch with our customer service team. To speak with one of our representatives, you can contact them during our designated customer support hours at {{Customer Support Phone Number}}. Alternatively, you can visit our website at {{Website URL}} and engage with our live chat feature. We are here to assist you and address any concerns you may have. How else may I be of service to you today?

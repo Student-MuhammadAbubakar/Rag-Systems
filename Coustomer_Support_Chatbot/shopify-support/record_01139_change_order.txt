@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I delete several products from order {{Order Number}}?
+
+Answer: We completely understand that you would like to delete several products from order number {{Order Number}}. Our main goal is to ensure your satisfaction with your order, so we are more than happy to assist you with this request. To proceed with the deletion, please provide us with the specific products you would like to remove from your order. This will allow us to promptly make the necessary changes for you. We appreciate your patience and cooperation as we work towards resolving this for you.

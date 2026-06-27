@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: how long till i receive my rebate of money
+
+Answer: I'm fully aware of your eagerness to know when you will receive your rebate of money. The processing time for rebates can vary depending on various factors, such as the specific terms and conditions of the rebate offer, the verification process, and the payment method chosen. To get a more accurate estimate, I recommend contacting our customer support team directly. They have access to your account details and can provide you with the most up-to-date information regarding the status and expected timeframe for your rebate. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, they will be more than happy to assist you and address any further questions or concerns you may have regarding your rebate.

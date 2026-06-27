@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i want help to create  a {{Account Category}} account
+
+Answer: That's fantastic! I'm here to provide you with all the assistance you need to create your {{Account Category}} account. Our {{Account Category}} accounts offer exclusive benefits and privileges that will enhance your banking experience. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step by step, ensuring that you have a seamless account creation experience. Rest assured that the information you share with us will be kept secure and confidential. Feel free to ask any questions you may have along the way. Let's make this journey together!

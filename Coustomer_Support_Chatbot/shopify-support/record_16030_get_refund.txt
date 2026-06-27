@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have paid {{Currency Symbol}}{{Refund Amount}} for this order, I want my reimbursement
+
+Answer: I understand your frustration regarding the payment of ${{Refund Amount}} for this order and your request for reimbursement. It's important to us that you receive the appropriate resolution for this matter. To assist you further, could you please provide me with some additional details about your order, such as the order number, purchase date, and any specific issues you encountered? Once I have this information, I will be able to expedite the refund process and ensure that you receive the reimbursement you are entitled to without any further delay. Rest assured, I am here to assist you every step of the way.

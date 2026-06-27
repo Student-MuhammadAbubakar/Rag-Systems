@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: i dont know how to add some products to order {{Order Number}}
+
+Answer: We understand that you're unsure about how to add products to order number #{{Order Number}}. We're here to help you with that. To add products to your order, please follow these steps:
+
+1. Log in to your account on our website.
+2. Go to the "My Orders" section.
+3. Locate the order with number #{{Order Number}}.
+4. Click on the "Edit Order" or "Add Items" button.
+5. Browse our product catalog and select the items you wish to add.
+6. Adjust the quantity if needed.
+7. Click on the "Add to Order" button.
+8. Review your updated order to ensure the changes are correct.
+9. Proceed to the checkout page to complete your purchase.
+
+If you encounter any difficulties or have further questions, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way to ensure a smooth and satisfying shopping experience.

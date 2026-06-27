@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what i have to do to look for the bill #37777
+
+Answer: No worries! I understand that you're unsure about the steps to take in order to locate the bill with the number #{{Invoice Number}}. Let me guide you through the process. First, could you please provide me with the name of the account holder or any other relevant information associated with the bill? This will help me assist you more efficiently.

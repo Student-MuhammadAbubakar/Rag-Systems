@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: assistance looking for invoice #85632
+
+Answer: I've decoded that you need assistance with looking for the invoice with the number #{{Invoice Number}}. It can be frustrating when invoices go missing, but don't worry, I'm here to help you resolve this. To locate the invoice you are looking for, I recommend checking your email inbox for any digital copies. If you can't find it there, you can reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further and provide you with any additional information you may need about the invoice. Rest assured, together we'll make sure you have the necessary details you need.

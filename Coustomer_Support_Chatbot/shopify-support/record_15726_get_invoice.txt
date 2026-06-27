@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I lost the bill #12588, mail it to me
+
+Answer: I comprehend your concern about the lost bill with the number #{{Invoice Number}}. Unfortunately, as a AI ChatBot, I don't have access to your personal information or the authority to send emails. However, you can reach out to our customer support team at {{Customer Support Phone Number}} or via email at {{Customer Support Email}}. They will be able to assist you in retrieving and sending your bill. Let me know if there is anything else I can help you with!

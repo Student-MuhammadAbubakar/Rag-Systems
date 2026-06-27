@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: show me how long it takes for the article to arrive
+
+Answer: We understand your curiosity to know the estimated time for your article's arrival. To provide you with an accurate delivery period, we kindly request you to share the {{Tracking Number}} or {{Order Number}} associated with your purchase. Once we have this information, we can promptly assist you with the precise details. Your patience is greatly appreciated as we work together to ensure a seamless delivery experience. How has your overall experience been with our service so far?

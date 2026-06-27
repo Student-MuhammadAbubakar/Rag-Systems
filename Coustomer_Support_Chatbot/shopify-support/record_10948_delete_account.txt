@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: how can I get information about my {{Account Category}} account removal?
+
+Answer: We've received your message to us with your inquiry about the removal of your {{Account Category}} account. I apologize for any confusion or inconvenience you may have encountered. Rest assured, I am here to provide you with the information you need. To proceed with the removal of your {{Account Category}} account, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to manage or delete your account.
+4. Click on the option to delete your {{Account Category}} account.
+5. Follow any additional prompts or confirmations to complete the removal process.
+
+If you encounter any issues or need further assistance during the account removal, please don't hesitate to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to support you every step of the way.

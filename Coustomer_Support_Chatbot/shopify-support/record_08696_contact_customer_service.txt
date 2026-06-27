@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what is the customer support working hours?
+
+Answer: Thanks for getting in touch! I grasp that you would like to know the working hours of our customer support team. Our dedicated team is available to assist you during {{Customer Support Hours}}. We strive to provide you with the best assistance at your convenience. Is there anything else I can help you with?

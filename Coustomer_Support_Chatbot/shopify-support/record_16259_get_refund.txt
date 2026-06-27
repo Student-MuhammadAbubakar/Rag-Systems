@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i have to demand a rebate
+
+Answer: I'm sensitive to the fact that you need to demand a rebate. I want you to know that I'm here to support you throughout this process. In order to assist you effectively, could you please provide more details about the situation? Specifically, could you let me know when and where the purchase was made, as well as any relevant order or receipt numbers? With this information, I can help guide you on the best course of action to ensure that your rebate request is handled promptly and efficiently.

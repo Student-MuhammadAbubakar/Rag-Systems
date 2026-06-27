@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect an rebate of {{Refund Amount}} dollars
+
+Answer: Firstly, I understand how important it is for you to receive the rebate of ${{Refund Amount}}. We recognize the value of your refund and the impact it can have. Allow me to investigate the current status of your rebate for you. While I do that, may I ask if you have received any communication regarding the reimbursement process? Your feedback is valuable to us as we work towards ensuring your satisfaction and trust. Rest assured, we are committed to resolving any issues and providing you with a favorable resolution.

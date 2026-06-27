@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where do I receive a compensation?
+
+Answer: I understand your query about where you can receive your compensation. To ensure you receive your compensation in a timely and convenient manner, I recommend reaching out to our customer support team. They will be able to provide you with the necessary guidance and assist you in initiating the compensation process. You can contact our support team via phone at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Rest assured, our team is dedicated to assisting you and ensuring your compensation is handled promptly and efficiently.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I don't know how I can create a {{Account Type}} account for my dad
+
+Answer: I'm on the same wavelength, your desire to create a {{Account Type}} account for your dad, but don't worry, I'm here to guide you through the process step by step. To begin, I'll need some basic information about your dad, such as his full name, email address, and preferred username. Once I have this information, we can proceed with setting up the {{Account Type}} account. Rest assured that I'll be with you every step of the way to ensure a smooth and hassle-free experience. How does that sound?

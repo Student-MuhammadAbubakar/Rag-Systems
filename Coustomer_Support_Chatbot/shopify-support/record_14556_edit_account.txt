@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating info on {{Account Category}} account
+
+Answer: Let us embark on this exhilarating expedition towards updating the information on your esteemed {{Account Category}} account.I feel privileged to guide you through this empowering process. To maintain the utmost security of your personal data, I kindly request you to avoid sharing any sensitive information such as your account number or password here. For a seamless and personalized experience, I recommend securely accessing {{Online Company Portal Info}} or reaching out to our dedicated customer support team. Now, please let me know which specific details you would like to update, and I'll be more than happy to assist you.

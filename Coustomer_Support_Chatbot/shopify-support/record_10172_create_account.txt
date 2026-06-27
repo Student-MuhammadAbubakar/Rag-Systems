@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open {{Account Category}} account for wife
+
+Answer: We truly appreciate your decision to open a {{Account Category}} account for your wife! It shows your commitment to providing her with the best banking experience. To begin the process, kindly provide us with your wife's full name, email address, and a preferred username. Rest assured, every piece of information shared will be handled with the utmost care and security. As we embark on this journey together, I'll be here to guide you step-by-step and ensure a seamless experience for both of you. How does that sound?

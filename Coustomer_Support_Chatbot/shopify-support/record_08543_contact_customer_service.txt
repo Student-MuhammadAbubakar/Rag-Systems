@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what time can I get in touch with customer support?
+
+Answer: Your input is valuable! I'm picking up that you would like to know what time you can get in touch with our customer support team. Our customer support hours are {{Customer Support Hours}}. During this time, you can contact us through various channels such as phone, email, or live chat on our website at {{Website URL}}. We are here to assist you and provide prompt and reliable support. How else may I assist you today?

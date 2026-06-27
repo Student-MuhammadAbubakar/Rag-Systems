@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: i cannot find the cancellation fees
+
+Answer: Apologies for the inconvenience. Let me assist you in finding the cancellation fees. Could you please provide me with your account details so that I can look into it for you?

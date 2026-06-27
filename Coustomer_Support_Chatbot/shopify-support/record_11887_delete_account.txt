@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I need to close a {{Account Type}} account
+
+Answer: We've received your message to us about closing your {{Account Type}} account. We understand that you may have different reasons for wanting to close it, and we're here to assist you throughout the process. To help us proceed, could you please provide us with some additional information? Specifically, we would need the username or email associated with your {{Account Type}} account. With this information, we'll be able to guide you step by step on how to close your account securely. Your satisfaction is our top priority, and we appreciate your trust in us to resolve this matter for you.

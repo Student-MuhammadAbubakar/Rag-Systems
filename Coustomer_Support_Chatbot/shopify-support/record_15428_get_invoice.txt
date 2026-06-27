@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: where to download the invoices from {{Person Name}}?
+
+Answer: Certainly! I fully grasp your need to locate the download location for the invoices from {{Salutation}} {{Client Name}}. Let me assist you with that. You can download the invoices by logging into your account on our website. Once you're logged in, navigate to the "Invoices" section, where you will find all your invoices available for download. If you have any difficulties or require further assistance, please don't hesitate to let me know. I'm here to guide you every step of the way to ensure your satisfaction.

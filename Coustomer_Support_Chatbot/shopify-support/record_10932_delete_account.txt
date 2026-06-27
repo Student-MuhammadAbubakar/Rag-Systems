@@ -1,0 +1,12 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: delete {{Account Category}} account
+
+Answer: I'm sorry to hear that you're considering deleting your {{Account Category}} account. We always strive to provide the best possible service, and it's important to us that we address any concerns or issues you may have. To delete your {{Account Category}} account, please follow these steps:
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to delete or deactivate your account.
+4. Follow the on-screen instructions to confirm the deletion.
+
+Please keep in mind that deleting your account will permanently remove all your data and account information. If you have any important data or files stored in your account, make sure to back them up before proceeding with the deletion. If you have any further questions or need assistance with the process, please don't hesitate to reach out. We're here to help you every step of the way.

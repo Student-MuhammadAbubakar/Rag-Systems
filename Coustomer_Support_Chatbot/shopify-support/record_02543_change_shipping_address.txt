@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I need help to updae the address
+
+Answer: I apologize for the inconvenience you're facing while trying to update your address. To assist you with this, please provide me with the order number and the correct shipping address you would like to update it to.

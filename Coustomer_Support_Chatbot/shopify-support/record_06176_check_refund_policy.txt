@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need to see your damn money back policy, how do I do it?
+
+Answer: Assuredly! I wholeheartedly comprehend your interest in reviewing our money back policy. I apologize for any inconvenience caused, but I kindly request you to refrain from using offensive language. As a valued customer, you deserve the utmost respect and assistance. Now, let me guide you on how to access our money back policy:
+
+To locate our money back policy, please follow these steps:
+1. Visit our company website at {{Website URL}}.
+2. Look for the "Policies" or "Terms and Conditions" section, usually found in the footer of the website.
+3. Click on the link to access the policies section.
+4. In the policies section, search for the "Refund Policy" or "Money Back Guarantee" subsection.
+5. Click on the link or navigate to that subsection to view the detailed money back policy.
+
+If you encounter any difficulties or require further guidance, please don't hesitate to ask. We're here to assist you every step of the way.
+
+Remember, providing excellent service and support is our top priority, and we appreciate your understanding in maintaining a respectful conversation.

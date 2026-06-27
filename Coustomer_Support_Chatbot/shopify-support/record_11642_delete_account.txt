@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: remove pro account
+
+Answer: Thanks for dropping us a line to us regarding the removal of your {{Account Type}} account. I'm here to assist you with the necessary steps for cancellation. To better help you, could you please provide me with your account details or any specific concerns you have regarding the cancellation process? Rest assured, we'll guide you through the entire process and ensure that your {{Account Type}} account is successfully removed.

@@ -1,0 +1,16 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: why I cannot set up a new delivery address valid
+
+Answer: I'm sorry to hear that you're having trouble setting up a new valid delivery address. Let's explore together and find a solution for you. There could be a few reasons why you are encountering difficulties:
+
+1. Ensure that you are logged into your account. Without a valid login, you may not have the necessary permissions to add a new delivery address.
+
+2. Check if you have already reached the maximum number of allowed delivery addresses. Some systems have a limit on the number of addresses you can add. If you have reached this limit, you may need to modify or delete an existing address before adding a new one.
+
+3. Verify that you have filled out all the required fields correctly. Check if you have entered the address details accurately, including the street number, city, state, ZIP code, and any other mandatory fields.
+
+4. Double-check that the address format matches the accepted format of the system. Different systems may have specific requirements for address formats, such as using abbreviations or providing additional information.
+
+If none of these solutions resolve the issue, please provide me with more specific details about the error message or any other error indicators you are encountering. This will help me assist you further and provide you with a more tailored solution.

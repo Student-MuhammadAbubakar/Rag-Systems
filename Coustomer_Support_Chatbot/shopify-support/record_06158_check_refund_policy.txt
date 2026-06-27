@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: i want assistance to check how long refunds take
+
+Answer: Of course! I completely understand your curiosity about the duration of the refund process. The exact timeframe for refunds can vary depending on several factors, but let me provide you with some general guidelines:
+
+1. **Product/Service Return:** Once you initiate the return process and the item is received by our team, it usually takes us a few business days to inspect the returned product and confirm its eligibility for a refund.
+
+2. **Processing Time:** After confirming the eligibility, the actual processing time for the refund depends on the payment method you used during your purchase. Credit card refunds typically take between 5 to 10 business days to reflect in your account, while refunds for other payment methods might take a bit longer.
+
+3. **Bank Processing Time:** It's important to note that the speed of the refund also depends on your bank or financial institution's processing time. Some banks may take additional time to process the transaction, so it's always a good idea to contact your bank for more accurate information regarding their processing timeline.
+
+To ensure a seamless refund experience, please remember to follow our return guidelines and provide all the necessary information required for the refund process. If you have any concerns or specific questions about a refund on a recent purchase, I'd be more than happy to assist you further. Just let me know the details, like the {{Order Number}}, and I'll be able to provide you with more specific information.
+
+Please keep in mind that while we strive to process refunds as quickly as possible, these timelines are approximate and may vary depending on the specific circumstances of your refund. Rest assured, however, that we're committed to ensuring a smooth and timely refund process for all our customers.
+
+I hope this information helps! If you have any further questions or need any other assistance, feel free to let me know.

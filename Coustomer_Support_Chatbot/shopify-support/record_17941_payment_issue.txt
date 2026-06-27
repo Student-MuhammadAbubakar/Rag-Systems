@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where can I notify of problems with payent?
+
+Answer: I've noticed that you need to notify us about problems with your payment. To provide the necessary assistance, you can reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will guide you through the process of reporting the payment issues and ensure that they are resolved as quickly and efficiently as possible. We appreciate your proactive approach in bringing this matter to our attention, and we are here to assist you every step of the way.

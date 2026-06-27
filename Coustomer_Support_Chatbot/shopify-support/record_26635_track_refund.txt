@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: how to see the status of my restitution
+
+Answer: Certainly! To check the status of your restitution, you can visit our website and log into your account. Once you're logged in, navigate to the 'My Orders' or 'My Transactions' section. There, you should be able to see the details of your refund, including the current status. If you have any trouble locating this information, please don't hesitate to reach out to our customer support team. They are available 24/7 at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help and provide you with the most up-to-date information regarding your restitution.

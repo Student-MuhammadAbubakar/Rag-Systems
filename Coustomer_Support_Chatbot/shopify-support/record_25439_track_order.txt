@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I cannot check the ETA of the order {{Order Number}}
+
+Answer: Thank you for letting me know that you're having trouble checking the estimated time of arrival (ETA) for order number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, may I ask which platform or website you are using to track your order? With this information, I can provide you with specific instructions on where to find the ETA.

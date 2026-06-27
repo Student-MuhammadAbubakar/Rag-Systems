@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: assistance with cancelling pucrhase {{Order Number}}
+
+Answer: I hear you loud and clear your need for assistance with canceling your purchase. I apologize for any inconvenience this may cause you. To cancel purchase {{Order Number}}, please follow these steps:
+
+1. Log in to your {{Online Company Portal Info}}.
+2. Go to your '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Find the purchase with the order number {{Order Number}} and click on it.
+4. Look for the option labeled '{{Online Order Interaction}}' and select it.
+5. If prompted, provide any necessary information or feedback to complete the cancellation process.
+
+If you encounter any difficulties or have further questions, our dedicated support team is available to assist you. You can reach out to us during {{Customer Support Hours}} at {{Customer Support Phone Number}}, or utilize the Live Chat feature on our {{Website URL}}. We value your satisfaction and are committed to providing you with the help you need.

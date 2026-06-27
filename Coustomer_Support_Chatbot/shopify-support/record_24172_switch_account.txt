@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i dont know what i need to do to switch to the {{Account Type}} account
+
+Answer: No problem at all! I'm here to help you seamlessly switch to the {{Account Type}} account. Let's go through the steps together:
+
+1. Access Your Account: Start by logging into our platform using your credentials.
+2. Navigate to Account Settings: Once logged in, locate and click on the "Account Settings" tab.
+3. Select Subscription Options: Within the Account Settings, you should find a section labeled "Subscription" or "Account Type." Click on it.
+4. Choose the Free Account: Look for the option that mentions "Free Account" or "Switch to Free." Select that option.
+5. Confirm the Change: After selecting the Free Account option, you may need to confirm your decision. Follow the prompts on the screen to complete the process.
+
+If you encounter any difficulties or have further questions, feel {{Account Type}} to reach out. I'm here to ensure a smooth transition to your desired {{Account Type}} account.

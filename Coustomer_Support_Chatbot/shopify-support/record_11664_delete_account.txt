@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with {{Account Type}} account cancellations
+
+Answer: I'm sorry to hear that you're having issues with canceling your {{Account Type}} account. We understand that this can be a frustrating experience, and I assure you that we're here to assist you every step of the way. To better understand the nature of the problem you're facing, could you please provide more details about the specific challenges you're encountering? We want to make sure we address your concerns and help you successfully cancel your {{Account Type}} account as efficiently as possible.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I don't want purchase {{Order Number}}
+
+Answer: I pick up what you're putting down that you no longer want to proceed with your purchase of item {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide me with your account details or order number associated with the purchase? This way, I can locate the specific purchase and guide you through the cancellation process more effectively. Thank you for your cooperation.

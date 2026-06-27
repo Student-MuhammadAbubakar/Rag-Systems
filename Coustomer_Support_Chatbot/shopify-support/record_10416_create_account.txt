@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: help to ccreate a goddamn {{Account Type}} account
+
+Answer: We're glad that you're interested in creating a {{Account Type}} account with us! It's a fantastic way to explore our platform and access a range of amazing features. To get started, I can guide you through the account creation process step by step. Could you please provide me with your full name, email address, and a username? Once I have these details, I'll assist you in setting up your account and ensure that you have a seamless experience. Your privacy and security are of the utmost importance to us, so rest assured that your information will be protected.

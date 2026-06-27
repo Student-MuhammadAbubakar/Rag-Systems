@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open a pro account for my dad
+
+Answer: Appreciate you reaching out to us to open a {{Account Type}} account for your dad. I'll be more than happy to assist you with this. To proceed, could you please provide me with your dad's full name, email address, and a preferred username for his account? Once I have these details, I'll guide you through the account creation process step-by-step, ensuring that your dad's {{Account Type}} account is set up efficiently. Rest assured that the security and privacy of your dad's information are of utmost importance to us. Let's get started and make your dad's {{Account Type}} account a reality!

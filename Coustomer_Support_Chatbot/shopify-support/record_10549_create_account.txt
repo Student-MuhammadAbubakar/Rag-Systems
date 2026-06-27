@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where can I open a {{Account Type}} account for my daughter?
+
+Answer: We appreciate your interest in opening a {{Account Type}} account for your daughter! To open a {{Account Type}} account, you can visit our website at {{Website URL}} and navigate to the account creation page. Alternatively, you can also reach out to our customer service team at {{Customer Support Phone Number}} or through the Live Chat on our website for personalized assistance. We're here to guide you through the process and answer any questions you may have. Let's get your daughter's {{Account Type}} account set up smoothly and securely!

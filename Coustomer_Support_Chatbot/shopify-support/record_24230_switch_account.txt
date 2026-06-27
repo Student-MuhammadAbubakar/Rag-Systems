@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: want help to switch to the freemium account
+
+Answer: Unquestionably! I'm thrilled to assist you in transitioning to the freemium account:
+
+1. Sign In: Begin by logging into your current account.
+2. Account Settings: Once you're logged in, navigate to your account settings.
+3. Account Type: Look for an option labeled "Account Type" or "Account Settings".
+4. Select {{Account Category}}: Within the account settings, choose the "{{Account Category}}" account type.
+5. Save Changes: Don't forget to save the changes you've made.
+
+If you have any questions or encounter any difficulties during the process, please don't hesitate to reach out. I'm here to ensure a smooth transition and help you make the most of your freemium account.

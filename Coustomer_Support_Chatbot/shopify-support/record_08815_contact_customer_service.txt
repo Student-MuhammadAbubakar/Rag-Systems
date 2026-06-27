@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what is thecustomer support mail
+
+Answer: Thank you for reaching out! I understand your need to contact our customer support team via email. Our dedicated customer support email address is {{Customer Support Email}}. You can send us an email with your inquiry or concern, and our team will get back to you as soon as possible. We are here to assist you and provide the support you need. How else can I assist you today?

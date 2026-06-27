@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have got to create a {{Account Category}} account
+
+Answer: Thank you for expressing your interest in creating a {{Account Category}} account with us! We're delighted to offer you this opportunity to enjoy our basic features and services. To create a {{Account Category}} account, simply visit our website and click on the "Create Account" button. You'll be guided through a step-by-step process to complete the account creation. Rest assured, we value your privacy, and all your information will be handled with the utmost care. If you have any questions or need further assistance during the account creation process, please feel free to reach out to our customer support team. We're here to help you every step of the way!

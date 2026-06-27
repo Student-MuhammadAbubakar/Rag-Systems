@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: in which situations can I ask for a goddamn reimbursement?
+
+Answer: Assuredly! I fully comprehend your desire to understand the situations in which you are eligible for a refund. Let me shed light on some common scenarios:
+
+1. **Product/Service Dissatisfaction:** If the product or service you purchased fails to meet your expectations or doesn't align with what was promised, you have the right to request a refund.
+2. **Cancellation within the Applicable Window:** Should you change your mind about a purchase and cancel it within the specified time frame, you should be entitled to a refund.
+3. **Non-Delivery of Goods/Services:** If you haven't received the goods or services you paid for within the expected time frame or at all, you have a valid reason to request a refund.
+4. **Product/Service Defect:** In the unfortunate event that the product or service you received is defective, damaged, or unusable, seeking a refund is a reasonable course of action.
+5. **Unauthorized Charges:** If you notice any suspicious or unauthorized charges on your account, promptly report them to request a refund for those transactions.
+6. **Event Cancellation:** If an event or activity that you have purchased tickets for gets canceled and not rescheduled, you may be eligible for a refund.
+
+Please note that these are common situations, but refund policies may vary depending on the vendor or service provider. It's always prudent to review the terms and conditions or reach out to their customer support for specific information. If you have any specific concerns or need assistance with a particular purchase, please provide me with the necessary details, such as the {{Order Number}}, and I'll be more than happy to dive deeper into it for you.
+
+Is there anything else I can help you with today?

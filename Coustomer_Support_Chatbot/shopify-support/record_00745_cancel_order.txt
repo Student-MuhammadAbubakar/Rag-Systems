@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i can no longer afford order {{Order Number}} could i cancel it
+
+Answer: I'm sensitive to the fact that you're facing financial difficulties and are unable to afford your purchase with order number {{Order Number}}. We prioritize your satisfaction and are here to help. Cancelling the order might be an option, but I'd also like to propose an alternative solution that could be more suitable for you. Our customer support team is highly experienced and can assist you in finding a solution that meets your needs and budget. Please reach out to them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or via the Live Chat on our website at {{Website URL}}. Your happiness is our top priority, and we're committed to finding a resolution that works for you.

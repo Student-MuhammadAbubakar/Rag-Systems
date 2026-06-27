@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: obtain money back
+
+Answer: I've grasped that you're looking to obtain your money back and I'm here to assist you with that. To ensure a smooth process, I recommend reaching out to our customer support team. They have the expertise to guide you through the necessary steps and provide the most accurate information regarding the refund process. You can reach our customer support team by calling {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we value your satisfaction and will do our best to resolve this matter promptly and efficiently.

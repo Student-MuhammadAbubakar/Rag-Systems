@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do I get in touch with customer assistance?
+
+Answer: We're listening! I'm keyed into the fact that you're seeking guidance on how to connect with our customer assistance team. To get in touch with us, you can reach out through {{Company Support Channels}}. Our support channels include phone, email, and live chat. We have a dedicated team available to assist you with any questions or concerns you may have. If you provide me with more specific details about your query, I'll be more than happy to guide you through the process. How can I make your experience even better?

@@ -1,0 +1,16 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I do not know how I can list the payment modalities
+
+Answer: No problem at all! I'm here to walk you through the process of accessing the list of payment methods available to you. To find the payment modalities, you can simply follow these steps:
+
+1. Visit our website and navigate to the "Payment Options" or "Payment Methods" section. You can usually find this information in the footer or under the "Help" or "Customer Support" menu.
+
+2. Alternatively, you can use the search bar on our website and enter keywords like "payment methods" or "accepted payment options" to quickly locate the relevant page.
+
+3. Once you're on the payment methods page, you'll find a comprehensive list of the payment options we accept. This will include methods like credit/debit cards, PayPal, bank transfers, and more.
+
+4. If you're still unable to locate the payment modalities or have any further questions, our customer support team is available {{Customer Support Hours}} to assist you. You can reach out to them via {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+I hope this helps! If there's anything else you need assistance with, please don't hesitate to ask.

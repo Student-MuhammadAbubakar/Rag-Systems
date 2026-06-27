@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: can uhelp me to check the ETA of purchase {{Order Number}}
+
+Answer: Thank you for contacting us! I understand that you need assistance in checking the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, I kindly request you to visit our website's '{{Order Tracking}}' section. There, you will be able to track the progress of your order and see the ETA. If you have any further questions or need additional support, please don't hesitate to let me know. I'm here to help you every step of the way!

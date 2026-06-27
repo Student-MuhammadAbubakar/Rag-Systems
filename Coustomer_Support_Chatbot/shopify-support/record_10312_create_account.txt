@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where do i open a gold account for my fiance
+
+Answer: I've picked up that you would like to know where to open a {{Account Type}} account for your fiance. To open a {{Account Type}} account, you can visit our website at {{Website URL}}. On our website, you will find a dedicated page where you can easily create a {{Account Type}} account. Simply click on the "Open {{Account Type}} Account" button and follow the step-by-step instructions to complete the process. If you have any questions or need further assistance, please feel free to reach out to our customer support team, who will be more than happy to help you. We're excited to have your fiance become a {{Account Type}} account holder with us!

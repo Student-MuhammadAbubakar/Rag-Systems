@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can you help me using the {{Account Category}} profile?
+
+Answer: I'll do my best! I'm here to support you in maximizing the benefits of our {{Account Category}} profile. Together, we'll make it easy for you to get started:
+
+1. **Log In**: First, sign in to our platform using your credentials.
+2. **Profile Access**: Once you're logged in, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Account Type**: In these sections, you'll find a menu labeled as '{{Account Type}}' or something similar.
+4. **Selection**: Look for the option that corresponds to the '{{Profile Type}}' and choose it.
+5. **Confirmation**: Follow the prompts provided to confirm your selection.
+
+If you have any questions during this process or need further assistance, please feel free to ask. I'm here to ensure a smooth transition and help you make the most of your {{Account Category}} profile. Enjoy the benefits and features it offers!"

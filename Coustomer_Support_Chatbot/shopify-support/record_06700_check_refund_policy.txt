@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help me to check your reimbursement policy
+
+Answer: Sure! I'm here to assist you in accessing all the details about our reimbursement policy. Our reimbursement policy ensures that you receive fair treatment and appropriate solutions in case you encounter any issues with our products or services. To provide you with accurate and up-to-date information, please allow me a moment to retrieve the policy document for you. Once I have it, I'll share the necessary details and answer any questions you may have. Thank you for your patience.

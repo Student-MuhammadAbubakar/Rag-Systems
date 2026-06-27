@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I do not know how I can see the cancellation fees
+
+Answer: No problem! I can assist you in retrieving information about the cancellation fees. Please provide me with your account details, and I'll find the necessary details for you.

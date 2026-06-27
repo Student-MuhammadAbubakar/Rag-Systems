@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: is it possible to talk to customer support?
+
+Answer: Thank you for reaching out! I understand your need to connect with our customer support. Yes, it is definitely possible to talk to our customer support team. Our dedicated team is available during {{Customer Support Hours}} to assist you. You can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to provide you with prompt and reliable assistance. Is there anything else I can help you with today?

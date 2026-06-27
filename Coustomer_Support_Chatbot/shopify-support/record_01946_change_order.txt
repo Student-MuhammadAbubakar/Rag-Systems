@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: add item to order {{Order Number}}
+
+Answer: Thank you for reaching out regarding your request to add an item to order number {{Order Number}}. We are here to assist you in making the necessary adjustments. Please provide us with the details of the item you would like to add, including the name, quantity, and any other relevant information. Our team will work diligently to update your order accordingly and ensure that you have a seamless shopping experience. We appreciate your patience and cooperation.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: We understand that you are eagerly awaiting a refund of {{Currency Symbol}}{{Refund Amount}}. We apologize for any inconvenience caused by the delay in processing your refund. Our team is working diligently to resolve this issue and expedite the refund process for you. Rest assured, we value your patience, and we will ensure that you receive the refund as soon as possible. If you have any further questions or concerns, please don't hesitate to let us know. We appreciate your understanding and trust in our service.

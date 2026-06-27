@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see the bills frmo {{Person Name}}
+
+Answer: I grasp your desire to view the bills associated with Ms. {{Client Last Name}}. To assist you with this, I recommend accessing the "Billing" or "Invoices" section of your account. From there, you should be able to locate and review the bills related to Ms. {{Client Last Name}}. If you need any further guidance or encounter any difficulties, please feel free to let me know. I'm here to help!

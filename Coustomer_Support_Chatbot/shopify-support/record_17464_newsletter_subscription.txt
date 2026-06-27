@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: where could I sign up to the damn corporate newsletter?
+
+Answer: I'm attuned to the idea that you're eager to sign up for our corporate newsletter. We appreciate your enthusiasm! To subscribe, you can visit our website at {{Website URL}} and look for the newsletter section. You'll find a simple form where you can provide your email address and complete the registration process. Rest assured, your email will be treated with the utmost respect and your privacy will be protected. Once you're subscribed, you'll receive our exciting newsletter right in your inbox, keeping you informed about the latest updates, news, promotions, and more. We're thrilled to have you as part of our newsletter community!

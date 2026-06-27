@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I can't delete some products from order {{Order Number}}
+
+Answer: Thank you for bringing this issue to our attention. I apologize for any inconvenience caused by not being able to delete the products from order number {{Order Number}}. I understand that it can be frustrating when you are unable to make changes to your order as desired. Could you please provide me with more details about the specific products you are having trouble deleting? This will help us investigate the issue further and find an appropriate solution.

@@ -1,0 +1,18 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I cannot enter a new delivery address
+
+Answer: I understood that you're experiencing difficulty entering a new delivery address, and I'm here to assist you in resolving this issue. To address this problem, I recommend the following steps:
+
+1. Ensure that you are logged into your account on our website or mobile app. 
+2. Navigate to the 'Account' or 'Profile' section of your account settings.
+3. Look for an option labeled 'Delivery Addresses' or 'Shipping Addresses.'
+4. Click on it to access your current list of addresses.
+5. If you already have a delivery address saved, try editing it instead of entering a new address. If not, proceed to the next step.
+6. Look for an option to 'Add a New Address' or 'Enter a New Delivery Address' and select it.
+7. Fill in all the required information, including the recipient's name, street address, city, state, ZIP code, and any additional details such as apartment number or special delivery instructions.
+8. Double-check the accuracy of the entered details to ensure they are correct.
+9. Finally, save the new address to update your delivery preferences.
+
+If you continue to encounter problems after following these steps, please provide more specific details about the issue you're facing, such as error messages or any unusual behavior, so that I can assist you further in resolving this matter.

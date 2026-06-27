@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery Country}}?
+
+Answer: I'll take care of it! I'm delighted to inform you that we do deliver to {{Delivery Country}}. We have an extensive global network, allowing us to provide shipping services to various countries, including {{Delivery Country}}. Whether it's Budapest, Debrecen, Szeged, or any other location in {{Delivery Country}}, we've got you covered. Our goal is to ensure that customers like you can enjoy our exceptional products and services no matter where you are. If you have any specific concerns or questions regarding the delivery process or our services, please don't hesitate to let me know. I'm here to assist you every step of the way!

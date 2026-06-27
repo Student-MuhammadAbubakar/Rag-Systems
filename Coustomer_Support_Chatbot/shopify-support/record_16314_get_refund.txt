@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this order, could you help me get a rebate?
+
+Answer: I'm clearly cognizant your frustration and the urgency in seeking a rebate for your order. I'm here to assist you in resolving this matter. To proceed with your request, could you please provide me with some additional details regarding the order? Specifically, I would need the order number and any relevant information related to the rebate you are seeking. With this information, I can escalate the issue to the relevant department and work towards a resolution that meets your expectations. Rest assured, I'll do my utmost to ensure you receive the rebate you are entitled to in a timely manner.

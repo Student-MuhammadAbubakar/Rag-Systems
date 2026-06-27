@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wanna edit purchgase {{Order Number}}
+
+Answer: Thanks for dropping us a line to us with your request to edit purchase number {{Order Number}}. We understand that sometimes changes are needed to ensure your complete satisfaction with your order. To proceed with editing your purchase, please provide us with the specific changes you would like to make. This could include swapping items, adding or removing products, or making adjustments to quantities. Our team is here to assist you every step of the way to ensure that your purchase meets your expectations.

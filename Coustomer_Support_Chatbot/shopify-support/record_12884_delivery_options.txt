@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}}?
+
+Answer: That's a great question! I understand you're curious about ordering from {{Delivery City}}. To provide you with accurate information, could you please specify if you're referring to {{Delivery City}}, Spain or another location named {{Delivery City}}? Once you provide me with more details, I'll be able to assist you further in determining the possibilities of ordering from that specific location.

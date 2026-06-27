@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create new premium account
+
+Answer: Fantastic! I'm delighted to guide you through the process of creating a new {{Account Category}} account. To begin, may I kindly request your full name, email address, and a preferred username? With this information, I'll ensure a smooth and personalized experience for you. Rest assured that your data will be handled with the highest level of security and privacy. Let's embark on this exciting journey together!

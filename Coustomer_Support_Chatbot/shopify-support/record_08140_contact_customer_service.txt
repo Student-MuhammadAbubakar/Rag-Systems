@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need help to get in touch with customer support
+
+Answer: Your reach-out is appreciated! I'm sensing that you need assistance in getting in touch with our customer support team. Rest assured, I'm here to guide you through the process. To contact our customer support, you can reach them during our {{Customer Support Hours}}. You can also find more information about contacting our team on our {{Website URL}}. Don't hesitate to share any further concerns or questions you might have. How else may I be of assistance to you today?

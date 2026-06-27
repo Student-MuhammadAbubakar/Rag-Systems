@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get invoice from last purchase
+
+Answer: Sure! I completely understand your request to retrieve the invoice from your most recent purchase. Give me a moment to access our system and locate the invoice for you. While I'm doing that, is there anything else I can assist you with?

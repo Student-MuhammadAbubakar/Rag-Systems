@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: deleting {{Account Category}} account
+
+Answer: Thank you for reaching out to us about deleting your {{Account Category}} account. We understand that making changes to your account can be a significant decision, and we are here to help you with the process. To assist you further, could you please provide us with more details regarding your request? Are you looking for information about the cancellation procedure, or do you need assistance in initiating the account deletion? Rest assured, we will do everything we can to address your concerns and ensure a smooth experience for you.

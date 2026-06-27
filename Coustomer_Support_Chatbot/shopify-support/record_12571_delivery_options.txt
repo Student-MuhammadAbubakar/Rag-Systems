@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible toorder from {{Delivery City}}
+
+Answer: I'll do my best! We are delighted to serve customers from various locations, including **{{Delivery City}}**. You can place your order through our website or mobile app, and our delivery options are available nationwide. Whether you're in the City of Brotherly Love or any other part of the country, we're here to ensure a seamless shopping experience. If you have any specific concerns or questions regarding shipping or delivery to {{Delivery City}}, I'm here to provide further assistance. Let's make your order from {{Delivery City}} a breeze!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: need to swap some products of purchase {{Order Number}}
+
+Answer: We appreciate your request to swap some products in purchase number {{Order Number}}. I understand that you may have changed your mind or there may be a specific reason that you would like to make this modification. To better assist you, could you please provide us with the details of the products you would like to swap? This will help us ensure that your new selection meets your expectations and that we can make the necessary adjustments for you. Thank you for your cooperation, and we look forward to assisting you with this product swap.

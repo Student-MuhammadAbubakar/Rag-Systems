@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I haven't signed up, I need assistance opening a pro account
+
+Answer: Thank you for considering signing up for a {{Account Type}} account with us! I understand that you need assistance with the process, and I'm here to help. To create a {{Account Type}} account, we'll need some details from you, such as your full name, email address, and a preferred username. Once we have the necessary information, we'll guide you through the steps to complete the registration successfully. Rest assured that your personal information will be handled with the utmost care and confidentiality. Let's get started on this exciting journey together!

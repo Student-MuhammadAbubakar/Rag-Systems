@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I want assistance to make an customer reclamation
+
+Answer: I'm sorry to hear that you need assistance in making a customer reclamation. Your feedback is crucial to us, and we take your concerns very seriously. To ensure that your reclamation is handled properly, I suggest reaching out to our customer support team directly. They will guide you through the process, listen attentively to your concerns, and work towards finding a suitable resolution. You can contact them through our helpline at {{Customer Support Phone Number}} or via email at {{Customer Support Email}}. They are well-equipped to provide you with the necessary assistance and address any questions or issues you may have. We appreciate your feedback and are committed to improving our services based on customer experiences like yours.

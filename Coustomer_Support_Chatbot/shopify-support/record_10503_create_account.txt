@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want help to create a platinum account for my fiance
+
+Answer: That's wonderful to hear that you want to create a {{Account Category}} account for your fiance! We appreciate your trust in our services. To initiate the process, could you please provide your fiance's full name, email address, and a preferred username for the account? Once we have these details, we'll guide you step-by-step to create the account, ensuring that your fiance's privacy and security are our utmost priorities. Rest assured, every piece of information shared will be treated with the highest level of confidentiality and care. How are you feeling about this exciting step for your fiance?

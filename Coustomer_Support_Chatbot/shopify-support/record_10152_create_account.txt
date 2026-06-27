@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I haven't signed up, I need to create a {{Account Category}} account
+
+Answer: I appreciate your decision to create a {{Account Category}} account with us! It’s never too late to join our exclusive community. To get started, I'll walk you through the account creation process step by step. We'll need some basic information from you such as your full name, email address, and a preferred username. Rest assured that your security and privacy are of utmost importance to us, and we will handle your personal information with the highest level of care and confidentiality. Let's embark on this exciting journey together! How does that sound?

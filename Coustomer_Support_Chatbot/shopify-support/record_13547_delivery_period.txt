@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where to see when my shipment is going to arrive?
+
+Answer: We understand your curiosity about tracking the progress of your shipment and locating the estimated delivery date. To provide you with the most accurate information, may I kindly ask you to provide the {{Tracking Number}} or {{Order Number}}? With this information, we can guide you to the appropriate page on our website or tracking platform where you can easily access the expected arrival date of your shipment. Your patience and cooperation are truly appreciated.

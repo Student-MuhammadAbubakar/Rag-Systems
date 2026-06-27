@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery City}}
+
+Answer: Greetings! It's fantastic to see your interest in our delivery services. I'm thrilled to inform you that we do offer delivery to {{Delivery City}}! Whether you're in the heart of the city or its outskirts, our delivery options cover a wide range of locations, including {{Delivery City}}. Rest assured, we'll make sure your package reaches you in a timely and secure manner. If you have any other questions or need further assistance, feel free to let me know. I'm here to help!

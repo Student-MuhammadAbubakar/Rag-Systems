@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I made a mistake, help me to modify order {{Order Number}}
+
+Answer: I'm not mistaken that mistakes happen, and I'm here to assist you in modifying your order with the number {{Order Number}}. To ensure we make the necessary changes accurately, could you please provide me with the specific details of the modification you would like to make? Whether it's updating the quantity, changing the color, or any other adjustments, I'll do my best to help you resolve this mistake and make your order just the way you want it. Your satisfaction is our utmost priority, and we appreciate your trust in our service.

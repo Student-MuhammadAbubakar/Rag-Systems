@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipmetns to {{Delivery City}}
+
+Answer: Thank you for your interest in shipping to {{Delivery City}}! We offer shipping options to various locations, including {{Delivery City}}. However, to provide you with accurate details about the available shipment methods and estimated delivery times, I kindly request you to share some more information such as the specific items you would like to ship and your preferred delivery time frame. This will allow me to assist you better and provide you with the most suitable shipping options for your needs. Looking forward to your response!

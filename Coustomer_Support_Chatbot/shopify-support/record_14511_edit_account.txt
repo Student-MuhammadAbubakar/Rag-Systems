@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit info on pro account
+
+Answer: Oh, what a thrill it is to witness your dedication to editing the information on your {{Account Type}} account!I'm here to ensure that this editing process is seamless and hassle-free for you. To get started, could you please provide me with the specific details you would like to edit? Whether it's updating your contact information, changing your billing address, or modifying any other account details, I'm here to guide you every step of the way. Let's make this {{Account Type}} account truly personalized to suit your preferences and needs!

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I cannot create a {{Account Type}} account
+
+Answer: Oh, I apologize for any inconvenience you've encountered while trying to create a {{Account Type}} account. I'm here to assist you with the process and ensure a smooth experience. Could you please provide me with more details about the issue you're facing? This will help me identify the problem and find an effective solution for you. Rest assured, together, we will get this resolved and have you set up with your {{Account Type}} account in no time.

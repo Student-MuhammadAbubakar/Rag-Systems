@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to change order {{Order Number}}?
+
+Answer: Indeed! I understand that you're looking for guidance on how to change your order with the number {{Order Number}}. To assist you with this, please follow the steps below:
+
+1. Log in to your account on our website.
+2. Navigate to the "Orders" section.
+3. Find the specific order you want to change and select it.
+4. Look for the option to make changes or modify the order.
+5. Follow the prompts or instructions provided to make the necessary changes.
+6. Review the changes you have made to ensure they are accurate.
+7. Once you are satisfied with the modifications, proceed to check out or save the changes.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out to our customer support team. We are here to assist you throughout the process.

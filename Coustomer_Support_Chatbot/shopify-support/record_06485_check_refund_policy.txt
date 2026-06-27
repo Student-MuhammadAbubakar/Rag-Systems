@@ -1,0 +1,14 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need help to check how long reimburssements take
+
+Answer: I'm happy to help! I understand that you are curious about the time it takes for reimbursements to be processed. The duration of the refund process can vary depending on several factors, such as the payment method used and the specific policies of the vendor or service provider. Generally, once a refund is initiated, it can take a few days for the funds to be returned to your account or for the reimbursement to be processed.
+
+To provide you with an accurate estimate, I recommend reaching out to the vendor or service provider directly. They will have the most up-to-date information on their refund processing times. You can contact them either through their customer support hotline at {{Customer Support Phone Number}} or by visiting their website at {{Website URL}} to locate the refund policy or contact information.
+
+If you have already initiated a refund and are concerned about the time it is taking, I suggest contacting the vendor or service provider with your specific details, such as the order number or any other relevant information. This will allow them to provide you with more precise details regarding the status of your refund.
+
+Remember, each vendor or service provider may have their own unique refund processing timeline, so it's always best to consult them directly for the most accurate information.
+
+I hope this helps! If you have any other questions or need further assistance, please feel free to ask.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do i have to do to check my bill #00108
+
+Answer: I appreciate your inquiry about the process to check your bill with number #{{Invoice Number}}. To assist you further, could you please provide me with some additional information? Specifically, let me know the platform or method you typically use to access your bills, such as an online portal or a mobile application. This way, I can provide you with the most accurate and tailored guidance on how to check your bill. Additionally, if you have any specific concerns or difficulties you've encountered in the past, please feel free to share them with me. Your feedback will help me provide you with a better experience.

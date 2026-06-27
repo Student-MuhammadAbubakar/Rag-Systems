@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i want help to create a gold account for my fiance
+
+Answer: That's wonderful! I'm here to assist you with creating a {{Account Type}} account for your fiance. To get started, could you please provide the following details: your fiance's full name, email address, and a preferred username? Rest assured, we prioritize privacy and data protection, so your fiance's information will be safeguarded. Once I have these details, I'll guide you through the process step by step, making sure your fiance's experience is smooth and enjoyable. Let's make this special for your fiance!

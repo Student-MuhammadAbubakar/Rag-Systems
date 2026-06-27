@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening new platinum account for daughter
+
+Answer: That's fantastic! I'm thrilled to assist you in opening a new {{Account Category}} account for your daughter. To proceed, I kindly request you to provide her full name, email address, and a preferred username. Rest assured, we prioritize the security and privacy of our customers, and all the information provided will be handled with the utmost care. Once I have these details, I'll guide you through the account creation process step-by-step, ensuring a smooth and informed experience for both you and your daughter. If you have any questions or need further assistance, feel free to let me know.

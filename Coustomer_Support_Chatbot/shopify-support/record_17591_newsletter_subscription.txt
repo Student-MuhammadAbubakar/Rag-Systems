@@ -1,0 +1,15 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: how to sign up to your newsletter?
+
+Answer: I'll take care of it! I'd be delighted to assist you with signing up for our newsletter. Here's a step-by-step guide to get you started:
+
+1. Visit our website homepage at {{Website URL}}.
+2. Look for the 'Newsletter' section or a subscription box, typically found at the bottom of the page.
+3. Provide your email address in the designated field.
+4. Click on the 'Subscribe' or 'Sign Up' button.
+
+Once you've completed these steps, you'll receive a confirmation email shortly, ensuring your successful subscription to our newsletter. You can expect to receive exciting updates, exclusive offers, and valuable content directly in your inbox.
+
+Please let me know if you need any further assistance during the sign-up process. I'm here to help!"

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checkbill #37777
+
+Answer: I certainly recognize your urgency to have a quick look at the invoice with the number {{Invoice Number}}. Rest assured, I'm here to assist you with that. To check the details of your bill, please log in to your account on our website and navigate to the "Invoices" section. You should be able to find the invoice you're looking for by entering the invoice number or filtering the search by date or client name. If you encounter any difficulties or have further questions, feel free to let me know, and I'll be more than happy to help you with the process.

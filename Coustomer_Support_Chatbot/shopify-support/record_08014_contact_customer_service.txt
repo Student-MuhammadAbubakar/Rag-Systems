@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to speak with customer assistance
+
+Answer: We're all ears! I'm tuned into the idea that you would like to speak with our customer assistance team. We are here to help and provide you with the support you need. To speak with our customer assistance team, you have a few options. You can reach us by phone at {{Customer Support Phone Number}} during our business hours, which are {{Customer Support Hours}}. Alternatively, you can visit our website at {{Website URL}} and use our live chat feature to directly connect with one of our customer assistance representatives. Please let me know if there's anything else I can assist you with.

@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how can I look foe my invoice from {{Person Name}}?
+
+Answer: I'm on the same wavelength, your concern about finding the invoice from {{Person Name}}. To locate the invoice, you can follow these steps:
+
+1. Login to your account on our website.
+2. Navigate to the "Invoices" or "Billing" section.
+3. Use the search filters to specify the date range or any other relevant details.
+4. Look for the invoice related to {{Person Name}} by cross-referencing the client name or invoice number.
+5. Once you locate the invoice, you can view, download, or print it for your reference.
+
+If you encounter any difficulties during this process or have any specific questions, feel free to let me know. I'm here to assist you at every step.

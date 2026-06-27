@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I am trying to shop something
+
+Answer: Thank you for expressing your interest in shopping with us! I'm here to assist you in finding the perfect items. Could you please let me know what you are looking for? Whether it's clothing, electronics, or any other specific category, I'll provide you with recommendations tailored to your preferences. Let's make your shopping experience enjoyable and hassle-free!

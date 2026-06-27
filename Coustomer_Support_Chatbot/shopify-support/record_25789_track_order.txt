@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: need assistance to check the ETA of the order {{Order Number}}
+
+Answer: We're here for you! I'm aware that you need assistance with checking the estimated time of arrival (ETA) for your order with order number {{Order Number}}. I apologize for any inconvenience caused by the difficulty in tracking your purchase. Our team is here to help you. To provide you with accurate information, I kindly request you to please verify the order number again, as there seems to be an error in the order number you provided. Once we have the correct order number, we will be able to assist you further in locating the updated ETA of your order. Thank you for your kind cooperation, and I look forward to hearing back from you soon.

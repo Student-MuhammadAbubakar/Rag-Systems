@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get invoice from {{Person Name}}
+
+Answer: I'm clearly cognizant your request to obtain the invoice from {{Salutation}} {{Client Last Name}}. Allow me to assist you in retrieving that information. Just a moment, please.

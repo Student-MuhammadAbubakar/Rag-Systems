@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know how to take a quick look at invoice #12588
+
+Answer: I've realized you're unsure about how to quickly access the details of invoice #{{Invoice Number}}. Allow me to guide you through the process. To take a quick look at your invoice, you can log in to your account on our website and navigate to the "Billing" or "Invoice" section. There, you should be able to find a list of your invoices, including invoice #{{Invoice Number}}. Clicking on the invoice will provide you with a detailed view of the charges, due date, and any other relevant information. If you encounter any difficulties during this process, please don't hesitate to reach out to our customer support team, who will be happy to assist you further.

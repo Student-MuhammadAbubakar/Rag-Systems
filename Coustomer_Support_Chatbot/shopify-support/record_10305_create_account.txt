@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i do not know what to do to open a {{Account Category}} account
+
+Answer: I gather that you're uncertain about the steps to open a {{Account Category}} account. Don't worry, I'm here to guide you through the process. Opening a {{Account Category}} account is easy and straightforward. Let me walk you through the steps:
+
+1. Visit our website and navigate to the account creation page.
+2. Choose the "Sign Up" or "Create Account" option.
+3. Fill in the required information such as your name, email address, and a password of your choice.
+4. Select the "{{Account Category}}" option when prompted to choose the account type.
+5. Review the terms and conditions, and privacy policy, then accept if you agree.
+6. Click the "Submit" or "Create Account" button to complete the process.
+
+If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out. We're here to assist you every step of the way.

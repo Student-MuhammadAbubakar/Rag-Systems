@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: where do I check the payment modalities?
+
+Answer: Positively! I'm here to assist you. To check the payment modalities available, you can visit our website and navigate to the "Payment Methods" section. You can usually find this section on the "Account" or "Payment" page. Alternatively, you can also reach out to our customer support team through the Live Chat feature on our website or by calling {{Customer Support Phone Number}}. They will be more than happy to provide you with detailed information on our payment methods. Remember, our goal is to make your payment experience as smooth and convenient as possible!

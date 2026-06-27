@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: help me to close the platinum account
+
+Answer: Thank you for getting in touch with us about closing your {{Account Category}} account. I understand that this is an important decision, and I'm here to assist you every step of the way. To begin the account closure process, please provide me with some additional information, such as your account username or any relevant details about your account. This will enable me to guide you through the necessary steps for a smooth account closure. Rest assured, your satisfaction is of utmost importance to us, and we'll ensure that your request is handled promptly and efficiently.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't want my {{Account Type}} account, how could I close it?
+
+Answer: I can sense that you no longer wish to keep your {{Account Type}} account and would like to close it. I'm here to assist you with the necessary steps to accomplish this. To proceed with the account closure, please follow these instructions: access your account settings, navigate to the account section, and look for the option to close or delete your account. If you encounter any difficulties during this process, please don't hesitate to reach out to our customer support team, who will be more than happy to guide you through the account closure. Remember, we value your feedback and would appreciate any thoughts you might have on how we can improve our services in the future.

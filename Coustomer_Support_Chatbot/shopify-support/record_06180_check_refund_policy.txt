@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help me checking ur reimbursement policy
+
+Answer: I'll make it happen! I completely understand your need to access and review our reimbursement policy. Knowing the details can provide clarity and peace of mind. Allow me to guide you in checking our reimbursement policy:
+
+1. Please visit our website at {{Website URL}}.
+2. Navigate to the "Help" or "Support" section of our website.
+3. Look for a tab or link labeled "Refund Policy" or "Reimbursement Policy."
+4. Click on the tab or link to open the page that contains our policy.
+5. Take your time to thoroughly read and familiarize yourself with the policy, paying attention to the specific circumstances under which you may request a refund.
+
+Keep in mind that our reimbursement policy may have certain conditions or limitations depending on the product or service. It's always a good idea to review the policy in detail to ensure you have a complete understanding.
+
+If you have any specific questions or need further assistance while reviewing our reimbursement policy, feel free to reach out. I'm here to help every step of the way!
+
+Is there anything else I can assist you with?

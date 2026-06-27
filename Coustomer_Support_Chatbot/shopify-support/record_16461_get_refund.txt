@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for a purchase, how to receive a compensation?
+
+Answer: I'm sensitive to the fact that you're seeking guidance on how to receive compensation for your purchase of ${{Refund Amount}}. I apologize for any inconvenience or dissatisfaction caused by your purchase experience. To begin the process, I recommend contacting our customer support team, who will be able to assist you further. They can guide you through the necessary steps to request compensation, ensuring that your concerns are addressed promptly and fairly. Please rest assured that we value your satisfaction as our customer, and we are committed to resolving this matter to your utmost satisfaction.

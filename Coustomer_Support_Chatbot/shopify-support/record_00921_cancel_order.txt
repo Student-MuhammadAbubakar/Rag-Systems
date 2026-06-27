@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can no longer afford order {{Order Number}}
+
+Answer: I'm on the same page that financial situations can change, and it's important to prioritize your expenses. I'm here to help you with canceling order {{Order Number}} and find a suitable solution for you. Here's what we can do:
+
+1. Review the Cancelation Policy: Let's start by reviewing our cancelation policy for this specific order. This will give us a better understanding of the available options and any associated fees or penalties.
+2. Explore Alternatives: If canceling the order is not feasible, we can explore alternative solutions to accommodate your current financial situation. This might include adjusting the payment plan, exploring discounts or promotions, or deferring the purchase to a later date.
+3. Contact Customer Support: Our dedicated customer support team is ready to assist you further. Reach out to them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to guide you through the process and provide personalized assistance based on your specific circumstances.
+4. Stay Updated: Keep an eye on your email or notifications from us. We will also keep you informed about any updates or changes related to your order.
+
+Remember, your satisfaction is important to us, and we are committed to finding a solution that works for you.

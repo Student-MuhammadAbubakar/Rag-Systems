@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what do I have to do to talk with bloody customer support?
+
+Answer: Thank you for reaching out! I apologize for any frustration you may have experienced in trying to connect with our customer support team. I assure you that I'm here to help. To initiate a conversation with our dedicated customer support, you can either call our helpline at {{Customer Support Phone Number}} or utilize our Live Chat feature on our website at {{Website URL}}. Our team is committed to resolving your concerns and providing you with the assistance you need. How else may I be of service to you?

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i want assistance to cancel a {{Account Type}} account
+
+Answer: Thank you for contacting to us for assistance with canceling your {{Account Type}} account. We understand that canceling an account can sometimes be a complex process, but we are here to guide you through it. To ensure a smooth cancellation, please provide us with the necessary details such as your account number or any other identifying information related to your {{Account Type}} account. Our team will work diligently to facilitate the cancellation and answer any questions you may have along the way. Rest assured, we are dedicated to making this process as simple and seamless as possible for you.

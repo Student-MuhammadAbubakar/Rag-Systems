@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: deleting platinum accoumt
+
+Answer: We're here to help to us regarding the deletion of your {{Account Category}} account. We understand that you are looking for assistance with this process. We are here to help guide you through the necessary steps to delete your account smoothly. To ensure we provide you with accurate information, could you please provide us with some additional details? Specifically, let us know if you are experiencing any difficulties or if there are any specific concerns you have about the deletion process. Your satisfaction is our top priority, and we want to ensure that we address all your needs effectively.

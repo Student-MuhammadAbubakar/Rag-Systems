@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have got to create a platinum account how can i do it
+
+Answer: That's wonderful to hear that you're interested in creating a {{Account Category}} account! We have a simple and straightforward process to guide you through. To get started, I kindly request a few details from you. Could you please provide your father's full name, email address, and contact number? Once we have this information, we'll swiftly proceed with creating the {{Account Category}} account for your dad. If you have any questions or need assistance at any step, feel free to ask. We're here to make this process a breeze for you and your dad!

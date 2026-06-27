@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a refund of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I want you to know that I understand how important it is to you to receive your refund of ${{Refund Amount}}. We value your trust and satisfaction, and I assure you that I'll do everything I can to provide you with the assistance you need. Let me quickly check the status of your refund for you. While I do that, could you please let me know if you have encountered any issues with your refund before? Your insights will help us improve our processes. Thank you for your patience and cooperation in this matter.

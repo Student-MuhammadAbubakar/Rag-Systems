@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: help me file a customer complaint against your company
+
+Answer: I deeply apologize for any negative experience you may have had with our company. Your feedback is extremely valuable to us as it allows us to identify areas for improvement and ensure that such incidents do not reoccur. To file a customer complaint, I recommend reaching out to our dedicated customer support team either through our hotline at {{Customer Support Phone Number}} or via email at {{Customer Support Email}}. They will guide you through the process and address your concerns promptly. Rest assured, we take all complaints seriously and will make every effort to resolve them satisfactorily. Thank you for bringing this matter to our attention.

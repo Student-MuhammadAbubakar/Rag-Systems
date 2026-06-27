@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I want to see the early exit penalty, how can I do it?
+
+Answer: To view the early exit penalty, log in to your account and navigate to the "Termination Fees" section. There, you will find all the information regarding the charges for cancelling your account before the agreed-upon term.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need to see my invoices from {{Person Name}}
+
+Answer: I understand your need to view your invoices from {{Salutation}} {{Client Last Name}}, {{Person Name}}. I'm here to assist you with that. To access your invoices, you can log in to your account on our website and navigate to the "Invoices" section. If you have any trouble finding them or if you need any further assistance, please don't hesitate to let me know. I'm here to ensure you have a seamless experience in accessing your invoices.

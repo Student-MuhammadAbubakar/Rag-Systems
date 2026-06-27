@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: makepurchase
+
+Answer: I appreciate your intention to make a purchase with us! Rest assured, I'm here to guide you through the process and make it as smooth as possible for you. To get started, could you please provide me with the specific items you would like to purchase? Once I have those details, I'll be able to assist you further in placing your order.

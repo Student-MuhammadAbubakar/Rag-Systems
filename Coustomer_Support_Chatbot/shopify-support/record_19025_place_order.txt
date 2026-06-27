@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: how can i purchase some of ur product
+
+Answer: Thank you for expressing your interest in purchasing some of our products! I'm here to guide you through the process and make it as smooth as possible. To begin, you can explore our website and browse through the wide range of products we offer. Once you find the items you'd like to purchase, simply add them to your cart. If you have any questions or need assistance at any step, feel free to reach out to our customer support team, who are available {{Customer Support Hours}} via our live chat or at {{Customer Support Phone Number}}. They will be more than happy to assist you in completing your purchase. We look forward to serving you!

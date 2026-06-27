@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it plssible to order from {{Delivery Country}}?
+
+Answer: Thank you for your interest in ordering from {{Delivery Country}}! We do offer international shipping options to many countries, including {{Delivery Country}}. However, please note that shipping times and costs may vary depending on the destination and the items you wish to order. To get the most accurate information regarding ordering from {{Delivery Country}}, I recommend reaching out to our Customer Service team who can provide you with the specific details and assist you with any questions or concerns you may have. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we'll do our best to make your ordering experience as smooth as possible!

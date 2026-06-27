@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: show me the withdrawal penalties
+
+Answer: Sure, let me assist you in finding out the withdrawal penalties for your account. Please provide me with your account details so I can check the exact penalties that apply.

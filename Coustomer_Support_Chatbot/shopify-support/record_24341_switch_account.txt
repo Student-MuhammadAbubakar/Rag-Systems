@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I want help using the pro profile
+
+Answer: I appreciate your choice to explore the benefits of our {{Account Type}} profile! Let's work together to ensure you make the most of it:
+
+1. **Sign In:** Begin by logging into our platform with your credentials.
+2. **Navigation:** Once inside, navigate to your account settings or profile section.
+3. **Upgrade Option:** Within these sections, look for an option that reads "Upgrade" or "Switch Account Type".
+4. **Selection:** Choose the "{{Account Type}} Profile" option from the available list.
+5. **Finalize:** Follow the on-screen prompts to complete the upgrade process.
+
+If you encounter any challenges during the process or if you have any additional questions, please don't hesitate to reach out. Your satisfaction is our utmost priority, and I'm here to provide any assistance you may need. Enjoy the enhanced benefits and features of our {{Account Type}} profile!

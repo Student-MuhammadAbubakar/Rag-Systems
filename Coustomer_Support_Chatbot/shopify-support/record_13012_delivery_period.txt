@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I call to see when my goddamn package is going to arrive
+
+Answer: We understand your frustration and eagerness to track the status of your package. To assist you in obtaining the most up-to-date information about your delivery, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With these details, we can provide you with an accurate estimate of when your package will arrive. Your patience is greatly appreciated as we work together to resolve this.

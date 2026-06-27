@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can uhelp me see how soon can i expect the artikcle
+
+Answer: We understand your eagerness to receive your article and we'll be glad to provide you with an estimated delivery timeline. To assist you better, could you please provide the {{Tracking Number}} or {{Order Number}} associated with your purchase? This will allow us to access the relevant information in order to give you the most accurate update regarding the expected arrival of your article. We appreciate your cooperation and look forward to helping you track your shipment.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have paid {{Currency Symbol}}{{Refund Amount}} for an order, I want a compensation
+
+Answer: I regret to learn that you're seeking compensation for your recent purchase. I understand it can be frustrating when expectations aren't met. To assist you further, could you please provide more details about the issue you encountered with your order? This will help me assess the situation accurately and guide you towards the most appropriate course of action. Rest assured, your satisfaction is our utmost priority, and I'm here to support you every step of the way.

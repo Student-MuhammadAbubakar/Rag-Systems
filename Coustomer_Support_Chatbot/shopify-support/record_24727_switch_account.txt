@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i have got to switch to the {{Account Category}} account help me
+
+Answer: That's fantastic! I commend your decision to switch to the {{Account Category}} account. I'm here to assist you every step of the way and ensure a smooth transition:
+
+1. Starting Point: Begin by signing in to our platform using your existing credentials.
+2. Account Settings: Once you're logged in, navigate to the '{{Settings}}' or '{{Profile}}' section.
+3. Upgrade Option: Within this section, look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}'.
+4. {{Account Category}} Selection: Choose the '{{Account Type}}' from the list of available options.
+5. Final Steps: Follow the on-screen prompts and instructions to complete the switch to the {{Account Category}} account.
+
+If you encounter any hurdles or have further queries, please don't hesitate to let me know. I'm dedicated to providing exceptional support and ensuring a seamless experience for you. Enjoy all the exciting benefits that come with your {{Account Category}} account!

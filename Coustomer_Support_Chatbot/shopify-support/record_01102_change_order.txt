@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problem with adding a product to order {{Order Number}}
+
+Answer: Thank you for bringing this issue to our attention. I apologize for any inconvenience caused by the difficulties you're experiencing in adding a product to order {{Order Number}}. Our team is here to help resolve this for you. To better assist you, could you please provide more details about the problem you're facing? This will allow us to identify the issue and provide you with the most appropriate solution. We appreciate your patience and cooperation in this matter.

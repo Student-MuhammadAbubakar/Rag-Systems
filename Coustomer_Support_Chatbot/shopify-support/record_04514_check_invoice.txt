@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where can i take a quick look at the invoice #00108
+
+Answer: I'll take care of it! I understand that you would like to quickly view the details of your invoice with the number #{{Invoice Number}}. To access your invoice, you can log in to your account on our website and navigate to the "Billing" section. There, you will find a list of all your invoices, including the one with the number {{Invoice Number}}. If you need any further assistance or have any questions, please don't hesitate to ask.

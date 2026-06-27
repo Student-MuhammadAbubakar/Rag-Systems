@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I am trying to get in touch with customer service
+
+Answer: Thank you for reaching out! I understand your urgency to get in touch with our customer service team. Our dedicated support staff is available to assist you during {{Customer Support Hours}}. You can reach them by simply dialing {{Customer Support Phone Number}} or by visiting our website and accessing the live chat feature. They will be more than happy to address any questions or concerns you may have. How else can I assist you today?

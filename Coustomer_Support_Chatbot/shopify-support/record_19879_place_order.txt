@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: how to shop a few of ur article
+
+Answer: Thank you for your interest in shopping for a few of our articles! I'm excited to guide you through the process. To start, you can visit our website and browse through our wide range of products. Once you find the articles you'd like to purchase, simply add them to your shopping cart. If you need any assistance during the shopping process or have any questions regarding specific articles, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to help you with any queries and guide you through the entire shopping experience. Happy shopping!

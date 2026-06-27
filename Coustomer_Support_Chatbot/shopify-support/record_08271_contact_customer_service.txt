@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how can i contact customer support
+
+Answer: Thank you for reaching out! I understand your need to contact our customer support team. To get in touch with us, you can call our dedicated support hotline at {{Customer Support Phone Number}}. We also provide support through our Live Chat feature on our website at {{Website URL}}, where you can chat with one of our representatives in real-time. Additionally, you can send an email to our support email address at {{Customer Support Email}}. We are here to assist you and ensure your queries are addressed promptly. How may I further assist you?

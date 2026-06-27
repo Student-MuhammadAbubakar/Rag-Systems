@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a compensation of {{Refund Amount}} dollars
+
+Answer: We understand the significance of waiting for a compensation of {{Currency Symbol}}{{Refund Amount}}. We want to assure you that we value your patience and strive to provide timely updates on your refund status. To assist you better, could you please provide me with any relevant details such as your refund request or reference number? This will enable me to track the status of your compensation accurately and provide you with the most up-to-date information.

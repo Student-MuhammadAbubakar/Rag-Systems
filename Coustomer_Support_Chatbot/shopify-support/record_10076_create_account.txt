@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can i open a {{Account Type}} account for mh dad
+
+Answer: We appreciate your interest in opening a {{Account Type}} account for your dad! It's fantastic that you want to provide him with the enhanced features and privileges that come with our {{Account Type}} account. To get started, we would need a few details to create the account. Please provide your dad's full name, email address, and a preferred username. Once we have this information, we will guide you through the process step-by-step and ensure that your dad's account is set up smoothly. If you have any questions or need further assistance, feel free to ask. We're here to help!

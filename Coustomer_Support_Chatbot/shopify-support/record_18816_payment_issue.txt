@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I have to report issues with payments
+
+Answer: Thank you for reaching out to us regarding the issues you're facing with your payments. We understand the importance of quickly and accurately reporting any problems you encounter. To ensure that your concerns are properly addressed, I recommend reaching out to our dedicated customer support team. They have the expertise and resources to assist you in resolving any payment issues you may be experiencing. Please provide them with specific details about the problem you encountered so they can investigate and provide a prompt solution. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the reporting process and work closely with you to resolve any outstanding payment issues. Your feedback is valuable, and we appreciate your trust in our support team.

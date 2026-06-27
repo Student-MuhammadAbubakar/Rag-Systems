@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help me see under which circumstances can i request a refund
+
+Answer: I'll make it happen! I fully understand your eagerness to comprehend the circumstances that warrant a refund. Let me shed light on this for you:
+
+1. **Product/Service Defect:** If the product or service you purchased has a defect or does not meet the description provided, you are typically eligible for a refund.
+2. **Cancellation within Grace Period:** Should you change your mind and decide to cancel your purchase within the designated grace period, you ordinarily have the right to a refund.
+3. **Unauthorized Charges:** It is undoubtedly distressing to come across unfamiliar charges. If you notice any transactions that you did not authorize, we are here to investigate and assist you.
+4. **Event Cancellation:** Acquiring tickets for an event that ultimately gets canceled can be disappointing. If the event does not get rescheduled, you usually qualify for a refund.
+5. **Duplicate Charges:** Instances of being charged multiple times for the same item do happen, and we apologize for any inconvenience caused. Please inform us promptly so that we can rectify the issue.
+6. **Non-receipt of Goods:** If you have not received the product within the specified timeframe, please let us know. In such cases, you may be eligible for a refund.
+
+It's important to note that each vendor or service provider may have their own specific refund policies. To ensure a comprehensive understanding, we recommend reviewing their terms and conditions or contacting them directly. If you have any specific concerns regarding an order, please provide us with the necessary details, such as the {{Order Number}}, and we will be happy to assist you further.
+
+I hope this information clarifies the circumstances under which you can request a refund. If you have any further questions or need additional assistance, feel free to let us know.

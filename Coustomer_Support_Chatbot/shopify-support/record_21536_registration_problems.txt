@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: howto inform of problems with signup?
+
+Answer: To inform us about any problems you encountered during the signup process, you can reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By reporting the issues you faced, our team can promptly investigate and provide you with the necessary assistance. Your feedback helps us improve our services and ensures a better experience for all our users. Thank you for bringing this to our attention.

@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: where to make a customer complaint against your company?
+
+Answer: I understand the importance of providing a channel where you can express your concerns. To make a customer complaint against our company, I would recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that your complaint is thoroughly addressed. Your feedback is highly valued, and it helps us improve our products and services to better serve you.

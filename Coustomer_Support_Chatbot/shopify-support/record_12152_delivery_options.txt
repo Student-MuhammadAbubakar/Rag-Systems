@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: assistance to check what delivery methods are available
+
+Answer: Unquestionably! I'm here to assist you in exploring the available delivery methods and finding the best option for you. Here are some of the delivery methods we offer:
+
+1. Standard Shipping: This method is perfect if you're not in a rush and can wait for your package to arrive within {{Date Range}} business days.
+2. Expedited Shipping: If you need your package a bit faster, you can choose expedited shipping, which typically delivers within {{Date Range}} business days.
+3. Same-Day Delivery: For those urgent situations when you need your order right away, we offer same-day delivery to select areas. Please check if this option is available for your location.
+4. In-Store Pickup: Conveniently collect your order from our store location at your own pace. This option allows you to avoid shipping costs and ensures a faster fulfillment process.
+
+I hope this information helps you make an informed decision. If you have any further questions or if there's anything else I can assist you with, please feel free to let me know.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: need to check the bill from {{Person Name}}
+
+Answer: Of course! I fully understand your need to check the bill from {{Salutation}} {{Client Last Name}}. It's essential to have access to all the information related to your account. Let me guide you through the process step by step to ensure you find the bill you're looking for. Do you happen to have any specific details about the bill, such as the date or invoice number, that could help us locate it more efficiently?

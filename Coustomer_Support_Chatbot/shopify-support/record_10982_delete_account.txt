@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: have an question about the removal of my {{Account Type}} account
+
+Answer: Thanks for dropping us a line with your question regarding the removal of your {{Account Type}} account. I understand that you may have concerns or doubts about the process. Rest assured, I'm here to assist you and provide the information you need. Could you please provide me with more details about your question or the specific information you are seeking? By understanding your concerns better, I will be able to provide you with a more accurate and helpful response. Your satisfaction is our priority, and we want to ensure that we address all of your concerns.

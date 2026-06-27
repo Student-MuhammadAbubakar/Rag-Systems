@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: updating order {{Order Number}}
+
+Answer: I understood that you require assistance in updating your order with the number {{Order Number}}. I apologize for any inconvenience caused, and I'm here to help. Could you please provide me with the specific changes you'd like to make to your order? With this information, we'll ensure that your order is updated according to your preferences.

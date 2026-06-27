@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: check purchase {{Order Number}} current status
+
+Answer: Thank you for reaching out! I'm here to help you with checking the current status of your purchase with the order number {{Order Number}}. To provide accurate and up-to-date information, I recommend visiting the order history section on our website. By accessing this section, you'll be able to view the current status of your purchase, including any relevant updates or tracking details. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to ensure you have a seamless experience!

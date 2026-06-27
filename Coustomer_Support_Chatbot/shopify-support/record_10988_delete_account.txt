@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: closing {{Account Type}} account
+
+Answer: Grateful you reached out about closing your {{Account Type}} account. I understand that you no longer wish to continue with our services, and I sincerely apologize for any inconvenience caused. To proceed with the account closure, please follow the steps outlined in our account closure policy, which you can find on our website under the 'Account Settings' or 'Preferences' section. If you encounter any difficulties or have any additional questions during the process, please don't hesitate to reach out to our customer support team for further assistance. We appreciate your time with us and hope to assist you promptly in closing your {{Account Type}} account.

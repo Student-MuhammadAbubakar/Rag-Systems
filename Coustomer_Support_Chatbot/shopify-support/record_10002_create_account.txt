@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open nw {{Account Category}} account for daughter
+
+Answer: Thank you for considering opening a new {{Account Category}} account for your daughter! We appreciate your trust in our services. To proceed with the account creation, could you please provide your daughter's full name, date of birth, and an email address for communication purposes? Rest assured, we prioritize the security and privacy of our users' information. Once we have these details, we'll guide you through the process step by step, ensuring a seamless experience for your daughter. If you have any questions or need further assistance, feel free to let us know. We're here to help!

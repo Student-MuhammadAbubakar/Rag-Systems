@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problem with modifying purchase {{Order Number}}
+
+Answer: We apologize for any inconvenience caused by the problem you encountered while modifying purchase number {{Order Number}}. Our team is committed to ensuring a seamless shopping experience for our valued customers, and we appreciate you bringing this issue to our attention. To assist you further, could you please provide more details about the specific problem you're facing? This will allow us to better understand the issue and provide you with an effective solution. Thank you for your patience and cooperation.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: change purxhase {{Order Number}}
+
+Answer: Glad you got in touch to us regarding the need to change purchase number {{Order Number}}. I apologize for any inconvenience caused. To assist you with this request, could you please provide me with more details about the specific changes you would like to make? This information will help us ensure that we address your request accurately and efficiently.

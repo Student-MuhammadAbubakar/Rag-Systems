@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: can you send me my damn invoice from {{Person Name}}?
+
+Answer: I'm on it! I completely understand that you need to receive your invoice from {{Salutation}} {{Client Last Name}}. Just give me a moment, and I will ensure that your invoice is promptly sent to you. By the way, is there anything else I can assist you with? I'm here to help."

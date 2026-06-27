@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update data on {{Account Category}} account
+
+Answer: How splendid it is to witness your eagerness to update the data on your esteemed {{Account Category}} account!it is my utmost pleasure to assist and empower you in this remarkable endeavor. To ensure a seamless and secure process, I recommend logging into your {{Online Company Portal Info}} and navigating to the account settings section. There, you'll find a comprehensive range of options to modify your account details, such as personal information, contact preferences, and subscription features. If you require any further assistance or encounter any challenges along the way, our dedicated support team stands ready to provide personalized guidance. Together, let's embark on this enriching journey of personalizing and optimizing your {{Account Category}} account to meet your exact preferences and needs.

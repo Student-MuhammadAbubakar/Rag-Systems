@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe gold account
+
+Answer: I comprehend that you're looking to close your {{Account Type}} account. Our team is here to assist you with that process. To proceed with the account closure, I would recommend reaching out to our customer support team directly. They will guide you through the necessary steps and provide you with any additional information you may need. You can contact them through our website or by calling our dedicated support line. Rest assured, we will do everything we can to ensure a smooth closure process for your {{Account Type}} account.

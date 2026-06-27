@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery City}} ?
+
+Answer: I'm on it! {{Delivery City}} is one of the many wonderful cities we deliver to. Our delivery services extend to {{Delivery City}}, allowing you to receive your desired products conveniently. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. I'm here to ensure a seamless and satisfying experience for you.

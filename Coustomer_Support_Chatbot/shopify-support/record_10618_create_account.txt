@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need help to open a {{Account Category}} account for my daughter
+
+Answer: That's fantastic! I'm here to assist you in opening a {{Account Category}} account for your daughter. To get started, I'll need a few details. Could you please provide me with your daughter's full name, email address, and a preferred username? Once I have this information, I'll guide you through the account creation process, step by step. Rest assured, we prioritize the security and privacy of our users, and we'll ensure that all personal information is thoroughly protected. Let's embark on this journey together and create a delightful experience for your daughter!

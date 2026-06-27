@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipnents to {{Delivery Country}}
+
+Answer: Ah, let me clarify that we do offer shipments to the {{Delivery Country}}. Our delivery service covers a wide range of locations, including various cities in the {{Delivery Country}}. Whether you reside in New York, Los Angeles, or any other part of the country, we've got you covered. Simply choose your desired items, proceed to checkout, and select the shipping option that best suits your needs. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. Providing seamless service is our top priority!

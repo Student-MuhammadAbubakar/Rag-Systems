@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: where do i make a complaint
+
+Answer: I deeply regret to hear that you need to make a complaint. Our sincere apologies for any inconvenience you may have experienced. To address your concern effectively, we have a dedicated customer service department that specializes in handling complaints. I recommend reaching out to our customer service team either by phone at {{Customer Support Phone Number}} or through our website at {{Website URL}}. They will guide you through the complaint process, ensure your complaint is properly documented, and work towards a satisfactory resolution. Your feedback is invaluable to us, and we appreciate your patience and understanding during this process.

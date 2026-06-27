@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: were do i obtain my money back
+
+Answer: I've got that you are seeking information on where to obtain your money back. Our customer service team will be more than happy to assist you in this matter. You can reach out to them through the Live Chat on our website at {{Website URL}} or by calling {{Customer Support Phone Number}}. They will guide you through the process and ensure that you receive the necessary support to obtain your refund.

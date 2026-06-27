@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: could I place an order from {{Delivery Country}} ?
+
+Answer: Indeed! We're thrilled to offer our services to customers in {{Delivery Country}}. You can easily place an order with us, no matter where you are. Simply visit our website and explore the wide range of products available. Our seamless ordering process ensures that you have a smooth and hassle-free experience. If you need any assistance or have specific questions, feel free to reach out to our customer support team. We'll be more than happy to help you with your order from {{Delivery Country}}. Let us be your trusted partner in delivering quality products right to your doorstep, wherever you are!

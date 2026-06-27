@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what I hae to do to close the {{Account Category}} account
+
+Answer: Happy to get your message with your question about closing your {{Account Category}} account. I understand that you're unsure about the process, and I'm here to assist you. To close your {{Account Category}} account, you typically need to follow a few simple steps. However, to provide you with accurate and personalized instructions, I just need a few more details. Can you please provide me with the platform or service you are using for your {{Account Category}} account? Once I have this information, I will guide you through the specific steps you need to take to close your account.

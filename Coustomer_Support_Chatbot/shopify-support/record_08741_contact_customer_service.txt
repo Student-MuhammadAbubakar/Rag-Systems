@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do I speak to customer service?
+
+Answer: Happy to hear from you! I truly understand that you would like to know how to speak to our customer service team. To connect with our dedicated support representatives, you can reach out through different channels. One option is to call our customer service hotline at {{Customer Support Phone Number}}. Another option is to visit our website at {{Website URL}} and use the live chat feature, where you can chat with a representative in real-time. We are also available via email at {{Customer Support Email}}. Please let me know if there's anything else I can assist you with.

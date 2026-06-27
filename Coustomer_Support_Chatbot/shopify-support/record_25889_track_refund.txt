@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a goddamn restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm on the same page, the importance of your expected restitution of {{Currency Symbol}}{{Refund Amount}}. Rest assured that I am here to assist you in tracking the status of your refund. Allow me a moment to investigate the current progress. In the meantime, I would like to ask if you have encountered delays in receiving refunds in the past? Your insights are valuable to us as we strive to improve our processes and ensure your satisfaction. Thank you for your patience and trust in our services.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what to do to find my invoice from {{Person Name}}
+
+Answer: I'm picking up what you're putting down, your concern and uncertainty regarding the process of finding your invoice from {{Person Name}}. Rest assured, I'm here to guide you and provide you with the necessary assistance. To locate your invoice, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to help you find the invoice and provide you with any additional information you need. Remember, we are committed to ensuring your satisfaction, so please don't hesitate to ask for help whenever you need it.

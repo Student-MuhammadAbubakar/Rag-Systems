@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: need to check the etga of order {{Order Number}} help me
+
+Answer: Honored to assist! I'm clued in that you need assistance in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. I'm here to help you with that. To check the ETA of your order, you can visit the "Order Details" page on our website. On that page, you'll find all the relevant information about your order, including the estimated delivery date and time. If you have any other questions or need further assistance, please feel free to ask. I'm here to ensure you have a seamless experience!

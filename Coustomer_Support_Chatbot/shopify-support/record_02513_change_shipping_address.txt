@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I don't know how to update my delivery address
+
+Answer: No worries! I'm here to assist you. To update your delivery address, please log in to your account and navigate to the "My Account" section. From there, you should be able to find the option to edit your address information. If you're unable to locate it, feel free to provide me with your current address details, and I'll be happy to help you make the necessary changes.

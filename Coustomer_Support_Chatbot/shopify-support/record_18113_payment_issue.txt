@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: what do i have to do to report errors with payments
+
+Answer: Thanks for dropping us a line and asking about the process for reporting errors with payments. We appreciate your diligence in bringing this matter to our attention. To report payment errors, I recommend reaching out to our customer support team directly. They are equipped with the necessary resources and expertise to assist you with resolving any payment issues you may be facing. You can contact them through our customer support hotline at {{Customer Support Phone Number}} or by visiting our website at {{Website URL}} and initiating a live chat. Rest assured, our team will listen attentively and work diligently to provide you with the necessary support to resolve the error.

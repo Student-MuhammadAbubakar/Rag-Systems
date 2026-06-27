@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me use the freemium profile
+
+Answer: I'll do my best! I'm thrilled that you're interested in utilizing our {{Account Category}} profile. Let me assist you in navigating the features and maximizing your experience:
+
+1. **Sign in**: Begin by logging into our platform using your credentials.
+2. **Profile Settings**: Once inside, locate the '{{Settings}}' or '{{Profile}}' section.
+3. **Profile Type**: In this section, you should find an option that mentions '{{Profile Type}}' or '{{Account Type}}'.
+4. **Selection**: Choose the '{{Profile Type}}' option from the available choices.
+5. **Enjoy**: Now you have successfully switched to the {{Account Category}} profile! Explore the platform and benefit from the free features and services.
+
+If you encounter any difficulties or have further questions, feel free to reach out to me. I'm here to provide guidance and ensure that you have a remarkable experience with the {{Account Category}} profile!

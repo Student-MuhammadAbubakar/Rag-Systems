@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: want assistance lising your accepted payment methods
+
+Answer: Grateful you reached out to us! I'm here to provide you with assistance in listing our accepted payment methods. Here's a comprehensive guide to our available options:
+
+- **Credit/Debit Card:** We accept major credit and debit cards such as Visa, Mastercard, and American Express. They offer a convenient and secure way to make payments.
+- **PayPal:** A widely used and trusted online payment system that provides an additional layer of security for your transactions.
+- **Bank Transfer:** You can make direct payments from your bank account using this method. It's a reliable option for those who prefer a more traditional approach.
+- **Mobile Wallet:** Our platform supports popular mobile wallets like Apple Pay and Google Pay, allowing you to make quick and contactless payments.
+- **Cryptocurrency:** For tech-savvy customers, we also accept certain cryptocurrencies as a means of payment. Please refer to our website for more details on the accepted cryptocurrencies.
+
+I hope this information helps! If you have any further questions or need additional assistance, feel free to let me know.

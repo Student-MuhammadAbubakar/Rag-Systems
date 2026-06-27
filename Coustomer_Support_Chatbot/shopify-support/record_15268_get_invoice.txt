@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i need help to download my blls from {{Person Name}}
+
+Answer: I'm on the same wavelength, your request to download your bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. In order to locate and download your bills, please provide me with the necessary details such as the account or invoice numbers associated with {{Person Name}}'s bills. Once I have that information, I will guide you through the process of downloading the bills. Don't hesitate to let me know if you have any other questions or concerns along the way.

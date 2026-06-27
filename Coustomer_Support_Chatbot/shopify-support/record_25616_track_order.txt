@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: help to check the ETA of order {{Order Number}}
+
+Answer: Thank you for getting in touch! I understand that you would like assistance in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To provide you with accurate information regarding the ETA, I kindly request you to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will be more than happy to assist you with any inquiries regarding your order. Please feel free to ask if you have any other questions or concerns. We are here to help!

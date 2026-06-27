@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can ya help me speak wih customer assistance
+
+Answer: Thank you for reaching out! I understand your need to speak with our customer assistance team. Our dedicated team is available during {{Customer Support Hours}} to address any concerns or inquiries you may have. Whether it's through a phone call, email, or live chat, we're here to provide you with the assistance you need. How can I assist you further today?

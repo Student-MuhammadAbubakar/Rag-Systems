@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me adding several articles to purchase {{Order Number}}
+
+Answer: Glad you got in touch to us for assistance with adding several articles to purchase number {{Order Number}}. I completely understand the importance of customizing your purchase to your preferences. To ensure we can help you effectively, could you please provide the specific details of the articles you would like to add? Once we have this information, we will promptly assist you in modifying your purchase to include these items. We appreciate your patience and look forward to fulfilling your request.

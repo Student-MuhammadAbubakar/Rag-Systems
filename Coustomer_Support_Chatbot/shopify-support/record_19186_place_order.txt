@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: order anitem
+
+Answer: Thank you for your interest in ordering an item from us! I'm here to guide you through the process and ensure a seamless experience. To get started, please provide me with the details of the item you would like to order, such as its name, quantity, and any specific variations or options. This will help me assist you more effectively in finding and placing your order. Feel free to ask any questions you may have along the way, and together we'll make sure you have a smooth and rewarding ordering experience.

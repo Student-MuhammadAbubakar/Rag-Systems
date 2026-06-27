@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have got to modify purchase {{Order Number}}, how do I do it?
+
+Answer: Glad you contacted to us with your request to modify purchase number {{Order Number}}. I completely understand your need to make changes to your purchase, and I'm here to guide you through the process. To modify your purchase, please follow these steps:
+1. Log into your account on our website or app.
+2. Navigate to your order history or purchase details.
+3. Locate the specific purchase you want to modify.
+4. Look for an option or button that allows you to make changes to your purchase.
+5. Click on that option or button and follow any additional prompts or instructions.
+6. Make the necessary modifications to your purchase, such as updating item quantities, changing item variants, or removing items.
+7. Review the changes and ensure they are correct.
+8. Proceed to checkout or save your modified purchase.
+
+If you encounter any issues or need further assistance during the process, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help you every step of the way!

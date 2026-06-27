@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I don't know how I can receive compensations
+
+Answer: I'm conscious of the reality that you're unsure about the process of receiving compensations. Allow me to guide you through the steps. In order to initiate the process, it's important to first identify the reason for seeking compensation. Was it due to a faulty product, a service not meeting your expectations, or any other issue? Once you have clarity on the reason, reach out to our customer support team either through our website's live chat or call our dedicated support line at {{Customer Support Phone Number}}. Our team will assist you by gathering the necessary information and guiding you through the reimbursement process. Rest assured, we are committed to ensuring your satisfaction and providing a seamless experience.

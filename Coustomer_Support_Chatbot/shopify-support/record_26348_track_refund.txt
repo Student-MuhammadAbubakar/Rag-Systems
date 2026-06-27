@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a compensation of  {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I understand the significance of the anticipated compensation of {{Currency Symbol}}{{Refund Amount}} for you. Every dollar matters, and I genuinely appreciate your trust in our process. Let me swiftly investigate the current status of your compensation. As I look into this matter, is there anything else you would like to share regarding your experience or any additional details that could assist us in resolving this matter to your satisfaction? Your insights and patience are highly valued as we work together towards a resolution.

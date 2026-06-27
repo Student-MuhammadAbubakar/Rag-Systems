@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can I use the gold profile?
+
+Answer: I'll do my best! Your inquiry about utilizing our exclusive {{Account Type}} profile demonstrates your keen interest in accessing its remarkable benefits:
+
+1. Access Your Account: Start by logging into your account.
+2. Navigate to Profile: Once logged in, proceed to the "{{Settings}}" or "{{Profile}}" section.
+3. Find Upgrade Options: Look for options such as "{{Upgrade Account}}" or "{{Account Change}}".
+4. Select {{Account Type}} Profile: Choose the "{{Profile Type}}" from the available options.
+5. Complete the Transition: Follow the provided prompts to complete the switch to the {{Account Type}} profile.
+
+If you have any difficulties during this process or if you have any additional questions, feel free to reach out. We're here to ensure a smooth and enriching transition for you as you begin enjoying the exclusive advantages of our {{Account Type}} profile!

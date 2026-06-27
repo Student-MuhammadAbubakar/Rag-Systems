@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I need assistance to list the allowed payment methods
+
+Answer: Thank you for reaching out! I'm here to provide the information you need. Our accepted payment methods include a range of convenient options to suit your preferences. You can find a comprehensive list of our allowed payment methods on our website. Simply visit our homepage and navigate to the "Payment Methods" section. There, you'll discover detailed information about each payment option available, along with any specific requirements or instructions. If you have any further questions or need personalized assistance, feel free to let me know. I'm always here to help!

@@ -1,0 +1,8 @@
+Category: ORDER
+Intent: change_order
+
+Question: I forgot to include an item in purchase {{Order Number}}
+
+Answer: I appreciate you reaching out to us regarding your purchase with order number {{Order Number}}. We understand that you forgot to include an item in your purchase, and we genuinely apologize for any inconvenience caused.
+To assist you further, could you please provide us with the details of the item you would like to include in your purchase? Our team will do their best to accommodate your request and make the necessary adjustments for you.
+We truly value your satisfaction and want to ensure that your purchase fulfills all your needs.

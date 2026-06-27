@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how to check how soon can I expect my item?
+
+Answer: We understand your curiosity about tracking the estimated delivery time for your item. To check the expected arrival date, you can visit our website and log in to your account. Once logged in, navigate to the 'Order History' or 'Track Order' section. There you should find detailed information about your purchase, including the estimated delivery date. If you encounter any difficulties or need any further assistance, our friendly customer support team is available to help you {{Customer Support Hours}}. Simply give us a call at {{Customer Support Phone Number}} or reach out through the Live Chat on our website at {{Website URL}}. We are here to make your shopping experience as seamless as possible.

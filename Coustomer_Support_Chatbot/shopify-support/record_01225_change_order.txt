@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i cannot change several items of order {{Order Number}}
+
+Answer: I perceive that you're unable to change several items in order number {{Order Number}}. I apologize for any inconvenience this may have caused you. Allow me to look into this issue and find a suitable solution for you. Please bear with me while I investigate further and ensure that we resolve this matter promptly. Thank you for your patience.

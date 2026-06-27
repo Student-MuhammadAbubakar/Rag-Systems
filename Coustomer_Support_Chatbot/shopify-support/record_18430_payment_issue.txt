@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: report payment issue
+
+Answer: Glad you got in touch to report a payment issue. We appreciate your vigilance in bringing this matter to our attention. To ensure that we address your concern accurately and promptly, could you please provide us with more information about the payment issue you encountered? Any relevant details such as the transaction date, payment method used, and any error messages received would be helpful for our investigation. We're here to assist you every step of the way and resolve this issue to your satisfaction.

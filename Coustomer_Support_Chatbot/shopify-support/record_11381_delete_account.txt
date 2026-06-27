@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: what do I have to do to close the {{Account Type}} account?
+
+Answer: Appreciate you reaching out to us with your question about closing your {{Account Type}} account. We understand that you might be looking to move on from using our services, and we're here to assist you. To close your {{Account Type}} account, you can follow these simple steps:
+
+1. Log in to your account on our website.
+2. Go to your account settings or profile settings.
+3. Look for the option to close or delete your account.
+4. Follow the prompts or instructions provided to confirm the closure of your {{Account Type}} account.
+
+Please keep in mind that closing your {{Account Type}} account will permanently delete all of your account data, including any information, settings, and past activity associated with it. It is important to back up or save any essential data before proceeding with the account closure.
+
+If you require any further assistance or encounter any issues during the process, please don't hesitate to reach out to our customer support team. We are available {{Customer Support Hours}} via {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We'll be more than happy to guide you through the account closure process or address any additional concerns you may have.

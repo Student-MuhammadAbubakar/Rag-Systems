@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: checking status of order
+
+Answer: Thank you for trusting us! I'm fully aware of you would like to check the status of your order. To assist you effectively, could you please provide me with the order number? Once I have that information, I'll be able to provide you with the most up-to-date status.

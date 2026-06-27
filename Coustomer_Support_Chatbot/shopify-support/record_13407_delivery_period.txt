@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: want assistance checking how soon can I expect my parcel
+
+Answer: We understand your eagerness to track the delivery status of your parcel and know how soon you can expect its arrival. To provide you with the most accurate information, we kindly request you to share the {{Tracking Number}} or {{Order Number}} associated with your parcel. With this information, we will be able to provide you with an estimated delivery date and keep you informed about any updates along the way. Your satisfaction is our priority, and we're here to assist you at every step of the journey. How may I assist you further?

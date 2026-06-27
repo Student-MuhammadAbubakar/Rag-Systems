@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know how I could check my bill from {{Person Name}}
+
+Answer: I'm on the same wavelength, your confusion about how to check the bill from {{Salutation}} {{Client Last Name}}. Let's go through the steps together to help you with this. First, you can log in to your account on our website or app. From there, navigate to the "Billing" or "Invoices" section. Look for the option to search for invoices by name or date range. Enter the necessary details, such as {{Person Name}}'s name, and click on the search button. This should provide you with the relevant invoices associated with {{Person Name}}. If you encounter any difficulties or need further assistance, please don't hesitate to ask.

@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I want to see the accepted payment methods
+
+Answer: Thank you for your interest in our accepted payment methods! We strive to provide a seamless payment experience for our valued customers. Here are the payment methods we currently accept:
+
+- Credit/Debit Card: We accept major credit and debit cards such as Visa, Mastercard, and American Express. With this method, you can securely make payments online or in-store.
+- PayPal: A widely recognized and trusted platform that allows you to make secure online payments using your PayPal account.
+- Bank Transfer: You have the option to transfer funds directly from your bank account to ours, ensuring a safe and convenient payment process.
+- Mobile Payment Apps: We also accept popular mobile payment apps such as Apple Pay and Google Pay, which allow you to complete transactions swiftly and securely with your mobile device.
+
+Please note that specific payment methods may vary depending on your location and the type of purchase. If you have any questions or need further assistance regarding our payment options, feel free to let me know. Your satisfaction is our top priority!

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place a goddamn order from {{Delivery Country}}
+
+Answer: Sure! We value our customers from all around the world, including {{Delivery Country}}. You can definitely place an order with us, no matter where you are. We offer international shipping options to ensure that your order reaches you safely and efficiently. Simply browse our selection, add the desired items to your cart, and proceed to the checkout page. During the checkout process, you will be able to select {{Delivery Country}} as your shipping destination. If you need any assistance or have any specific questions about international shipping, our customer support team is here to help. We look forward to serving you and delivering your order to {{Delivery Country}} with care and speed!

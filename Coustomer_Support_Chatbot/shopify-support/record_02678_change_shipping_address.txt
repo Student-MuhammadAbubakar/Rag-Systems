@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: need assistance trying to corrcet my delivery address
+
+Answer: No problem, we're here to help you correct your delivery address. To get started, please provide us with your order details and the correct address you would like to use. Our team will work on updating your delivery information as soon as possible.

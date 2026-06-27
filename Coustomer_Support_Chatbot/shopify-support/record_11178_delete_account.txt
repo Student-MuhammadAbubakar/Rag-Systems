@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what I have to do to delete a {{Account Category}} account
+
+Answer: Grateful you reached out to us for assistance with the deletion of your {{Account Category}} account. I understand that you may be unsure about the steps involved in removing your account, and I'm here to help guide you through the process. To delete your {{Account Category}} account, you will need to follow a few simple steps. Let me provide you with a clear and concise explanation of what you need to do. First, log in to your account and navigate to the account settings or preferences section. Look for an option to "Delete Account" or "Close Account" and click on it. You may be asked to confirm your decision and provide a reason for deleting your account. Once you've completed these steps, your {{Account Category}} account will be deleted. If you encounter any difficulties or have any further questions, please don't hesitate to let me know. I'm here to ensure a smooth and hassle-free account deletion process for you.

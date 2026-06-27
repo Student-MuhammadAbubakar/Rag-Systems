@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i want help to delete some products from order {{Order Number}}
+
+Answer: Thank you for your message to us regarding your request to delete some products from order number {{Order Number}}. I understand that you'd like to make changes to your order, and I'm here to help. Please provide me with the specific details of the products you would like to remove, such as their names or item numbers, so that I can assist you in making the necessary adjustments. Your satisfaction is our top priority, and we appreciate your patience as we work towards resolving this for you.

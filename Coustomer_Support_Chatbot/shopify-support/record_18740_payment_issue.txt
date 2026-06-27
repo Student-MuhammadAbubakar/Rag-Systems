@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: i try to inform of a truble with payment
+
+Answer: Thank you for bringing this payment trouble to our attention. I truly understand how important it is to resolve any payment issues promptly and efficiently. To better assist you, could you please provide more details about the trouble you are experiencing with your payment? This information will allow us to investigate and address the issue effectively. Your cooperation is greatly appreciated, and we are committed to ensuring a seamless payment experience for you.

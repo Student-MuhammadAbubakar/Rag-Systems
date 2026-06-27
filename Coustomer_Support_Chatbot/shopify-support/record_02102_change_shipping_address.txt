@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: supports trying to edit the address
+
+Answer: Indeed! We are here to provide support for editing your address. Please provide us with the updated information and we will gladly assist you in making the necessary changes.

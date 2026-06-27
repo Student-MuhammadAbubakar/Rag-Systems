@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I don't know how I can see when will my parcel arrive
+
+Answer: We recognize that you're unsure about how to track the delivery of your parcel. We're here to guide you through the process so you can stay updated on its arrival. To assist you better, could you provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can provide you with the most accurate estimate of when you can expect your parcel to arrive. Your satisfaction is our top priority, and we appreciate your patience while we assist you with this.

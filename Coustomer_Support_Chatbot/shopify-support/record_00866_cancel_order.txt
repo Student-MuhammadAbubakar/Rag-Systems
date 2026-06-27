@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i cannot poay for purchase {{Order Number}}
+
+Answer: I've been informed that you're experiencing difficulties with payment for your purchase associated with the order number {{Order Number}}. I apologize for the inconvenience caused by this issue. To help resolve this, please follow these steps:
+
+1. Double-Check Payment Details: Verify that the payment information you provided is accurate, including the card number, expiration date, CVV, and billing address.
+
+2. Check Payment Method Availability: Ensure that your chosen payment method is supported by our platform. Some payment methods may have certain restrictions or limitations.
+
+3. Contact Your Bank or Payment Provider: Reach out to your bank or payment provider to confirm if there are any issues on their end that may be preventing the payment from going through. They might be able to provide further assistance and insights.
+
+4. Use an Alternative Payment Method: If all else fails, consider using a different payment method, such as a different debit or credit card, PayPal, or any other supported options.
+
+If the issue persists after trying these steps, please don't hesitate to contact our dedicated support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or via Live Chat on our website at {{Website URL}}. We're here to help you resolve this payment issue and ensure that your purchase is processed successfully.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebate {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I perceive that you are seeking a rebate of ${{Refund Amount}}. I apologize for any inconvenience caused by your recent experience. To proceed with your request, could you please provide some additional details about the product you purchased and the reason for seeking a rebate? This will allow me to better assist you in obtaining the refund you deserve. Your satisfaction is our top priority, and I assure you that we will do everything we can to resolve this issue for you.

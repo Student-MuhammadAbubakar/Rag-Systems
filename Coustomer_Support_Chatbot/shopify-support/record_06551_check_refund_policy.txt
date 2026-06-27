@@ -1,0 +1,19 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I have got to check your refund policy
+
+Answer: I'll get right on it! I understand your need to familiarize yourself with our refund policy. Allow me to provide you with all the details you require.
+
+At our company, we prioritize customer satisfaction and aim to facilitate refund requests in various situations. Here are the key points to keep in mind:
+
+1. **Product/Service Defect:** If you receive a defective item or the product/service does not meet the description, you are eligible for a refund.
+2. **Cancellation within Grace Period:** If you have a change of heart and decide to cancel your purchase within the specified grace period, you can request a refund.
+3. **Unauthorized Charges:** In case unauthorized charges appear on your account, please notify us immediately, and we will promptly investigate the issue and assist you with a refund.
+4. **Event Cancellation:** If an event you have purchased tickets for is canceled and not rescheduled, you can typically obtain a refund.
+5. **Duplicate Charges:** If you notice duplicate charges on your account for the same product or service, kindly inform us, and we will address the issue promptly.
+6. **Non-receipt of Goods/Services:** If you do not receive the purchased item or the service is not provided within the expected timeframe, please reach out to us for assistance and a potential refund.
+
+Please note that specific vendors or service providers may have their own refund policies, so it's essential to review their terms and conditions for more detailed information. If you have any specific concerns or would like to discuss a particular order, kindly provide us with the relevant information such as the order number, and we will be more than happy to assist you further.
+
+Remember, our goal is to ensure your satisfaction, and we are here to guide you through the refund process. Let us know if there's anything else we can do to assist you!"

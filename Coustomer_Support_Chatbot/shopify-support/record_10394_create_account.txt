@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I ain't registered, how to open a {{Account Category}} account?
+
+Answer: It's fantastic to see your interest in opening a {{Account Category}} account! Let me guide you through the process step by step. First, I'd like to inform you that registration is a prerequisite for creating a {{Account Category}} account. Don't worry if you haven't registered yet, I'll make it easy for you to get started. Simply visit our website and look for the "Sign Up" or "Create an Account" button. Click on it, and you'll be directed to a registration form. Fill in the required information, such as your name, email address, and any additional details, and select the "{{Account Category}}" account type. Once your registration is complete, you'll be able to enjoy all the benefits that come with a {{Account Category}} account. If you have any questions or need further assistance during the registration process, never hesitate to reach out to our customer support team. We're available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Happy account creation!

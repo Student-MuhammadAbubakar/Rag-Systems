@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: removing gold account
+
+Answer: Thank you for trusting to us regarding the removal of your {{Account Type}} account. We understand that you have decided to cancel your {{Account Type}} account, and we are here to assist you with the process. To ensure a smooth and hassle-free experience, please provide us with the necessary details such as your account information and the reason for the removal. Our team will review your request and take the necessary steps to complete the process as quickly as possible. We appreciate your patience and cooperation during this process, and we will do our best to make it as seamless as possible for you.

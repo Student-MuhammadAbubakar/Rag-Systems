@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i dont know how i can see when will my article arrive
+
+Answer: We understand that you're unsure about how to track the arrival of your article. To assist you, please provide us with the {{Tracking Number}} or {{Order Number}} associated with your purchase. Once we have these details, we can give you an exact estimate of when your article will arrive. Your patience is greatly appreciated, and we're here to help you every step of the way!

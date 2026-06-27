@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i dont want order {{Order Number}}
+
+Answer: I'm fully aware that you no longer want to proceed with your order with the order number {{Order Number}}. We're here to help you with the cancellation process. Here's what you need to do:
+
+1. Access Your Account: Log in to your {{Online Company Portal Info}} using your credentials.
+2. Navigate to Your Orders: Once you're logged in, go to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Locate the Order: Look for the purchase associated with the order number {{Order Number}} and click on it to view the details.
+4. Initiate the Cancellation: You should find an option labeled '{{Online Order Interaction}}' linked to your purchase. Please select it.
+5. Follow Any Additional Steps: The system may ask for further confirmation or feedback. Kindly provide the necessary information.
+
+If you encounter any difficulties or have any questions along the way, please don't hesitate to reach out to us. Our dedicated team is available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. We value your satisfaction and are committed to assisting you throughout this process.

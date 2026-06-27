@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to add an item to order {{Order Number}}?
+
+Answer: We understand that you're looking for guidance on how to add an item to order number {{Order Number}}. We're here to assist you with that. To add an item to your existing order, you can follow these steps: 
+1. Log in to your account on our website or mobile app.
+2. Navigate to your orders or order history.
+3. Locate the specific order number ({{Order Number}}) you want to modify.
+4. Click on the order and look for the option to "Add Item."
+5. Select the item you wish to add from our available inventory.
+6. Confirm the addition and proceed with the checkout process if required.
+
+Please note that the availability of the "Add Item" option may depend on the current status of your order. If you encounter any difficulties or have additional questions, our customer support team is available to help you through live chat or phone support. We appreciate your understanding and patience as we assist you in enhancing your order.

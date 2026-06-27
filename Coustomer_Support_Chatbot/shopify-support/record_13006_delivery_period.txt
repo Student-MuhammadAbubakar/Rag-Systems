@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can you hsow me how long it takes for the article to arrive?
+
+Answer: We completely understand your eagerness to know the estimated arrival time of your article. To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}} for your purchase? With this information, we'll be able to give you a precise estimate of when your article will arrive. Your patience is greatly appreciated!

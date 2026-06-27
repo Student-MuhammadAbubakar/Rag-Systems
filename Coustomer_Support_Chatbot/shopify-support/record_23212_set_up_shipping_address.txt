@@ -1,0 +1,11 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I want help to submit my secondary shipping address
+
+Answer: I've picked up that you would like assistance in submitting your secondary shipping address. Your request is important to us, and we're here to support you every step of the way. To help us gather the necessary information for submitting your address, could you please provide the following details:
+
+1. Primary shipping address: Please provide the complete details of your current primary shipping address.
+2. Secondary shipping address: Kindly provide the complete details of the secondary shipping address that you would like to submit.
+
+Once we have these details, our team will ensure that your secondary shipping address is promptly and accurately submitted to our system. Your satisfaction is our top priority, and we appreciate your patience and cooperation in helping us assist you effectively.

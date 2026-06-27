@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}} was it processed
+
+Answer: I'm picking up what you're putting down, your anticipation in waiting for the rebate of {{Currency Symbol}}{{Refund Amount}}. It's natural to wonder about its processing status. Let me take a moment to look into it for you. While I check the processing status, may I ask if you've received any communication from our team regarding the rebate? Your insights will help me better assist you. Thank you for your patience, and I'll be right back with an update on the processing status of your rebate.

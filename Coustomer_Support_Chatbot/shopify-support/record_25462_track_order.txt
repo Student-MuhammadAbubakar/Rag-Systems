@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: show me the fucking current status of order {{Order Number}}
+
+Answer: Thank you for contacting us. I understand that you would like to know the current status of your order with the order number {{Order Number}}. To check the current status of your order, please visit the '{{Order Status}}' section on our website. If you have any further questions or need additional assistance, please feel free to ask. It is my utmost priority to ensure a seamless experience for you.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i need assistance to check the status of purchase {{Order Number}}
+
+Answer: We're all ears! I'm tuned into the idea that you need assistance checking the status of purchase number {{Order Number}}. To provide you with accurate information, may I please have your account details or any other relevant information? Once I have that, I will be able to guide you on how to retrieve the status of your purchase.

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I need support trying to update my address
+
+Answer: Certainly! I would be happy to help you with updating your address. Please provide me with the necessary details of your new address, such as the street name, house/apartment number, city, state, and postal code.

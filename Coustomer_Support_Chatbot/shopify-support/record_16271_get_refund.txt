@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have paid {{Currency Symbol}}{{Refund Amount}} for a purchase, I want to get a refund
+
+Answer: I understand the urgency in seeking a refund for your recent purchase of ${{Refund Amount}}. Our company deeply values customer satisfaction, and I'm committed to assisting you in resolving this matter promptly. To initiate the refund process, I recommend reaching out to our customer support team via phone or live chat. They will guide you through the necessary steps, including providing any required documentation or verifying account details. By engaging with our dedicated support channels, you can expect a streamlined resolution and a refund of the amount you're owed.

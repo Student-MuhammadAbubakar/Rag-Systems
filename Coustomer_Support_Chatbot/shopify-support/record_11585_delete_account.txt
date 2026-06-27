@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I havea question about the termination of my {{Account Type}} account
+
+Answer: Thank you for bringing up your question about terminating your {{Account Type}} account. We understand that making decisions regarding your account can be important and sometimes complex. Please feel {{Account Type}} to ask your question or provide any specific details about the termination process that you would like assistance with. It is our priority to provide you with all the information and guidance you need to make the best decision for your account.

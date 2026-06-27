@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect an restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: First and foremost, I want to express my gratitude for bringing up your restitution request, specifically regarding the amount of ${{Refund Amount}}. We understand the importance of resolving your concerns promptly. Allow me to investigate the current status of your restitution. While I gather the necessary information, may I ask if you have previously received a restitution from us? Your experience and insights are highly valuable to us as we aim to ensure your satisfaction and build a strong sense of trust. Thank you for your patience as we work towards a resolution.

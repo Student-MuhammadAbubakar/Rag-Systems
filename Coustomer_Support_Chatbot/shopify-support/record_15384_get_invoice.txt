@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help downloading my goddamn bills from {{Person Name}}
+
+Answer: I'm picking up what you're putting down, your frustration in trying to download your bills from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you with that. Could you please provide me with the specific details of the bill, such as the invoice number or the billing period? This information will help me locate and guide you on how to download your bills accurately. Let's work together to resolve this issue quickly.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I do not know how I can see when will my purchase arrive
+
+Answer: We understand that you might be unsure about how to check the estimated arrival time of your purchase. Don't worry, we're here to help! To get detailed information about the delivery status, you can use the {{Order Tracking}} feature on our website. Simply enter your {{Order Number}} or {{Tracking Number}} and you'll be able to see the estimated delivery date. If you're having trouble locating this information, please let us know and we'll guide you through the process step by step. Your satisfaction is our top priority!

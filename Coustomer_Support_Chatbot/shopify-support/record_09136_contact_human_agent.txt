@@ -1,0 +1,16 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i dont know how i can contact somebody
+
+Answer: We're all ears! I'm tuned into the idea that you are unsure about how to contact somebody. Let me guide you through the steps so that you can easily get in touch with one of our representatives. To contact somebody, you can try the following options:
+
+1. Phone: You can call our customer support team at {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} to assist you and address any questions or concerns you may have.
+
+2. Live Chat: You can chat with one of our representatives in real-time by visiting our website at {{Website URL}}. Look for the chat icon and click on it to initiate a conversation.
+
+3. Email: You can also reach out to us via email at {{Customer Support Email}}. Simply compose your message and provide details about your inquiry or issue, and our team will respond as soon as possible.
+
+4. Social Media: If you prefer to connect through social media, you can send us a direct message on platforms like Facebook or Twitter. Our team will be happy to assist you there as well.
+
+I hope this clarifies the various ways in which you can contact somebody. If you have any further questions, please don't hesitate to let me know. We're here to help!

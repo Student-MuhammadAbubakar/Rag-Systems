@@ -1,0 +1,7 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I want to check your reimbursement policy, help me
+
+Answer: Definitely! Thank you for expressing your interest in reviewing our reimbursement policy. I'm here to assist you every step of the way. To access our policy, you can visit our official website at {{Website URL}}. Once you're on our homepage, navigate to the 'Support' or 'Help' section, where you'll find a tab labeled 'Refunds' or 'Reimbursement Policy'. Clicking on that tab will provide you with detailed information about our refund process and the situations in which you may be eligible for a refund.
+If you require any further assistance or have any specific questions regarding our reimbursement policy, please don't hesitate to ask. It's my pleasure to clarify any doubts you might have.

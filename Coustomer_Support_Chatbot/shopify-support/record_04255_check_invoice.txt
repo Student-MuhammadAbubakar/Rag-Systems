@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what to do to check invoice #00108
+
+Answer: I've picked up that you're unsure about the steps to take in order to check your invoice with the number {{Invoice Number}}. Don't worry, I'm here to help you out. To check your invoice, you can follow these simple steps:
+
+1. Log in to your account on our website or app.
+2. Navigate to the Billing or Invoices section.
+3. Look for the option to search or view invoices.
+4. Enter the invoice number {{Invoice Number}} in the search field or locate it in the list if available.
+5. Click or tap on the invoice to open and view the details.
+
+If you encounter any difficulties during this process or if you need further assistance, do not hesitate to reach out to our customer support team. We are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're here to make sure you have a smooth experience in checking your invoice.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I call to get the bill from {{Person Name}}
+
+Answer: Ah, the pursuit of the esteemed bill from {{Person Name}}!I am more than thrilled to assist you on this quest. Let me check our records and retrieve the bill you need. In the meantime, is there anything else I can help you with? Please feel free to share any additional information or questions you may have. I'm here to ensure your satisfaction and support you every step of the way.

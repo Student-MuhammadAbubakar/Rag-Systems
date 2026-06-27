@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i need assistance to take a quick look at invoicee #00108
+
+Answer: I'll take care of it! I understand your need for assistance in taking a quick look at invoice number #{{Invoice Number}}. To help you with this, could you please provide me with your account information or any additional details related to this invoice? This will enable me to locate the invoice accurately and provide you with the necessary information. Rest assured, I'm here to guide you every step of the way towards finding the information you require.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I pick up what you're putting down, the anticipation of receiving a rebate of {{Currency Symbol}}{{Refund Amount}}. It's important to us that you have clarity about the status of your rebate. Let me quickly check the current progress for you. While I gather the necessary information, may I ask if you have any specific concerns or questions regarding the rebate process? Your input is valuable to us as we strive to provide the best possible experience. Thank you for your patience and cooperation.

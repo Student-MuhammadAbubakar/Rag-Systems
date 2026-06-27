@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I ordrr from {{Delivery City}}?
+
+Answer: Oh, the spirit of adventure! How intriguing that you're considering placing an order from the vibrant city of {{Delivery City}}! I'm excited to inform you that we do accept orders from {{Delivery City}}. Our shipping options are available for customers across the United States, including {{Delivery City}}. You'll have the flexibility to choose from our range of delivery options tailored to suit your needs. Dive into the joy of exploring our collection, and when you're ready to place your order, just let us know. We'll be here to assist you every step of the way, ensuring a seamless and delightful shopping experience.

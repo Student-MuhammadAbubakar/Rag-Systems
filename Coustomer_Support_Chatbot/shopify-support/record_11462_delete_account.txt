@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i do notuse the bloody {{Account Type}} account i try to delete it
+
+Answer: I apologize for any frustration you may have experienced while trying to delete your {{Account Type}} account. I understand that you're looking for guidance on how to remove it. Let's work together to resolve this issue. Could you please provide me with the email or username associated with your account? This will help me locate your account in our system and provide you with the necessary steps to delete it. Rest assured, we're here to assist you every step of the way.

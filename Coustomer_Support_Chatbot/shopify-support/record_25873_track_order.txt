@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i need help trackng order {{Order Number}}
+
+Answer: We're here to help! I take note that you need assistance in tracking order number {{Order Number}}. I'm here to help you with that. In order to provide you with the most accurate information, could you please verify your account details? This will ensure that I have access to the correct order information and can assist you effectively.

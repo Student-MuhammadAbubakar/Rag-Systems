@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i need information about {{Account Category}} account cancellations
+
+Answer: We're here for you about canceling your {{Account Category}} account. I'm here to provide you with the information you need. Canceling your {{Account Category}} account is a straightforward process. You can either contact our customer support team through live chat or phone to initiate the cancellation. They will guide you through the necessary steps and ensure a smooth cancelation process. It's important to note that canceling your {{Account Category}} account may result in the loss of certain benefits and features associated with the account. If you have any specific questions or concerns, please don't hesitate to let me know.

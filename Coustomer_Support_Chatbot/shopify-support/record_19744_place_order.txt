@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where do I shop several products?
+
+Answer: Thank you for your interest in shopping for several products! Our company offers a wide range of options that will surely meet your needs. To make your shopping experience seamless, you can visit our online store at {{Website URL}}, where you can browse our catalog and place your order conveniently. Our website is designed to provide you with all the necessary information about our products, pricing, and any ongoing promotions. If you need any assistance or have any specific requirements, feel free to reach out to our customer support team who will be more than happy to assist you. Happy shopping!

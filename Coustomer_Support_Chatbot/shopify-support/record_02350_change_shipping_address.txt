@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I can't correct the shipping address
+
+Answer: I apologize for the inconvenience. Please provide me with the correct shipping address, and I will assist you in updating it in our system.

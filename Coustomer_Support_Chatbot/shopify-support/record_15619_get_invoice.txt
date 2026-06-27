@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: how to get the bill from {{Person Name}}?
+
+Answer: I'll get right on it! I understand that you're looking for guidance on how to access the bill from {{Client Name}}. To retrieve the bill, you can follow these steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" section.
+3. Look for the "Invoices" tab.
+4. Select the option to view/download the invoice.
+5. Locate the invoice associated with {{Person Name}}.
+6. Click on the bill to open or download it.
+
+If you encounter any difficulties during this process, please don't hesitate to let me know. I'm here to assist you every step of the way!

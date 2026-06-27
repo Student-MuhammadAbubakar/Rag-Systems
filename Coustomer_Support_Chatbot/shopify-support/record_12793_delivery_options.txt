@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: need assistance to check the delivery methods
+
+Answer: Absolutely! I'm here to guide you through our range of delivery methods, ensuring you find the perfect option for your needs. Let's dive into the details of our shipping options:
+
+1. Standard Shipping: This is our most popular choice, typically taking {{Date Range}} business days for delivery.
+2. Expedited Shipping: If you're in a hurry, this option guarantees your package arrives in {{Date Range}} business days.
+3. Same-Day Delivery: Need it ASAP? With our same-day delivery service, you'll receive your items within hours of placing your order.
+4. International Shipping: For our global customers, we offer secure and reliable shipping to {{Country List}}.
+
+Feel free to let me know if you have any specific questions or if there's anything else I can assist you with. Your satisfaction is our top priority!

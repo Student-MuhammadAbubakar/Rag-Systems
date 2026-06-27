@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I want help olcating purchase {{Order Number}}
+
+Answer: Grateful for your contact! I get the sense that you would like assistance in locating your purchase with the purchase number {{Order Number}}. I'll be happy to help you with that. To find the current status of your purchase, please visit the '{{Online Order Interaction}}' section on our website. If you encounter any issues or have further questions, feel free to let me know. I'm here to ensure your experience is seamless and you receive the information you need.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: would it be possible to delete a {{Account Type}} account?
+
+Answer: Grateful you reached out about deleting your {{Account Type}} account. I completely understand your need to make this request, and I'm here to assist you. To proceed with deleting your {{Account Type}} account, please provide me with a few more details such as your account username or any other identifying information. This will help me locate your account and initiate the deletion process. Rest assured, our priority is to ensure a smooth experience for you.

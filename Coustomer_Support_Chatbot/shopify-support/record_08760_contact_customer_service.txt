@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need assistance to talk to customer service
+
+Answer: Your message means a lot! I'm aligned with the idea that you need assistance in speaking with our customer service team. Our dedicated team is ready to assist you. To ensure a seamless conversation, please provide your contact details and a brief description of the issue you'd like to discuss. You can reach out to us through our customer service hotline at {{Customer Support Phone Number}} or by sending an email to {{Customer Support Email}}. We'll make sure to connect you with the right representative who can address your concerns effectively. How may I further assist you today?

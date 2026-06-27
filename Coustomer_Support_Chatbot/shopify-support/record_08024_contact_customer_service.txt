@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what do I need to do to call customer assistance?
+
+Answer: We're here for you! I'm aware that you're looking for guidance on how to contact our customer assistance. To make a call to our customer service team, you can find the contact details on our website or in your purchase confirmation email. We have a dedicated customer support hotline at {{Customer Support Phone Number}}, which you can call during our customer support hours of operation. Our team will be more than happy to assist you with any questions or concerns you may have. If you prefer, we also offer a live chat option on our website where you can directly communicate with our support agents. Please let me know if there's anything else I can assist you with!

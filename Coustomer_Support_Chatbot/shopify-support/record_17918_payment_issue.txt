@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: help me reporting an issue wigh online payment
+
+Answer: I'm sorry to hear that you're facing difficulties with online payments. I'm here to assist you in reporting this issue and finding a solution. To begin the process, please provide me with some more details about the problem you encountered during the payment. Did you receive any error messages or codes? Knowing these specifics will help us investigate and resolve the issue more efficiently. Thank you for bringing this to our attention, and rest assured that we are committed to resolving the problem and providing you with a seamless payment experience.

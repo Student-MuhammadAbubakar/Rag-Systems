@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need to see the fucking bill from {{Person Name}}
+
+Answer: I hear you loud and clear your urgent need to review the bill from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you. To provide you with the best support, could you please share any relevant information such as the specific date range or any other details that could help me locate the bill for you?

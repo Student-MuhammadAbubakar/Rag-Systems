@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: how long till i receive a rebate
+
+Answer: I catch on to the fact that you're eager to receive a rebate, and I appreciate your patience in this matter. The time it takes to receive a rebate can vary depending on several factors, such as the specific refund process, any necessary verifications, and the payment method used for the original transaction. To ensure you receive the most accurate information, I recommend reaching out to our customer support team. They will be able to provide you with an estimate of the expected timeframe for your rebate. You can reach them at {{Customer Support Phone Number}} during our {{Customer Support Hours}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we will do everything we can to expedite the process and keep you informed every step of the way.

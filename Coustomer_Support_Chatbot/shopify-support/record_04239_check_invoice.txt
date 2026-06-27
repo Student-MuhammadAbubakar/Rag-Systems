@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: want help giving a quick look at my bills from {{Person Name}}
+
+Answer: Thanks for dropping us a line to us for assistance with taking a quick look at your bills from {{Salutation}} {{Client Last Name}}. I completely understand the importance of having easy access to your billing information. To provide you with the most accurate and efficient support, could you please let me know which specific time period you would like to see the bills for? Additionally, if you have any other relevant details or preferences, feel free to share them with me. Rest assured, I am here to guide you and ensure that you have a smooth and satisfactory experience.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: how long until I receive areimbursement of money?
+
+Answer: I understand your concern regarding the timeframe for receiving a reimbursement of your money. The duration for processing reimbursements can vary depending on several factors, such as the payment method used and the specific policies of the company or service provider. To provide you with accurate information, I suggest reaching out to our customer support team. They will be able to review your case and give you an estimated timeline for the reimbursement process. Our dedicated team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that you receive the reimbursement in a timely manner. Rest assured, we value your satisfaction and will make every effort to expedite the reimbursement process for you.

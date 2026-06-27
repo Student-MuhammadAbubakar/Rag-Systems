@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: uhave a free number to talk to customer service
+
+Answer: We're here for you! I'm aware that you are looking for a free number to contact our customer service. We do have a toll-free number that you can use to speak with our customer service representatives. The toll-free number is {{Customer Support Phone Number}}. Please feel free to reach out to us anytime during our customer support hours. We are here to assist you. Is there anything else I can help you with?

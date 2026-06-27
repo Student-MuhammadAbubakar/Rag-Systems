@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: wanna locate purchase {{Order Number}} how could i do it
+
+Answer: We appreciate your message! It's clear to me that you would like assistance in locating your purchase with the purchase number {{Order Number}}. To find the location of your purchase, you can visit the '{{Online Order Interaction}}' section on our website. This section will provide you with detailed information about the status and location of your purchase. If you have any other questions or need further assistance, please feel free to let me know. It's my goal to ensure you have all the information you need and have a seamless experience throughout the process.

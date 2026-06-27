@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can you help me checking what shipping options I have?
+
+Answer: For sure! I'm here to assist you in exploring the various shipping options available to you. Let's dive into our comprehensive range of delivery choices:
+
+1. Standard Shipping: This is our most economical option, typically arriving within {{Date Range}} business days.
+2. Expedited Shipping: If you need your items a little faster, this option ensures delivery within {{Date Range}} business days.
+3. Overnight Shipping: For those urgent needs, we offer next business day delivery.
+4. International Shipping: If you're shipping outside of the country, we provide reliable international shipping services to numerous destinations around the world.
+
+Each option is tailored to meet your specific requirements, whether it's speed, affordability, or international delivery. If you have any particular concerns or questions about these shipping options, feel free to let me know. I'm here to help you make the best choice for a satisfying delivery experience!

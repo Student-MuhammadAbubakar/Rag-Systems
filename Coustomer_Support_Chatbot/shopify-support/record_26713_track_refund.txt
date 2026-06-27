@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i dont know how to track my refund
+
+Answer: We understand that you're unsure about how to track your refund. Don't worry, we're here to help! Tracking your refund is important, and we want to make the process as easy as possible for you. To track your refund, you can log in to your account on our website and navigate to the "Refund Status" section. Alternatively, you can reach out to our customer service team, and they will be happy to assist you in tracking your refund. Our team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're committed to ensuring your satisfaction, and we'll do everything we can to provide you with the information you need. Let us know if you have any other questions or concerns!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i dont know how i can get the invoicess from {{Person Name}}
+
+Answer: Ah, the confusion and uncertainty you're facing in retrieving invoices from {{Person Name}}!I'm here to guide you towards a solution. Let's dive into the process together. First, could you please provide me with {{Person Name}}' account details or any other relevant information? This will help me locate her invoices more effectively. While I understand it can be frustrating not to have access to the invoices, rest assured that I am committed to assisting you every step of the way. Let's work together to resolve this issue and ensure your satisfaction.

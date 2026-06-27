@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know what to do to locate my bill #37777
+
+Answer: I'm clearly cognizant your frustration and uncertainty about how to locate your bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through the process. To start, you can try checking your email inbox for any digital copies of the invoice. If you don't find it there, you can reach out to our customer support team at {{Customer Support Email}} or {{Customer Support Phone Number}}. They will be able to assist you further and provide you with the necessary information to locate your bill. Remember, we're here to help every step of the way, so don't hesitate to ask any questions you may have.

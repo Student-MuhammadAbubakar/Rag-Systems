@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i have to get my nivoice #85632 could ya help me
+
+Answer: I'm cognizant of the fact that you need assistance with retrieving your invoice with number {{Invoice Number}}. Give me a moment to locate and provide you with the requested document. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm here to help you!

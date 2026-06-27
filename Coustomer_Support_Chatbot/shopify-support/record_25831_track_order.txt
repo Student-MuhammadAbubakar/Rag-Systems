@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: help me checking the current status of purchase {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you in checking the current status of your purchase with the purchase number {{Order Number}}. To provide you with accurate information, could you please provide me with some additional details such as your name and email address associated with the purchase? This will help me locate your purchase and provide you with the most up-to-date status.

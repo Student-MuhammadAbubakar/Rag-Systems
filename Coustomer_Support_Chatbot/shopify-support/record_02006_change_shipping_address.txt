@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: tell me about a delivery address change
+
+Answer: Assuredly! If you need to make a change to your delivery address, you can easily do so by accessing your account settings on our website. Simply log in, navigate to the "Delivery Address" section, and click on the "Edit" button next to your current address. From there, you can update the necessary details such as street name, city, state, and zip code. Don't forget to save the changes before proceeding. If you encounter any difficulties or have further questions, feel free to reach out to our customer support team for assistance.

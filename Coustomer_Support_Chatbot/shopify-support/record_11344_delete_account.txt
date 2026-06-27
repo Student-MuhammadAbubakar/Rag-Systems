@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe pro account
+
+Answer: Thank you for raising your concern about closing your {{Account Type}} account. I understand that you would like to terminate your {{Account Type}} account, and I'm here to assist you with that. To proceed with the closure, please provide me with the email associated with your {{Account Type}} account, and I will guide you through the necessary steps to complete the process. We value your satisfaction and want to ensure that this process is as smooth as possible for you.

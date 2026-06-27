@@ -1,0 +1,10 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I have a question about canceling purchase {{Order Number}}
+
+Answer: Happy to get your message to us with your question about canceling purchase {{Order Number}}. I'm here to assist you. 
+
+Please go ahead and ask your question about canceling the purchase. Whether it's about the process, any specific requirements, or concerns you may have, feel free to share your query. I'll provide you with the necessary information and guidance to help you with canceling the purchase smoothly.
+
+Your satisfaction is our top priority, and we appreciate the opportunity to address your concerns.

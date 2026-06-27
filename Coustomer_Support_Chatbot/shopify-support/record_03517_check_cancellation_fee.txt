@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: how much will you charge me for canceling the contract?
+
+Answer: Certainly, I can provide you with the details regarding the cancellation fee for terminating your contract.

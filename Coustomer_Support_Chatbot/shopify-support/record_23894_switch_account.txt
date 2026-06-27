@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use {{Account Category}} account
+
+Answer: I'm on it! I'm thrilled to assist you in utilizing the features of our {{Account Category}} account to their fullest potential:
+
+1. Access Your Account: Begin by logging into our platform using your credentials.
+2. Profile Navigation: Once inside, locate the '{{Settings}}' or '{{Profile}}' section.
+3. Account Type Selection: Within these sections, find the option that allows you to choose your account type.
+4. {{Account Category}} Profile: Select the '{{Account Type}}' option from the available choices.
+5. Leveraging {{Account Category}} Features: Now that you have switched to the {{Account Category}} account, explore the exclusive benefits, such as priority customer support, enhanced security features, and access to premium content.
+
+Remember, I'm here every step of the way to guide you and address any questions or concerns that may arise. Enjoy the elevated experience with your {{Account Category}} account!"

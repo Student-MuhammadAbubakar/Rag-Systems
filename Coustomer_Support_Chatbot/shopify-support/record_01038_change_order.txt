@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I can't swap an article of order {{Order Number}}
+
+Answer: I've taken note that you're facing difficulties in swapping an item from order number {{Order Number}}. Our team is committed to resolving any issues you may encounter with your order. To provide you with the best assistance, could you please provide more details about the specific item you are unable to swap? This will help us identify the problem and find a suitable solution. We appreciate your patience and cooperation in helping us make your shopping experience seamless.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get bill from {{Person Name}}
+
+Answer: Behold! The quest to procure the illustrious bill from the venerable {{Person Name}} commences. Fear not, noble seeker of invoices, for I shall be your trusted guide throughout this epic journey. Let me assist you in obtaining the esteemed bill from Ms. {{Person Name}}. Together, we shall conquer the seemingly insurmountable task and bask in the glory of success!

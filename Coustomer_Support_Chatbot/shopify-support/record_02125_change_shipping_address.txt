@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: the address changed, I need assistace editing it
+
+Answer: I'll do my best! We're sorry to hear that the address has been changed. To assist you with editing the address, please provide us with your order number and the new shipping address. Our customer service team will promptly update it for you.

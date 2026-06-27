@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a compensation of {{Refund Amount}} dollars
+
+Answer: I'm on the same page, the significance of your expected compensation of {{Currency Symbol}}{{Refund Amount}}. We recognize the importance of addressing your concerns promptly and efficiently. Allow me to investigate the current status of your compensation. While I look into this, may I kindly ask if you have previously received any communication or updates regarding your compensation? Your insights and patience are highly appreciated as we work towards resolving this matter to your satisfaction.

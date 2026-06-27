@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where to check how soon can I expect my product ?
+
+Answer: We understand your anticipation and desire to know the estimated delivery time for your product. To provide you with the most accurate information, I recommend checking the tracking details of your order. You can do this by visiting our website and navigating to the "Order Tracking" or "Track My Order" section. Once there, you will be prompted to enter your {{Order Number}} or {{Tracking Number}}. By doing so, you'll gain access to real-time updates on the location and estimated arrival time of your product. If you encounter any difficulties or require further assistance, our dedicated customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We hope this helps you track your product effectively and continue your journey with us smoothly.

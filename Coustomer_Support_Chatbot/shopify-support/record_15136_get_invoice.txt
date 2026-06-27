@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do not know whati need to do to download bill #37777
+
+Answer: Not to worry! I completely understand your confusion about the steps to take in order to download bill #{{Invoice Number}}. Let me guide you through the process. First, could you please confirm if you are accessing our website or using our mobile app? This will help me provide you with specific instructions tailored to your platform.

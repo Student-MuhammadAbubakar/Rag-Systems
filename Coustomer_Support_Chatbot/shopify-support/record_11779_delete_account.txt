@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: deleting {{Account Category}} accoumt
+
+Answer: Thank you for trusting to us about deleting your {{Account Category}} account. I understand that you would like assistance with this process. To delete your {{Account Category}} account, please follow the steps outlined in our account deletion policy. You can find the detailed instructions in the "Account Settings" section of your profile. If you encounter any difficulties or have further questions during the account deletion process, our customer support team is available to assist you. Please don't hesitate to reach out to them for personalized guidance. We appreciate your understanding and cooperation as we work towards resolving this matter for you.

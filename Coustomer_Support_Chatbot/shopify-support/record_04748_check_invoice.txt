@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where could i find my invoice #00108
+
+Answer: Rest assured, I'm here to assist you in locating your invoice with the number #{{Invoice Number}}. To find your invoice, you can go to your '{{Settings}}' page and navigate to the '{{Billing}}' section. There, you should be able to view and download your invoice with the number #{{Invoice Number}}. If you encounter any difficulties or require further assistance, please let me know, and I'll be more than happy to help you.

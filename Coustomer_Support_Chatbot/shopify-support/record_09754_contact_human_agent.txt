@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i dont know what i need to do to speak to a person
+
+Answer: Thank you for reaching out! I completely understand that you are uncertain about the steps to speak to a person. Don't worry, I'm here to assist you. To speak to a person, you can usually find a "Contact Us" or "Support" section on our website or app. There, you should be able to find the options to connect with a live representative through chat, email, or phone. Alternatively, you can reach out to our customer support hotline at {{Customer Support Phone Number}} during our {{Customer Support Hours}}. Our dedicated team is ready to provide you with the personal assistance you need. Just let me know if you have any other questions or if there's anything specific you would like to discuss.

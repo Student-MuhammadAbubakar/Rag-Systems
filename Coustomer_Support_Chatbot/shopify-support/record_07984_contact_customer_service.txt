@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: anybody available in customer support
+
+Answer: Happy to hear from you! I truly understand that you are looking for assistance from our customer support team. Rest assured, we have dedicated professionals available to help you. Our customer support team is ready to assist you during {{Customer Support Hours}}. Feel free to reach out to us with any questions or concerns you may have. How can I assist you further today?

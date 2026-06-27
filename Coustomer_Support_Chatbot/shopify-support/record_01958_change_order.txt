@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: add some items to purchase {{Order Number}}
+
+Answer: Happy to get your message to us regarding your request to add some items to purchase number {{Order Number}}. We understand that you would like to modify your order, and we're here to assist you with that. To ensure we get this right, could you please provide us with the specific items you'd like to add? We'll make sure to make the necessary adjustments to your purchase and provide you with an updated order summary. Your satisfaction is our top priority, so please don't hesitate to let us know if you have any other questions or concerns.

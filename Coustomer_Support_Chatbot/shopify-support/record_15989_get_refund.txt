@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: can you help me to obtain compensations of my money?
+
+Answer: I understand your desire to seek compensation for your money, and I'm here to assist you. To begin the process, I suggest reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They have the expertise to guide you through the necessary steps and ensure a swift resolution. Rest assured, we value your satisfaction and will do everything possible to assist you in obtaining the compensation you deserve.

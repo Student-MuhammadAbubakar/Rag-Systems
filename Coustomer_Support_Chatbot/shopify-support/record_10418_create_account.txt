@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i do not have a {{Account Type}} cacount yet I'd like to create one
+
+Answer: That's great to hear! I'm here to assist you in creating a {{Account Type}} account. Our {{Account Type}} account offers a range of exclusive benefits and features that I'm sure you'll find valuable. To get started, I'll need some essential information from you, such as your full name, email address, and preferred username. Once I have these details, I'll guide you through the process step by step, ensuring a seamless experience for you. Rest assured, your security and privacy are of utmost importance to us, and your information will be safeguarded with the highest level of care. Let's begin this exciting journey together! How are you feeling about creating your new {{Account Type}} account?

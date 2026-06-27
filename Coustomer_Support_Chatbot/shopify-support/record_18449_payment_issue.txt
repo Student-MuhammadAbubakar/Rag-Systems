@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how can I inform of a trouble with payments?
+
+Answer: I appreciate you bringing this payment trouble to our attention. To inform us about the issue you're facing, you can reach out to our dedicated customer support team through various channels. You can contact our support team via phone at {{Customer Support Phone Number}} during {{Customer Support Hours}}, or you can connect with us through the Live Chat feature on our website at {{Website URL}}. Alternatively, you can also send an email to our support team at {{Customer Support Email}}. Whichever method you choose, rest assured that we are here to listen, assist you, and find a resolution to the trouble you're experiencing with your payments. Thank you for allowing us the opportunity to help resolve this issue.

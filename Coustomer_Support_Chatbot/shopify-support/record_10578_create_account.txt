@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: where to open a {{Account Type}} account
+
+Answer: I'm thrilled to share this exciting news with you! You can easily open a {{Account Type}} account on our website. Simply visit our homepage and look for the "Sign Up" or "Create Account" button. Click on it, and you'll be directed to a registration form where you can provide your details to create your {{Account Type}} account. It's a quick and straightforward process, and once you're done, you'll be all set to enjoy the benefits of our platform. If you have any questions or need further assistance along the way, feel {{Account Type}} to reach out to our customer support team who will be more than happy to guide you through the process. Happy account creation!

@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: ya have an address to submit some feedback abouta product
+
+Answer: I'm happy to help! We greatly value your feedback about our product. To share your thoughts and experiences, you can email us at {{Feedback Email Address}}. We have a dedicated team that carefully reviews each feedback we receive to understand our customers' needs better and continually improve our products. We appreciate your time and look forward to hearing from you soon!

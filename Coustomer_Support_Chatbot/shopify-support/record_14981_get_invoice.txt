@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: assistance downloading my bills from {{Person Name}}
+
+Answer: I certainly recognize the importance of assisting you with downloading your bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" section. You should find a "Download Invoices" option there. Click on it, and a list of your invoices should appear. Locate the bills you need to download, specifically from {{Person Name}}, and select the corresponding checkboxes. Finally, click on the "Download" button, and the invoices will be saved to your device. If you encounter any difficulties or have further questions during the process, feel free to let me know. I'll be more than happy to assist you every step of the way.

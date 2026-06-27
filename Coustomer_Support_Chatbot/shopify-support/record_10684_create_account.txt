@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open {{Account Category}} account for wife
+
+Answer: How wonderful that you want to open a {{Account Category}} account for your wife! I'm here to assist you every step of the way. To proceed, could you please provide me with your wife's full name, email address, and a preferred username? Once I have these details, I'll guide you through the process, ensuring a smooth and enjoyable experience for both of you. Please know that we prioritize the security and privacy of our customers, and all information provided will be treated with the utmost care. How are you feeling about this new endeavor?

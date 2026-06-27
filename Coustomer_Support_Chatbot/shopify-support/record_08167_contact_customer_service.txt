@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: how do i see at what time i can recah customer service
+
+Answer: Thank you for reaching out! I understand your need to find out the operating hours of our customer service team. To determine the specific hours, you can visit our website at {{Website URL}} and navigate to the "Contact Us" page. There, you'll find the designated customer service hours. If you have any further questions or need assistance with anything else, please don't hesitate to let me know.

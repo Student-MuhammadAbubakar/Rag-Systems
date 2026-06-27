@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: is it possible to inform of a signup issue?
+
+Answer: We appreciate you reaching out to us regarding a signup issue. Your proactive approach allows us to address the problem more effectively. To report a signup issue, we recommend visiting our support page where you can find the contact information to reach our dedicated support team. Our team is available {{Customer Support Hours}} and can assist you with any concerns you may have. Thank you for bringing this to our attention, and we assure you that we will work diligently to resolve the issue and provide you with a seamless signup experience.

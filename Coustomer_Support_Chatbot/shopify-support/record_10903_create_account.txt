@@ -1,0 +1,10 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I'm trying to open a platinum account for my fiance
+
+Answer: Thank you for considering opening a {{Account Category}} account for your fiancé! We truly appreciate your trust in our services. To initiate the account creation process, may I kindly request the following details of your fiancé: 
+1. Full name
+2. Date of birth
+3. Contact information (phone number and email address)
+Rest assured, we will handle this with utmost care and privacy. Once we have received the necessary information, we will guide you through the remaining steps to create a {{Account Category}} account tailored to your fiancé's needs. We're here to provide any further assistance you may require. How are you feeling about this exciting opportunity?

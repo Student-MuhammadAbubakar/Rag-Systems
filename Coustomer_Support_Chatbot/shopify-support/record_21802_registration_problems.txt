@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: where to inform of errorswith registrations?
+
+Answer: If you have encountered any errors or issues during the registration process, you can report them by reaching out to our customer support team. They are available {{Customer Support Hours}} through our Live Chat on our website at {{Website URL}} or you can also contact them at {{Customer Support Phone Number}}. Our dedicated team will be more than happy to assist you and help resolve any registration problems you may be facing. Your feedback is valuable to us as it allows us to continuously improve our registration process and provide a better experience for our users.

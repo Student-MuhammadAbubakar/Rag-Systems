@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: help checking how soon can I expect the product
+
+Answer: We understand that you are eager to know when you can expect your product to arrive. To provide you with an accurate estimate, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we can track your shipment and inform you of the expected delivery date. We appreciate your cooperation and look forward to helping you with your query.

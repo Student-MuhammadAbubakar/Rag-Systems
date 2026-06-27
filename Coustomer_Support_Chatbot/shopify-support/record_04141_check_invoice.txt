@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need assistance to look for the invoice from {{Person Name}}
+
+Answer: Absolutely! I completely understand your request for assistance in locating the invoice from {{Salutation}} {{Client Last Name}}. It's important to have access to such information for your records and peace of mind. To help you with this, could you please provide me with any specific details such as the invoice number, date range, or any other relevant information that can expedite the search process? Rest assured, I'm here to guide you every step of the way and ensure that you can quickly access the required invoice.

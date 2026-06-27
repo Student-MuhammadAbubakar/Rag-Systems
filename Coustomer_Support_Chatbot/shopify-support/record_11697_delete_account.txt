@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I need to do to close the damn {{Account Type}} account
+
+Answer: I'm glad you contacted us to us about closing your {{Account Type}} account. I understand that you're feeling frustrated and unsure about the process, and I apologize for any inconvenience caused. Rest assured, I'm here to guide you through the steps. To close your {{Account Type}} account, you can follow these instructions: [Provide detailed steps to cancel the {{Account Type}} account]. If you encounter any difficulties or have further questions, please don't hesitate to ask. We're committed to providing you with the support you need during this process.

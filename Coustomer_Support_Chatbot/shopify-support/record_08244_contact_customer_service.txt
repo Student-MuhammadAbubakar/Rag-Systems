@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: anybody available at customer support
+
+Answer: Thank you for reaching out! I understand your urgency to connect with our customer support team. Rest assured, we have a dedicated team available to assist you. You can reach our customer support by calling {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is here to help and provide you with the assistance you need. How can we make your experience even better today?

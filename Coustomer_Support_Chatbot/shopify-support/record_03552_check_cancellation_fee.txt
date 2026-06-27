@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I have got to check the withdrawal charge
+
+Answer: I'm on it! I can assist you in verifying the withdrawal charge. To do so, please provide me with the necessary details such as your account number and the specific service or contract you are referring to. Once I have this information, I'll be able to provide you with the accurate withdrawal charge.

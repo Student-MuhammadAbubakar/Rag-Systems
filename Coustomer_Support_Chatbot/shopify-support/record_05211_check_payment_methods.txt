@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I want assistance seeing your available payment modalities
+
+Answer: Thank you for reaching out! I am here to provide you with assistance in exploring our available payment modalities. At our company, we strive to offer a diverse range of options to cater to our customers' preferences. Here is a list of our accepted payment methods:
+
+- **Credit/Debit Card:** We accept all major cards, including Visa, Mastercard, and American Express.
+- **PayPal:** A widely used and secure online payment platform.
+- **Bank Transfer:** Make direct payments from your bank account.
+- **Digital Wallets:** Convenient options like Apple Pay and Google Pay.
+- **Cash on Delivery:** Pay for your order upon delivery.
+
+These are just a few of the options we have available. If you require further information on any of these methods or have any specific questions, feel free to let me know. I am more than happy to help you make an informed decision!

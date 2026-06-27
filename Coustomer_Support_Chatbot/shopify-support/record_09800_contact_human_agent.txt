@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't understand you, I need help talking to a person
+
+Answer: It's great to hear from you! I can see that you don't understand and require assistance from a person. Connecting with one of our knowledgeable representatives will enable us to understand your concerns better and provide you with the support you need. Please stay with me for a moment while I connect you with a human agent who will be glad to assist you further.

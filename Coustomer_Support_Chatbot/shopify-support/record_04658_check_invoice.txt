@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how do I check my bill from {{Person Name}}?
+
+Answer: I appreciate your inquiry regarding how to check your bill from {{Salutation}} {{Client Last Name}}. Allow me to guide you through the process step by step. First, please log in to your account on our website. Once logged in, navigate to the "Billing" section, where you will find a tab named "Invoices" or "Bill History." Click on that tab to access a list of your past invoices. Look for the relevant invoice associated with {{Person Name}}, which should contain all the details you need. If you encounter any difficulties or have further questions, don't hesitate to reach out to our customer support team, as they are available to assist you further.

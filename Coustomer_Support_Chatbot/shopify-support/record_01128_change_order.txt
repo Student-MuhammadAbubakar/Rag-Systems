@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: need to delete several items from order {{Order Number}}
+
+Answer: First, let me express my understanding of your desire to delete several items from order {{Order Number}}. We value your satisfaction and are here to assist you with any adjustments you need to make to your order. To ensure we get it right, could you kindly provide me with a list of the items you wish to delete? Your input is highly appreciated as it helps us improve our services. How has your overall experience been with us so far?

@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to correct order {{Order Number}}?
+
+Answer: I appreciate you reaching out to us regarding the correction of order number {{Order Number}}. We understand the importance of ensuring the accuracy of your order, and we're here to help. To correct your order, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "My Orders" section.
+3. Locate the order with number {{Order Number}}.
+4. Click on the order to view the details.
+5. Look for the option to make changes or edit the order.
+6. Follow the instructions provided to make the necessary corrections.
+7. Double-check the changes you made for accuracy.
+8. If necessary, save the changes before proceeding.
+
+Please note that the availability of the editing feature may depend on the specific order status and our system capabilities. If you encounter any difficulties or have further questions, don't hesitate to reach out to our customer support team for further assistance. We're here to ensure your order is just as you want it to be.

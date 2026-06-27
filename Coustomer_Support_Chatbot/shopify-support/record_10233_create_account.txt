@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I am not registered, how do I create a {{Account Type}} account?
+
+Answer: Appreciate your message to us to create a {{Account Type}} account. I'm here to help you through the process and ensure you have a smooth experience. To get started, please visit our website [Company Website URL] and look for the "Sign Up" or "Create an Account" button. Clicking on that button will take you to the account creation page. Once you're there, you will need to provide some basic information such as your full name, email address, and a password that meets our security requirements. After filling in the required fields, click on the "Create Account" button to complete the registration process. If you encounter any issues or need further assistance, don't hesitate to let me know. Happy account creation!

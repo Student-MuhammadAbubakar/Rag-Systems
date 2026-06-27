@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I remove something from order {{Order Number}}?
+
+Answer: We understand that you would like to remove an item from order number {{Order Number}}. We'd be happy to assist you with this request. To remove an item from your order, you can follow these steps:
+
+1. Log in to your account on our website or mobile app.
+2. Navigate to the "Orders" section or go to the specific order page.
+3. Locate the item you wish to remove and click on the "Remove" or "Delete" button next to it.
+4. Confirm the removal when prompted.
+5. Review the updated order details to ensure the item has been successfully removed.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let us know. We're here to help make this process as smooth as possible for you.

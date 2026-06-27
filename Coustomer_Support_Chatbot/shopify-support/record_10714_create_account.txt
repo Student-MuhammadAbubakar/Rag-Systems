@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do I need to do to open a {{Account Type}} account?
+
+Answer: I'm thrilled to assist you in opening a {{Account Type}} account! To get started, you can visit our website and navigate to the account creation page. From there, you'll need to provide some basic information such as your full name, email address, and a preferred username. Additionally, we might require some supporting documents to verify your identity and eligibility for a {{Account Type}} account. Once you have submitted all the necessary details, our team will review and process your application promptly. If any further information is required, our customer service representatives will reach out to you directly. Rest assured, we're committed to ensuring a seamless experience throughout the account opening process. Is there anything else I can assist you with?

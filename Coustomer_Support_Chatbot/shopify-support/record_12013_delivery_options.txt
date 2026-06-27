@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you shp to {{Delivery City}}?
+
+Answer: Positively! We are delighted to offer our shipping services to {{Delivery City}} as well. Whether you're in {{Delivery City}} or any other location around the world, we strive to ensure a seamless shipping experience for all our customers. You can choose from our range of delivery options to suit your needs and receive your items at your doorstep in no time. If you have any specific concerns or questions about shipping to {{Delivery City}}, feel free to let me know, and I'll be happy to assist you further.

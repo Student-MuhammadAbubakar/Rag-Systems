@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: could you help me to speak to customer support?
+
+Answer: Thank you for reaching out! I completely understand your need to speak to our customer support. We have multiple channels available for you to get in touch with us and speak to a representative. You can reach us via phone at {{Customer Support Phone Number}} during our customer support hours. Additionally, we offer a live chat feature on our website at {{Website URL}}, where you can interact with our support team in real-time. If you prefer, you can also send us an email at {{Customer Support Email}} and we will reply promptly. Feel free to choose the channel that suits you best. How else can I assist you today?

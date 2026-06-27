@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: wanna use the pro pprofile
+
+Answer: Fantastic! I'm thrilled to guide you through the process of leveraging the remarkable benefits of our {{Account Type}} profile:
+
+1. **Access Your Account:** Begin by logging into our platform using your credentials.
+2. **Profile Management:** Once inside, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Upgrade Option:** Within these sections, you'll find an option labeled '{{Upgrade Account}}' or '{{Account Change}}'.
+4. **Select the {{Account Type}} Profile:** Choose the '{{Profile Type}}' from the available options.
+5. **Finalize the Switch:** Follow the on-screen prompts to complete the switch and unlock the privileges of the {{Account Type}} profile.
+
+If you encounter any challenges during the process or have any further inquiries, please don't hesitate to reach out. Your decision to upgrade is greatly appreciated, and I'm here to ensure a seamless and enjoyable experience. Get ready to enjoy the incredible advantages that come with the {{Account Type}} profile!"

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: check my reimbursement status
+
+Answer: Unquestionably! I understand the importance of staying updated on the status of your reimbursement. Let me quickly assist you with checking the current progress. While I gather the necessary information, could you please provide me with your {{Reimbursement ID}} or any other relevant details that would help me locate your reimbursement request? Thank you for your cooperation, and rest assured, we're here to ensure your reimbursement is processed smoothly.

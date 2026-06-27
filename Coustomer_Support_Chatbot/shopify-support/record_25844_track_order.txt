@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have got to check the status of purchase {{Order Number}}
+
+Answer: Thank you for trusting us! I'm fully aware of you have a need to check the status of your purchase with the purchase number {{Order Number}}. To assist you with this, please visit the '{{Order Status}}' section on our website. There you will find detailed information about the current status of your purchase, including the estimated time of arrival (ETA). If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help you every step of the way!"

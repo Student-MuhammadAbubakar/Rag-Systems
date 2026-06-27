@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: how do i inform of a problem with a signup
+
+Answer: Glad you got in touch to us and expressing your concern about a problem you encountered during the signup process. We appreciate your proactive approach in informing us about this issue. To inform us of the problem with your signup, you can reach out to our customer support team through our website or app. Our support team is available {{Customer Support Hours}} and will be more than happy to assist you with resolving the problem. Providing detailed information about the issue you encountered, such as any error messages or specific steps you took, will greatly help us in addressing the problem efficiently. We greatly value your feedback as it allows us to continually improve our services and ensure a smoother signup experience for all our users.

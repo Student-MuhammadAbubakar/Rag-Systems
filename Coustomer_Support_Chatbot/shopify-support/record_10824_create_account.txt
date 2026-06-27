@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want to know more about opening {{Account Category}} accounts
+
+Answer: Absolutely! I'm delighted to provide you with more information about opening {{Account Category}} accounts. Our {{Account Category}} account offers a range of exclusive benefits and perks that cater to your financial needs. These include premium interest rates, higher transaction limits, priority customer support, access to exclusive events and offers, and much more. To get started, I need some basic information from you, such as your full name, contact details, and any specific requirements you may have. Once I have these details, I can guide you step-by-step through the account opening process and answer any questions you may have. Opening a {{Account Category}} account with us is a fantastic decision, and I'm here to ensure that the process is smooth and hassle-free for you.

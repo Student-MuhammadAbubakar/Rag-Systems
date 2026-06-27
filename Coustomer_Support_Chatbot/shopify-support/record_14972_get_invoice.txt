@@ -1,0 +1,14 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i want assistance to download the bill from {{Person Name}}
+
+Answer: Oh, the exhilarating quest to download the esteemed bill from the illustrious {{Person Name}}!I am delighted to provide you with the necessary guidance and support to navigate through this transformative experience. To download the bill from {{Person Name}}, please follow these simple steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Locate the bill associated with {{Person Name}}'s account.
+4. Click on the download button or link next to the bill.
+5. The bill will be downloaded to your device, ready for your review or record-keeping.
+
+If you encounter any difficulties during the process or if you have any further questions, feel free to reach out to me. I'm here to ensure your journey to download the bill is seamless and rewarding. Happy downloading!

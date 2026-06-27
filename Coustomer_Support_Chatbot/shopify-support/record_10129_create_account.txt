@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want information about opening platinum accounts
+
+Answer: Thank you for your interest in opening a {{Account Category}} account with us! {{Account Category}} accounts offer a range of exclusive benefits and privileges designed to enhance your banking experience. To provide you with detailed information about opening a {{Account Category}} account, I kindly request you to visit our website or contact our dedicated customer support team. They will provide you with all the necessary information, answer any queries you may have, and guide you through the account opening process seamlessly. We are committed to ensuring a smooth and hassle-free experience for our valued customers like you.

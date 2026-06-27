@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open another {{Account Type}} account
+
+Answer: That's fantastic! I'm thrilled to assist you in opening another {{Account Type}} account. To get started, could you please provide your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step by step, ensuring that you have a smooth and hassle-{{Account Type}} experience. Rest assured that your privacy and security are of utmost importance to us, and we will take all necessary measures to protect your information. Let's create this new account together and explore all the benefits it offers. How does that sound?

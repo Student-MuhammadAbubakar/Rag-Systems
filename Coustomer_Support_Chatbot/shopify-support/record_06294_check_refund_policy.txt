@@ -1,0 +1,14 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: i dont know what to doto check ur money back policy
+
+Answer: I pick up what you're putting down, your confusion about how to check our money back policy. Let me guide you through the process.
+
+To check our refund policy, you can visit our website and navigate to the "Terms and Conditions" or "Refund Policy" section. There, you will find detailed information about the situations in which you can request refunds, eligibility criteria, and the procedure to follow.
+
+If you're unable to locate the refund policy on our website, don't worry. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you and provide you with the necessary information.
+
+Remember, our refund policy may have certain specifics and variations based on the product or service you have purchased. So, if you have a specific concern regarding a recent purchase, please provide me with the order number, and I'll investigate it further for you.
+
+Feel free to reach out if you have any more questions or need further assistance. We're here to help!

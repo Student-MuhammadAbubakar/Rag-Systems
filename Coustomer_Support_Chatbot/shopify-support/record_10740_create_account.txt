@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how do  i open a {{Account Category}} account for my daughter
+
+Answer: That's wonderful! I appreciate your interest in opening a {{Account Category}} account for your daughter. To get started, we'll need a few details from you. Could you please provide me with your daughter's full name, date of birth, and a valid email address? Once I have this information, I'll guide you through the process step by step to ensure a seamless experience for you and your daughter. Rest assured that we prioritize the security and privacy of our clients' accounts. Your daughter's account will be protected with utmost care.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i paid {{Currency Symbol}}{{Refund Amount}} for this purchase i try to receive a rebate
+
+Answer: I understand your frustration and desire to receive a rebate for the ${{Refund Amount}} purchase you made. I apologize for any inconvenience this may have caused. To initiate the rebate process, I recommend reaching out to our customer support team. They have the necessary expertise and tools to assist you in obtaining the rebate you are eligible for. They are available 24/7 at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Providing them with the necessary details, such as your purchase information and any proof of eligibility, will greatly facilitate the process. Rest assured, they will work diligently to ensure your rebate request is handled promptly and efficiently.

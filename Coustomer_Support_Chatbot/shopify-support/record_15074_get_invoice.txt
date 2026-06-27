@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: download ibll #37777
+
+Answer: I understand your request to download bill {{Invoice Number}}. Let me assist you with that. Please give me a moment to retrieve the bill and generate a download link for you. Once it's ready, I'll provide you with the link so you can easily access and download your bill. Is there anything else I can help you with in the meantime?

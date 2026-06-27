@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want help talking with customer assistance
+
+Answer: Your reach-out is appreciated! I'm sensing that you're seeking assistance in contacting our customer assistance team. I'm here to guide you through the process. To reach our customer assistance team, you can dial our dedicated phone number at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to address your concerns and provide the help you need. Alternatively, you can also connect with our customer assistance team through the Live Chat feature on our website at {{Website URL}}. Feel free to ask any more questions or share any specific concerns you have, and together, we'll find the best way to assist you. How can I further support you?

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for an order, can you help me receive a rebate?
+
+Answer: Thank you for bringing this issue to my attention. I understand that you paid ${{Refund Amount}} for your order and are seeking assistance to receive a rebate. I'm here to help you with that. To begin, may I kindly ask for some additional information about your order? Specifically, please provide me with the order number, the date of purchase, and any relevant details about the reason you're requesting a rebate. With these details, I'll be able to guide you through the process and ensure that you receive the necessary assistance to resolve this matter.

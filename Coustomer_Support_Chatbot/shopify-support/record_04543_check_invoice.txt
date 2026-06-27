@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see invoices fromMs. Hawkings
+
+Answer: I grasp your desire to view the invoices from {{Salutation}} {{Client Last Name}}. It's crucial to have access to such information for tracking and record-keeping purposes. To help you with this, could you please provide me with some additional details? Specifically, the date range or any specific invoice numbers could assist me in locating the invoices you are looking for. Rest assured, I'm here to guide you through the process and ensure you have a seamless experience.

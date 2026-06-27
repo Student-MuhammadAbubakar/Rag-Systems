@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do I add some items to order {{Order Number}} ?
+
+Answer: Absolutely! We understand that you would like assistance in adding items to order number {{Order Number}}. To add items to your order, you can follow these simple steps:
+
+1. Go to your '{{Order Number}}' page.
+2. Locate the order with number '{{Order Number}}'.
+3. Click on the 'Add Items' button or link next to the order details.
+4. Browse the available products and select the items you wish to add to your order.
+5. Once you have made your selections, click on the 'Add to Order' button.
+6. Review the added items in your order summary to ensure accuracy.
+7. Proceed to the checkout page to complete your order.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let us know. We are always here to assist you.

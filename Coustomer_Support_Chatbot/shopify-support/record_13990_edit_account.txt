@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing info on {{Account Type}} account
+
+Answer: I'm delighted to assist you in updating the information on your {{Account Type}} account. It's wonderful to see that you're taking an active role in managing the details of your account. To ensure your security, please avoid sharing any personal identifiers, such as your full account number or password. Instead, I recommend accessing the {{Online Company Portal Info}} directly or reaching out to our dedicated customer support team for personalized assistance. Could you please provide me with more details about the specific information you would like to change? I'm here to guide you throughout the process.

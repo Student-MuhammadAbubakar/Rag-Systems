@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do i have to do to check my invoice from {{Person Name}}
+
+Answer: Unquestionably! I understand the importance of checking your invoice from {{Salutation}} {{Client Last Name}}. To assist you in this process, could you please provide me with your account information or any details related to the invoice? That way, I can guide you more effectively and help you locate your invoice without any hassle.

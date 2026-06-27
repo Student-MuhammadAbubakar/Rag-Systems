@@ -1,0 +1,12 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: cancel platinum account
+
+Answer: Thank you for contacting us regarding the cancellation of your {{Account Category}} account. I understand that you would like to terminate your membership, and I'm here to assist you with the process. To cancel your {{Account Category}} account, please follow these steps: 
+1. Log in to your account on our website using your credentials.
+2. Navigate to the account settings or profile page.
+3. Look for the option to manage your subscription or membership.
+4. Locate the cancellation or termination option specifically for the {{Account Category}} account.
+5. Follow the prompts or instructions provided to complete the cancellation process.
+If you encounter any difficulties or have any additional questions along the way, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We appreciate your time with us and hope to assist you in the best way possible during this process.

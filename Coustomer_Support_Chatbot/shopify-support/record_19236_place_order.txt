@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where do I order something?
+
+Answer: I'm delighted to assist you in finding the right place to order our products! To place an order, you can visit our website at {{Website URL}}. Our website is designed to provide you with a user-friendly and seamless ordering experience. Simply search for the items you wish to purchase, add them to your cart, and proceed to the checkout page to complete your order. Our website also offers secure payment options to ensure a smooth and protected transaction. If you have any questions or need further assistance during the ordering process, our customer support team is always available to help you. Happy shopping!

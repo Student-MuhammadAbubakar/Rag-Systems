@@ -1,0 +1,14 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: the new delivery address is invalid, what should I do?
+
+Answer: I can tell that you're facing an issue with an invalid new delivery address. I apologize for any inconvenience caused. To resolve this, please follow the steps below:
+
+1. Double-check the information you entered for the new delivery address. Ensure that all fields, such as street name, number, city, state, and zip code, are accurate.
+2. Make sure there are no spelling errors or typos in the address details.
+3. Verify that the address format follows the standard conventions of your country or region.
+4. If you're entering an international address, ensure that you've correctly entered the postal code, city, and country name.
+5. Try entering the address again, making sure to carefully input each element.
+
+If the issue persists, or if there is any other specific error message or behavior you're encountering, please provide more details so that I can assist you more effectively. Rest assured, I'm here to help you navigate through this situation and find a suitable resolution.

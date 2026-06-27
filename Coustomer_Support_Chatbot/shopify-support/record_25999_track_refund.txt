@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a ocmpensation of {{Refund Amount}} dollars
+
+Answer: Thank you for letting us know that you are waiting for a compensation of {{Currency Symbol}}{{Refund Amount}}. I understand the importance of this reimbursement to you, and I apologize for any inconvenience caused by the delay. Rest assured, our team is actively working on processing your compensation. To provide you with an accurate update, could you please provide me with any reference number or additional details related to your compensation? This will help me expedite the process and provide you with the most up-to-date information. Thank you for your patience and cooperation.

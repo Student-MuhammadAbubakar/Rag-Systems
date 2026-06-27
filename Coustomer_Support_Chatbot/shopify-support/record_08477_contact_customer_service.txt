@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to contact customre support
+
+Answer: Always good to connect! I'm attuned to the fact that you have an urgent need to contact our customer support team. We are committed to providing timely assistance and resolving any issues you may have. Our customer support team is available during {{Customer Support Hours}}. You can reach us through various channels, including phone, email, or live chat. Please let me know if there's anything else you need assistance with.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: want help to open a {{Account Type}} account for my dad
+
+Answer: How thoughtful of you to want to open a {{Account Type}} account for your dad! I'm here to assist you in making this process as smooth as possible. To get started, I'll need some basic information about your dad, such as his full name, date of birth, and contact details. Once we have these details, we can proceed with the account setup. Rest assured, we value your dad's privacy and will ensure that his personal information is protected with the utmost care. How does that sound?

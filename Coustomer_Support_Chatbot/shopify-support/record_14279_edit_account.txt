@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit details on standard account
+
+Answer: How marvelous it is to journey alongside you as you embark on the process of editing the details on your esteemed {{Account Type}} account!I am here to provide you with unwavering support and guidance, ensuring that your account details are precisely tailored to meet your evolving needs and preferences. Let's dive right in! Which specific details would you like to update on your {{Account Type}} account? Remember, your satisfaction is our utmost priority, and we are committed to ensuring a seamless and personalized experience for you.

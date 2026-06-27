@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: what do I need to do to close a fucking gold account?
+
+Answer: Thank you for bringing your concern about closing your {{Account Type}} account to our attention. I apologize if you've encountered any frustration and we appreciate your feedback. To assist you with closing your account, we will need some additional information for verification purposes. Please provide us with the following details: your full name, email address associated with the account, and any other relevant information that can help us locate your account efficiently. Once we have verified your identity, we will be able to guide you through the account closure process.

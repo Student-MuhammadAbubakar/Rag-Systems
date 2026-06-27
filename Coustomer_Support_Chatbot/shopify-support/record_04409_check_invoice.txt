@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i lost the bills from {{Person Name}} could ufnid them for me
+
+Answer: I see your concern about losing the bills from {{Salutation}} {{Client Last Name}}. I'm here to help you locate them. Can you please provide me with any specific details such as date range, invoice number, or any other information that might help in finding the bills? Rest assured, I'll do my best to assist you in retrieving the necessary information.

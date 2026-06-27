@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can you help me using the pro profile?
+
+Answer: Certainly! I'm thrilled to guide you on how to make the most of our exceptional {{Account Type}} profile:
+
+1. Access Your Account: Begin by logging into our platform.
+2. Profile Navigation: Once inside, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. {{Account Type}} Profile Features: Within these sections, you'll find exclusive features and options available only to {{Account Type}} users.
+4. Usage Tips: Take full advantage of the {{Account Type}} profile by exploring features such as {{Feature 1}}, {{Feature 2}}, and {{Feature 3}}. These are designed to enhance your experience and provide added benefits.
+5. {{Account Type}} Support: Should you need any further assistance or have specific questions about the {{Account Type}} profile, our dedicated {{Account Type}} Support team is available to lend a hand.
+
+Feel free to reach out if you have any further inquiries or require additional help. Enjoy the distinctive advantages and elevated experience that come with our exceptional {{Account Type}} profile!"

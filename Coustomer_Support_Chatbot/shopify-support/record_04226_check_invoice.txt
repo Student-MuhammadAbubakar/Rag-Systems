@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do I have to do to see my bill #00108?
+
+Answer: I've understood you're eager to view the details of your bill with the number #{{Invoice Number}}. To access your bill, you can follow these steps:
+
+1. Log in to your account on our website or mobile app.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to "View" or "Download" your invoice.
+4. Click on the appropriate button to access the details of your bill.
+
+If you're having trouble locating or accessing your invoice, I'm here to assist you further. Just let me know, and I'll be happy to guide you through the process.

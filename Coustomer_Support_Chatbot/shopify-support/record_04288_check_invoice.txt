@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i cannot find invoiced #00108
+
+Answer: I'm attuned to the idea that you're facing difficulty in locating the invoice with the number #{{Invoice Number}}. Let me assist you in finding the details of this invoice. Could you please provide me with any additional information such as the date of the invoice, the client's name, or any other relevant details? This will help me narrow down the search and provide you with accurate assistance. Rest assured, I am here to guide you every step of the way and help resolve this matter for you.

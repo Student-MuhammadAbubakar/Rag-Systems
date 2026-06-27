@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: show me bill #00108
+
+Answer: I appreciate your request to locate the details of bill {{Invoice Number}}. It seems you are searching for specific information related to this invoice. To provide you with accurate assistance, could you please provide me with additional context or any specific details you would like me to focus on? Rest assured, I'm here to help you find the required information and address any concerns you may have.

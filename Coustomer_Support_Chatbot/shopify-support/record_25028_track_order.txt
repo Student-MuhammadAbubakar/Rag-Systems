@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: check status of order {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you with checking the current status of your order with the order number {{Order Number}}. To retrieve the status, please log in to your account on our website and navigate to the '{{Online Order Interaction}}' section. There you'll find detailed information about the status, including whether it's been shipped or delivered. Should you have any further questions or need additional support, feel free to let me know. I'm here to ensure you have a seamless experience!

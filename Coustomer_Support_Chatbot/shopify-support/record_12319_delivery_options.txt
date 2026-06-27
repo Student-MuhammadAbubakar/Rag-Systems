@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya ship to {{Delivery Country}}
+
+Answer: Unquestionably! We are pleased to inform you that we offer shipping services to {{Delivery Country}}. You can choose from our range of delivery options to have your items conveniently shipped to your location in {{Delivery Country}}. If you have any specific concerns or if there's anything else I can assist you with, please feel free to let me know. It's our pleasure to ensure a seamless shopping experience for you!

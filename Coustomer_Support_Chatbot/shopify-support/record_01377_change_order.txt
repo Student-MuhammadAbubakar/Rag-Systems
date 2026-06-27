@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have to edit order {{Order Number}}, how to do it?
+
+Answer: I'm conscious of the reality that you need help editing order number {{Order Number}}. Making changes to an existing order is possible, and I'll be glad to guide you through the process. To get started, could you please provide me with more specific details about the changes you would like to make? This information will assist us in ensuring accurate and satisfactory modifications to your order.

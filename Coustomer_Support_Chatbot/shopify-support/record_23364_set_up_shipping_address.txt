@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: the shipping address is not valid
+
+Answer: I'm sorry to hear that you're having trouble with the validity of your shipping address. Address validation plays a crucial role in ensuring accurate delivery. To resolve this issue, I recommend the following steps:
+
+1. Double-check the address details you entered, including the spelling, street name, house number, zip code, and any additional address lines.
+2. Verify if the shipping address format aligns with the requirements of your country or postal service. Different regions may have specific formatting rules.
+3. Take a moment to confirm that the address you entered exists and is recognized by mapping or postal services. This will ensure that the system can validate it.
+4. If you're entering an international address, make sure to follow the correct format and include all necessary information, such as the city, region, and country.
+5. Try using a different web browser or device to re-enter the address. Sometimes, technical issues can interfere with the validation process.
+6. If the address is still not being accepted, please reach out to our customer support team at {{Customer Support Phone Number}} or through our live chat on our website at {{Website URL}}. They will be more than happy to assist you in resolving the issue with your shipping address.
+
+By following these steps, we hope to resolve the issue with your shipping address and ensure that your order is processed correctly. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

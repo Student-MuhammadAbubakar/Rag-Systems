@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i want help cancelling order {{Order Number}}
+
+Answer: I'm aware that you're seeking assistance with canceling order {{Order Number}}. We value your request and will do our best to guide you through the process. Here's what you need to do:
+
+1. Sign in to your account: Log in to your {{Online Company Portal Info}} using your registered credentials.
+2. Locate your order: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Identify the specific order: Look for the order with the reference number {{Order Number}} and click on it for more details.
+4. Initiate the cancellation: You should find an option labeled '{{Online Order Interaction}}' associated with this specific purchase. Please select it.
+5. Follow any additional instructions: There may be some additional steps to follow or questions to answer to complete the cancellation process.
+
+If you encounter any challenges or have any further questions, please feel free to reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We understand the importance of your request and are committed to ensuring your satisfaction and resolution.

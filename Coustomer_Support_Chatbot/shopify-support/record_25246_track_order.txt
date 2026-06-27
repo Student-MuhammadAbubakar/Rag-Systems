@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: what is order {{Order Number}} crrent status
+
+Answer: Thank you for getting in touch with us! I understand that you would like to know the current status of your order with the order number {{Order Number}}. To provide you with accurate information, I kindly request you to share a few more details about your order, such as the purchase date or any reference numbers associated with it. Once I have this information, I'll be able to assist you further and provide you with the most up-to-date status of your order.

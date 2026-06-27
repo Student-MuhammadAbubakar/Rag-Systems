@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery City}}
+
+Answer: Certainly! We offer shipments to {{Delivery City}}, allowing you to receive your desired items at your doorstep. Our delivery options, such as Standard Shipping, Expedited Shipping, Overnight Shipping, and In-Store Pickup, are available for {{Delivery City}} as well. You can choose the option that best suits your needs and preferences. Rest assured, we are committed to delivering your items promptly and efficiently. If you have any specific questions or need further assistance, feel free to let me know. I'm here to ensure a seamless shopping experience for you, no matter where you are in the world!

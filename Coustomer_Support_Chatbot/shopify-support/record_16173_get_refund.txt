@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I need to demand my money back
+
+Answer: I can relate to the understanding that you're in a situation where you need to demand a refund and retrieve your money. This can be a frustrating experience, and I'm here to help you navigate through it. To initiate the process, it's important to gather all the relevant details of your purchase, such as the order number, date of purchase, and any supporting documentation or evidence. This information will assist us in expediting your refund request. Additionally, it's advisable to review the terms and conditions of the purchase to ensure that you are within your rights to demand a refund. Once you have all the necessary information, you can contact our customer support team directly, either through our helpline at {{Customer Support Phone Number}}, or via live chat on our website at {{Website URL}}. Our dedicated team will guide you through the refund process, answer any questions you may have, and work towards resolving your issue promptly.

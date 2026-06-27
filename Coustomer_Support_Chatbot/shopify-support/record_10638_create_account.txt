@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I have not signed up yet, how to create a {{Account Type}} account?
+
+Answer: Thank you for your interest in creating a {{Account Type}} account with us! I'll be glad to assist you with the account creation process. To begin, please visit our website at {{Website URL}}. Look for the "Open an Account" or "Sign Up" option, and click on it. You'll be directed to a page where you can select the account type. Choose the {{Account Type}} account option and fill in your personal details as prompted. If you need any further guidance during the process, feel free to ask. We're here to help you every step of the way.

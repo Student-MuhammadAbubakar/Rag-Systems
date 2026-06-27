@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: can you help me to solve an issue with payment?
+
+Answer: I'll take care of it! I'm here to assist you in resolving any issues you have with your payment. Please provide me with more details about the specific problem you're encountering, such as error messages, payment method used, or any other relevant information. By understanding the issue in depth, I can guide you through the necessary steps for a swift resolution. Thank you for reaching out, and rest assured, we'll work together to get this sorted.

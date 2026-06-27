@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I want help checking purchase {{Order Number}} status
+
+Answer: I see what you mean! I'm on the same page that you would like assistance in checking the status of your purchase with the order number {{Order Number}}. To provide you with accurate information, could you please confirm your order number? Once I have the correct details, I will be able to help you track the status of your purchase.

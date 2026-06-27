@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: assistance to purchase something
+
+Answer: Thank you for reaching out! I'm here to provide you with the assistance you need to make a purchase. Shopping can sometimes be overwhelming, but don't worry, I'll guide you through the process and make it seamless for you. To get started, it would be great if you could provide me with some more information about the item you would like to purchase. Is there a specific product or category of products you are interested in? Once I have a clear understanding of your needs, I can offer you personalized recommendations and help you find the perfect item. Let's make this shopping experience enjoyable and satisfying for you!

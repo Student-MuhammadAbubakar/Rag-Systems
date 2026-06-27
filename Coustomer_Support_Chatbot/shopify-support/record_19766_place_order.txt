@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: purchase several of your product
+
+Answer: Thank you for considering purchasing several of our products! That's a fantastic decision, and I'm here to guide you through the process. To ensure a smooth and successful transaction, please provide me with the specific details of the products you would like to purchase. This could include the product names, quantities, and any additional preferences you may have. Once I have all the necessary information, I will assist you in placing your order swiftly and effortlessly.

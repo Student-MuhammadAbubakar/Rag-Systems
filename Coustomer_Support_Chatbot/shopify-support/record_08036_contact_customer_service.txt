@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where to check at what time I can reach customer support?
+
+Answer: Thank you for reaching out! I understand your need to locate the information about the hours when you can reach our customer support team. To find this information, I recommend visiting our website at {{Website URL}}. You should be able to find a dedicated section on the website with the contact information and operating hours of our customer support team. If you have any further questions or need further assistance, please feel free to let me know.

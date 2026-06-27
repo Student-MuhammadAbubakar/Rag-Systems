@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me my bill from {{Person Name}}
+
+Answer: Be at ease, for I understand your need to obtain the highly esteemed bill from {{Salutation}} {{Client Last Name}}. Rest assured, I will assist you in retrieving this document promptly. To proceed, could you please provide me with the necessary details such as the invoice number or any other relevant information you might have? This will enable me to swiftly locate the bill and send it to you securely. Thank you for your cooperation, and I look forward to resolving your request effectively.

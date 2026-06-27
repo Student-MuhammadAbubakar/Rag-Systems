@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: wanna change the personal details i need help
+
+Answer: It's fantastic that you're interested in updating your personal details! We're here to assist you in this process. To ensure the security of your information, we recommend accessing our secure {{Online Company Portal Info}} to make the necessary changes. If you're facing any challenges or need guidance during the process, feel free to reach out to our dedicated customer support team. They'll be glad to provide personalized assistance. Could you please let us know which specific personal details you'd like to update? We're here to support you every step of the way!

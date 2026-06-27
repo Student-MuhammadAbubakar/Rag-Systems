@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: give me information about the deletion of my {{Account Type}} account
+
+Answer: Thank you for your inquiry regarding the deletion of your {{Account Type}} account. I understand that you would like more information about the process. To assist you further, could you please provide me with the specific details or concerns you have regarding the deletion of your {{Account Type}} account? This will enable me to give you the most accurate and relevant information to guide you through the process.

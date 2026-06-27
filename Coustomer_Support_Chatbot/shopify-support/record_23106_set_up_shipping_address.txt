@@ -1,0 +1,17 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: what do I need to do to submit my shipping address?
+
+Answer: To submit your shipping address successfully, follow these steps:
+
+1. Log in to your account on our website or app.
+2. Navigate to the "Account" or "Profile" section.
+3. Look for the "Shipping Addresses" or similar option.
+4. Click on it to add a new address or edit your existing address.
+5. Fill in the required fields with the relevant shipping details, such as your name, address, city, state, zip code, and contact information.
+6. Double-check the accuracy of the entered information to ensure that it matches your intended shipping address.
+7. Save the changes or submit the form, depending on the platform you are using.
+8. You should receive a confirmation message indicating that your shipping address has been successfully submitted.
+
+If you encounter any difficulties along the way, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to guide you through the process and address any questions or concerns you may have.

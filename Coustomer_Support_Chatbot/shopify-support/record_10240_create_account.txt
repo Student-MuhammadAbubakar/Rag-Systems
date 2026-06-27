@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening new {{Account Category}} account for daughter
+
+Answer: How wonderful to hear that you're opening a new {{Account Category}} account for your daughter! I'm thrilled to assist you throughout this process. To get started, could you please provide your daughter's full name, email address, and a preferred username for her account? Once I have these details, I'll guide you step by step, ensuring you're informed at every stage. Please be assured that your daughter's security and privacy are of utmost importance to us. We will handle her personal information with the highest level of care. Let's create a delightful banking experience for your daughter!

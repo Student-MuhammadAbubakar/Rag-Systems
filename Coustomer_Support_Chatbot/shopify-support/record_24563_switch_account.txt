@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: can you help me to switch to the freemium account?
+
+Answer: I'll get right on it! I'm delighted to assist you in switching to our esteemed {{Account Category}} account and exploring the fantastic benefits it offers:
+
+1. Begin by logging into our platform using your existing account credentials.
+2. Navigate to your account settings or profile section.
+3. Look for an option that mentions "Switch Account Type" or "Upgrade".
+4. Select the "{{Account Category}} Account" option from the available choices.
+5. Follow the prompts provided to finalize the switch.
+
+If you encounter any difficulties or have additional questions, please don't hesitate to get in touch. I'm here to make your transition smooth and enjoyable. Get ready to explore the exciting features of our {{Account Category}} account!"

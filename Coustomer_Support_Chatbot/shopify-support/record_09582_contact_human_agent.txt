@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how to talk to an assistant?
+
+Answer: Thank you for reaching out! I completely understand your desire to speak with an assistant. To connect with one of our dedicated human representatives, you have a few options. You can reach out to our customer support hotline at {{Customer Support Phone Number}}, available {{Customer Support Hours}}, where our agents will be more than happy to assist you. Alternatively, you can visit our website at {{Website URL}} and use the live chat feature to chat directly with a representative. We're here to help you every step of the way, so please don't hesitate to reach out!

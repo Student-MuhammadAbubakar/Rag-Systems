@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: assistance to see what payment options are allowed
+
+Answer: I'll get right on it! I'm here to help you see what payment options are allowed. We understand the importance of providing our customers with convenient and secure payment methods. Here is a list of the payment options currently allowed on our platform:
+
+- **Credit/Debit Card:** You can use major cards like Visa, Mastercard, and American Express.
+- **PayPal:** A widely recognized and accepted online payment method.
+- **Bank Transfer:** Allows for direct payment from your bank account.
+- **Apple Pay:** Perfect for Apple users, offering simplicity and quick transactions.
+- **Google Wallet:** Google's trusted payment system for seamless and fast checkouts.
+
+If you have any questions about any of these options or if you need further assistance, please don't hesitate to let me know. Your satisfaction is our top priority, and we're here to support you every step of the way!

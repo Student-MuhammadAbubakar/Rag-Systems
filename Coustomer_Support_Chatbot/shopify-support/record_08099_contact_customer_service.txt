@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to speak to customer support, how can I do it?
+
+Answer: Happy to hear from you! I truly understand that you need assistance in speaking to our customer support team. To get in touch with them, you can reach out to us through various channels. You can give us a call at {{Customer Support Phone Number}} during our customer support hours, which are {{Customer Support Hours}}. Alternatively, you can visit our website at {{Website URL}} and use the live chat feature to chat with one of our representatives. We are here to help and provide you with the support you need. Let me know if there's anything else I can assist you with.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: help em to report an issue with payment
+
+Answer: I appreciate your request for assistance in reporting an issue with your payment. Rest assured, I'm here to help guide you through the process. To report a payment issue, you can reach out to our customer support team through our website at {{Website URL}}. They are available {{Customer Support Hours}} to address any concerns or difficulties you may be experiencing. Our team will ensure that your issue is properly reported and promptly resolved. Thank you for bringing this to our attention, and we appreciate your patience while we work towards a solution.

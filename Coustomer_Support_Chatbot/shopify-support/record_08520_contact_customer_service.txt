@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need to call goddamn customer support, help me
+
+Answer: Thank you for reaching out! I completely understand that you need assistance in contacting our customer support. Rest assured, I'm here to help you. Our dedicated team is available during {{Customer Support Hours}} to address your concerns. Please let me know how I can assist you further.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how do i check  when will my parcel arrive
+
+Answer: We understand your curiosity about the arrival of your parcel. To check the estimated delivery date, you can visit our website and log into your account. Once logged in, navigate to the "Order History" or "Track My Order" section. There, you can enter your {{Order Number}} or {{Tracking Number}} to access the detailed tracking information. If you require any further assistance, please feel free to reach out. We're here to help!

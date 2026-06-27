@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a restitution of {{Refund Amount}} dollars
+
+Answer: I'm sensitive to the fact that you are eagerly awaiting the restitution of {{Currency Symbol}}{{Refund Amount}}. Every reimbursement matters, and I want to assure you that we value your trust and satisfaction. Let me quickly check the current status of your restitution to provide you with the most accurate information. While I verify the details, please feel free to share any additional questions or concerns you may have.

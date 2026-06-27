@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I need to see what shipment options are available, help me
+
+Answer: I'll get right on it! I'm here to assist you in exploring the range of shipment options we offer. To provide you with accurate and personalized information, could you please let me know the specific country or region you would like the shipment to be delivered to? This way, I can provide you with the most relevant options based on your location. Feel free to share the destination, and we'll proceed from there!

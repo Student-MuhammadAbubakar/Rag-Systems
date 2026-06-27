@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I have to do to cancel a premium account
+
+Answer: Thanks for dropping us a line to us for assistance with canceling your premium account. I understand that you're unsure about the cancellation process, and I'm here to guide you through it. To cancel your premium account, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to manage your subscription or billing information.
+4. Locate the option to cancel your premium account.
+5. Follow the prompts or instructions provided to confirm the cancellation request.
+6. You may be asked to provide a reason for cancelation, so please feel free to provide any feedback if you wish.
+
+If you encounter any difficulties or have further questions during the cancellation process, our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you further. We value your decision and are here to support you through this process.

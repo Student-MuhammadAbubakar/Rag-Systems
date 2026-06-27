@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot modify order {{Order Number}}
+
+Answer: We understand your frustration regarding your inability to modify order number {{Order Number}}. We apologize for any inconvenience this may have caused. Our team is here to assist you in finding a solution. To better understand your situation, could you please provide more details about the specific changes you would like to make to your order? Once we have a clear understanding, we will do our best to help you resolve this issue.

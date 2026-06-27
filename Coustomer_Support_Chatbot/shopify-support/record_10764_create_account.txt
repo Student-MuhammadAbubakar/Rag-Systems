@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I am looking for information about opening a {{Account Type}} account
+
+Answer: That's great to hear that you're interested in opening a {{Account Type}} account with us! I'd be more than happy to provide you with all the information you need. To get started, I recommend visiting our website and navigating to the account creation page. From there, you can explore the different types of {{Account Type}} accounts we offer and select the one that suits your needs. If you have any specific questions or if there's anything else I can assist you with, please feel {{Account Type}} to let me know.

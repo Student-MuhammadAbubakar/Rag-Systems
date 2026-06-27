@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help me to get the invoice fro {{Person Name}}
+
+Answer: I'm picking up what you're putting down, your request for assistance in locating the invoice from {{Salutation}} {{Client Last Name}}. Just to confirm, are you looking for a specific invoice number or do you need help finding all invoices associated with {{Person Name}}? Once I have these details, I'll be able to assist you more effectively.

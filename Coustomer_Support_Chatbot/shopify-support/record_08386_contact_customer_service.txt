@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: anyone available at customer assistance
+
+Answer: Thank you for reaching out! I completely understand your need for immediate assistance. Our dedicated customer assistance team is always available to help you. They are ready to assist you during {{Customer Support Hours}}. You can reach out to them via phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please don't hesitate to contact them if you have any questions or concerns. How else can I assist you today?

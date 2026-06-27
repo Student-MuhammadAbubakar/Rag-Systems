@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: how do i see ur accepted paument methods
+
+Answer: For sure! Let me guide you on how to view our accepted payment methods. 
+
+To access the list of payment methods we accept, please follow these steps:
+1. Visit our website at {{Website URL}}.
+2. Navigate to the "Payment Methods" section, usually located in the footer or under the "Support" or "Help" menu.
+3. Click on "Payment Methods" to open the page dedicated to our accepted methods.
+4. You will find a detailed list of the payment methods we currently support, including credit/debit cards, electronic wallets, and direct bank transfers.
+
+If you encounter any difficulties or have further questions while navigating the website, don't hesitate to reach out. Your satisfaction is our top priority!

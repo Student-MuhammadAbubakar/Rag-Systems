@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can uhelp me to get in touch with customer support
+
+Answer: We appreciate your message! It's clear to me that you need assistance in getting in touch with our customer support team. To ensure a smooth and efficient connection, you can reach our customer support through {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to provide you with the help and support you need. Please let me know if there's anything else I can assist you with.

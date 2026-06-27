@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: see order {{Order Number}} current status
+
+Answer: Thank you for getting in touch with us! I understand that you would like to check the current status of your order with the order number {{Order Number}}. To provide you with the most accurate information, could you please verify your account details, such as your name or email address associated with the order? This will help me assist you better and ensure the security of your personal information.

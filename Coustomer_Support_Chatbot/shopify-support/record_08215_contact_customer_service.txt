@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i need help speaking to customer service
+
+Answer: I hear you! I'm following you that you need assistance in speaking to our customer service team. Rest assured, I'm here to guide you through the process. To connect with our customer service, you can reach out to them during our {{Customer Support Hours}}. You can either call our dedicated helpline at {{Customer Support Phone Number}}, or you can chat with our representatives through the Live Chat feature on our website at {{Website URL}}. They will be more than happy to assist you with your concerns. Is there anything else I can help you with today?

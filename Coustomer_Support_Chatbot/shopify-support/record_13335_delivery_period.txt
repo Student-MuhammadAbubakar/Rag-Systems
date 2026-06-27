@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I want to know more about the shipping period
+
+Answer: We appreciate your interest in learning more about our shipping period. Timely delivery is our top priority, and we understand that having accurate information about shipping times is essential for planning. To provide you with the most precise details, could you please provide us with your {{Order Number}}? With this information, we can give you an estimate of when you can expect your shipment to arrive. Your patience is greatly appreciated as we assist you further.

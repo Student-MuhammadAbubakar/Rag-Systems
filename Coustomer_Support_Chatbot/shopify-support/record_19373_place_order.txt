@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: make order
+
+Answer: Thank you for expressing your intention to make an order! I'm here to assist you every step of the way. To provide you with a seamless ordering experience, could you please let me know the specific items you would like to purchase? Once I have that information, I can guide you further and ensure a smooth and enjoyable ordering process.

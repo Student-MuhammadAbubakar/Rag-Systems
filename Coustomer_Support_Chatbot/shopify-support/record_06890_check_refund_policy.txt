@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help to check in whatcases can I request my money back
+
+Answer: Certainly! I understand your need to clarify the situations in which you can request a refund. Allow me to provide you with the details:
+
+1. **Product/Service Defect:** If the product or service you purchased has a defect or does not meet the description provided, you are generally eligible for a refund.
+2. **Cancellation within Grace Period:** If you change your mind and request a cancellation within the determined grace period, you should be able to receive a refund.
+3. **Unauthorized Charges:** In the event of unfamiliar charges appearing on your account or transactions you did not authorize, we will investigate and assist you accordingly.
+4. **Event Cancellation:** If you have purchased tickets for an event that gets canceled and is not rescheduled, you would normally be eligible for a refund.
+5. **Duplicate Charges:** If you notice multiple charges for the same item, please inform us immediately so that we can resolve the issue and process a refund if necessary.
+6. **Non-receipt of Goods:** If your ordered product has not been delivered within the expected timeframe, you may qualify for a refund.
+
+Please note that the specific refund policy may vary depending on the vendor or service provider. I recommend reviewing their terms and conditions or contacting them directly for any further clarification. If you have a specific order or concern, please provide me with the relevant details such as the {{Order Number}}, and I will be more than happy to assist you further.
+
+Let me know if there's anything else I can help you with today!

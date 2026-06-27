@@ -1,0 +1,13 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: how to see the allowed payment options
+
+Answer: We are delighted to assist you in navigating our available payment options. To view the accepted payment methods, please follow these simple steps:
+
+1. Visit our website and log in to your account.
+2. Navigate to the "Payment Methods" or "Account Settings" section.
+3. Look for the "Accepted Payment Options" tab or a similar option.
+4. Click on the tab to access the comprehensive list of payment methods we offer.
+
+If you encounter any difficulties or have further queries, don't hesitate to reach out to our friendly customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to ensure your payment experience is both convenient and enjoyable.

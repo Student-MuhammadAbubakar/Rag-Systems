@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help me see my bill from {{Person Name}}
+
+Answer: I gather that you're seeking assistance in viewing your bill from {{Salutation}} {{Client Last Name}}. I'm here to help you with that! To access your bill, please log in to your account, navigate to the billing section, and look for the invoice related to {{Person Name}}. If you need further guidance or encounter any issues during the process, please don't hesitate to let me know. Together, we'll ensure you have a smooth and satisfying experience.

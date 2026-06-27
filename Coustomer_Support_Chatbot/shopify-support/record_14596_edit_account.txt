@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: change info on {{Account Category}} account
+
+Answer: How delightful it is to witness your interest in updating the information on your {{Account Category}} account!I'm here to provide you with the necessary guidance and support to navigate through this process with ease. Please keep in mind that for the security of your account, it's important to refrain from sharing any personal identifiers here. To make the desired changes to your {{Account Category}} account, I recommend logging into our secure {{Online Company Portal Info}} or contacting our dedicated customer support team, who will be more than happy to assist you every step of the way. What specific details are you looking to modify?

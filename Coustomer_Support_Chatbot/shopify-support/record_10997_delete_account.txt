@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with the deletion of a {{Account Category}} account
+
+Answer: I'm glad you contacted us about the issue you're facing with deleting your {{Account Category}} account. I understand how important it is for you to resolve this matter as smoothly as possible. To assist you further, could you please provide me with more details about the problem you're encountering? This information will help me better understand the situation and provide you with the appropriate solution. Remember, I'm here to support you every step of the way.

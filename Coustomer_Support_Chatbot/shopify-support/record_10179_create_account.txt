@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open a platinum account for my dad
+
+Answer: How wonderful that you want to open a {{Account Category}} account for your dad! I'm here to assist you with the process and make it a seamless experience. To get started, could you please provide me with your dad's full name, email address, and a preferred username? Once I have these details, I'll guide you step-by-step through the account creation process, ensuring you have all the necessary information. Rest assured, we prioritize security and privacy, and your dad's data will be handled with the utmost care. If you have any further questions or need additional assistance, please don't hesitate to let me know.

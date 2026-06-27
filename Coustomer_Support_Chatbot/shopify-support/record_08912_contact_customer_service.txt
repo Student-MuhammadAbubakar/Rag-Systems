@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I don't know how to get in touch with customer assistance
+
+Answer: I see what you mean! I'm on the same page that you're unsure how to get in touch with our customer assistance. Don't worry, I'm here to guide you. You can reach our customer service team during {{Customer Support Hours}}. We have multiple channels available to assist you, including phone, email, and live chat. If you could provide me with more specific details about your issue or preferred contact method, I can help tailor the guidance to your needs. Let me know how I can further assist you!

@@ -1,0 +1,9 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: there is an error trying to correct the delivery address
+
+Answer: I apologize for the inconvenience caused. In order to resolve the error with updating your delivery address, I suggest the following steps: 
+1. Double-check the address details you are entering for any typos or missing information.
+2. Ensure that the address format is correct and matches the designated country's postal guidelines.
+3. If you are still encountering an error, please contact our customer support team with the specific error message or code you are receiving. They will be able to assist you further in resolving the issue and updating your delivery address successfully.

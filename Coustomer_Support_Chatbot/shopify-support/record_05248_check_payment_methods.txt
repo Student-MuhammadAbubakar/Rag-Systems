@@ -1,0 +1,11 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: will you show me the accepted payment methods?
+
+Answer: Thanks for dropping us a line and expressing your interest in viewing our accepted payment methods. I'm here to assist you with that. We offer a range of convenient payment options to ensure a seamless checkout experience. Here are the accepted payment methods:
+
+- Credit/Debit Card: We accept major card brands like Visa, Mastercard, and American Express.
+- PayPal: A secure and widely used online payment platform.
+
+These are just a few examples of the payment methods we accept. For a more comprehensive list or if you have any specific questions about a particular payment method, feel free to let me know.

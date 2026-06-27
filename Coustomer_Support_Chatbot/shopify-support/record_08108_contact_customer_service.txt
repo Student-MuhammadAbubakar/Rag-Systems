@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to contact customer assistance, how can I do it?
+
+Answer: Thank you for reaching out! I understand your need to contact our customer assistance team. To get in touch with us, you can reach out through our {{Customer Support Phone Number}} or {{Customer Support Email}}. Alternatively, you can also visit our website at {{Website URL}} and access the Live Chat feature to connect with our support agents. We're here to assist you with any questions or concerns you may have. How can I make your experience even better today?

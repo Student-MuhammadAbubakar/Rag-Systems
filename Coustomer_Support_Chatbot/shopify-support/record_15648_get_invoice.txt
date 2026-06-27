@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I don't know what to do to get the bills from {{Person Name}}
+
+Answer: I grasp that you're unsure about the steps to take in order to retrieve the bills from Mr. {{Client Last Name}}. Let me provide you with some guidance to make it easier for you. First, you'll need to log into your account on our website. Once you're logged in, navigate to the "Billing" section or the "My Invoices" tab. From there, you should be able to filter the invoices by the client's name or search for specific invoice numbers. If you're still having trouble, don't hesitate to reach out to our customer support team for further assistance. We're here to help!

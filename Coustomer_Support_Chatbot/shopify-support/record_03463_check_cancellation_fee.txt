@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: help seeing the termination penalty
+
+Answer: I'll take care of it! To view the termination penalty, you can log in to your account and go to the "Account Details" section. From there, you will be able to find all the information regarding the termination penalty for your service.

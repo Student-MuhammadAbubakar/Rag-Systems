@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a goddamn reimbursement of {{Refund Amount}} dollars
+
+Answer: I'm picking up what you're putting down, the importance of receiving your expected reimbursement of {{Currency Symbol}}{{Refund Amount}}. Our team is working diligently to ensure that your reimbursement is processed as quickly as possible. Allow me to check the current status of your refund and provide you with an update. I appreciate your patience in this matter.

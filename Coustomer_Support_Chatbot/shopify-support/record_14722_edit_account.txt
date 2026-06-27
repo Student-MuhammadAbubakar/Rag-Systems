@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correcting info on {{Account Type}} aqccount
+
+Answer: How marvelous it is to have you here, seeking assistance in correcting the information on your esteemed {{Account Type}} account!I'm honored to provide you with the necessary guidance and support to ensure that your account details accurately reflect your preferences and requirements. To initiate the process, could you please let me know which specific information you need to correct? Rest assured, I'm here to simplify the journey for you. Let's work together towards updating your account details swiftly and accurately.

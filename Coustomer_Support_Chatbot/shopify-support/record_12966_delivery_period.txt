@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am looking for the bloody shipping period
+
+Answer: We understand that you are eager to know the shipping period for your order. Can you please provide us with the {{Tracking Number}} or {{Order Number}} so that we can provide you with an accurate estimate? We value your patience and look forward to assisting you in tracking your package.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I do not know how to order a product
+
+Answer: I've realized that ordering a product may seem overwhelming if you're unfamiliar with the process. But don't worry, I'm here to assist you every step of the way. To begin, you can visit our website and browse through our wide range of products. Once you find the item you'd like to purchase, simply click on it to view the product details. From there, you can add it to your cart or click on the "Buy Now" button to proceed directly to checkout. If you need any guidance or encounter any difficulties during the ordering process, please don't hesitate to reach out to our customer support team, who will be more than happy to assist you. Just remember, ordering a product should be a seamless and enjoyable experience, so feel free to explore our website and make your purchase with confidence.

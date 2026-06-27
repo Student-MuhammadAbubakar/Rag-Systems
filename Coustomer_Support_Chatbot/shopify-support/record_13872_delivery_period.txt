@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i do not know how to see when my delivery is gonna arrive
+
+Answer: We understand that you need assistance in tracking the delivery of your package. Don't worry, we are here to help! To provide you with the most accurate information, could you please provide us with the {{Tracking Number}} or {{Order Number}}? With this information, we can quickly determine the estimated arrival time of your delivery. Rest assured, we will do our best to assist you in tracking your package. How has your overall experience been with our delivery service so far?

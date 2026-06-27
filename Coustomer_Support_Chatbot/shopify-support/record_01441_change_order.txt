@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help switching an article of order {{Order Number}}
+
+Answer: Thank you for reaching out to us with your request to switch an article in order number #{{Order Number}}. We understand that sometimes changes are needed to ensure your complete satisfaction with your purchase. In order to assist you with this, could you please provide us with the details of the article you would like to switch and the replacement article you have in mind? This way, we can work together to find the best solution for you. We appreciate your patience and cooperation as we strive to make your shopping experience exceptional.

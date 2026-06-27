@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: assistance to see the status of my compensation
+
+Answer: I see what you mean your need to check the status of your compensation. It can be frustrating when you're unsure of its progress. Rest assured, I'm here to help. To provide you with an accurate update, could you please provide me with some additional information? Specifically, the {{Order/Claim/Compensation}} number or any reference number associated with your compensation would greatly assist me in retrieving the latest status. Once I have this information, I'll be able to provide you with the most up-to-date details regarding your compensation.

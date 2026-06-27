@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problems with swapping some items of purchase {{Order Number}}
+
+Answer: We apologize for any inconvenience caused by the issues you encountered while attempting to swap some items from purchase number {{Order Number}}. Our team is dedicated to providing you with a seamless and hassle-free experience, and we would be more than happy to assist you in resolving this matter. To better understand the problems you are facing, could you kindly provide us with more details about the specific difficulties you encountered during the swapping process? Your feedback will allow us to address the issues promptly and ensure a satisfactory resolution for you.

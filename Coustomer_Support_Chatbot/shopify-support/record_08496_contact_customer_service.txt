@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: assistance to talk to customer service
+
+Answer: It's great to hear from you! I can see that you need assistance in speaking with our customer service team. I'm here to help and guide you through the process. To connect with a customer service representative, you can reach out to us during our operating hours at {{Customer Support Phone Number}}, or you can visit our website at {{Website URL}} and initiate a live chat session with one of our agents. Just let them know that you would like to speak to a representative, and they will be happy to assist you. Is there anything else I can help you with?

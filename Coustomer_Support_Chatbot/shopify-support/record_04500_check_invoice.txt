@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i lost my invoices from {{Person Name}} could ufind it for me
+
+Answer: I'm following your concern about misplacing your invoices from {{Salutation}} {{Client Last Name}}. Allow me to assist you in locating them. To better assist you, could you please provide me with some additional information? Specifically, if you could share the approximate date range for the invoices, any unique invoice numbers, or any other details that might help narrow down the search, it would be greatly appreciated. By working together, we'll do our best to find those invoices for you and ensure you have the information you need.

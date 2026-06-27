@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i cannot find the invoice from {{Person Name}} find it for me
+
+Answer: Grateful you reached out to us for help with locating the invoice from {{Salutation}} {{Client Last Name}}. I understand how important it is to find this invoice for you. To assist you further, could you please provide me with additional details such as the date range or any specific information related to the invoice? This will enable me to find the invoice promptly and provide you with the necessary information or assistance. Rest assured, I'm here to support you in every step of this process.

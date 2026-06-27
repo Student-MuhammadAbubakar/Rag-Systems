@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refunding{{Currency Symbol}}{{Refund Amount}}
+
+Answer: I understand your concern about receiving a refund of ${{Refund Amount}}. Rest assured, I'll do my best to assist you with this matter. To proceed further, I kindly request you to provide some additional information regarding your refund request. This could include details such as the date of the transaction, the method of payment used, and any reference numbers associated with the transaction. Once I have these details, I'll be able to initiate the necessary steps to help address your refund request promptly and efficiently. Thank you for your cooperation, and I appreciate your patience as we work towards a resolution.

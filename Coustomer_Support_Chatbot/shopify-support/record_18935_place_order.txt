@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: how do I order some of your article?
+
+Answer: I appreciate your interest in ordering some of our articles! Let me guide you through the process to make it as seamless as possible. To place an order, you can visit our website and browse through the available articles. Once you have found the desired article, simply click on the "Add to Cart" button. If you wish to purchase multiple articles, you can continue shopping and add more items to your cart. When you're ready to proceed, click on the "Checkout" button to review your order details and enter your shipping and payment information. Finally, click on the "Place Order" button to complete the purchase. Should you encounter any difficulties or have further questions, feel free to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Happy shopping!

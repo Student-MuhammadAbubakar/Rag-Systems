@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: wanna cancel my subscription to the newsletter
+
+Answer: I've picked up that you wish to cancel your subscription to our newsletter. I apologize for any inconvenience caused. To assist you with this, could you please provide me with the email address you used to subscribe to the newsletter? Once I have that information, I will promptly proceed with canceling your subscription.

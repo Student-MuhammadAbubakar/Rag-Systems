@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing info on freeaccount
+
+Answer: How marvelous it is to hear that you're interested in changing the information on your {{Account Type}} account! Your dedication to keeping your account details up-to-date shows your commitment to making the most of our services. To ensure a smooth and secure process, please refrain from sharing any personal identifiers here. If the changes involve sensitive data, it would be best to log in to your account directly through our website or reach out to our dedicated support team. What specific details would you like to modify? I'm here to guide you through the process and make it as seamless as possible.

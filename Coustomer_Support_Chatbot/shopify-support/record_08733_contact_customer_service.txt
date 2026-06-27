@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: customer support number
+
+Answer: Honored to assist! I'm clued in that you're looking for the customer support number. Our customer service team can be reached at {{Customer Support Phone Number}}. They are available during {{Customer Support Hours}} to assist you with any questions or concerns you may have. Feel free to reach out to them for further assistance. Is there anything else I can help you with?

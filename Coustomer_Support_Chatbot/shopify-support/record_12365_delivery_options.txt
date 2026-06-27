@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship  to {{Delivery Country}}?
+
+Answer: Sure! {{Delivery Country}} is one of our valued destinations for shipping. We are happy to deliver our products to your doorstep in {{Delivery Country}}. Whether you're in Tokyo, Osaka, or any other city in {{Delivery Country}}, we've got you covered. Our reliable delivery service will ensure that your package arrives safe and sound. So you can go ahead and place your order with confidence. If you have any specific concerns or questions about shipping to {{Delivery Country}}, feel free to let me know. I'm here to assist you every step of the way!

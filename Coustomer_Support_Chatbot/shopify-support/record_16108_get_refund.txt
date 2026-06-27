@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where do I ask for a compensation?
+
+Answer: I'm aware that you're seeking information on where to ask for compensation. Rest assured, I'm here to guide you through the process. To initiate your request, I recommend contacting our dedicated customer support team. They are equipped with the necessary resources and expertise to assist you with your compensation claim. You can reach out to them through our toll-free helpline at {{Customer Support Phone Number}} or by sending an email to our support team at {{Customer Support Email}}. Please be prepared to provide all relevant details regarding your situation to ensure a smooth and efficient resolution. Our committed team is eagerly waiting to lend you a helping hand and ensure that you are adequately compensated for any inconvenience you may have experienced.

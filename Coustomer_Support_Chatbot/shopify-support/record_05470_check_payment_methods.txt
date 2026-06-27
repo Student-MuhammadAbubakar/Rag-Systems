@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: where do I see what bloody payment methods are available?
+
+Answer: I understand your need to locate the information about our available payment methods. You can easily find this information on our website. Simply navigate to the "Payment Options" or "Payments" section, usually located in the footer or under the "Help" menu. There, you will find a comprehensive list of the payment methods we accept, along with any additional details or instructions. If you have any trouble finding the information or need further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.

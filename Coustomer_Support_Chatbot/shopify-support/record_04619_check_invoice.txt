@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: is it possible to giev a quick look at the bill #37777?
+
+Answer: Indeed! I'd be happy to assist you with taking a quick look at the bill with the number #{{Invoice Number}}. Please bear with me for a moment while I pull up the necessary information. In the meantime, could you confirm if you are referring to the most recent bill or a particular date range? Once I have the details, I'll provide you with the relevant information promptly.

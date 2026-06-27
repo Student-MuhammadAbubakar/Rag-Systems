@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how to see how long it takes for my shipment to arrive?
+
+Answer: We understand your curiosity regarding the estimated arrival time of your shipment. To determine the delivery period, you can track your shipment using the {{Tracking Number}} provided at the time of purchase. Simply visit our website and navigate to the 'Track Order' section. Enter your tracking number, and you will be able to see the real-time updates about the progress of your shipment, including the estimated time of arrival. Rest assured that our team is dedicated to ensuring a seamless delivery experience for you.

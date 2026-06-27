@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: help seeing what delivery options I can choose
+
+Answer: Of course! I'll be more than happy to assist you in exploring the various delivery options available to you. Our company offers a range of delivery methods to cater to every customer's unique needs. Here are some options you can choose from:
+
+1. Standard Shipping: This is our most commonly used delivery option, which typically takes {{Date Range}} business days for your package to arrive at your doorstep.
+
+2. Expedited Shipping: If you need your items to arrive a bit faster, our expedited shipping option ensures delivery within {{Date Range}} business days.
+
+3. One-Day Shipping: For urgent needs, we offer the one-day shipping option. Your items will be delivered to you within the next business day.
+
+4. In-Store Pickup: If you prefer a more hands-on approach, you can choose in-store pickup. This allows you to collect your items from our {{Store Location}} at your convenience.
+
+Feel free to let me know if you have any specific preferences or requirements, and I'll be glad to assist you further. Your satisfaction is our top priority!

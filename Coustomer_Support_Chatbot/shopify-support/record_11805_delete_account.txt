@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not use the damn gold account, I am trying to close it
+
+Answer: We're here to help to us regarding the closure of your {{Account Type}} account. I apologize for any inconvenience you may have encountered. Rest assured, I'm here to assist you with the account closure process. Could you please provide me with some more details about your {{Account Type}} account and your reason for wanting to close it? This will help me guide you through the necessary steps and ensure a smooth closure process.

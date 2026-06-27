@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: I don't know what to do to notify fo sign-up problems
+
+Answer: We understand that notifying us about sign-up problems can be confusing or unclear at times. Don't worry, we're here to guide you through the process. To report a sign-up problem, you can reach out to our customer support team through the contact information provided on our website or app. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the live chat feature. Alternatively, you can visit our FAQ section, which may have troubleshooting steps or answers to common sign-up issues. Remember, your feedback is valuable to us and helps us improve our sign-up process. Thank you for bringing this to our attention, and we'll do our best to assist you with the sign-up problem effectively.

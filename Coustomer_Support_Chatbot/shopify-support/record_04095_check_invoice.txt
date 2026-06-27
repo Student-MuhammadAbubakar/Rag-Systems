@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do I find my invoices from {{Person Name}}?
+
+Answer: Ah, I see! You're looking to locate your invoices from {{Salutation}} {{Client Last Name}}, {{Person Name}}. I'm here to help you with that. To find your invoices, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. Alternatively, you can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in retrieving your invoices from {{Person Name}}. Let me know if you need any further guidance or have any other questions!

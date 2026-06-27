@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shiping to {{Delivery City}}
+
+Answer: Sure! We are excited to offer our delivery services to {{Delivery City}} as well. Let's explore the shipment options available for you in the beautiful city of {{Delivery City}}:
+
+1. Standard Shipping: Usually arrives within {{Date Range}} business days. It's perfect for non-urgent items.
+2. Expedited Shipping: Need your items a bit faster? Expect them to arrive within {{Date Range}} business days.
+3. Overnight Shipping: If you have urgent needs, this option ensures next business day delivery.
+4. In-Store Pickup: Ideal for those who prefer to grab their items personally. You can collect your items from our {{Store Location}} in {{Delivery City}}.
+
+Please keep in mind that delivery times may vary slightly depending on factors such as the exact location and any unforeseen circumstances. If you have any specific concerns or if there's anything else I can assist you with, please don't hesitate to ask. Customer satisfaction is our top priority!

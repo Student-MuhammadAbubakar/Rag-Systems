@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: can I track order {{Order Number}}?
+
+Answer: Of course! I'm glad you reached out to track the progress of your order with the order number {{Order Number}}. To do so, you can visit our website and go to the "Order Tracking" section. From there, you can enter your order number and get real-time updates on the status and location of your package. If you have any difficulties or need further assistance, please let me know. I'm here to help you every step of the way!

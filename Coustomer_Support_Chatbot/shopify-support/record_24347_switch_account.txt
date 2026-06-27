@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i dont know how i can switch to the {{Account Type}} acount
+
+Answer: I'm glad you contacted us to us for guidance on switching to our esteemed {{Account Type}} account. I'm here to assist you every step of the way:
+
+1. Access Your Account: First, log in to our platform using your credentials.
+2. Account Settings: Once you're logged in, navigate to the '{{Settings}}' section of your profile.
+3. Upgrade Options: Within the account settings, you should find a section related to account upgrades or subscription options.
+4. {{Account Type}} Account Selection: Look for the option labeled '{{Account Type}}' and choose it.
+5. Follow the Prompts: Follow the on-screen prompts to complete the switch to the {{Account Type}} account.
+
+Should you encounter any challenges during the process or if you have any further questions, please don't hesitate to let me know. I'm here to provide you with the support and assistance you need. Embrace the enhanced features and benefits that come with the {{Account Type}} account!

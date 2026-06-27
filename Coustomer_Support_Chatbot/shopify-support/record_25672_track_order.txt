@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: showing me purchase {{Order Number}} current status
+
+Answer: Thank you for contacting us! I'm here to assist you in checking the current status of purchase {{Order Number}}. To view the status of your purchase, please visit the '{{Order Status}}' section on our website. If you have any other questions or need further assistance, feel free to ask. We're dedicated to providing you with a seamless experience!

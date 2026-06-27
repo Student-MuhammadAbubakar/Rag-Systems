@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where could i see when my order is gonna arrive
+
+Answer: We understand your desire to track the progress of your order and determine its estimated arrival time. To provide you with accurate information, may I have the {{Order Number}} or {{Tracking Number}}? With that, we can assist you in retrieving the latest updates on your order's delivery status and expected arrival date. Thank you for your patience and cooperation.

@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help me see in wht cases can I request reimbursements
+
+Answer: I appreciate your inquiry about the cases in which you can request reimbursements. Understanding the situations that warrant reimbursements is crucial for a stress-free experience. Here are some common scenarios where you may be eligible for a refund:
+
+1. **Product/Service Defect:** If the product or service you received is defective or doesn't meet your expectations, you are typically entitled to a refund.
+2. **Cancellation within Grace Period:** Should you change your mind shortly after making a purchase or signing up for a service, canceling within the designated grace period often allows for a refund.
+3. **Unauthorized Charges:** If you notice any charges on your account that you did not authorize or recognize, please inform us immediately so that we can investigate the situation and assist you accordingly.
+4. **Non-receipt of Goods/Services:** If your ordered item or service has not been delivered within the expected timeframe or if you have not received them at all, you may be eligible for a refund.
+5. **Double Billing/Duplicate Charges:** Mistakes happen, and if you see duplicate charges on your account for the same item or service, please let us know so that we can promptly refund the extra charge.
+6. **Event Cancellation:** If you purchased tickets for an event that gets canceled and is not rescheduled, you would usually be eligible for a refund.
+
+Please keep in mind that specific refund policies may vary depending on the vendor or service provider. To ensure you have accurate information, I recommend reviewing the terms and conditions or contacting the vendor directly for more details. If you have any specific concerns or questions about a particular order or purchase, please provide me with the necessary details, such as the {{Order Number}} or relevant information, and I'll dive deeper into the matter for you.
+
+Is there anything else I can assist you with?

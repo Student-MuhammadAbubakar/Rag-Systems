@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: give me informatipn about the termination of a pro account
+
+Answer: We're here to help to us for information about terminating your {{Account Type}} account. We understand that you may have various reasons for considering termination, and we are here to assist you with the process. To cancel your {{Account Type}} account, you can visit our website and navigate to the account settings section. From there, you should be able to find the option to cancel your subscription. Alternatively, you can contact our customer support team, who will be more than happy to guide you through the termination process step by step. Remember, we value your satisfaction and want to ensure a seamless experience for you. Please let us know if there's anything specific you would like to know or any additional assistance you require regarding the termination of your {{Account Type}} account.

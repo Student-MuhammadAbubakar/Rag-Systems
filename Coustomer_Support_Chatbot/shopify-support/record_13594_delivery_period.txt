@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where do I check how long it takes for my item to arrive?
+
+Answer: To check how long it takes for your item to arrive, you can visit our website and go to the 'Track Your Order' page. There, you will be able to enter your {{Order Number}} or {{Tracking Number}} to get the most up-to-date information on the estimated delivery time. If you have any further questions or need assistance, our customer support team is always available to help you. Just reach out to us via phone or live chat. We're here to ensure you have a smooth and pleasant experience with us!

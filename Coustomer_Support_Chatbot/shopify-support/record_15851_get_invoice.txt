@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: getting bills from {{Person Name}}
+
+Answer: Ah, the intriguing pursuit of retrieving the esteemed bills from {{Salutation}} {{Client Last Name}}!I am thrilled to join you on this exciting venture. Let me gather all the bills associated with {{Person Name}} for you. Just a moment, please, while I retrieve the information. Your satisfaction is of utmost importance to us, and I'm here to ensure a seamless and satisfying experience.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: where is order {{Order Number}}
+
+Answer: Always good to connect! I'm attuned to the fact that you would like to know the whereabouts of your order with the order number {{Order Number}}. To assist you, could you please provide me with the name or tracking number associated with your order? This information will help me locate the exact status and current location of your order. Feel free to share any additional details or questions you may have, and I'll be more than happy to help you further!

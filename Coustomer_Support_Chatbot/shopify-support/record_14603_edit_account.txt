@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modifying info on gold accoumt
+
+Answer: How exciting it is to see your enthusiasm for modifying the information on your {{Account Type}} account!I'm here to guide you through this process and ensure that everything goes smoothly. To protect your personal information, I kindly ask you not to share any sensitive details here. Instead, I recommend securely logging into {{Online Company Portal Info}} or reaching out to our dedicated customer support team for personalized assistance. What specific details would you like to update on your {{Account Type}} account? Let's make sure everything is up to date and tailored to your needs.

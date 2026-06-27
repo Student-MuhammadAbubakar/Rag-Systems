@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: icant track order {{Order Number}}
+
+Answer: Grateful for your contact! I get the sense that you are having trouble tracking order number {{Order Number}}. I apologize for the inconvenience caused. Let me assist you with this. To help you track your order, please provide me with some additional information such as your full name and email address associated with the order. With this information, I'll be able to check the status of your order and provide you with an update.

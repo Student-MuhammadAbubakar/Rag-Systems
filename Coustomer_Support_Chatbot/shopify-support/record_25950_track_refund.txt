@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a refund of {{Refund Amount}} dollars
+
+Answer: Thank you for bringing up your refund inquiry of {{Currency Symbol}}{{Money Amount}}. We understand the importance of timely updates and resolutions. Let me quickly check the current status of your refund for you. While I'm doing that, could you please confirm the method of payment you used for the refund? This will help me provide you with accurate and helpful information. Your patience is greatly appreciated, and I assure you we are working diligently to resolve this matter.

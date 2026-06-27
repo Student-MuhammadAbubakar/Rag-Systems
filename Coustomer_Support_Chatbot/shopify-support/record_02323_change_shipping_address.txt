@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I entered a wrong address, help me editing it
+
+Answer: I'm sorry to hear that you entered the wrong address. I'll be glad to assist you in editing it. Could you please provide me with the correct address that you would like to update it to?

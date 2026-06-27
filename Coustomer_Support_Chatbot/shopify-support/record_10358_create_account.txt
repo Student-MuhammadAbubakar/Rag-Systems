@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do i have to do to createa premium account
+
+Answer: Thank you for considering our premium account! To create a premium account, you can follow these simple steps:
+
+1. Visit our website or download our app.
+2. Click on the "Sign Up" or "Create Account" button.
+3. Select the "{{Account Category}} Account" option.
+4. Fill in the required information like your name, email address, and password.
+5. Choose a username that you prefer.
+6. Review and accept the terms and conditions.
+7. Click "Submit" or "Create Account" to complete the process.
+
+Once your premium account is created, you will have access to exclusive features and benefits. If you have any questions or need further assistance during the signup process, feel free to reach out to our customer support team. We're here to help you every step of the way.

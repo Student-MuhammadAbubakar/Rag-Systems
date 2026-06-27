@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I call to download the invoice #37777
+
+Answer: I completely understand your need to download the invoice with the number #{{Invoice Number}}. Let me assist you with that. Please bear with me for a moment while I retrieve the invoice for you. In the meantime, if you have any other questions or concerns, feel free to let me know. I'm here to help you!

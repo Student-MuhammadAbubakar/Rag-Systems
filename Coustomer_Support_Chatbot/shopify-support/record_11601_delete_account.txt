@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problems with gold account deletions
+
+Answer: Thank you for bringing up the issues you are facing with the deletion of your {{Account Type}} account. I apologize for any inconvenience this may have caused you. To better assist you, could you please provide more details about the problems you are encountering? By understanding the specific challenges you are experiencing, we can work together to find a solution and ensure a seamless account deletion process.

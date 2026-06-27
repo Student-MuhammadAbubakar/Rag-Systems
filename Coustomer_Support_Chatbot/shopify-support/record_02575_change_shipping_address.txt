@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: is it possible to correct the delivery address?
+
+Answer: Positively! If you need to update your shipping address, you can easily do so by following a few simple steps...

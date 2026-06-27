@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I want to see how long it takes for my item to arrive
+
+Answer: We acknowledge your curiosity in knowing the estimated duration for the arrival of your item. To provide you with the most accurate information, could you please provide the {{Tracking Number}} or {{Order Number}}? By sharing this information, we will be able to give you a precise estimate of the delivery time. Thank you for your cooperation and patience!

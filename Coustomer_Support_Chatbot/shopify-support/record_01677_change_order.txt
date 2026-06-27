@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I would like to switch something of order {{Order Number}}
+
+Answer: We've received your message to us regarding your desire to switch something in order number {{Order Number}}. We understand the importance of getting your order just right, and we're here to assist you. To better help you, could you please provide more details about the item you want to switch? This will allow us to find the best solution for you and ensure your complete satisfaction.

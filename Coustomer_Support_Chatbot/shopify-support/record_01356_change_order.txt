@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wannha add a goddamn item to order {{Order Number}}
+
+Answer: We understand that you want to add an item to order number {{Order Number}}. We apologize for any inconvenience you may have experienced. To assist you with this, could you please provide us with the details of the item you would like to add? This will enable us to process your request promptly and accurately. We appreciate your patience and look forward to resolving this matter for you. Let us know how we can help!

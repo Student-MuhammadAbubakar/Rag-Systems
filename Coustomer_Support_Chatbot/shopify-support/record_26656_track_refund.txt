@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expecdt a refund of {{Refund Amount}} dollars
+
+Answer: I truly understand the importance of your refund of {{Currency Symbol}}{{Money Amount}}. We appreciate your trust and patience during this process. Let me quickly get the current status of your refund for you. While I investigate, could you please confirm the email address associated with your account? This will help us ensure an accurate update on your reimbursement and assist you further. Thank you for your cooperation.

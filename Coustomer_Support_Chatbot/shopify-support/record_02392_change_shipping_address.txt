@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have submitted a wrong address, I want to modify it
+
+Answer: We apologize for the inconvenience caused. To modify your shipping address, please follow these steps:
+
+1. Log in to your account on our website.
+2. Go to the "Account Settings" or "Profile" section.
+3. Click on the "Shipping Address" or "Delivery Address" tab.
+4. Locate the address you want to modify and click on the "Edit" or "Modify" button.
+5. Update the necessary details, such as street number, city, postal code, etc.
+6. Once you've made the changes, click on the "Save" or "Update" button to confirm the modifications.
+
+Please ensure that the new address is accurate and up to date before saving the changes. If you encounter any issues or need further assistance, please don't hesitate to reach out to our customer support team.

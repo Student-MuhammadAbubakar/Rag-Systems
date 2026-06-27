@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want information about the termination of my {{Account Type}} account
+
+Answer: Happy to get your message to us regarding the termination of your {{Account Type}} account. We understand that you may have certain reasons for considering this option, and we would be happy to assist you. To proceed with the termination, please provide us with your account details or reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that all necessary steps are taken to terminate your account effectively. Rest assured that we are committed to providing you with exceptional service throughout this process and that we value your experience with us.

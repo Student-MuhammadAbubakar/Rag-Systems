@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a compensation of {{Currency Symbol}}{{Refund Amount}}, was it processed already
+
+Answer: I'm on your side the importance of your compensation request, amounting to {{Currency Symbol}}{{Refund Amount}}. Your peace of mind is our utmost priority. Please allow me a moment to verify the current status of your compensation and ensure you receive accurate information. Thank you for your patience and understanding.

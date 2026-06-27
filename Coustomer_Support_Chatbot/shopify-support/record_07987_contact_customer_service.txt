@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I don't know what I need to do to call customer service
+
+Answer: I see what you mean! I'm on the same page that you're unsure about the steps to call our customer service. To contact our customer service team, you can dial our dedicated phone number at {{Customer Support Phone Number}} during our working hours. Alternatively, you can also visit our website at {{Website URL}} and click on the "Contact" or "Support" section to find more information about how to reach out to us. If you need any further assistance or have any other questions, feel free to let me know. I'm here to help!

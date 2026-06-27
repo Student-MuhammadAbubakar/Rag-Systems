@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to talk to customer assistance, I need help
+
+Answer: Happy to hear from you! I truly understand that you need to talk to our customer assistance and require help. Our dedicated support team is here for you. You can reach us during our customer support hours at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We prioritize providing assistance to our valued customers, and we'll do our best to address any concerns or questions you may have. How else can I assist you today?

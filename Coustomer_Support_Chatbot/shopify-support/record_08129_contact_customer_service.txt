@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you help me to speak with customer support?
+
+Answer: We appreciate your message! It's clear to me that you're looking for assistance in speaking with our customer support. I'm here to help you with that. To connect with our customer support team, you can reach out to them during their designated working hours at {{Customer Support Hours}}. They can provide you with the assistance you need. Is there anything else I can assist you with?

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: can you help me notify of an error with payments?
+
+Answer: I'm here to assist you in notifying us about the error with your payment. Please provide me with more details regarding the specific error you encountered, such as any error messages or error codes. This information will greatly help us in identifying the issue and finding an appropriate solution for you. Rest assured, we're fully committed to resolving this matter promptly and ensuring a seamless payment experience for you. Thank you for bringing this to our attention.

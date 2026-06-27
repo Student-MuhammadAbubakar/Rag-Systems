@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I cannot see purchase {{Order Number}} goddamn current status
+
+Answer: Honored to assist! I'm clued in that you're having trouble finding the current status of your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide me with additional details such as your account information or any error messages you encountered? With this information, I'll be able to investigate the issue more effectively and provide you with the accurate status of your purchase.

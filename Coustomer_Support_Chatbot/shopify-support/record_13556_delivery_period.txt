@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I need to see when will my item arrive, how to do it?
+
+Answer: We understand your desire to track the delivery progress of your item and receive it as soon as possible. To check the estimated arrival time, you can provide us with the {{Tracking Number}} or {{Order Number}} associated with your purchase. Once we have that information, we will be able to give you an accurate update on when you can expect your item. Thank you for your cooperation in this matter.

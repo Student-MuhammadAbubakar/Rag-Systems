@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do i have to do to find invoice #00108
+
+Answer: I'm on the same wavelength, your need to find the details of invoice {{Invoice Number}}. To quickly locate the invoice, you can follow these steps:
+
+1. Log in to your account on our website/app.
+2. Go to the "Invoices" or "Billing" section.
+3. Use the search or filter option to enter the invoice number {{Invoice Number}}.
+4. The system will retrieve the specific invoice for you to review and access all relevant details.
+
+If you have any trouble locating the invoice or need further assistance, don't hesitate to let me know. I'm here to help!

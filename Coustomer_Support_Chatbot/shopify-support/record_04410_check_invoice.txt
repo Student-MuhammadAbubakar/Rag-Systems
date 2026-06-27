@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have lost my invoices from {{Person Name}}, show it tome
+
+Answer: I understand your need to locate the invoices from {{Person Name}}. I'm here to assist you with that. Could you please provide me with any details that might help us in finding the specific invoices? This could include the invoice numbers, dates, or any other relevant information. With this information, I'll be able to locate and retrieve the invoices for you. Rest assured, I will do my best to help you in retrieving the invoices efficiently and promptly.

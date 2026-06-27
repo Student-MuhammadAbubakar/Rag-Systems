@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery City}}
+
+Answer: Indeed! We are delighted to deliver to {{Delivery City}} as well. We provide shipping services to various locations, including {{Delivery City}}. Our delivery options cater to your convenience and ensure your package reaches you safely and on time. If you have any specific preferences or if there's anything else I can assist you with, feel free to let me know. I'm here to make your shipping experience seamless and enjoyable!

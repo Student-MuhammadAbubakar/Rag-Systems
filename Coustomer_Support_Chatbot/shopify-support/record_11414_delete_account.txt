@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't need my fucking {{Account Category}} account, I want to close it
+
+Answer: Thank you for getting in touch with us regarding the closure of your {{Account Category}} account. I understand that you have made the decision to no longer utilize the account. Please accept my sincerest apologies for any frustration you may have experienced. To assist you with the account closure process, could you please provide me with some additional information? Specifically, we will need your account details such as the account number or any other identifying information. Rest assured that our team will guide you through the necessary steps to close your account efficiently and effectively.

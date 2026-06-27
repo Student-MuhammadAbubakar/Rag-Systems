@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i want help speaking to customer support
+
+Answer: Thank you for contacting! I certainly recognize that you would like assistance in speaking to our customer support team. Our team is available during {{Customer Support Hours}} and can help address any concerns or questions you may have. Please let me know how I can assist you further.

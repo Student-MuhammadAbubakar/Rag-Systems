@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: assistance checking purchase {{Order Number}} bloody current status
+
+Answer: Your input is valuable! I'm picking up that you need assistance with checking the current status of your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience caused by the delay in receiving an update. To provide you with accurate information, I kindly request a moment to check the status with the relevant department. Please bear with me while I gather the necessary details. I'll get back to you as soon as possible with an update. Is there anything else I can assist you with in the meantime?

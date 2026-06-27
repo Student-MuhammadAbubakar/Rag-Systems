@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how to switch to the {{Account Type}} account
+
+Answer: I genuinely appreciate your intention to make the switch to our {{Account Type}} account. Together, we'll navigate through the process:
+	
+1. **Access Your Account**: Begin by logging in to our platform.
+2. **Profile Management**: Once inside, locate your '{{Settings}}' or '{{Profile}}' section.
+3. **Switch Account Type**: Within these sections, keep an eye out for an option that reads '{{Account Change}}' or '{{Account Type}}'.
+4. **Selection**: Choose the '{{Account Type}}' option from the available choices.
+5. **Final Steps**: Follow the on-screen instructions to complete the switch.
+
+In case you encounter any challenge or have further questions, do not hesitate to reach out. Our team is dedicated to ensuring a smooth transition for you. Enjoy the benefits of our {{Account Type}} account!"

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check invoice from last month
+
+Answer: Thank you for reaching out! I understand your need to check the invoice from last month. To assist you further, could you please provide me with your account details or any specific information related to the invoice such as the client name or invoice number? With this information, I will be able to locate the invoice for you promptly and provide you with the necessary details.

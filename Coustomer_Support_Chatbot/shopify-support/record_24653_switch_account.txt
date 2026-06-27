@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how can I use the standard profile?
+
+Answer: I'm on it! I'm thrilled to assist you in making the most of our {{Account Type}} profile and maximizing its incredible features:
+
+1. Access Your Account: Begin by logging into our platform.
+2. Profile Management: Once inside, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. {{Account Type}} Profile Overview: Within these sections, you'll find all the options and settings related to your {{Account Type}} profile.
+4. Feature Utilization: Take time to explore the features available to you in the {{Account Type}} profile. These may include personalized settings, limited access to certain resources, or specific functionality.
+5. Guidelines and Tutorials: If you need more detailed information on using specific features, we offer comprehensive guidelines and tutorials in our Support Center or Help section.
+6. Get the Most Out of It: Experiment with different settings and features to tailor your experience according to your needs and preferences.
+7. Additional Assistance: If you encounter any challenges or have further questions, our dedicated support team is always ready to provide the guidance you need.
+
+Remember, the {{Account Type}} profile may have certain limitations compared to other account types, but it is designed to provide you with a valuable and enjoyable experience. Embrace the possibilities and feel free to explore all that our platform has to offer!"

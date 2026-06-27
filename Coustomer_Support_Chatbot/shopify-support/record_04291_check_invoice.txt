@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check invoice from five months ago
+
+Answer: I understand your need to check the details of an invoice from five months ago. To assist you better, could you please provide me with any specific information such as the client's name, invoice number, or any other relevant details related to that invoice? This will enable me to locate the invoice more accurately and provide you with the information you need.

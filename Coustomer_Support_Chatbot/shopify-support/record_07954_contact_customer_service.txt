@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to contact customer assistance, I need help
+
+Answer: Always good to connect! I'm attuned to the fact that you have a pressing need to contact our customer assistance. Rest assured, we are here to help you. The quickest way to reach our customer support team is by visiting our website and navigating to the "Contact Us" page. There, you will find multiple options to connect with us, such as phone, email, or live chat. If you prefer email, you can send your query to {{Customer Support Email}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Let us know how we can be of help to you!

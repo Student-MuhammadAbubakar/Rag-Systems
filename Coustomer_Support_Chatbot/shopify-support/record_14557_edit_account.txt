@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correcting infornation on {{Account Type}} account
+
+Answer: We understand that you would like to correct the information on your {{Account Type}} account. Rest assured, we are here to assist you every step of the way! To ensure the security of your personal data, we kindly ask you not to share any sensitive information here. It would be best to access your {{Account Type}} account through our secure portal or get in touch with our dedicated customer support team. They will be able to guide you through the process and help you make the necessary corrections. How can we help you with the specific information you would like to correct on your {{Account Type}} account?

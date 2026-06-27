@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how to seethe bill from {{Person Name}}
+
+Answer: I gather that you're looking for guidance on how to view the bill from {{Salutation}} {{Client Last Name}}. To effectively assist you, could you please specify the platform or method you typically use to access your bills? This information will enable us to provide you with step-by-step instructions tailored to your specific situation.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can ya  help me to speak with customer assistance
+
+Answer: I see what you mean! I'm on the same page that you need assistance in speaking with our customer assistance team. I'm here to guide you through the process and ensure you get the support you require. To connect with our team, you can reach out during our customer support hours at {{Customer Support Hours}}. Alternatively, you can also connect with us through our Live Chat service on our website at {{Website URL}}. We're dedicated to providing you with the best possible assistance, so please don't hesitate to ask if you have any other questions or concerns. How else can I assist you today?

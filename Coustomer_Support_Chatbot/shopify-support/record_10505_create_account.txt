@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I have problems with opening my {{Account Type}} account
+
+Answer: I apologize for the inconvenience you have faced while opening your {{Account Type}} account. I understand the frustration it can cause. To help you resolve this issue, could you please provide me with some more details about the exact problem you are encountering? This will allow me to pinpoint the precise solution and guide you through the process step-by-step. I'm here to assist you every step of the way and ensure a seamless experience.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I never make use of my {{Account Category}} account, help canceling it
+
+Answer: I realized, you have a {{Account Category}} account that you no longer use and would like assistance with canceling it. I apologize for any inconvenience this may be causing you, and I'm here to help you through the process. To cancel your {{Account Category}} account, I will need a few details from you. Could you please provide me with your account information such as the account number or any other identifying details? Once I have the necessary information, I will initiate the cancellation process for you.

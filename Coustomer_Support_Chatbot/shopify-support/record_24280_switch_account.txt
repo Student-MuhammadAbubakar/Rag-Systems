@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: changkng to {{Account Type}} account
+
+Answer: Sure! I'm here to guide you through the process of switching to our exceptional Free account:
+
+1. Login: First, sign in to your existing account.
+2. Navigate: Once you're logged in, go to your account settings or profile section.
+3. Switch Account Type: Look for an option labeled "Switch Account Type" or something similar.
+4. Choose Free Account: Select the Free account option from the available choices.
+5. Confirmation: Follow the on-screen instructions to confirm your switch.
+
+If you come across any difficulties or have any further questions, please don't hesitate to reach out. I'm committed to ensuring a seamless transition for you. Enjoy the amazing features and benefits of our Free account!"

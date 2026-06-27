@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I have got to change to the standard account, I need help
+
+Answer: I'll make it happen! I'm thrilled to assist you in transitioning to our remarkable {{Account Type}} account:
+
+1. **Accessing Your Account:** To begin, log in to our platform using your credentials.
+2. **Navigating to Account Settings:** Once you're in, locate and click on your profile icon or name. From the dropdown menu, select the option that says '{{Settings}}'.
+3. **Account Type Switch:** Look for a section within the account settings labeled '{{Account Type}}' or '{{Profile Type}}'. Click on it.
+4. **Choosing the {{Account Type}} Account:** Among the available account options, select the one that says '{{Account Type}}' or '{{Basic}}'.
+5. **Confirmation and Final Steps:** Follow the on-screen instructions to confirm your selection and complete the process.
+
+If you encounter any challenges along the way or if you have any additional questions, please don't hesitate to reach out. We value your desire to switch account types, and I'm here to ensure a smooth and satisfying experience. Enjoy the benefits of our extraordinary {{Account Type}} account!"

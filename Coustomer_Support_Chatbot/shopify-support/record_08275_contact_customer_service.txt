@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want help to talk to customer support
+
+Answer: Thank you for contacting! I certainly recognize that you're seeking assistance in talking to our customer support team. We're here to help you navigate through any concerns or questions you may have. To reach our customer support, you can call our helpline at {{Customer Support Phone Number}} or use the Live Chat feature on our website at {{Website URL}}. Our team is highly trained and ready to provide you with the guidance and support you need. Please let me know if there's anything else I can assist you with!

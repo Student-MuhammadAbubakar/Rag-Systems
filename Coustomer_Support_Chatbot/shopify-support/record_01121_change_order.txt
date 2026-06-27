@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: adding article to order {{Order Number}}
+
+Answer: Thanks for dropping us a line to us regarding adding an article to your order with the number {{Order Number}}. We understand the importance of ensuring your order meets your expectations. To assist you best, could you please provide us with the details of the article you would like to add? This will allow us to process your request accurately and efficiently. We appreciate your cooperation in making your shopping experience with us seamless and enjoyable.

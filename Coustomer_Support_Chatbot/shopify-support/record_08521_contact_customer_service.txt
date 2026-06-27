@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help me to talk to customer support
+
+Answer: Glad you contacted us! I'm clearly cognizant that you need assistance in talking to our customer support team. Our dedicated team is available to assist you during {{Customer Support Hours}}. To connect with our customer support, you can reach out to us via {{Customer Support Phone Number}} or through our Live Chat on our website at {{Website URL}}. Our team is ready to provide the help and support you need. Please let me know if there's anything else I can assist you with.

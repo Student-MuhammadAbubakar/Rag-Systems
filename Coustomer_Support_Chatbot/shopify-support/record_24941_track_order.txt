@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: trackorder {{Order Number}}
+
+Answer: Thank you for contacting! I certainly recognize that you would like to track your order with the order number {{Order Number}}. To check the current status of your order, I recommend visiting the 'Track Order' section on our website. There, you will find real-time updates on the whereabouts of your package. If you have any further questions or need assistance with anything else, please feel free to let me know. I'm here to help!

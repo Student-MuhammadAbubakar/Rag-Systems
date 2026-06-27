@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I don't know how to see your allowed payment modalities
+
+Answer: Thank you for reaching out! I'm more than happy to guide you through the process of viewing our allowed payment modalities. To access the list of available payment options, you can visit our website and navigate to the "Payment Methods" page. Once you're on that page, you'll find a detailed overview of all the payment modalities we accept. If you have any specific questions or need further assistance, please don't hesitate to let me know. I'm here to help!

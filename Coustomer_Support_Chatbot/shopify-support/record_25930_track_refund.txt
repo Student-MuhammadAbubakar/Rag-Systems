@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: help checking if there is anything wrong with the refund
+
+Answer: I've deduced from your message that you would like assistance in checking if there are any issues with your refund. Rest assured, I'm here to help. Could you please provide me with the relevant details such as the transaction or refund reference number, the date of the refund request, and any other information you think might be helpful? With this information, I'll be able to investigate the status of your refund and determine if there are any potential issues. Thank you for bringing this to our attention, and I appreciate your cooperation in resolving this matter swiftly.

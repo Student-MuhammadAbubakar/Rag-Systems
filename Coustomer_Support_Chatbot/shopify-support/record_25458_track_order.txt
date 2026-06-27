@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: is it possible to track purchase {{Order Number}}?
+
+Answer: Thank you for reaching out! Absolutely, tracking your purchase with the purchase number {{Order Number}} is possible. Our system is designed to provide you with real-time information on the current status and whereabouts of your purchase. To track your order, I recommend visiting the '{{Order Tracking}}' section on our website. There, you can enter your purchase number to access the latest updates and track the progress of your purchase. If you need any further assistance or have additional questions along the way, please feel free to let me know. I'm here to help you have a hassle-free tracking experience!

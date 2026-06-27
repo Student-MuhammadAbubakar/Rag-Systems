@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: place_order
+
+Question: i need help buying some of ur item
+
+Answer: I'm here to assist you with purchasing the items you're interested in. Thank you for choosing us as your shopping destination! To ensure smooth and successful shopping, please provide me with the following details:
+
+1. Item Name/Description: Please let me know the specific item(s) you would like to purchase.
+
+2. Quantity: How many of each item would you like to buy?
+
+3. Size/Color/Variant: If applicable, please specify any preferences or variations for the items.
+
+Once I have these details, I will guide you through the purchasing process, answer any questions you may have, and make sure your shopping journey is rewarding and pleasurable.

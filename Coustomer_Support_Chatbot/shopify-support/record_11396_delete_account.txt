@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: remove {{Account Type}} account
+
+Answer: Glad you contacted to us regarding the removal of your {{Account Type}} account. I understand that you would like to close your account and I'm here to assist you with that. To proceed with the removal, I will need some additional information from you. Please provide me with your account username or any other identifying details so that I can assist you further. Rest assured, your privacy and security are of utmost importance to us. Once I have the necessary details, I will guide you through the process of removing your {{Account Type}} account.

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: want help updating the address
+
+Answer: I'll get right on it! Our customer service team is available to assist you with updating your address. Please provide us with the necessary details such as your current address and the new address you would like to update it to, and we will take care of the rest.

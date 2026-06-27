@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i have to find the biol #12588 how to do it
+
+Answer: Sure! I completely understand your need to locate the details of the invoice with the number #{{Invoice Number}}. To find the invoice, you can follow these steps:
+
+1. Log in to your account on our website or app.
+2. Go to the "Billing" or "Invoices" section.
+3. Look for a search bar or filter options where you can enter the invoice number.
+4. Enter the invoice number #{{Invoice Number}} in the search bar or apply the relevant filters.
+5. Click on the search button or apply the filters to retrieve the specific invoice.
+6. Once you find the invoice, you will be able to view and download it.
+
+If you encounter any difficulties during this process or have any further questions, feel free to let me know. I'm here to assist you every step of the way!

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where can I notify of errors with payment ?
+
+Answer: I hear you loud and clear your need to notify us about any errors you're encountering with your payment. Our customer support team is here to assist you with resolving any payment issues you may have. To inform us about the errors, you can reach out to our dedicated support line at {{Customer Support Phone Number}} or visit our website at {{Website URL}} where you can find a live chat option to connect with our support representatives. Rest assured, we value your feedback and will work diligently to address and resolve any payment errors you may be experiencing. Thank you for bringing this to our attention.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: how can i tfack purchase {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you with tracking the purchase with the purchase number {{Order Number}}. To track your purchase, you can visit our website and navigate to the '{{Order Tracking}}' section. There, you'll be prompted to enter the purchase number, and once you've entered it, you'll be able to view the current status and tracking information of your purchase. If you encounter any difficulties during the process, please don't hesitate to ask for further guidance. I'm here to ensure you have a seamless tracking experience!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i camt update order {{Order Number}}
+
+Answer: We understand that you're experiencing difficulties updating your order with the number #{{Order Number}}. We apologize for any inconvenience caused. To assist you further, can you please provide more details about the specific changes you would like to make to your order? Our team is here to help resolve this issue and ensure your satisfaction.

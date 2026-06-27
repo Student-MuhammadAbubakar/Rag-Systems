@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: want assistance to talk to customer service
+
+Answer: We're all ears! I'm tuned into the idea that you want assistance in speaking with our customer service team. You can easily connect with our customer service representatives by calling our dedicated hotline at {{Customer Support Phone Number}}. Our team is available during {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Don't hesitate to reach out to us, and we'll be more than happy to help you!

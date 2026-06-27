@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: wanna use th gold account how can i do it
+
+Answer: First and foremost, let me express my excitement about your interest in utilizing our prestigious {{Account Type}} account! I'm here to guide you through the process:
+
+1. Access Your Account: Please log in to our platform using your current credentials.
+2. Navigate to Account Settings: Once you're logged in, locate the '{{Settings}}' section or a similar option on our website.
+3. Upgrade Options: Within the account settings, look for an option labeled '{{Upgrade Account}}' or '{{Account Change}}'. Click on it.
+4. {{Account Type}} Account Selection: On the upgrade page, you should see a variety of account types available. Look for the one labeled as the '{{Account Type}}' and select it.
+5. Complete the Upgrade: Follow the on-screen instructions and provide any necessary information to finalize the upgrade process.
+
+Remember, if you encounter any difficulties or have additional questions, I'm here to assist you every step of the way. Welcome to the exclusive world of our {{Account Type}} account, where exceptional benefits and features await you!

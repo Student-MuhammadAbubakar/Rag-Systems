@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: assistance to check the cancellation fees
+
+Answer: Sure! I can provide you with assistance in checking the cancellation fees for your contract. To proceed, please provide me with the necessary details such as your account number or contract start date.

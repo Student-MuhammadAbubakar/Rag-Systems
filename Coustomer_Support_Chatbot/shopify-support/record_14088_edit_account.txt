@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating data on {{Account Type}} account
+
+Answer: We are thrilled to witness your dedication to keeping your {{Account Type}} account up to date. Your attention to detail and commitment to maintaining accurate information demonstrate your active involvement in your account. To update the data on your {{Account Type}} account, you have a couple of options. You can either log in to your account on our {{Company Name}} website or reach out to our customer support team for personalized assistance. They will guide you through the process and ensure that your account information is promptly and accurately updated. Let me know if there's anything specific you need help with during the updating process.

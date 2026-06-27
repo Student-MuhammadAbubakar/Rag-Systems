@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: help taking a quick look at the bill #00108
+
+Answer: We're here to help to us for assistance in quickly reviewing the bill with the number #{{Invoice Number}}. I understand that you may need a prompt overview of the details. To provide you with the fastest support, could you please confirm whether you are referring to a digital or physical bill? Additionally, if you have any specific questions or concerns about the bill, please let me know so that I can address them in a timely manner. Rest assured, I'm here to guide you through the process and help you gain a clear understanding of the information you need.

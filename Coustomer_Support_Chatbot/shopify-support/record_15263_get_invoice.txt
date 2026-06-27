@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I lost my bill #37777, will you mail it to me?
+
+Answer: I'm attuned to the idea that you've lost your bill with number {{Invoice Number}} and you're requesting it to be sent to you. I'm sorry, but as a customer service representative, I don't have access to your billing information. However, I can guide you on how to retrieve your bill online. Would you like me to assist you with that?

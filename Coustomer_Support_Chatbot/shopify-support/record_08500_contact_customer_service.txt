@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need help contacting customerservice
+
+Answer: We're all ears! I'm tuned into the idea that you need assistance in contacting our customer service. We are here to help you connect with our team and address any concerns you may have. To reach our customer service department, you can contact us through our toll-free number at {{Customer Support Phone Number}} or send us an email at {{Customer Support Email}}. Our dedicated team is available during {{Customer Support Hours}} to assist you. Don't hesitate to let us know if there's anything else we can do for you.

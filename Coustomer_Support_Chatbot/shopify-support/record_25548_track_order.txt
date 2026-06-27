@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: check purchase {{Order Number}} goddamn status
+
+Answer: Thank you for contacting! I certainly recognize that you want to check the status of your purchase with the order number {{Order Number}} {{Order Number}}. I apologize for any frustration or inconvenience you may have experienced. To provide you with the most accurate and up-to-date information on your purchase, I kindly request you to visit the '{{Order Status}}' section on our website. There, you will be able to view the current status of your order and any relevant updates. If you have any other questions or need further assistance, please don't hesitate to let me know. It's my priority to ensure that you have a smooth and satisfying experience with us.

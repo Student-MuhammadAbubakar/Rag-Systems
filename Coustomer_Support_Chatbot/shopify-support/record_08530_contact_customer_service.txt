@@ -1,0 +1,16 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i dont know what to do to talk to customer support
+
+Answer: Honored to assist! I'm clued in that you are unsure about how to contact our customer support team. Don't worry; I'm here to guide you. To talk to our customer support, you can reach out to us through different channels:
+
+1. Phone Support: Our customer support team can be reached at {{Customer Support Phone Number}}. You can call this number during our customer service hours.
+
+2. Live Chat: You can visit our website at {{Website URL}} and click on the "Live Chat" option. Our support agents will be available to assist you in real-time.
+
+3. Email: You can send us an email at {{Customer Support Email}}. Our support team will respond to your query as soon as possible.
+
+4. Social Media: If you prefer using social media platforms, you can reach out to us on {{Social Media Platform}} by sending us a message or commenting on our posts. We have a dedicated team to assist you there.
+
+Please let me know if there's anything else I can help you with. We're here to ensure your concerns are addressed promptly and to provide you with the assistance you need.

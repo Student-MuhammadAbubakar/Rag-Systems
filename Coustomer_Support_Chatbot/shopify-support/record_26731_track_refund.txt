@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for an refund of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I see your anticipation for the refund of {{Currency Symbol}}{{Refund Amount}}. Rest assured, I'm here to assist you in tracking the progress of your refund. Allow me a moment to check the status for you. Thank you for your patience while I gather the necessary information.

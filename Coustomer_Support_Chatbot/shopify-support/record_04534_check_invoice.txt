@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have to find the bill #37777, I need help
+
+Answer: I'll take care of it! I understand that you need assistance in locating the details of bill #{{Invoice Number}}. Let's work together to find the information you're looking for. Could you please provide me with any additional details or context regarding this bill? This will enable me to assist you more effectively and expedite the process.

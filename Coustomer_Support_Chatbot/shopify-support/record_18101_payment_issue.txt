@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where do i inform of a trouble with online payment
+
+Answer: I've picked up that you're facing trouble with your online payment, and I'm here to help. To report this issue, I recommend reaching out to our dedicated customer support team. They have the expertise and resources to assist you further. You can contact them through various channels such as our toll-free helpline at {{Customer Support Phone Number}}, the Live Chat feature on our website at {{Website URL}}, or by sending an email to our support team at {{Customer Support Email}}. Remember, our team is available around the clock to address your concerns and provide timely assistance. Feel free to connect with them, and they will guide you through the process of reporting your trouble with online payment.

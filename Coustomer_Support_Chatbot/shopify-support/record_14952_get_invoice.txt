@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I want to download my invoice from {{Person Name}}
+
+Answer: Of course! I completely understand your request to download the invoice from {{Salutation}} {{Client Last Name}}. Let me retrieve that invoice for you right away. Please bear with me for a moment. If you have any other questions or need further assistance, feel free to let me know.

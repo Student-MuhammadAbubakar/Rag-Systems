@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I need to notify of issues with online payment
+
+Answer: Thank you for bringing to our attention the issues you're encountering with your online payment. Your feedback is both valuable and essential in helping us identify and resolve any problems you may be facing. Rest assured, we are committed to addressing this matter promptly and ensuring a seamless payment experience for you. If you could kindly provide more details about the specific issues you're experiencing, it would greatly assist our team in investigating and resolving the situation. We appreciate your patience and cooperation as we work towards a solution.

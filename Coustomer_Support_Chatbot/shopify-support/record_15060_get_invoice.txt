@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: can you help me downloading the invoice #12588?
+
+Answer: For sure! I completely understand the importance of downloading invoice #{{Invoice Number}} for you. Allow me just a moment to guide you through the process. It's essential to ensure that you have a reliable internet connection and access to a device, such as a computer or smartphone, to download the invoice. You can typically download invoices directly from our website by logging into your account and navigating to the "Invoices" or "Billing" section. If you encounter any difficulties or need further assistance, please don't hesitate to let me know. I'm here to help make the process as seamless as possible for you.

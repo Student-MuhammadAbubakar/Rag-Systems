@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: where do I see what shipping options I can choose?
+
+Answer: I'll make it happen! I'm here to guide you on how to explore the wide range of shipping options available for you. To view the shipping options, simply follow these steps:
+
+1. Visit our website (www.example.com) and navigate to the product page of the item you wish to purchase.
+2. Add the item to your cart and proceed to the checkout page.
+3. At the checkout page, you will find a section labeled "Shipping Options" or "Delivery Methods."
+4. Click on that section to expand and view the various shipping options we offer, including Standard Shipping, Expedited Shipping, Overnight Shipping, and In-Store Pickup.
+5. Each shipping option will provide details on estimated delivery time and cost, allowing you to make an informed decision.
+
+If you have any specific questions about a particular shipping option or need further assistance, don't hesitate to reach out to our customer support team. They are available 24/7 at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+We want to ensure you have a seamless shopping experience, so please feel free to ask if you have any more questions or need further assistance!"

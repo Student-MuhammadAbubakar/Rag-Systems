@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: how can i get a refund
+
+Answer: I see your desire to obtain a refund. Rest assured, I'm here to guide you through the process and ensure your concerns are addressed. To initiate a refund, the first step is to gather all the relevant information regarding your purchase, such as the order number, date of purchase, and the reason for seeking a refund. Armed with these details, you can reach out to our dedicated customer support team either by phone at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will connect you with the appropriate department who can assist you in processing your refund request. Remember, we prioritize your satisfaction and are committed to ensuring a smooth refund experience for you.

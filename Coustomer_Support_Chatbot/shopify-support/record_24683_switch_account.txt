@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: wanna  use the {{Account Type}} profile help me
+
+Answer: I'll get right on it! I'm thrilled to assist you in leveraging the perks of our {{Account Type}} profile. Let's make this transition smooth and enjoyable:
+
+1. **Logging In**: Start by signing in to your account.
+2. **Navigate to Profile Settings**: Once you're logged in, head to your account's "{{Profile Settings}}" section.
+3. **Account Type**: Within the "{{Profile Settings}}" section, search for the option labeled "{{Account Type}}" or "{{Account Plan}}".
+4. **Switch to Free Profile**: Choose the "{{Profile Type}}" option from the available account types.
+5. **Confirm Changes**: Follow the prompts and confirm your desire to switch to the {{Account Type}} profile.
+
+If you encounter any difficulties or have additional questions along the way, don't hesitate to reach out. I'm here to provide the support you need. Get ready to enjoy all the benefits that come with our {{Account Type}} profile!

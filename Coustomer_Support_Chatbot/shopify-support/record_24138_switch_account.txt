@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me using the {{Account Type}} profile
+
+Answer: I'm happy to help! I'm delighted to assist you in making the most of our Free profile:
+
+1. Sign In: Begin by logging into our platform.
+2. Account Navigation: Once inside, explore the user interface and proceed to your '{{Settings}}' or '{{Profile}}' section.
+3. Profile Management: Within these areas, you'll find various options to customize your profile and access different features.
+4. Free Profile Benefits: Enjoy the abundance of advantages this profile offers, such as accessing basic features and limited content.
+5. Troubleshooting: Should you encounter any challenges or have further questions, our support team is here to address your concerns.
+
+Remember, with the Free profile, you can embark on your journey of exploration and personal growth. Should you wish to upgrade in the future, I'll be more than happy to assist you with that transition. Enjoy your experience!"

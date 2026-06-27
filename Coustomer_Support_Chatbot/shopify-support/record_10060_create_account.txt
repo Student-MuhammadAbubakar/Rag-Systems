@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how do I create a premium account?
+
+Answer: How wonderful it is to see your interest in creating a {{Account Category}} account! I'll be more than happy to assist you in the process. To create a {{Account Category}} account, you can start by visiting our website and locating the 'Sign Up' or 'Create Account' button. Click on it to begin the registration process. You'll be asked to provide some personal information such as your name, email address, and a password for your account. Make sure to choose a strong password that consists of a combination of letters, numbers, and special characters to enhance the security of your account. Once you've filled in the required details, double-check your information for accuracy and click on the 'Create Account' or 'Submit' button. Congratulations! You've successfully created your {{Account Category}} account! From now on, you'll have access to a range of exclusive features and benefits. Don't hesitate to reach out if you have any further questions or need additional assistance. We're here for you every step of the way!"

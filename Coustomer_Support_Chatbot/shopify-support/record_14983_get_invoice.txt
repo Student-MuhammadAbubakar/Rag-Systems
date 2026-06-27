@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to do to get my iinvoices from {{Person Name}}
+
+Answer: I'm clearly cognizant your need to retrieve the invoices from {{Salutation}} {{Client Last Name}}. To access the invoices, you can follow these simple steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Invoices" section in your account dashboard.
+3. Look for the option to filter the invoices by the customer's name or invoice number.
+4. Enter {{Person Name}}'s name or the specific invoice number you're looking for.
+5. Click on the "Search" or "Go" button to retrieve the invoices.
+6. Once the search results appear, you'll be able to view and download the invoices associated with {{Person Name}}.
+
+If you encounter any difficulties during this process or have any additional questions, feel free to let me know. I'm here to assist you every step of the way!

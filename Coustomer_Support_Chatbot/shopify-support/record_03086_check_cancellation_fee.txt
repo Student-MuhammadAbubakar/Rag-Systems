@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I have to check the withdrawal penalties
+
+Answer: I'll do my best! To view the withdrawal penalties, please log in to your account and navigate to the "Penalties for Early Withdrawal" section. If you have any further questions, feel free to ask!

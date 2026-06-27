@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I try to open a standard account
+
+Answer: Thank you for your interest in opening a {{Account Type}} account with us! To get started, I recommend visiting our website and navigating to the account creation page. There, you will find a user-friendly interface that will guide you through the process step by step. If you encounter any difficulties or have any questions along the way, our customer support team is available to assist you. Simply reach out to them via our Live Chat or give them a call at {{customer_support_phone_number}}. They will be more than happy to provide you with the necessary support and guidance. Once you have successfully created your {{Account Type}} account, you will have access to a range of features and benefits tailored to your needs. We look forward to welcoming you as a valued member of our community!

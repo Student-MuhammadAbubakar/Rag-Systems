@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a refund of {{Refund Amount}} dollrs
+
+Answer: I'm clearly cognizant how important it is for you to receive the expected refund of {{Currency Symbol}}{{Refund Amount}}. Your patience while waiting is commendable, and I assure you that I'm here to assist you in checking the status of your refund. Let me quickly verify the details and provide you with an update. In the meantime, may I ask if you have already submitted a refund request or if you have any specific concerns regarding the refund process? Your insight will help me ensure a comprehensive resolution for you.

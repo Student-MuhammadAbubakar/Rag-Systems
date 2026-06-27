@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have to take a  quick look at my invoice from {{Person Name}}
+
+Answer: I understand your need to quickly access and review your invoice from {{Salutation}} {{Client Last Name}}. To assist you with this, could you please provide any additional details such as the {{Date Range}}, {{Invoice Number}}, or any other relevant information related to the invoice? With the information you provide, I will be able to guide you more effectively and ensure a smoother resolution.

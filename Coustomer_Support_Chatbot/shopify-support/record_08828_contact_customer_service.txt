@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have got to talk with customer service, can you help me?
+
+Answer: Thank you for reaching out! I totally understand that you need to speak with our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach out to them through the following channels: {{Customer Support Phone Number}} or via the Live Chat on our website at {{Website URL}}. They will be more than happy to address any inquiries or concerns you may have. How can I make your experience even better today?

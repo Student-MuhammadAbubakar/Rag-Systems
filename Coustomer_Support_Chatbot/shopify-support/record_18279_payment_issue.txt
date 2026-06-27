@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: assistance to inform of an issue with online payments
+
+Answer: I'm here to assist you with informing us about any issue you're encountering with your online payments. Your feedback is invaluable to us and helps us improve our payment systems. To better understand the issue, could you please provide more details about the specific problem you're facing? By sharing this information, we can work together to find a prompt resolution and ensure a seamless payment experience for you. Thank you for reaching out to us, and we appreciate your cooperation in helping us improve our services.

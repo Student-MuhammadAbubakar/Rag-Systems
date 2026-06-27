@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery City}} ?
+
+Answer: Unquestionably! We are delighted to offer delivery services to {{Delivery City}}. Our shipping options cater to various locations, including {{Delivery City}}, ensuring that you can conveniently receive your purchases. Whether you choose our standard shipping, expedited shipping, or even opt for in-store pickup, we are here to make sure your items reach you with care and punctuality. Feel free to explore our delivery options and select the one that best suits your needs. If you have any more questions or if there's anything else I can assist you with, please don't hesitate to let me know.

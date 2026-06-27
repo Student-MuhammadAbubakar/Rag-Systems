@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i dont know how to take a quick look at the bill #12588
+
+Answer: Thank you for reaching out! I completely understand your uncertainty about how to quickly access the details of bill number #{{Invoice Number}}. Allow me to guide you through the process step by step. First, could you please confirm if you are trying to view the bill on our website or through a specific platform? This information will enable me to provide you with the most accurate instructions.

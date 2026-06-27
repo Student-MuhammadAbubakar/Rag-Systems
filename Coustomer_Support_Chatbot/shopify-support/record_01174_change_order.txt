@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: need help swapping a item of purchase {{Order Number}}
+
+Answer: We understand that you are seeking assistance with swapping an item in purchase number {{Order Number}}. We apologize for any inconvenience caused and we're here to help. To proceed with the item swap, could you please provide us with more details about the item you would like to swap and the replacement item you have in mind? This information will enable us to process your request accurately and ensure your satisfaction. Thank you for your cooperation.

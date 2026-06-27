@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i dont know whatto do to talk to customer assistance
+
+Answer: Thanks for getting in touch! I grasp that you're uncertain about the steps to reach our customer assistance team. Let me guide you through the process. To talk to our customer assistance team, you can reach us at {{Customer Support Phone Number}} during our customer support hours, which are {{Customer Support Hours}}. Alternatively, you can also connect with us through the Live Chat on our website at {{Website URL}}. Our team is dedicated to helping you with any questions or concerns you may have. Please don't hesitate to reach out if you need further assistance.

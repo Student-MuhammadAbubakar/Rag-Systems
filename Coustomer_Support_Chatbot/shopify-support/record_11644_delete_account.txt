@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I never make use of my {{Account Type}} account, assistance deleting it
+
+Answer: Appreciate you reaching out about deleting your {{Account Type}} account. I understand that you haven't been using it and would like to remove it. I apologize for the inconvenience. Let's proceed with the account deletion process. To assist you further, I kindly ask you to provide me with the email address associated with your {{Account Type}} account or any other relevant information. This will help us locate your account and ensure a smooth and quick deletion process. Rest assured, once the account is deleted, all your data will be permanently removed from our system.

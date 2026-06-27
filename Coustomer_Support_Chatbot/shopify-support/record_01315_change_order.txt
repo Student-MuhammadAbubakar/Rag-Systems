@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help to swap an article of order {{Order Number}}
+
+Answer: We understand that you would like to swap an article in order number #{{Order Number}}. No worries, we're here to assist you with that. To ensure we proceed with the correct item exchange, please provide us with the details of the article you'd like to swap, including the exact product name, size, color, or any other relevant information. Once we have the necessary information, we'll promptly guide you through the process of swapping the article in your order. Your satisfaction is our top priority, and we'll make sure you receive the item you desire.

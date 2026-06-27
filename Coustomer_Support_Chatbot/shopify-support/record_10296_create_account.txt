@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: another {{Account Type}} account
+
+Answer: Thank you for considering opening another {{Account Type}} account! It's great to see your continued interest in our premium services. To proceed with opening another {{Account Type}} account, could you please provide me with the following details: your full name, email address, and a preferred username? Once you provide this information, I'll guide you through the process and ensure a smooth experience. Rest assured that your security and privacy are of utmost importance to us, and we'll take every measure to safeguard your information. If you have any questions or need assistance along the way, feel free to let me know. Let's get started on making your experience even more exceptional!

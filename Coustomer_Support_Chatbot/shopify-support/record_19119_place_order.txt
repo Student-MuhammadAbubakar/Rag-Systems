@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: buying item
+
+Answer: Thank you for expressing your interest in buying an item! I'm excited to assist you with this process. To better guide you, could you please provide me with more details about the specific item you would like to purchase? This information will help me ensure a smooth and satisfying shopping experience for you.

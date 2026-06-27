@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: could you tell me more about opening platinum accounts?
+
+Answer: For sure! Opening a {{Account Category}} account with us offers you a range of exclusive benefits and privileges. As a {{Account Category}} account holder, you'll enjoy premium features such as higher withdrawal limits, personalized customer support, access to exclusive promotions, and special discounts on select products and services. Our {{Account Category}} account is designed to provide you with a top-notch banking experience, tailored to meet your financial needs and aspirations. If you're interested in opening a {{Account Category}} account, I can assist you with the process and guide you every step of the way. How does that sound to you?

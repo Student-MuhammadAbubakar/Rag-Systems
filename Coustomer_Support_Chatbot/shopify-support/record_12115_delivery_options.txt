@@ -1,0 +1,14 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can ya help me to see what shipment options i can choose
+
+Answer: Positively! I'm here to assist you in exploring the shipment options available to you. Let's dive into the delivery menu:
+
+1. Standard Shipping: This is our default shipping method and typically arrives within {{Date Range}} business days. It's perfect for non-urgent items.
+2. Expedited Shipping: If you need your items faster, this option ensures delivery in {{Date Range}} business days.
+3. Express Shipping: For those who want their items quickly, this option delivers within {{Date Range}} business days.
+4. Same-day Delivery: Need your item within hours? This option guarantees delivery on the same business day.
+5. In-Store Pickup: If you prefer to pick up your items personally, you can choose this option at checkout.
+
+These options may vary depending on your location and the availability of our shipping partners. If you have any specific concerns or if there's anything else I can assist with, please feel free to ask. We're here to make your shopping experience as smooth as possible!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: wanna get the bill from {{Person Name}} how to do it
+
+Answer: I'm on your side your need to retrieve the bill from {{Salutation}} {{Client Last Name}}. To assist you in doing so, we have a user-friendly online portal where you can access and download your bill. I will guide you through the steps to make it easier for you. First, please visit our website at {{Website URL}}. Once you're on the homepage, log in to your account using your username and password. After logging in, navigate to the "Billing" or "Account Summary" section. Look for the option to view or download your bills. Click on that option, and you should be able to locate the bill you need. If you encounter any difficulties or have further questions, feel free to reach out to our customer support team. We are available {{Customer Support Hours}} at {{Customer Support Phone Number}} and through the Live Chat on our website. We are here to provide any assistance you may need.

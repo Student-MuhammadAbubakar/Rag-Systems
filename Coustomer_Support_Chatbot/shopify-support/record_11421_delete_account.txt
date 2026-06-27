@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with the removal of a freemium account
+
+Answer: Happy to get your message to us regarding the problem with removing your {{Account Category}} account. I understand that you're experiencing difficulties in the account deletion process, and I apologize for any inconvenience caused. It's essential to us that we assist you in resolving this matter promptly. Can you please provide me with more details about the problem you're facing? By understanding the specific issue, we can provide you with the most accurate and effective solution. Your satisfaction is our top priority, and we're here to ensure a smooth account removal experience.

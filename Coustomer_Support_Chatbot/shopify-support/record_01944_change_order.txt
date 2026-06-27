@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: change_order
+
+Question: how can I switch some articles of purchase {{Order Number}}?
+
+Answer: I understand your need for assistance in switching some articles for purchase with order number {{Order Number}}. Our team is dedicated to ensuring that your purchase meets your expectations, and I would be happy to guide you through the process. To switch the articles in your purchase, you can follow these steps:
+
+1. Visit our website and log in to your account.
+2. Go to the "Orders" section or a similar page where you can view your purchase history.
+3. Locate and select the purchase with order number {{Order Number}}.
+4. Look for an option to "Edit" or "Modify" your purchase.
+5. Select the articles you want to switch and choose the replacement items.
+6. Follow the prompts to confirm your changes and update your purchase.
+
+If you encounter any difficulties or need further assistance, please don't hesitate to reach out to our customer support team. We're here to help you have a seamless shopping experience.
+
+Remember, your satisfaction is our priority, and we appreciate your trust in our products and services.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opdn platinum account
+
+Answer: I'll take care of it! I'm thrilled to assist you in opening your {{Account Category}} account. To get started with the process, could you please provide me with your full name, email address, and a preferred username? This information is crucial to create your account and ensure a personalized experience tailored to your needs. Rest assured that your data will be handled with the utmost care and security. Once I have these details, I'll guide you through each step, making sure you're well-informed and equipped with all the necessary information. Let's make this {{Account Category}} account a reality for you!

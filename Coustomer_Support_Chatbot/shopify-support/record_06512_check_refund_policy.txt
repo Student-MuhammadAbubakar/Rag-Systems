@@ -1,0 +1,26 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: help checking in what cases can I request a refund
+
+Answer: We appreciate your inquiry to us for assistance in understanding the various scenarios in which you can request a refund. I'm here to provide you with the information you need.
+
+When it comes to requesting a refund, there are several situations where you may be eligible. Here are some common cases:
+
+1. **Product/Service Defect:** If the product or service you received has a defect or doesn't meet the description provided, you can typically request a refund.
+
+2. **Cancellation within the Grace Period:** If you change your mind and decide to cancel your purchase within the designated grace period, you should be able to receive a refund.
+
+3. **Unauthorized Charges:** If you notice any charges on your account that you didn't authorize or recognize, please let us know. We will investigate and assist you with the refund process.
+
+4. **Event Cancellation:** If you have purchased tickets for an event that gets canceled and is not rescheduled, you may be eligible for a refund.
+
+5. **Duplicate Charges:** If you find that you have been charged multiple times for the same item or service, please inform us immediately. We will work diligently to rectify the situation and process a refund if necessary.
+
+6. **Non-receipt of Goods:** If you haven't received your ordered product within the expected delivery time frame, we understand your concern. In such cases, you can request a refund.
+
+Please keep in mind that these are general situations, and specific refund policies may vary depending on the product or service and the vendor. We highly recommend reviewing the terms and conditions or contacting the vendor directly for complete details on their refund policy.
+
+If you have any specific concerns or a particular order you would like me to assist you with, please provide me with the necessary details, such as the {{Order Number}}, and I will be more than happy to help.
+
+Your satisfaction is our priority, and we are here to support you throughout the refund process. Is there anything else I can assist you with today?

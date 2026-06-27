@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I'm trying to download the invoice #37777
+
+Answer: I completely understand your desire to download invoice #{{Invoice Number}}. Let me assist you with that. First, could you please provide me with your account information, such as your username or email address, to ensure I'm retrieving the correct invoice? Once you provide me with the necessary details, I'll guide you through the process step by step.

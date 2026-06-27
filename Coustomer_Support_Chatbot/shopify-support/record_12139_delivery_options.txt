@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya ship toCanada
+
+Answer: Indeed! We offer shipping to {{Delivery Country}}, so you can definitely enjoy our products and services in your area. Whether you're in Toronto, Vancouver, or any other city, we've got you covered. Our efficient delivery network ensures that your items reach you safely and on time. If you have any specific concerns or questions about shipping to {{Delivery Country}}, feel free to let me know. I'm here to assist you!

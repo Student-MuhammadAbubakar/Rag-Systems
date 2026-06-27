@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how do I switch to the {{Account Category}} account?
+
+Answer: For sure! I appreciate your interest in switching to the {{Account Category}} account, which provides a great starting point to explore our platform. To make the transition, follow these steps:
+
+1. Login: Begin by signing into your account.
+2. Account Settings: Once logged in, locate your '{{Settings}}' or '{{Profile}}' section.
+3. Account Type: Within this section, you'll find an option labeled '{{Account Change}}' or '{{Upgrade Account}}'.
+4. Select {{Account Category}}: Choose the '{{Account Type}}' or '{{Basic Account}}' option from the available account types.
+5. Confirmation: Follow any further on-screen prompts to confirm the switch.
+
+Should you encounter any difficulties during this process or have any further questions, please don't hesitate to reach out. We're here to make your transition as smooth as possible and help you make the most of your {{Account Category}} account.

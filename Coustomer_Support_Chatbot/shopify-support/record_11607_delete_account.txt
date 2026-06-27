@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want information about the termination of my pro account
+
+Answer: Appreciate your message to us regarding the termination of your {{Account Type}} account. We understand that you may have certain concerns or questions about this process. To provide you with accurate information, could you please clarify the specific details you would like to know about terminating your {{Account Type}} account? We are here to assist you and ensure that the termination process is smooth and hassle-free for you.

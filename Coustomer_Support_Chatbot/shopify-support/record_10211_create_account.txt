@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: want assistance opening a premium account
+
+Answer: That's fantastic! I'm thrilled to assist you with opening a premium account. {{Account Category}} accounts offer a range of exclusive benefits and enhanced features. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the process step-by-step, providing you with all the necessary information and ensuring a seamless experience. Feel free to ask any questions along the way. Your happiness and satisfaction are my top priorities!

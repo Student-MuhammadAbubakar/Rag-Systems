@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I'm trying to see the early termination charge
+
+Answer: I'm on it! To view the early termination charge, please provide me with your account details so that I can assist you further in checking the specific fee.

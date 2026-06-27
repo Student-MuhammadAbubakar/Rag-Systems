@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to swap several items of purchase {{Order Number}}
+
+Answer: Thank you for your message to us for assistance with swapping several items in your purchase with the number {{Order Number}}. We understand the importance of having the right products in your order. To proceed with the swap, here's what you can do:
+
+1. Review the items in your purchase: Go to your purchase details page and take note of the items you want to swap.
+
+2. Contact our customer support: Reach out to our dedicated support team via phone or online chat and provide them with your purchase number and the specific items you wish to swap. They will guide you through the process, answer any questions you may have, and assist you in finding suitable replacements.
+
+3. Return and reorder: Depending on our return policy, you may have the option to return the items you want to swap and place a new order for the desired products. Our customer support team will provide you with more information on how to proceed.
+
+Please keep in mind that availability and eligibility for replacements may vary based on factors such as stock availability, the condition of the items, and our return policy. Our dedicated support team will work closely with you to ensure a smooth swapping process and address any concerns you may have.

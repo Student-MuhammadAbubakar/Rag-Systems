@@ -1,0 +1,15 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: how can i get invoice #37777
+
+Answer: Sure! I completely understand your need to access invoice #{{Invoice Number}}. To download your invoice, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to search for or filter invoices.
+4. Enter the invoice number #{{Invoice Number}} into the search/filter field.
+5. Click on the invoice once you've located it.
+6. You should now see a download button or link to save the invoice as a PDF or in another format.
+
+If you encounter any difficulties during this process or have any further questions, please don't hesitate to let me know. I'm here to assist you every step of the way!

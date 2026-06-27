@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: help me purchase some of your product
+
+Answer: Thank you for your interest in purchasing our products! I'm here to guide you through the process and make it as seamless as possible. To get started, could you please provide me with the specific products you would like to purchase? Once I have that information, I can assist you further in placing your order and ensuring a satisfying shopping experience.

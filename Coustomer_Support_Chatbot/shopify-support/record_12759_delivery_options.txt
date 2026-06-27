@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery Country}}
+
+Answer: Unquestionably! Let's explore the shipping options available for shipments to {{Delivery Country}}:
+
+1. Standard Shipping: This option usually takes around 5-7 business days for delivery to most parts of {{Delivery Country}}.
+2. Expedited Shipping: If you need your items sooner, you can choose expedited shipping, which typically takes 2-3 business days.
+3. Priority Shipping: For the fastest shipping option, choose priority shipping, which ensures delivery within 1-2 business days.
+
+Please keep in mind that the exact delivery time may vary based on your specific location. If there's anything else I can assist you with or if you have any other questions, feel free to let me know. I'm here to help you!

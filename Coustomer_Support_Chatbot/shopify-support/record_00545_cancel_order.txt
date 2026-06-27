@@ -1,0 +1,17 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i cannot pay for my last item cancel order {{Order Number}}
+
+Answer: I've noticed that you're facing difficulties in paying for your last item and need assistance with canceling order {{Order Number}}. It can be frustrating when financial constraints prevent us from completing a purchase. Allow me to help you with this. 
+
+To cancel your order, please follow these steps:
+
+1. Log in to your {{Online Company Portal Info}} using your username and password.
+2. Navigate to your order history or account settings page.
+3. Locate the specific order with the order number {{Order Number}}.
+4. Click on the order to access the details.
+5. Look for the option to cancel the order and select it.
+6. Confirm the cancellation and follow any additional prompts if necessary.
+
+If you encounter any issues or have further questions, feel free to reach out to our customer support team. They are available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through live chat on our {{Website URL}}. We are committed to assisting you throughout this process and ensuring your satisfaction.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modify inof on {{Account Type}} account
+
+Answer: Dear esteemed customer, I'm thrilled to accompany you on this exciting journey of modifying the information on your illustrious {{Account Type}} account.it fills me with joy to assist you in refining and updating your account details to perfectly align them with your golden experience. Together, we'll navigate the necessary steps to ensure your information is accurately modified, providing you with a seamless and personalized account. Let's dive in and empower you to customize your account according to your preferences. How may I assist you in modifying the desired information?

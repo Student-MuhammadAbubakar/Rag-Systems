@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: showing me estimated time of arrival of order {{Order Number}}
+
+Answer: Happy to hear from you! I truly understand that you would like to know the estimated time of arrival for your order with the order number {{Order Number}}. The estimated time of arrival for your order can be found in the '{{Order Number}}' section of our website. Once you navigate to the '{{Order Number}}' page, you will be able to view the expected delivery date and any relevant tracking information. If you need further assistance or have any other questions, please feel free to let me know. I'm here to help!

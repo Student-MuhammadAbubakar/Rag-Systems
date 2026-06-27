@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: want help speaking with custgomer service
+
+Answer: Your message means a lot! I'm aligned with the idea that you want assistance in speaking with our customer service team. It's great that you've reached out, and I'm here to guide you through the process. To get in touch with our customer service, you can reach us at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} to address any questions or concerns you may have. We're dedicated to providing you with the support you need. Please let me know if there's anything else I can assist you with.

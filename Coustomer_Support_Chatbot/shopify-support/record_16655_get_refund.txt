@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimbursing {{Refund Amount}} ddollars
+
+Answer: I get it that you are seeking a reimbursement for the amount of ${{Refund Amount}}. I apologize for any inconvenience or dissatisfaction this issue may have caused you. To assist you with this matter, I would recommend reaching out to our customer support team. They will be able to provide you with the necessary guidance and instructions on how to proceed with your reimbursement request. Please rest assured that we value your satisfaction and will do our best to resolve this promptly.

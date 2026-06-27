@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: how do i get my bills rfom {{Person Name}}
+
+Answer: I'm on the same wavelength, your confusion about how to access your bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process step by step. To get your bills, you can log in to your account on our website. Once you're logged in, navigate to the "Billing" section or "Account" section. There you should find a tab or option labeled "Invoices" or "Bills." Click on that, and you should see a list of your bills, including the one from {{Salutation}} {{Client Last Name}}. If you have any further questions or need additional assistance, please don't hesitate to let me know. I'm here to help!

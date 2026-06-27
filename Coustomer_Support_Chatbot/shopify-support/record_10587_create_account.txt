@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creating new {{Account Category}} account for daughter
+
+Answer: That's fantastic that you're considering creating a new {{Account Category}} account for your daughter! Our {{Account Category}} account offers a range of exclusive benefits and services that can enhance her banking experience. To get started, I will need a few details from you. Can you please provide your daughter's full name, date of birth, and a preferred username? Once I have this information, I will guide you through the account creation process, ensuring a seamless experience for both you and your daughter. Rest assured, we prioritize the security and privacy of our customers' information, and your daughter's personal details will be protected with the utmost care. Let's make this process as smooth as possible for you and your daughter! How are you feeling about this exciting opportunity?

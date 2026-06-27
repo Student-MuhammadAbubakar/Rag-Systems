@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a rebate of {{Refund Amount}} dollars
+
+Answer: I understand the importance of your patience while waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}. We apologize for any delay and assure you that we are actively working on processing your rebate. To provide you with an accurate update, could you please provide me with some additional information such as your purchase or order number? This will help me track down the status of your rebate and expedite the process for you. Thank you for your cooperation and understanding.

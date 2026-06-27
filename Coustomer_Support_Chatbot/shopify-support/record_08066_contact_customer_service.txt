@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to see whay hours I can call customer support
+
+Answer: I hear you! I'm following you that you would like to know the hours during which you can contact our customer support for assistance. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach them by calling our toll-free number at {{Customer Support Phone Number}}. If you have any other questions or concerns, feel free to let me know.

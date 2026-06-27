@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a bloody rebate of {{Currency Symbol}}{{Refund Amount}}, was it processed already
+
+Answer: I grasp the importance of your ${{Refund Amount}} rebate. Every dollar matters, and I'm here to assist you. Let me quickly check if your rebate has been processed. While I look into this, could you please confirm your account details? We want to ensure that we provide the most accurate information to you. Rest assured, I'll do everything I can to give you an update on your rebate as soon as possible.

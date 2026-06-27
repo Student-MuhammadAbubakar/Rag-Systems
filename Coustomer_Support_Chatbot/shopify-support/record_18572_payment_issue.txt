@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: notify of trouble with online payments
+
+Answer: I'm sorry to hear that you're experiencing trouble with online payments. Rest assured, we are here to help resolve this issue for you. To assist you better, could you please provide specific details about the trouble you are facing? This will enable us to identify the root cause and offer appropriate solutions. Your feedback is invaluable, and we appreciate your patience as we work towards resolving this matter. Thank you for reaching out to us.

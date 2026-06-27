@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get ibll #00108
+
+Answer: I grasp your need to access the bill with the number #{{Invoice Number}}. Give me just a moment while I retrieve that information for you. In the meantime, if you have any other questions or concerns, please feel free to let me know. I'm here to assist you.

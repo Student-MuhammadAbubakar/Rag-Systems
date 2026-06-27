@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have paid {{Currency Symbol}}{{Refund Amount}} for an item, help to receive my money back
+
+Answer: I've grasped that you're looking for assistance in receiving a reimbursement for the item you purchased for ${{Refund Amount}}. Please allow me to assure you that I'm here to support you throughout this process. To start, could you kindly provide me with some additional details about the purchase? Specifically, I would need information such as the order number, purchase date, and any relevant documentation to ensure a smooth and efficient resolution. Once I have these details, I can guide you through the necessary steps to initiate the refund process and work towards getting your money back. Rest assured, I'm committed to ensuring your satisfaction and will do everything possible to expedite this matter for you.

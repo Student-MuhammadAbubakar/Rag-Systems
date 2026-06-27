@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what to do to check my inovice #00108
+
+Answer: I truly understand your predicament in not knowing how to check your invoice with the number #{{Invoice Number}}. Let's go through the steps together to ensure that you locate it successfully. First, please log in to your account on our website. Once you're logged in, navigate to the "Account" or "Billing" section. From there, you should be able to find a tab or option specifically labeled "Invoices" or "Billing History." Click on that option, and it should display a list of your past invoices. Look for the invoice with the number #{{Invoice Number}} and click on it to view the details. If you encounter any issues during this process, feel free to reach out for further assistance.

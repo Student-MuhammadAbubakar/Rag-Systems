@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how could I swap some products of purchase {{Order Number}}?
+
+Answer: We appreciate you reaching out to us regarding your purchase with order number {{Order Number}} and your desire to swap some products. We understand the importance of ensuring you receive the items that meet your expectations. To facilitate this process, we recommend contacting our customer support team directly. They have the expertise to assist you in making the necessary changes to your purchase. Our team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process of swapping the products in your purchase. We value your satisfaction and will do everything we can to ensure your order meets your needs.

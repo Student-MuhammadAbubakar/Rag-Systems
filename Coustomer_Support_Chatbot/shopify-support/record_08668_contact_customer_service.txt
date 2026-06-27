@@ -1,0 +1,12 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i want assistance talking to customer service
+
+Answer: Thank you for reaching out! I completely understand that you need assistance talking to our customer service team. Our dedicated representatives are here to help address your concerns and provide the support you need. To facilitate your conversation with them, you can reach out to our customer service through the following channels:
+
+1. Phone: {{Customer Support Phone Number}}
+2. Email: {{Customer Support Email}}
+3. Live Chat: Visit our website at {{Website URL}} and click on the live chat option to connect with a representative in real-time.
+
+Please feel free to provide any additional information or questions you may have, and we'll make sure to assist you promptly.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I'm trying to report a problem with online payment
+
+Answer: We've received your message to us to report a problem with your online payment. We understand the importance of resolving this issue promptly and ensuring a seamless payment experience for you. Could you please provide more details about the problem you encountered? Any specific error messages or steps leading up to the issue would be helpful. With your valuable input, we can work together towards a swift resolution. We appreciate your patience and cooperation in this matter.

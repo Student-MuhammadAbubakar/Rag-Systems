@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: track_order
+
+Question: I don't know what I have to do to track order {{Order Number}}
+
+Answer: Thank you for contacting! I certainly recognize that you are unsure of the steps to track your order with the order number {{Order Number}}. To track your order, you can follow these simple instructions:
+
+1. Visit our website and log in to your account.
+2. Go to the "Order History" or "Track My Order" section.
+3. Enter your order number {{Order Number}} and click on the "Track" button.
+4. You will be provided with real-time updates on the status and location of your order.
+
+If you encounter any difficulties or have any other questions, feel free to ask. I'm here to assist you throughout the process.

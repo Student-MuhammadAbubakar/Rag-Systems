@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have troubles editing the address
+
+Answer: I'm sorry to hear that you're having troubles editing your address. Please provide me with your current address and the new address you'd like to change it to, and I'll assist you in updating it in our system.

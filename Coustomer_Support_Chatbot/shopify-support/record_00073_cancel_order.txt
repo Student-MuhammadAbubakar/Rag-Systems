@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can't pay for this item, can I cancel order {{Order Number}}?
+
+Answer: I'm sorry to hear that you're having trouble paying for your order, and I can definitely assist you with canceling order {{Order Number}}. By canceling the order, you won't need to worry about the payment for this particular item. Let me guide you through the cancellation process so that we can resolve this issue for you swiftly and efficiently.
+
+1. Sign into Your Account: Please log in to your {{Online Company Portal Info}} using your credentials.
+2. Access Your Order History: Once logged in, navigate to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section.
+3. Find the Relevant Order: Look for the purchase associated with the order number {{Order Number}}. Click on it to view the order details.
+4. Initiate Cancellation: Within the order details, you should see an option to '{{Online Order Interaction}}'. Please click on it to proceed with the cancellation.
+5. Confirm the Cancellation: Follow the instructions presented on the screen to confirm the cancellation request.
+6. Payment and Refund: Once the cancellation is successful, you will receive the necessary guidance on any pending payments or refunds.
+
+Remember, you can reach out to our dedicated support team at any time during {{Customer Support Hours}} by calling {{Customer Support Phone Number}} or utilizing the Live Chat feature on our {{Website URL}}. We are committed to assisting you throughout this process and ensuring your satisfaction.

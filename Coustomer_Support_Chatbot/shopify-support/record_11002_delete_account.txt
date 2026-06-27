@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: can ya help me cancel a {{Account Type}} cacount
+
+Answer: I appreciate your reaching out to us for assistance with canceling your {{Account Type}} account. I understand the importance of ensuring that our customers have control over their subscriptions. I would be happy to guide you through the cancellation process. Before we proceed, could you please provide me with some additional details, such as your account information or any specific issues you are facing while trying to cancel? This information will allow me to provide you with personalized and accurate guidance.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update data on premium account
+
+Answer: We appreciate your intention to update the data on your premium account. As a valued customer at {{Company Name}}, we understand the importance of maintaining accurate information for a personalized experience. To assist you with this update, could you please provide the specific data you would like to modify? Our team is here to guide you through the process and ensure a smooth and seamless update. Let's work together to make your premium account even better!

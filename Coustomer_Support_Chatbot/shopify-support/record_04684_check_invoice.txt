@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I need help checking the biol #37777
+
+Answer: I get that you need assistance with checking the invoice with the number {{Invoice Number}}. Rest assured, I'm here to guide you through the process and help you locate the information you need. Can you please provide me with some additional details, like the date of the invoice or any other relevant information? This will enable me to narrow down the search and provide you with accurate and timely assistance.

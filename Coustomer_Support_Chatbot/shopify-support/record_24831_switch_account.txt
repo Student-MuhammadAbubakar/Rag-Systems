@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help using the standard account
+
+Answer: I'll get right on it! I'm here to assist you in making the most of your standard account. Allow me to guide you through the process:
+
+1. Access Your Account: Start by logging into our platform.
+2. Navigate to Account Settings: Once you're logged in, locate the '{{Settings}}' section on our platform.
+3. Explore {{Account Type}} Features: Within the Account Settings, you'll discover a range of features available with the standard account. Familiarize yourself with these functionalities to maximize your experience.
+4. Access Help and Support: If you encounter any difficulties or need clarification on specific features, you can always access the Help and Support section. Here, you can find articles, FAQs, and even contact our support team for further assistance.
+5. Stay Updated: To stay informed about the latest updates and enhancements to the standard account, be sure to visit our blog or subscribe to our newsletter.
+
+If you require any further guidance or have any specific questions, please don't hesitate to reach out. I'm here to ensure your experience with the standard account is productive and fulfilling.

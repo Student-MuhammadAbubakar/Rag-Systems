@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I delete several articles from purchase {{Order Number}}?
+
+Answer: I'm with you, your concern about deleting several items from purchase number {{Order Number}}. We're here to assist you with that. To ensure we provide accurate support, could you please let us know the specific items you wish to delete? Once we have this information, we'll promptly guide you through the process and ensure your purchase is updated according to your preferences. Your satisfaction is our top priority!

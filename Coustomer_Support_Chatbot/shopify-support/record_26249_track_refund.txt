@@ -1,0 +1,8 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a compensation of {{Refund Amount}} dollars
+
+Answer: I understand the importance of your compensation of {{Currency Symbol}}{{Money Amount}}. It can be frustrating to wait for it, and I want to assure you that I will do everything in my power to assist you. Let me quickly check the status of your compensation. While I gather the information, may I ask if you have submitted all the necessary documentation for your claim? Your input will help me provide you with the most accurate update. Thank you for your patience and understanding.
+
+Please note that the RESPONSE above contains personalized elements which need to be anonymized using double curly brackets.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: opening pro account
+
+Answer: Congratulations on your decision to open a {{Account Type}} account! It's great to see your eagerness to explore the benefits and features of this premium account. To get started, may I kindly ask you to provide your full name, email address, and a preferred username? Once I have these details, I'll guide you through the account creation process and ensure a seamless experience for you. Remember, we prioritize your privacy and security, so you can trust that your information will be handled with the utmost care. Let me know if you have any questions or if there's anything else I can assist you with along the way.

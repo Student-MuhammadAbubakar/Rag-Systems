@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how long does it usually take for a product to arrive?
+
+Answer: We understand your curiosity about the typical delivery time for our products. The shipping duration may vary depending on several factors such as the shipping method, destination, and current workload. Generally, our estimated delivery time ranges from {{Min Delivery Time}} to {{Max Delivery Time}}. However, please keep in mind that these are approximate estimates and may be subject to unexpected delays. If you provide us with the {{Order Number}} or {{Tracking Number}}, we can provide you with a more accurate estimate of your specific shipment. We value your interest in our service and your satisfaction is our top priority. How can we assist you further?

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a bloody refund of {{Currency Symbol}}{{Refund Amount}}, has it been processed?
+
+Answer: Firstly, I genuinely understand the importance of receiving your expected refund of {{Currency Symbol}}{{Refund Amount}}. We strive to ensure a seamless refund process and I apologize for any inconvenience caused. Let me check the current status of your refund for you. Kindly allow me a moment to review the details and provide you with an update. Thank you for your patience in this matter.

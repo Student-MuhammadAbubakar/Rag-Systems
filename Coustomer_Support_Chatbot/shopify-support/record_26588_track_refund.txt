@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for an bloody restitution of {{Refund Amount}} dollars
+
+Answer: To begin with, I want to express my sincere empathy towards your situation. We understand how crucial it is for our customers to receive their refunds promptly. Let me assure you that we are working diligently to resolve your inquiry and update you on the status of your restitution. May I kindly ask for your patience for a little longer? We genuinely value your continued support and trust in our commitment to providing exceptional service.

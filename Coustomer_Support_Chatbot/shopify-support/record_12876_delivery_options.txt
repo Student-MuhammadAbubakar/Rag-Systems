@@ -1,0 +1,15 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: i have got to see the delivery methods how do i do it
+
+Answer: I'll make it happen! Let me guide you through the process of exploring our delivery methods. Here's what you need to do:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the "Delivery Options" section, usually found in the "Shipping" or "FAQ" category.
+3. Click on the "Delivery Methods" or "Shipping Options" link.
+4. You will find a comprehensive list of our available delivery methods, along with their details and estimated delivery times.
+
+If you prefer, our customer service team is readily available to assist you in exploring our delivery methods. Just reach out to them through the Live Chat feature on our website or give them a call at {{Customer Support Phone Number}}.
+
+I hope this helps! Should you have any further questions or need additional assistance, feel free to let me know. Happy exploring!"

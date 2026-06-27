@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I would like information about my {{Account Type}} account cancellation
+
+Answer: Appreciate you reaching out about the cancellation of your {{Account Type}} account. I understand that you have made the decision to cancel, and I want to ensure that the process is as smooth as possible for you. To get specific information about the cancellation of your {{Account Type}} account, I recommend contacting our customer support team directly. They will be able to provide you with detailed instructions tailored to your account. You can reach our customer support team through our website at {{Website URL}} or by calling {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} and will be more than happy to assist you with the cancellation process.

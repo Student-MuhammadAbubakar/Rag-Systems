@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: track purchase {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you with tracking the status of your purchase with the order number {{Order Number}}. To provide you with the most accurate and up-to-date information, could you please provide me with the email address or phone number associated with your order? This will help me locate your purchase and provide you with the detailed tracking information. Feel free to provide the information and any other questions or concerns you may have. I'm here to help you every step of the way!

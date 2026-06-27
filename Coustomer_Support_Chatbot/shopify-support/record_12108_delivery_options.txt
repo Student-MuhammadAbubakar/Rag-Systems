@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship to {{Delivery Country}}?
+
+Answer: Sure! We offer shipping services to {{Delivery Country}}, allowing you to conveniently receive our products in the Land of the Rising Sun. Our global shipping network ensures reliable and efficient delivery to numerous locations worldwide. Whether you're in Tokyo, Osaka, or any other city in {{Delivery Country}}, we've got you covered. Feel free to explore our range of products and place your order with confidence. If you have any further questions or require assistance with your order, please don't hesitate to let me know. I'm here to help make your shopping experience smooth and enjoyable!

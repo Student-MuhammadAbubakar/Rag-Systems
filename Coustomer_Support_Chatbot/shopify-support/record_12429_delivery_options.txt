@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: delieries to {{Delivery City}}
+
+Answer: Ah, the shining city of {{Delivery City}}! A place with rich history and vibrant culture. Let me guide you through the delightful delivery options available for your area:
+
+1. Standard Shipping: Experience the beauty of anticipation as your package arrives within {{Date Range}} business days.
+2. Expedited Shipping: For the more time-sensitive needs, expect your package in {{Date Range}} business days.
+3. Overnight Shipping: When urgency is paramount, rest assured that your package will arrive at the speed of light by the next business day.
+4. In-Store Pickup: Conveniently collect your items from our nearby {{Store Location}}.
+
+{{Delivery City}} holds many wonders, and now, with these delivery options, you can explore the world from the comfort of your home. Remember, should you need any further assistance or information, I'm delighted to assist you on this extraordinary journey!

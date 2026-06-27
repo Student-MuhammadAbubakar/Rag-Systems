@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: how could I get information about a pro account deletion?
+
+Answer: Thanks for dropping us a line to us and expressing your interest in obtaining information about the deletion of a {{Account Type}} account. I completely understand the importance of wanting to be well-informed and make informed decisions regarding your account. Our company is dedicated to providing clear and concise information to our customers. To get detailed information about the deletion process of a {{Account Type}} account, I recommend visiting our website's Help Center. There, you will find a dedicated section on account management that includes step-by-step instructions and frequently asked questions related to account deletion. If you have any specific questions or need further clarification, please don't hesitate to ask. We are here to assist you throughout the entire process, ensuring that you have all the information you need. Remember, your satisfaction is our top priority, and we want to make sure that you feel supported and empowered in your decision-making.

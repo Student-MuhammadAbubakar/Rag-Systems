@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: uhave a free number to get in touch with customer assistance
+
+Answer: Thank you for contacting! I certainly recognize that you're looking for a toll-free number to get in touch with our customer assistance. Our customer service team can be reached at {{Customer Support Toll-Free Number}}. They are available {{Customer Support Hours}} to assist you with any inquiries or concerns you may have. Feel free to reach out to them at your convenience. Is there anything else I can assist you with?

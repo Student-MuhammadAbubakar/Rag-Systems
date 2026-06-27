@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know what I have to do to report payment issues
+
+Answer: If you're uncertain about the steps to report payment issues, don't worry, I'm here to guide you through it. To report payment issues, you can reach out to our customer support team by calling {{Customer Support Phone Number}} or sending an email to {{Customer Support Email}}. Our dedicated team will assist you in resolving the payment problems you're facing and provide further guidance if needed. We appreciate your proactive approach in reporting these issues and allowing us to improve our services.

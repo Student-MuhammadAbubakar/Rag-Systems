@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a rebate of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Your expectation for a rebate of {{Currency Symbol}}{{Refund Amount}} is valid and we understand how important it is for you. Let me assure you that I will do everything possible to assist you in tracking your rebate. To get the most up-to-date information, can you please provide me with your rebate reference number or any other relevant details? By doing so, we can work together to ensure the process goes smoothly and you receive the rebate you are entitled to. Thank you for your patience and cooperation.

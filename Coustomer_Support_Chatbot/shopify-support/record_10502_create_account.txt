@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want a {{Account Type}} account, help me create it
+
+Answer: That's great to hear that you're interested in creating a {{Account Type}} account with us! I'll be more than happy to assist you throughout the process. To get started, could you please provide me with your full name, email address, and a preferred username? This information will help us set up your account quickly and efficiently. Rest assured that we prioritize the security and privacy of your data. Once I have these details, I'll guide you step by step to create your {{Account Type}} account. Feel {{Account Type}} to ask any questions you have along the way. How does that sound?

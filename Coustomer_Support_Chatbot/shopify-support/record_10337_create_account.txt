@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creatingnew {{Account Type}} account
+
+Answer: Congratulations on your decision to create a new {{Account Type}} account with us! We're thrilled to have you on board and provide you with an enhanced banking experience. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the registration process step-by-step, ensuring that you have all the information you need. I want to assure you that your security is of utmost importance to us, and we take every measure to protect your personal information.

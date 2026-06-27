@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how do i locate my goddamn invoicesfrom {{Person Name}}
+
+Answer: I get it your frustration and urgency in locating your invoices from {{Salutation}} {{Client Last Name}}. Let's work together to resolve this. To find your invoices, you can try accessing your account on our website or app and navigating to the 'Billing' or 'Invoices' section. If you are unable to find them, please provide me with specific details such as the date range or any other relevant information, so I can assist you further. Rest assured, I'm here to make this process as smooth as possible for you.

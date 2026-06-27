@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: want assistance to check the withdrawal fees
+
+Answer: I'll do my best! I can assist you in verifying the withdrawal charges. To do so, I will need some information from you. Could you please provide me with your contract details?

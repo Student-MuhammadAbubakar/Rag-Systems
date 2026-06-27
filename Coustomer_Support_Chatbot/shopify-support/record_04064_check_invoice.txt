@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where to give a quick look at the invoice #85632?
+
+Answer: To quickly review your invoice with the number #{{Invoice Number}}, you can find it in your account dashboard. Simply log in to your account, navigate to the "Billing" or "Invoices" section, and you should be able to locate the invoice #{{Invoice Number}}. If you need further assistance, please feel free to let me know.

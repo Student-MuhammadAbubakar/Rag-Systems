@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I place an order from {{Delivery Country}}?
+
+Answer: Absolutely! We're committed to serving customers from all corners of the United States, including the entire {{Delivery Country}}! You can place an order with us regardless of your location within the country. Our expansive delivery network ensures that we can reach you wherever you are in the {{Delivery Country}}. So go ahead and explore our wide selection of products and place your order with confidence. If you have any specific concerns or questions about delivery to your area, feel free to let me know, and I'll be more than happy to assist you further. Let's make your shopping experience from the {{Delivery Country}} a seamless one!

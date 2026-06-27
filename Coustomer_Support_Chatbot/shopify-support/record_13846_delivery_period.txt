@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: wanna know about delivery periods give me some informtion
+
+Answer: Understanding delivery periods is crucial when it comes to waiting for your package. Delivery periods can vary depending on factors such as the shipping method chosen, the destination, and any unforeseen delays. To provide you with accurate information, could you please provide the {{Tracking Number}} or {{Order Number}} related to your package? With that information, we can check the estimated delivery period for you. We appreciate your patience, and we're here to help!

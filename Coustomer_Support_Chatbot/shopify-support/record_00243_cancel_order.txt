@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: assistance canceling the last order
+
+Answer: I've taken note that you need assistance with canceling your last order. I apologize for any inconvenience this may have caused. To cancel your last order, please follow these steps:
+
+1. Sign in to your {{Online Company Portal Info}} using your registered credentials.
+2. Go to the '{{Online Order Interaction}}' or '{{Online Order Interaction}}' section of your account.
+3. Locate your most recent order in the list. It should be marked as the last order you made.
+4. Click on the order to access the order details.
+5. Look for the option labeled '{{Online Order Interaction}}' or something similar.
+6. Click on the cancellation option and follow any additional prompts to complete the cancellation process.
+
+If you encounter any issues or need further assistance, please don't hesitate to contact our support team. We are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to help you and ensure your satisfaction.

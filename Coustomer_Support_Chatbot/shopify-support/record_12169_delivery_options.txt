@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i order frlm {{Delivery City}}
+
+Answer: Greetings! We extend our services to cater to customers from diverse locations, including **{{Delivery City}}**. You can easily place an order from our platform, and we'll make sure it reaches you promptly. If you have any specific preferences or requirements, feel free to let us know, and we'll guide you further. Trust us to provide a seamless shopping experience tailored just for you.

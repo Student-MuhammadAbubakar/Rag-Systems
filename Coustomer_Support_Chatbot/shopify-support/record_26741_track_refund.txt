@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I want assistance to check my reimbursement status
+
+Answer: I'll make it happen! I understand that you would like to check the status of your reimbursement. Your request is important to us, and I'm here to provide you with the information you need. In order to assist you accurately, could you please provide me with the following details:
+
+1. The date when you submitted your reimbursement request.
+2. The method of reimbursement (e.g., bank transfer, credit card refund).
+3. Any reference number or additional details related to your reimbursement request.
+
+With this information, I'll be able to promptly look into the status of your reimbursement and provide you with an update. Thank you for reaching out to us, and I appreciate your cooperation.

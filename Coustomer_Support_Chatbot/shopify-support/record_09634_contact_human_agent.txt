@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: can you help me speaking with a live agent?
+
+Answer: We appreciate your message! It's clear to me that you would like to speak with a live agent. I'm here to assist you with that. To speak with a live agent, you can either click on the "Chat with Us" button on our website or call our customer support hotline at {{Customer Support Phone Number}}. Our dedicated team of agents is ready to provide you with personalized assistance. Is there anything else I can help you with?

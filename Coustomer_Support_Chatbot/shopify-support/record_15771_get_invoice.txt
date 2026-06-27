@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I would like to downloasd bill #00108, can you help me?
+
+Answer: I see what you mean your request to download bill #{{Invoice Number}}. Let me assist you with that. Please give me a moment to retrieve the invoice and provide you with the necessary steps to download it. Your satisfaction is my priority, so please don't hesitate to reach out if you have any further questions or concerns.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: what do I have to do to contact a person?
+
+Answer: Thank you for reaching out! I completely understand that you would like to know the process of contacting a person. To contact a person, you can reach out to our customer support team through various channels such as phone, email, or live chat. Our dedicated representatives are available to assist you and provide the support you need. If you prefer speaking over the phone, you can contact our helpline at {{Customer Support Phone Number}}. Alternatively, you can send an email to our support team at {{Customer Support Email}} or initiate a live chat on our website at {{Website URL}}. These options will connect you with a person who can address your queries and provide the assistance you require. We value your time and are here to assist you promptly and effectively.

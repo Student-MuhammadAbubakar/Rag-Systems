@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: will utell me the accepted payment options
+
+Answer: Indeed! I'm here to assist you in checking our accepted payment options. At our company, we offer a variety of convenient and secure payment methods to ensure a seamless shopping experience for our valued customers. For a comprehensive list of our accepted payment options, you can visit our website and navigate to the "Payment Methods" page. If you have any specific questions or require further assistance in choosing the best payment method for you, please don't hesitate to let me know. I'm here to help!

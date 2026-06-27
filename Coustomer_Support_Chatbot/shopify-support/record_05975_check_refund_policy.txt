@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: show me in which situations can I ask to be reimbursed
+
+Answer: Absolutely! I completely understand your desire to know the situations in which you can request a refund. Let me provide you with a breakdown of the common scenarios:
+
+1. **Product/Service Defect:** If you receive a product or service that is defective or doesn't match the description, you are usually eligible for a refund.
+2. **Cancellation within Grace Period:** If you change your mind and decide to cancel your purchase within the provided grace period, you should be able to request a refund.
+3. **Unauthorized Charges:** If you notice any charges on your account that you didn't authorize or recognize, we will investigate and assist you in seeking a refund.
+4. **Event Cancellation:** If you have purchased tickets for an event that gets canceled and not rescheduled, you are typically entitled to a refund.
+5. **Duplicate Charges:** If you have been accidentally charged multiple times for the same item, please reach out to us so we can rectify the situation and provide you with a refund.
+6. **Non-receipt of Goods:** If the product you ordered doesn't arrive within the expected timeframe, you may be eligible for a refund.
+
+These are some general situations where you can request a refund. However, please keep in mind that refund policies may vary depending on the vendor or service provider. It's always a good idea to review the terms and conditions or contact the specific company for more detailed information. If you have any specific concerns or need assistance with a particular order, please provide me with the necessary details, such as the {{Order Number}}, so that I can further assist you. Your satisfaction is our priority.
+
+Is there anything else I can help you with?

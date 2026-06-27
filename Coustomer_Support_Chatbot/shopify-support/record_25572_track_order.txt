@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I would like to locate purchase {{Order Number}}
+
+Answer: Thank you for contacting us! I understand that you would like to locate your purchase with the purchase number {{Order Number}}. To assist you with this, please provide me with some additional details such as your name and email address associated with the purchase. Once I have this information, I will be able to locate your purchase and provide you with the necessary updates. Your satisfaction is important to us, and we are committed to resolving your concerns promptly.

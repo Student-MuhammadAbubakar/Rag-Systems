@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe {{Account Type}} account
+
+Answer: I realized you would like to close your {{Account Type}} account. I apologize for any inconvenience this may have caused you. Our team is here to assist you with the account closure process. To proceed with closing your {{Account Type}} account, we will need some additional information. Could you please provide us with your account details such as your username or email address? This will allow us to locate your account and guide you through the closure process smoothly. Thank you for considering our service, and we appreciate your understanding in this matter.

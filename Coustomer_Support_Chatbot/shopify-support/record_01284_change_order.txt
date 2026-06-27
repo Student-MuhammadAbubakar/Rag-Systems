@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot swap some items of order {{Order Number}}
+
+Answer: I perceive that you're unable to swap some items in order {{Order Number}}. Thank you for bringing this to our attention. Our team is here to assist you in resolving this issue promptly. To better understand the situation, could you please provide more details about the items you want to swap? This will enable us to find the best solution for you. We appreciate your patience and look forward to helping you with your order modifications.

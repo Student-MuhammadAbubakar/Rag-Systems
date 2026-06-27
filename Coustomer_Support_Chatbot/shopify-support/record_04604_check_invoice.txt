@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i want assistance to find the bikll #00108
+
+Answer: I comprehend your need for assistance in finding the specific bill with the number #{{Invoice Number}}. Rest assured, I'm here to guide you through this process. To help you more efficiently, could you kindly provide me with additional details such as the date range or any specific information related to the bill? With that information, we can work together towards locating your bill successfully.

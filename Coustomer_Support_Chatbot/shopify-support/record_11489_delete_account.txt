@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: couldyou help me to cancel the goddamn {{Account Type}} account?
+
+Answer: Glad you contacted to us for assistance with canceling your {{Account Type}} account. I apologize if you're feeling frustrated, and I assure you that we are here to help. To get the cancellation process started, I kindly ask for some additional information. Could you please provide me with your account details such as your username or customer ID? This will allow me to locate your account quickly and provide you with the necessary steps to cancel your {{Account Type}} account. Your satisfaction is our priority, and we're committed to resolving this for you efficiently and effectively.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can I open a {{Account Type}} account for my daughter?
+
+Answer: Certainly! I'm thrilled to assist you in opening a {{Account Type}} account for your daughter. It's a great opportunity to help her cultivate a healthy financial habit from an early age. To start the process, I'll need some basic information from you. Could you kindly provide me with your daughter's full name, date of birth, and a preferred username for her account? Rest assured that we prioritize the security and privacy of our customers, so you can trust that her information will be handled with utmost care. Let's make banking a breeze for your daughter!

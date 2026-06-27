@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i dont know what i need to do to open a {{Account Type}} account
+
+Answer: Thank you for expressing your interest in opening a {{Account Type}} account with us! I'm here to guide you through the process and provide you with all the necessary steps. To open a {{Account Type}} account, you will need to start by visiting our website and navigating to the account creation page. From there, select the option to create a new account and choose "{{Account Type}}" as the account type. Fill in the required information, such as your personal details and contact information. Once you have completed the form, review the terms and conditions and click the "Submit" button. Our system will then process your application, and you will receive a confirmation email with further instructions. If you have any specific questions or need assistance at any point during the process, please don't hesitate to reach out. We're here to help you create a seamless experience and enjoy the benefits of our {{Account Type}} account.

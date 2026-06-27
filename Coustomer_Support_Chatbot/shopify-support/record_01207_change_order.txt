@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: update purchase00123842
+
+Answer: Thank you for getting in touch to us regarding your purchase with the code {{Order Number}} and your request to update it. We value your satisfaction and would be happy to assist you with any changes you'd like to make. To better understand your needs, could you please provide more details about what specific updates or modifications you would like to make to your purchase? Your feedback is vital to ensuring that we meet your expectations and make the necessary adjustments.

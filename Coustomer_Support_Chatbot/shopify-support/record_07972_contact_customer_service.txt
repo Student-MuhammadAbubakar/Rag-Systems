@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I do not know what to do to call customer assistance
+
+Answer: Your message means a lot! I'm aligned with the idea that you are unsure about how to call our customer assistance team. Allow me to guide you through the process. To reach our customer service, you can dial our dedicated helpline at {{Customer Support Phone Number}} during our customer support hours. Our team of experts will be more than happy to assist you with any questions or concerns you may have. If you encounter any difficulties while making the call, please let me know, and I'll be here to help you further.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where do i inform of a trouble with payments
+
+Answer: I've picked up that you're encountering some troubles with your payments and you're looking for a way to report them. Our dedicated customer support team is here to assist you and gather all the necessary details about the issue. You can reach out to them by visiting our website and navigating to the 'Contact Us' or 'Support' page. Alternatively, you can also connect with our support team through our customer support hotline at {{Customer Support Phone Number}} or via our live chat feature on our website. They will guide you through the process of reporting the payment trouble and ensure that your concerns are properly addressed. We appreciate your patience and cooperation as we work together to resolve this matter.

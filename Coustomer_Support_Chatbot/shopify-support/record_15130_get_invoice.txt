@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get bill fromMr. Smith
+
+Answer: I realized, you would like to get a bill from {{Person Name}}. Let me assist you with that. Could you please provide me with the invoice number or any other relevant details such as the date range or specific products/services associated with the bill? This will help me locate and retrieve the bill more efficiently. Feel free to share any additional information or ask any questions you may have. I'm here to help you with all your billing needs.

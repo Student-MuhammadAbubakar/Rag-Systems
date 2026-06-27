@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help switching something of purchase {{Order Number}}
+
+Answer: I see your need for assistance in switching an item in purchase number {{Order Number}}. Our team is here to help resolve this for you. To proceed with the switch, could you please provide more details about the item you would like to switch and the alternative item you would like to replace it with? This information will enable us to assist you promptly and ensure that the switch meets your requirements. Feel free to share any specific preferences or concerns you may have. We are committed to making this process as smooth and satisfactory as possible for you.

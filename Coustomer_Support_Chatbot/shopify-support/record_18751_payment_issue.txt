@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: issue with payment
+
+Answer: I'm sorry to hear that you're experiencing an issue with your payment. Rest assured, I'm here to assist you in resolving this matter. To better understand the problem, could you please provide more details about the specific issue you're encountering? Whether it's a declined payment, an error message, or any other issue, your insights will help us pinpoint the problem and work towards a solution. Thank you for reaching out, and I appreciate your cooperation in getting this resolved swiftly.

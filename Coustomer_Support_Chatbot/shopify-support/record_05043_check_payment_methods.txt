@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I don't know how to list the payment options
+
+Answer: No worries, I'm here to help you. To view our list of payment options, you can simply visit our website and navigate to the "Payment Methods" section. Alternatively, you can reach out to our customer support team, and they will be more than happy to guide you through the process. Remember, we have a wide range of payment options available to ensure convenience for all our customers. Let me know if there's anything else I can assist you with!

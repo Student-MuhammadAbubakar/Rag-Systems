@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I want to remove an item from order {{Order Number}}, I need hepl
+
+Answer: We've received your message to us with your request to remove an item from order number {{Order Number}}. We are here to assist you. To better understand your needs, could you kindly provide us with the details of the item you would like to remove? With this information, we will be able to help you process the necessary changes to your order.

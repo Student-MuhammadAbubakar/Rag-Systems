@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how to create a {{Account Category}} account
+
+Answer: Thank you for your interest in creating a {{Account Category}} account! I'm here to guide you through the process and ensure a smooth experience. To create a {{Account Category}} account, you can either visit our website and click on the "Sign Up" button, or you can download our mobile app from the App Store or Google Play and follow the registration steps. During the registration, you'll be asked to provide your personal information, such as your full name, email address, and a password. Once that's done, you'll have successfully created your {{Account Category}} account! If you have any questions or encounter any difficulties along the way, feel free to reach out to our customer support team, available 24/7. We're excited to have you as a {{Account Category}} member!

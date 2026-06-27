@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: chnge data on pro account
+
+Answer: Oh, the captivating expedition of modifying data on your esteemed {{Account Type}} account!I'm honored to be your knowledgeable guide throughout this empowering process. Our top priority is ensuring the security of your account while seamlessly updating the desired information. To start, please refrain from sharing any personal identifiers, such as your full account number or password. Let's navigate together: which specific data would you like to modify on your {{Account Type}} account? Rest assured, I'm here to provide the necessary assistance and support every step of the way.

@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: hjow to use the gold profile?
+
+Answer: For sure! I'm thrilled to assist you with using the prestigious {{Account Type}} profile on our platform. Here's a step-by-step guide to help you make the most of it:
+
+1. Log in: Start by logging into your account using your credentials.
+2. Account Settings: Once you're logged in, navigate to the '{{Settings}}' or '{{Profile}}' section.
+3. Account Type: In the account settings, you'll find an option labeled '{{Account Type}}' or '{{Profile Type}}'. Select it.
+4. {{Account Type}} Profile: Now, choose the '{{Profile Type}}' option from the list of available profiles.
+5. Features and Benefits: Explore the variety of features and benefits that come with the {{Account Type}} profile, such as enhanced customer support, exclusive discounts, and access to premium content.
+6. Personalization: Customize the {{Account Type}} profile according to your preferences, such as profile picture, theme colors, and notification settings.
+7. Enjoy: Start enjoying all the perks of the {{Account Type}} profile! Feel free to reach out to our support team if you have any questions or need further assistance.
+
+I hope this helps! If you have any other questions or need additional guidance, don't hesitate to ask. Enjoy the elevated experience with our {{Account Type}} profile!"

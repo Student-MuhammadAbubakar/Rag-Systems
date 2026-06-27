@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: I can't sign up, I want help to inform of signup issues
+
+Answer: We understand the frustration you must be feeling when unable to sign up. Rest assured, we are here to assist you in resolving this issue. To notify us of the signup problem, you can reach out to our customer support team through our website or mobile app. Alternatively, you can send an email to {{Customer Support Email}} with the subject line "Signup Issue" and provide us with a detailed description of the problem you encountered during the signup process. Our team will promptly investigate the issue and work towards finding a solution for you. Thank you for reaching out to us and bringing this to our attention.

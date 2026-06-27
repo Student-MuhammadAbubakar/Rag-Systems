@@ -1,0 +1,17 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I can't set a new delivery address up
+
+Answer: I get that you're facing difficulties in setting up a new delivery address, and I'm here to assist you in resolving this issue. Let's troubleshoot the problem together:
+
+1. First, ensure that you are logged into your account on our website.
+2. Go to the "My Account" or "Profile" section, which is usually located in the top right corner of the page.
+3. Look for an option related to managing addresses, such as "Shipping Addresses," "Delivery Information," or "Address Book."
+4. Click on that option to access the address management page.
+5. If you already have a primary delivery address set up, check if there is an option to add or edit a secondary address.
+6. Click on that option to enter the details of your new delivery address. Make sure to provide all the required information accurately.
+7. If you encounter any errors or if the process is not working as expected, please try clearing your browser cache and cookies, or try accessing the website through a different browser.
+8. If the issue persists, please reach out to our customer support team by calling {{Customer Support Phone Number}} or using the Live Chat feature on our website at {{Website URL}}.
+
+Remember, I'm here to support you throughout the process. Feel free to provide additional details about the specific problems you're facing, and I'll do my best to assist you further.

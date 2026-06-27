@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what do i need to do to get in touch with customer service
+
+Answer: Glad you contacted us! I'm clearly cognizant that you would like to know how to get in touch with our customer service team. To get started, you can reach us through various channels such as phone, email, or live chat. Our customer support hours are {{Customer Support Hours}}. To ensure you receive prompt assistance, be prepared with any relevant information or account details related to your inquiry. We are here to help and provide you with the support you need. Is there anything specific you would like assistance with?

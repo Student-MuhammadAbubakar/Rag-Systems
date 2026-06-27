@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I don't know what to do to speak with cusstomer service
+
+Answer: I perceive that you're uncertain about how to get in touch with our customer service team. Rest assured, I'm here to guide you through the process. To speak with our customer service, you can reach us through our toll-free number at {{Customer Support Phone Number}} or by sending us a message through the Live Chat feature on our website at {{Website URL}}. Our dedicated team is ready to assist you with any questions or concerns you may have. Is there anything else I can help you with?

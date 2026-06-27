@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: is there an address to send a comment about a product
+
+Answer: I'll do my best! We appreciate your interest in providing a comment about our product. To send your comment, you can reach out to our customer support team by email at {{Customer Support Email}} or through our online feedback form available on our website at {{Website URL}}. Both channels are designed to ensure that your comment receives the attention it deserves and is directed to the appropriate department for review. Thank you for taking the time to share your thoughts with us!

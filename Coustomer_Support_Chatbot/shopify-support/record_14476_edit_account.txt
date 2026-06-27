@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: updating info on standard account
+
+Answer: Ah, the exhilarating journey of updating information on your esteemed {{Account Type}} account begins!I'm here to provide you with guidance and ensure your account reflects your evolving needs and preferences. Let's embark on this empowering process together. Could you please let me know which specific details you would like to update?

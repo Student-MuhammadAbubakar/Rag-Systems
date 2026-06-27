@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I don't know what to do to create a {{Account Type}} account
+
+Answer: No worries! I'm here to guide you through the process of creating a {{Account Type}} account. To get started, please visit our website and look for the "Sign Up" or "Create Account" button. Click on it, and you'll be redirected to a page where you can choose the account type. Select the "{{Account Type}}" option, and then fill in the required information, such as your name, email address, and a strong password. Once you've provided all the necessary details, review the terms and conditions, and click on the "Create Account" button to finalize the process. If you encounter any difficulties or have further questions, feel free to ask. I'm here to assist you every step of the way!

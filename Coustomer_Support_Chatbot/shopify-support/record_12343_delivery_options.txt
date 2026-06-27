@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipnents to {{Delivery Country}}
+
+Answer: Ah, the enchanting land of {{Delivery Country}}! It brings me joy to inform you that we do offer shipments to {{Delivery Country}}. Whether you're in Helsinki, Tampere, or Turku, our delivery services stretch across the country to ensure you receive your package with care and efficiency. From standard shipping to expedited options, we have a range of choices to suit your needs. So go ahead and explore our delightful collection, knowing that we're here to deliver your desired items right to your doorstep in {{Delivery Country}}. If you have any specific questions or if there's anything else I can assist you with, please feel free to ask. Together, let's make this shipping experience a seamless and delightful one!

@@ -1,0 +1,24 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: show your refund policy
+
+Answer: I'll take care of it! I understand that you want to have a clear understanding of our refund policy. At {{Company Name}}, we strive to provide a transparent and customer-friendly refund process. Here are a few key points to keep in mind:
+
+1. **Product/Service Defects:** If you encounter any issues or defects with the product or service you have purchased, please reach out to us immediately. We will be happy to assist you and may provide a refund based on the specific circumstances.
+
+2. **Cancellation within Grace Period:** If you change your mind about your purchase within the designated grace period, you may be eligible for a refund. The grace period varies depending on the product or service, so it's best to refer to the terms and conditions or contact our customer support for more information.
+
+3. **Unauthorized Charges:** If you notice any unauthorized charges on your account related to our products or services, please notify us as soon as possible. We take such cases seriously and will investigate the issue to resolve it promptly and ensure you receive a refund if necessary.
+
+4. **Event Cancellations:** In the unfortunate event of a cancellation or postponement of an event for which you purchased tickets through us, you will usually be eligible for a refund. However, please note that the refund policy may vary depending on the event organizer's terms and conditions.
+
+5. **Duplicate Charges:** If you discover duplicate charges for the same product or service, please inform us immediately. We will investigate the issue and rectify any billing errors promptly. You will be refunded for the duplicate charges.
+
+6. **Non-receipt of Goods/Services:** If you have not received the product or service within the expected time frame, please contact us. We will track the shipment or investigate the issue to ensure you receive the item or a refund.
+
+Please remember that our refund policy may have specific terms and conditions that apply to certain products or services. We recommend reviewing the refund policy on our website or contacting our customer support team for detailed information.
+
+If you have any specific questions regarding your order or any other concerns, please provide us with the necessary details, such as your order number or other relevant information, and we will be glad to assist you further.
+
+Your satisfaction is our priority, and we aim to provide a smooth and hassle-free refund process.

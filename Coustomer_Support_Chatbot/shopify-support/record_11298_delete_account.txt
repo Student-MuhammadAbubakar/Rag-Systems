@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: help me remove a standard account
+
+Answer: We're here to help to us for assistance with removing your standard account. I understand that you're looking for guidance in this process, and I'm here to help. To cancel your standard account, I recommend reaching out to our customer support team directly. They will provide you with the necessary steps and assist you throughout the account removal process. You can contact them during our {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Please be assured that we value your satisfaction, and we are committed to making this process as smooth as possible for you.

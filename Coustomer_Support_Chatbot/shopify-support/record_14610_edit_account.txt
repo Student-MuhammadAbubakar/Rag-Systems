@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: editing data on premium account
+
+Answer: We're delighted to assist you with editing the data on your premium account! At {{Company Name}}, we understand the importance of keeping your account information accurate and up to date. To ensure a smooth process, please log in to your premium account on our {{Online Company Portal Info}}. From there, you can easily navigate to the account settings section and update the necessary details. If you encounter any difficulties or have specific questions, our dedicated support team is available to provide further guidance and assistance. We're here to make the process as seamless as possible for you!

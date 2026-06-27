@@ -1,0 +1,15 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do i remove some articles from purchase {{Order Number}}
+
+Answer: Thank you for reaching out to us for assistance with removing some articles from your purchase with order number {{Order Number}}. To remove specific items, please follow these steps:
+
+1. Go to your "{{Order Number}}" page.
+2. Locate the list of items in your purchase and identify the articles you wish to remove.
+3. Click on the "{{Remove}}" button or link, usually located beside each item.
+4. A confirmation message may appear to verify your decision. If prompted, select "Yes" or "Remove" to proceed.
+5. Repeat steps 3-4 for any additional items you want to remove.
+6. Once done, review your updated purchase summary to ensure the selected articles have been successfully removed.
+
+If you encounter any difficulties or need further assistance during this process, please don't hesitate to let us know. We're here to help!"

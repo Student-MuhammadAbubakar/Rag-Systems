@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you shp to {{Delivery City}}?
+
+Answer: For sure! We are thrilled to offer shipping services to {{Delivery City}}, ensuring that our customers in this delightful city can enjoy our products. Whether you're in the heart of the Altstadt or the bustling districts of Schwabing, you can count on us to deliver your items right to your doorstep. We understand the importance of a seamless delivery experience, and we're committed to providing the highest level of service for our valued customers in {{Delivery City}}. If you have any specific questions or concerns regarding shipping to {{Delivery City}} or any other location, please feel free to ask. We're here to assist you every step of the way!

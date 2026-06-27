@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery Country}}?
+
+Answer: I'll make it happen! We are delighted to offer our services to customers in {{Delivery Country}} as well. Our delivery options are designed to ensure a seamless ordering experience for customers all around the world. Whether you're in Toronto, Philadelphia, Japan, or {{Delivery Country}}, you have a variety of shipping options to choose from. Please let me know if you would like more details about our delivery options or if you have any other questions. I'm here to assist you!

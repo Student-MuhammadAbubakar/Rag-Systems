@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: where to notify of an error with signup?
+
+Answer: We appreciate you informing us about the error you encountered during the signup process. To report the error, please reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team is well-equipped to assist you and will ensure the error is addressed promptly. Thank you for bringing this to our attention and allowing us the opportunity to resolve the issue for you.

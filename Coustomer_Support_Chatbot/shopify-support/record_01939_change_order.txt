@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i want help to swap several articles of order113542617735902
+
+Answer: I can relate to the understanding that you need assistance with swapping several articles in your order with number {{Order Number}}. We're here to help make sure your order is exactly what you want it to be. Could you please provide the specific articles you would like to swap out, as well as the items you would like to replace them with? This way, we can ensure a smooth and seamless process for you. Thank you for your cooperation and patience while we work on resolving your request.

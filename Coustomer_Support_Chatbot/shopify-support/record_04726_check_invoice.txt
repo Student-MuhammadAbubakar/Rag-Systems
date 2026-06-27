@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: check invoices from {{Person Name}}
+
+Answer: I hear you loud and clear your need to check the invoices associated with {{Salutation}} {{Client Last Name}}. Finding the necessary information quickly is important, and I'm here to help you with that. To access your invoices from {{Person Name}}, I recommend logging into your account on our website or reaching out to our customer support team. They will be able to provide you with the necessary guidance and assistance. Is there anything else I can assist you with today?

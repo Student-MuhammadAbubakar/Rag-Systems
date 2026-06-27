@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I don't know how I can speak wih customer service
+
+Answer: We're here for you! I'm aware that you are unsure about how to speak with our customer service team. Don't worry, I'm here to help you with that. To contact our customer service, you can reach them through phone at {{Customer Support Phone Number}} or by using the Live Chat feature on our website at {{Website URL}}. Our team is available during {{Customer Support Hours}} to assist you with any questions or concerns you may have. Please let me know if there's anything else I can assist you with.

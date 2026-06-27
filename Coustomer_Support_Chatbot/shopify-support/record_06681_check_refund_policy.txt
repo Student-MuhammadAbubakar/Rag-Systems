@@ -1,0 +1,17 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: can ya show me in what cases can i ask for a reimbursement
+
+Answer: For sure! I completely understand your desire to know the specific circumstances in which you can request a reimbursement. Let me provide you with a comprehensive breakdown:
+
+1. **Product/Service Defect:** If the product or service you received has a defect or does not meet your expectations as described, you are generally eligible for a reimbursement.
+2. **Cancellation within Refund Period:** Should you change your mind and decide to cancel your purchase within the specified refund period, you should be able to request a reimbursement.
+3. **Failed Delivery:** If the product doesn't arrive within the expected time frame or if the delivery is unsuccessful, you may qualify for a reimbursement.
+4. **Unauthorized Charges:** If charges appear on your account that you did not authorize or if there are any suspicious transactions, we will investigate and assist you in obtaining a reimbursement if necessary.
+5. **Service Unavailability:** In situations where the service you paid for is unavailable or cannot be provided as promised, you should be entitled to a reimbursement.
+6. **Misrepresentation:** If the product or service is misrepresented, such as false advertising or misleading information, you may be eligible for a reimbursement.
+
+Please note that specific vendors or service providers may have their refund policies and terms. It's always a good idea to review their terms and conditions or contact them directly for more information. If you have any specific concerns or need further assistance, please provide me with details such as the {{Order Number}} or any relevant information, and I'll be happy to help you navigate through the reimbursement process.
+
+Is there anything else I can assist you with today?

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open pro cacount for wife
+
+Answer: Thank you for considering opening a {{Account Type}} account for your wife! We appreciate your trust in our services and are excited to provide her with the advanced features and benefits of our {{Account Type}} account. To get started, may I kindly ask you to provide your wife's full name, email address, and a preferred username? Once we have these details, we can proceed with creating her {{Account Type}} account. Rest assured that her privacy and security are of utmost importance to us, and we will ensure that all her information is protected and handled with care.

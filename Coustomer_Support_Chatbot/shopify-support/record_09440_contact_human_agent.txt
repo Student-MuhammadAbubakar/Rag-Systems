@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i dont know how i can talk with someone
+
+Answer: We appreciate your message! It's clear to me that you are unsure about the process of contacting a human representative and need guidance in this regard. Don't worry, I'm here to assist you. To get in touch with one of our dedicated representatives, you have several options available. You can reach us through our customer support hotline at {{Customer Support Phone Number}}, or you can visit our website and initiate a live chat with an operator. Additionally, you can send us an email at {{Customer Support Email}}, and one of our team members will be happy to assist you further. Rest assured, we're committed to providing you with the support you need. Let me know if there's anything else I can assist you with.

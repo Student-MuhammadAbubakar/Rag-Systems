@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: can you help me to check the bills from {{Person Name}}?
+
+Answer: I'm on it! I completely understand your need to check the bills associated with {{Salutation}} {{Client Last Name}}. To assist you, please provide me with any specific details such as the date range or invoice number. Alternatively, if you have access to our online portal, you can log in and navigate to the "Billing" section where you can view all the bills linked to {{Salutation}} {{Client Last Name}}. Let me know how I can further assist you in locating the specific information you need.

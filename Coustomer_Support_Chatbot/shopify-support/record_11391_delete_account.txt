@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i have a problem with the termination of my {{Account Type}} account
+
+Answer: Thank you for contacting about the termination of your {{Account Type}} account. I understand that you're experiencing some difficulties, and I'm here to assist you in resolving this matter. Could you please provide me with more details about the specific issues you're facing? This will allow me to better understand your situation and provide you with the appropriate guidance to resolve the problem effectively. Your satisfaction is important to us, and we're committed to assisting you throughout this process.

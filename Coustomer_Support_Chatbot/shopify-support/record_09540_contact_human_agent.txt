@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i do not know what i need to do to chat with a live agent
+
+Answer: Your reach-out is appreciated! I'm sensing that you're unsure of the steps to follow in order to chat with a live agent. Allow me to guide you through the process so you can receive the assistance you need. First, please visit our website and navigate to the "Contact Us" page. There, you will find the options to initiate a live chat with one of our agents. If you prefer, you can also find the live chat feature in our mobile app. Alternatively, you can try reaching out to our dedicated customer service phone line at {{Customer Support Phone Number}}. Our agents are available {{Customer Support Hours}} to assist you directly. Please let me know if there's any other specific information or questions you have in mind that I can help with.

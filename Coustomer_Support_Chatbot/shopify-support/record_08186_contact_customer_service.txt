@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you help me calling customer service?
+
+Answer: Thank you for trusting us! I'm fully aware of you need assistance with calling our customer service. I'm here to guide you through the process and provide any support you may need. To reach our customer service team, you can dial our dedicated customer support number at {{Customer Support Phone Number}}. Our team is available during the following hours: {{Customer Support Hours}}. If you prefer, we also offer live chat support on our website at {{Website URL}}. Please let me know if there's anything else I can assist you with.

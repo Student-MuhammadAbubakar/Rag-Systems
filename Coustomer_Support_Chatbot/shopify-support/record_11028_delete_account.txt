@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: canceling {{Account Category}} account
+
+Answer: Thank you for reaching out to us about canceling your {{Account Category}} account. I understand that you would like assistance with this process, and I'm here to ensure everything goes smoothly for you. To cancel your {{Account Category}} account, I recommend contacting our customer support team at {{Customer Support Phone Number}}. They will guide you through the necessary steps and provide any additional information you may need. We value your decision and want to make sure you have a seamless experience. Please don't hesitate to reach out if you have any further questions or concerns.

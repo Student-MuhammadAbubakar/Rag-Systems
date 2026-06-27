@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what I have to do to locate my invoice #00108
+
+Answer: No need to worry! I understand your confusion about the steps to locate your invoice with the number #{{Invoice Number}}. Let me guide you through the process. To find your invoice, you can start by logging into your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. There, you should be able to view a list of your invoices, including the one with the number {{Invoice Number}}. If you're still having trouble locating it, please don't hesitate to reach out to our customer support team, and they will be more than happy to assist you further.

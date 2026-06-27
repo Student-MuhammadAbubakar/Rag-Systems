@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i dont know what i have to do to get my bill #85632
+
+Answer: I'm fully aware of your confusion about locating your bill with the number #{{Invoice Number}}. Allow me to guide you through the process step by step. To retrieve your bill, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. You should be able to find the option to view or download your invoice there. If you don't have an online account, you can contact our customer support team, and they will assist you in retrieving the invoice. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we are here to ensure your satisfaction and provide any assistance you may need in accessing your bill.

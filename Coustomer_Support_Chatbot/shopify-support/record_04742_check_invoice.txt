@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checking invoices from August
+
+Answer: We're here for you! I'm aware that you would like to check invoices from the month of August. To assist you better, could you please provide me with the specific {{Year}} and any other details such as {{Client Name}} or {{Invoice Number}} that might help narrow down the search? Rest assured, I'm here to guide you through the process and ensure you have a smooth experience.

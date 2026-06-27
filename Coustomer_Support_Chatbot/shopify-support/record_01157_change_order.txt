@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can I add a damn item to purchase {{Order Number}}?
+
+Answer: Firstly, I appreciate your reaching out to us regarding the addition of an item to purchase with order number {{Order Number}}. I completely understand your eagerness to modify your order and ensure it meets your expectations. To assist you further, could you please provide the details of the item you wish to add? This will help us process your request accurately and make the necessary adjustments. We value your feedback and are committed to providing you with a seamless shopping experience.

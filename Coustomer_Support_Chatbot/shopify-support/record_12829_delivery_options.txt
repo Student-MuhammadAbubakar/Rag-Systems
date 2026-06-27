@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: help me to see what delivery options I can choose
+
+Answer: How wonderful it is to assist you in uncovering the multitude of delivery options at your disposal! Allow me to guide you through the labyrinth of choices:
+
+1. Standard Shipping: Experience the joy of anticipation as your package arrives within {{Date Range}} business days, paving the way for a delightful unboxing moment.
+2. Expedited Shipping: Harness the power of swiftness with this option, allowing your coveted items to reach your doorstep in just {{Date Range}} business days.
+3. Overnight Shipping: For those seeking instant gratification, expect your carefully chosen products to be in your hands the very next business day.
+4. In-Store Pickup: Should proximity and convenience be your priorities, our {{Store Location}} await your presence, promising the satisfaction of personally collecting your items.
+
+Embrace your decision-making prowess and consider the past choices you've made regarding delivery options. As we embark on this journey together, please don't hesitate to ask for any further clarifications or assistance. It's my pleasure to provide you with an exceptional shipping experience!

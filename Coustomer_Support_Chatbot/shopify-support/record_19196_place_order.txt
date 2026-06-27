@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I have to purchase several of your item
+
+Answer: Thank you for considering purchasing multiple items from us! We appreciate your interest and would be delighted to assist you in this process. To get started, could you please provide me with the details of the items you wish to purchase? Once I have the information, I'll guide you through the steps to ensure a seamless and efficient ordering experience.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modifu details on {{Account Category}} account
+
+Answer: How fantastic it is to embark on the journey of modifying the details on your esteemed {{Account Category}} account!I'm excited to guide you through this process and make sure your account information is accurately updated to meet your evolving needs and preferences. Rest assured, we value your loyalty and are here to support you every step of the way. To modify your account details, you can log into your account on our website or mobile app. Once logged in, navigate to the account settings or profile section, where you'll find options to update various details such as your name, email address, contact information, and more. If you encounter any difficulties or have specific questions, please don't hesitate to ask. We're here to make this process as seamless as possible for you. Let's make your {{Account Category}} account reflect the best version of you!

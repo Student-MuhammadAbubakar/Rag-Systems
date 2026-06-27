@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: where do i get my bills from {{Person Name}}
+
+Answer: Indeed! I understand your need to locate your bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you in finding the right place. To access your bills, you can log in to your account on our website and navigate to the "Billing" or "Invoices" section. There, you'll be able to view and download your bills easily. If you encounter any difficulties or have further questions, please feel free to reach out. I'm here to help!

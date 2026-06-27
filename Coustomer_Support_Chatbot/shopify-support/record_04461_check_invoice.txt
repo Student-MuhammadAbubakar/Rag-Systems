@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i do not know what to do to look for thebill #00108
+
+Answer: I'm following your confusion about locating the bill with the number #{{Invoice Number}}. Let me guide you through the process. First, could you please provide me with some context to help me assist you better? For example, do you know the date or period when the bill was generated? Any additional details you can provide will be helpful. Rest assured, I'm here to support you every step of the way and ensure that we find the necessary information together.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I have got to notify of issues wit payments
+
+Answer: We're here to help to us to notify about the issues you are facing with your payments. Your feedback is crucial to us, as it helps us identify areas for improvement in our payment system. To better assist you, could you please provide more details about the specific issues you have encountered? Any relevant information such as error messages, payment methods used, or transaction IDs would be greatly appreciated. Rest assured, we are fully committed to resolving these issues promptly and ensuring a smooth payment experience for you. We value your patience and cooperation as we work towards a solution.

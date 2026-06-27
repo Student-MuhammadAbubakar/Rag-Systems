@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I try to see purchase {{Order Number}} status
+
+Answer: Grateful for your contact! I get the sense that you are trying to check the status of your purchase with the number {{Order Number}}. To provide you with accurate information, could you please confirm if this purchase is associated with an order or a different type of transaction? This will help me guide you to the right place to check the status.

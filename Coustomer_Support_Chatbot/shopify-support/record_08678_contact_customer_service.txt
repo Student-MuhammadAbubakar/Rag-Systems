@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need help to see what hours I can call customer assistance
+
+Answer: We're listening! I'm keyed into the fact that you need assistance in finding out the operating hours during which you can contact our customer assistance. I'm here to help! Our customer assistance team is available to assist you from {{Customer Support Hours}}. You can reach out to them during these hours for any queries or concerns you may have. Is there anything else I can assist you with?

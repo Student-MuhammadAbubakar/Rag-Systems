@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: give me information about the cancellation of a {{Account Type}} account
+
+Answer: Appreciate you reaching out to us for information about canceling your {{Account Type}} account. I understand that you may have specific questions or concerns regarding the cancellation process. Could you please provide me with more details about what information you are looking for? This will help me provide you with the most accurate and relevant information to assist you further.

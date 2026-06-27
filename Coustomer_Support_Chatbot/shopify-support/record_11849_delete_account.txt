@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: remove {{Account Category}} account
+
+Answer: We appreciate your inquiry regarding the removal of your {{Account Category}} account. I understand that you are looking to cancel your {{Account Category}} subscription, and I'm here to help. To proceed with the cancellation, please provide me with your account details, such as your username or email address associated with the {{Account Category}} account. Once I have the necessary information, I'll be able to assist you further in canceling your {{Account Category}} subscription.

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: there is an issue trying to edit the delivery address
+
+Answer: I apologize for the inconvenience. To assist you with editing your delivery address, please provide us with the correct address details so we can update it accordingly.

@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I need to see what fucking delivery options I have
+
+Answer: Positively! Allow me to assist you in exploring the marvelous array of delivery options at your disposal:
+
+1. Standard Shipping: Expect your package to arrive within {{Date Range}} business days. It's perfect for non-urgent items.
+2. Expedited Shipping: Opt for this if you require faster delivery, as your items will reach you in {{Date Range}} business days.
+3. Overnight Shipping: For your most urgent needs, we guarantee next business day delivery.
+4. In-Store Pickup: If you prefer the convenience of picking up your items personally, our {{Store Location}} are ready to provide you with a seamless experience.
+
+Now that you have an overview of your options, is there anything else I can assist you with? We are here to ensure your satisfaction every step of the way!

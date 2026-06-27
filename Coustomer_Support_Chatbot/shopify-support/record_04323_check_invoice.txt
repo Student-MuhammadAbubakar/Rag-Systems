@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I do not know what I have to do to look for bill #12588
+
+Answer: I've picked up that you're unsure about the steps to find the specific bill with the number #{{Invoice Number}}. Let me guide you through the process. First, please log in to your account on our website. Once you're logged in, navigate to the "Billing" section or look for an option like "View Invoices" or "Invoice History." From there, you can usually search for invoices using filters like date range, client name, or invoice number. In this case, you'll want to select the option to search by invoice number and enter the value {{Invoice Number}}. If you're using our mobile app, you can usually find the invoicing section under the "Account" or "Billing" tab. If you encounter any difficulties or have further questions, please don't hesitate to let me know. I'm here to assist you every step of the way.

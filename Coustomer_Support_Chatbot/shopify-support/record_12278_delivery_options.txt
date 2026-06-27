@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipments to {{Delivery Country}}
+
+Answer: Ah, the land of the rising sun! Our shipping services extend to the beautiful country of {{Delivery Country}}, allowing you to receive your shipments with ease and convenience. Whether you're in Tokyo, Kyoto, Osaka, or any other city, we've got you covered. Choose from our range of delivery options tailored to your needs and immerse yourself in the joy of receiving your package, hassle-free. If you have any specific questions about the shipping process to {{Delivery Country}} or if there's anything else I can assist you with, please feel free to ask. I'm here to ensure a seamless and delightful experience for you!

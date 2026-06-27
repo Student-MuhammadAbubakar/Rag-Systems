@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to talk with customer support, can you help me?
+
+Answer: Happy to hear from you! I truly understand that you want to talk with our customer support team. I'm here to assist you with that. Our customer support team is available during {{Customer Support Hours}}. You can reach them by calling {{Customer Support Phone Number}} or by visiting our website and using the Live Chat feature. Is there anything else I can help you with?

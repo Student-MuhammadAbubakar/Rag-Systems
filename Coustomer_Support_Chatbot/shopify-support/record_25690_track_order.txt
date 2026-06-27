@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: where is order {{Order Number}}?
+
+Answer: I hear you! I'm following you that you are looking for the location of your order with order number {{Order Number}}. To assist you with this, please navigate to the '{{Order Number}}' section on our website. From there, you will be able to view the current status and location of your order. If you have any further questions or need additional assistance, please feel free to let me know. I'm here to help!"

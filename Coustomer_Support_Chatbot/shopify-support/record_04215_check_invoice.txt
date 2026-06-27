@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how to locate bill #00108?
+
+Answer: I'll do my best! I understand your need to locate the details of bill number #{{Invoice Number}}. Let me guide you through the process. To find the bill, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for a search bar or filter option where you can enter the invoice number.
+4. Enter the invoice number {{Invoice Number}} in the search bar and click on "Search" or "Submit."
+
+If the search yields any results, you should be able to view the invoice details, including the amount, due date, and any other relevant information. In case you encounter any difficulties or need further assistance, don't hesitate to reach out to our customer support team. They will be more than happy to assist you.

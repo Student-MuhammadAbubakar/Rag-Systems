@@ -1,0 +1,8 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i have problems with canceling order {{Order Number}}
+
+Answer: I've ascertained that you're facing difficulties in canceling your order with the number {{Order Number}}. I apologize for any inconvenience this may have caused you. To better assist you, could you please let me know the specific issues or error messages you are encountering during the cancellation process? This information will enable me to provide you with the most accurate guidance and resolve the problems effectively.
+
+In the meantime, I want to reassure you that our team is dedicated to resolving any issues you may be experiencing. If you need immediate assistance, you can reach out to our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}} or utilize the Live Chat feature on our website at {{Website URL}}. We appreciate your patience and cooperation, and we're committed to ensuring your satisfaction.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I don't know how I could track the compensation
+
+Answer: I'm picking up what you're putting down, your confusion regarding how to track your compensation. Tracking your reimbursement is crucial, and I'm here to guide you. To track the status of your compensation, you can visit our website and navigate to the "Track Refund" section. There, you will need to enter the necessary details, such as your order number or reference number, and our system will provide you with real-time updates on the progress of your compensation. If you encounter any difficulties or need further assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, we're committed to ensuring your satisfaction and keeping you informed every step of the way.

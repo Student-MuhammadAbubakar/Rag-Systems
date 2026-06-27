@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place an order from {{Delivery City}} ?
+
+Answer: Definitely! The city of {{Delivery City}} is within our reach for order placement. You can easily place an order from {{Delivery City}} using our website or mobile app. Simply browse through our wide range of products, add items to your cart, and proceed to the checkout page. During the checkout process, you will be prompted to enter your shipping address, including {{Delivery City}} as the city. Our delivery options will be available for you to choose from, ensuring a smooth and timely delivery of your order to the City of Brotherly Love. If you have any specific concerns or questions about placing an order from {{Delivery City}}, please feel free to let me know. I'm here to assist you every step of the way!

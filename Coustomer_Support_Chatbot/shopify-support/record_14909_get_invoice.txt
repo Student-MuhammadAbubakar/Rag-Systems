@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I cannot find my invoice #12588, will you mail it to me?
+
+Answer: I certainly recognize your concern about not being able to locate your invoice with the number #{{Invoice Number}}. Unfortunately, I am unable to mail the invoice to you directly. However, I can assist you in accessing and downloading the invoice from our system. Allow me just a moment to retrieve the invoice for you. Once I have it, I'll guide you through the process of downloading it. Rest assured, I'm here to help you every step of the way.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: can ya help me updating the details included on my account
+
+Answer: I'm on it! We're here to assist you with updating the details included in your account. Your commitment to keeping your information accurate and personalized is commendable. To ensure the utmost security of your account, we kindly request that you refrain from sharing any personal identifiers such as your full account number or password here. To update your account details, it's best to securely log into {{Online Company Portal Info}} or reach out to our dedicated customer support team for personalized assistance. What specific details would you like to update? We'll guide you through the process step by step. You're in capable hands, and we're thrilled to be of service.

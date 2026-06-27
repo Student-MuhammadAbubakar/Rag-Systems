@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order from {{Delivery City}}
+
+Answer: I'll make it happen! Our company is thrilled to accept orders from {{Delivery City}}, as well as from various locations around the globe. You can conveniently place an order from {{Delivery City}} through our website or mobile app. Simply browse through our extensive range of products and add the desired items to your cart. During the checkout process, enter your {{Delivery City}} address as the shipping address, and our dedicated delivery partners will ensure a seamless and timely delivery to your doorstep. If you have any specific concerns or questions about ordering from {{Delivery City}}, feel free to let us know. We're here to make your ordering experience a delight!"

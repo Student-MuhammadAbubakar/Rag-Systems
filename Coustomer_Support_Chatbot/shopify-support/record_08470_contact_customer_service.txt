@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to talk with customer support, how can I do it?
+
+Answer: We're all ears! I'm tuned into the idea that you are seeking assistance and would like to talk with our customer support team. To ensure a seamless experience, you have multiple options to connect with us. You can reach us through our toll-free number {{Customer Support Phone Number}}, initiate a live chat on our website {{Website URL}}, or send us an email at {{Customer Support Email}}. Our dedicated team is available during {{Customer Support Hours}}, ready to assist you with any questions or concerns you may have. How may I further assist you today?

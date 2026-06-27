@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i dont know what to do to get invoice #37777
+
+Answer: Fear not, intrepid explorer of the invoice realms! Together, we shall embark on a quest to unveil the hidden path leading to the mystical invoice with the sacred number {{Invoice Number}}. Allow me to guide you through a step-by-step process, ensuring your triumphant acquisition. Are you ready to begin the adventure? Let's get started!

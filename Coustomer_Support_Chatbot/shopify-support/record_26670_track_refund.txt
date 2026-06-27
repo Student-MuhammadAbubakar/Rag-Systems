@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waitig for a damn reimbursement of {{Refund Amount}} dollars
+
+Answer: I'm clearly cognizant your frustration and urgency in expecting a reimbursement of {{Currency Symbol}}{{Money Amount}}. Rest assured, we value your concerns and are committed to resolving them promptly. Let me investigate the status of your refund right away to provide you with accurate information. While I do that, please know that your satisfaction is our top priority, and we appreciate your patience.

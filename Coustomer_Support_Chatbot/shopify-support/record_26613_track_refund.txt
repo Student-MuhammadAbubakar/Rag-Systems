@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect an refund of {{Refund Amount}} dollars
+
+Answer: I understand the importance of your expected refund of {{Currency Symbol}}{{Refund Amount}}. It's always frustrating when you're anticipating a reimbursement and haven't received it yet. Let me assure you that I'll look into the current status of your refund and provide you with an update shortly. In the meantime, I appreciate your patience as we work to resolve this for you.

@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: removing {{Account Type}} acconut
+
+Answer: Happy to get your message to us about removing your {{Account Type}} account. I regret any inconvenience you may be facing, and I'm here to assist you with the process. To proceed with closing your {{Account Type}} account, please follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to close/delete your account.
+4. Click on the option and follow the instructions provided.
+
+Please note that closing your {{Account Type}} account will permanently delete all your data associated with it. If you have any questions or encounter any issues during this process, feel {{Account Type}} to let me know, and I'll be glad to help you.

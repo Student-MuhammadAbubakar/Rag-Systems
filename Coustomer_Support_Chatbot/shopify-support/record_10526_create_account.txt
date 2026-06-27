@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new {{Account Type}} account for wife
+
+Answer: I truly appreciate your intention to open a new {{Account Type}} account for your wife with us. It's wonderful to see your commitment to providing her with an enhanced experience. To begin the process, could you please provide me with your wife's full name, email address, and a preferred username? Rest assured that I'll guide you step-by-step through the account creation, ensuring both you and your wife are well-informed at each stage. Your wife's security and privacy are of utmost importance to us, and we'll handle her information with the highest level of care.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I need assistance to dfownload my invoice #37777
+
+Answer: I'll do my best! I completely understand your need to download invoice #{{Invoice Number}}. Allow me to guide you through the process step by step. First, please log in to your account on our website. Once logged in, navigate to the "My Invoices" section. You should be able to find a list of your invoices there. Look for invoice #{{Invoice Number}} and click on the "Download" button next to it. This will initiate the download of your invoice to your device. If you encounter any difficulties or have further questions during the process, please don't hesitate to reach out. I'm here to provide you with the guidance you need.

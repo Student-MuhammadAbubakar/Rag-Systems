@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I submitted a wrong address by mistake, can you edit it?
+
+Answer: I apologize for the inconvenience caused by the wrong address submission. To edit it, please reach out to our customer service team with the correct details as soon as possible. They will assist you in making the necessary changes to ensure your delivery goes smoothly.

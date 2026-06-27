@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I want help asking for an reimbursement
+
+Answer: I'm on your side your desire to ask for a reimbursement, and I'm here to provide you with the necessary guidance. To start the process, I recommend reaching out to our dedicated customer support team, who will be able to assist you further. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our team will guide you through the steps required to request a reimbursement and ensure that your concerns are addressed promptly. Rest assured, we value your satisfaction and will do everything we can to help you resolve this matter.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have got to locate order {{Order Number}}
+
+Answer: Thank you for trusting us! I'm fully aware of you need assistance in locating your order with the order number {{Order Number}}. To find the current status of your order, please visit the '{{Order Status}}' section on our website. If you encounter any difficulties or have further questions, feel free to let me know. I'm here to provide you with the guidance you need and ensure a seamless experience.

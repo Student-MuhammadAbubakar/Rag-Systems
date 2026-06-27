@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: how could I open a standard account?
+
+Answer: Thank you for expressing interest in opening a standard account with us! To get started, you can visit our website and click on the "Create Account" button. This will redirect you to our account creation page where you'll be prompted to fill in some necessary information, such as your full name, email address, and a preferred username. Once you've provided these details, you can choose the "{{Account Type}} Account" option and follow the remaining steps to complete the account creation process. If you have any questions or need further assistance along the way, our dedicated customer support team is available to help. We're excited to have you on board as a valued member of our community!

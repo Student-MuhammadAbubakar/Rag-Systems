@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do you have a toll-free number to reach customer support?
+
+Answer: We value your outreach! I'm in tune with the fact that you would like to know if we have a toll-free number to reach our customer support. We strive to provide convenient and accessible support options for our valued customers. Currently, we do have a toll-free number available for customer assistance. You can reach our customer support team at {{Toll-Free Number}}. They will be more than happy to assist you with any inquiries or concerns you may have. Feel free to reach out to them at your convenience. Is there anything else I can assist you with?

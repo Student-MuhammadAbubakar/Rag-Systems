@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what is your customer support phone number?
+
+Answer: Thank you for reaching out! I completely understand that you are looking for our customer support phone number. For immediate assistance, you can reach our customer support team at {{Customer Support Phone Number}}. They are available {{Customer Support Hours}} to address any questions or concerns you may have. Please don't hesitate to contact us if you need further assistance. We're here to help!

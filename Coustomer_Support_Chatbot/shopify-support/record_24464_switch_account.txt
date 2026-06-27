@@ -1,0 +1,18 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: I don't know what to do to change to the {{Account Type}} account
+
+Answer: Not a problem at all! I understand that you're uncertain about the steps required to switch to the {{Account Type}} account. Allow me to provide you with a clear and concise guide:
+
+1. Log into your account: Start by accessing our platform through the login page.
+
+2. Navigate to Account Settings: Once you're logged in, locate the Account Settings or Profile section. This is where you can manage and make changes to your account.
+
+3. Find the Upgrade option: Within the Account Settings or Profile section, look for an option labeled "Upgrade" or "Switch Account Type." Click on it to proceed.
+
+4. Select the Free account: From the list of available account types, choose the "Free" account to switch to it.
+
+5. Confirm the changes: Follow the on-screen instructions to confirm your decision and finalize the switch to the {{Account Type}} account.
+
+If you encounter any difficulties or have further questions, please don't hesitate to reach out to our dedicated customer support team. They're available {{Customer Service Hours}} via {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way and ensure a smooth transition to your desired account type.

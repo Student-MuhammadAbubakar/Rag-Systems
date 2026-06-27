@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: delieries to {{Delivery City}}
+
+Answer: I'm happy to help! {{Delivery City}} is one of the many locations we deliver to. Our global shipping network ensures that our products reach customers in various cities, including {{Delivery City}}. Whether you're in Downtown {{Delivery City}}, North York, Scarborough, or any other neighborhood, you can enjoy our delivery services. We strive to bring convenience and satisfaction to customers all around the world. If you have any specific concerns or would like more information about our delivery options in {{Delivery City}}, feel free to ask. We're here to assist you every step of the way.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a rebate of {{Refund Amount}} dollars
+
+Answer: I'm on your side the importance of receiving the rebate of {{Currency Symbol}}{{Refund Amount}} that you are eagerly waiting for. Rest assured, I am here to assist you in tracking the status of your refund. Let me quickly check the details and provide you with an update. Thank you for your patience while I gather the necessary information.

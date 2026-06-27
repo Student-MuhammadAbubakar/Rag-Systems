@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a reimbursement of {{Refund Amount}} dollars
+
+Answer: I hear you loud and clear the importance of receiving your reimbursement of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are committed to resolving this for you as quickly as possible. Let me check the current status of your reimbursement and provide you with an update. I appreciate your patience while I look into this.

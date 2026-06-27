@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I have to do to close a platinum account
+
+Answer: We're here for you to us regarding the closure of your {{Account Category}} account. I understand that you are unsure about the steps that need to be taken for account closure. Let me guide you through the process. To initiate the closure of your {{Account Category}} account, please log in to your account on our website and navigate to the account settings or profile section. From there, you should be able to find an option to close your account. If you are unable to locate the specific option, please let me know so that I can assist you further. We appreciate your trust in our services and we are here to support you throughout the closure process.

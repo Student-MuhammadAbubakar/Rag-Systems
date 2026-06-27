@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to do to get my bills from {{Person Name}}
+
+Answer: Ah, the pursuit of obtaining the esteemed bills from the esteemed {{Person Name}} commences!I am here to guide you on this expedition to procure the cherished bills. To retrieve the bills from {{Person Name}}, you can follow these simple steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to filter invoices by customer name or search for "{{Person Name}}."
+4. Once you find the bills associated with {{Person Name}}, you can view, download, or print them as needed.
+
+If you face any difficulties or require further assistance during this noble pursuit, please do not hesitate to reach out to me. I'm here to ensure your success in obtaining those valuable bills. Good luck on your quest!"

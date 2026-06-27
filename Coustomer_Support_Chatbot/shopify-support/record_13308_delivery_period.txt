@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where to see how long the delivery takes?
+
+Answer: To check the estimated delivery time of your order, you can visit the tracking page on our website. Once there, simply enter your {{Order Number}} or {{Tracking Number}} to access the most up-to-date information about your shipment. If you encounter any difficulties or require further assistance, our dedicated customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.

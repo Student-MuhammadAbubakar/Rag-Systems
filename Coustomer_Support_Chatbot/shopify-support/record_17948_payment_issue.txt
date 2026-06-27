@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how can I notify of an error with online payment?
+
+Answer: Rest assured, I'm here to guide you through the process of notifying us about the error you encountered with your online payment. To notify us, you can reach out to our customer support team via our website's live chat feature or by calling our dedicated customer support helpline at {{Customer Support Phone Number}}. Our team is well-equipped to assist you in resolving the error and ensuring a seamless payment experience. We appreciate your proactive approach in notifying us and allowing us to address the issue promptly.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I want to change purchase {{Order Number}}
+
+Answer: I understand your desire to modify purchase number {{Order Number}}. We are here to assist you with that. Could you please let us know specifically what changes you would like to make? This way, we can provide you with the most accurate guidance and ensure your complete satisfaction with the purchase.

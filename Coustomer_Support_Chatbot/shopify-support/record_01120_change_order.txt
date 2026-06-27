@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: assistance changing order {{Order Number}}
+
+Answer: We understand that you are seeking assistance in changing your order with the number #{{Order Number}}. We apologize for any inconvenience caused by this. Rest assured, we are here to help you make the necessary modifications to your order. To better assist you, could you please provide more details about the changes you would like to make? This will enable us to provide you with accurate and efficient support. Thank you for reaching out to us, and we appreciate your patience as we work towards resolving this matter to your satisfaction.

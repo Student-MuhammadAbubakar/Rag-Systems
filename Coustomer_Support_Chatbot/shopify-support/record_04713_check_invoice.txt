@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where can I see bill #85632?
+
+Answer: I can definitely help you with that! To view your bill with the number #{{Invoice Number}}, you can go to your account dashboard on our website. Once you're logged in, navigate to the "Billing" section, and you should find a tab or option labeled "View Invoices" or "Billing History." Click on that, and you should be able to locate and access your specific invoice. If you're having trouble finding it or need further guidance, please let me know, and I'll be happy to assist you further.

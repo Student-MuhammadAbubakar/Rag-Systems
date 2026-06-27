@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I don't know how I could notify of payment issues
+
+Answer: I certainly recognize your uncertainty about how to notify us about any payment issues you may be facing. Rest assured, we're here to guide you through the process. To inform us of any payment problems, you can reach out to our dedicated customer support team through multiple channels. You can either give us a call at {{Customer Support Phone Number}} or send us an email at {{Customer Support Email}}. Additionally, you can also visit our website at {{Website URL}} and access our live chat feature for immediate assistance. We highly recommend providing as much detail as possible about the payment issue you encountered to help us address it effectively. Thank you for bringing this to our attention, and we appreciate your cooperation in resolving this matter.

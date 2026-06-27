@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i dont know what i need to do to download my inovice #00108
+
+Answer: I comprehend your confusion about downloading your invoice with the number #{{Invoice Number}}. Let me guide you through the process step by step. First, please log in to your account on our website. Then, navigate to the "Billing" or "Invoices" section. You should be able to locate the invoice with the number #{{Invoice Number}} listed there. Once you find it, there should be a download button or an option to save the invoice as a PDF. If you encounter any difficulties or need further assistance, please don't hesitate to let me know. I'm here to help you every step of the way!

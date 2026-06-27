@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: need help listing the payment methods
+
+Answer: Thank you for reaching out! I'm here to assist you in listing the payment methods we offer. We understand the importance of providing a variety of options to suit our customers' needs. Here are the payment methods currently accepted:
+
+- **Credit/Debit Card:** We accept major cards like Visa, Mastercard, and American Express.
+- **PayPal:** A popular online payment method that's secure and widely used.
+- **Bank Transfer:** This allows you to make direct payments from your bank account.
+- **Apple Pay:** An easy way for Apple users to make payments.
+- **Google Wallet:** Google's payment system for fast, easy checkouts.
+
+Please let me know if you have any further questions or if there's anything else I can assist you with. We're here to ensure a seamless payment experience for you.

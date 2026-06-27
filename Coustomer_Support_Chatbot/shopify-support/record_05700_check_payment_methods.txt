@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: show me the accepted payment modalities
+
+Answer: For sure! I'm here to assist you with finding our accepted payment methods. Here is a list of our available payment modalities:
+
+- **Credit/Debit Card:** We accept major credit and debit cards including Visa, Mastercard, and American Express.
+- **PayPal:** A widely recognized and secure online payment platform.
+- **Bank Transfer:** You can make direct payments from your bank account.
+- **Mobile Wallets:** Use Apple Pay or Google Pay for quick and secure payments.
+- **Cash on Delivery:** Pay in cash when your order is delivered to you.
+
+These are the main payment options we offer, but please note that they may vary based on your location or specific product/service. If you have any questions or need further assistance, feel free to let me know.

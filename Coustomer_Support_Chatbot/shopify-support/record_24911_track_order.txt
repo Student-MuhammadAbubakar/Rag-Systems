@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I need assistance seeing purchase {{Order Number}} bloody status
+
+Answer: It's great to hear from you! I can see that you need assistance in checking the status of your purchase with the order number {{Order Number}}. I apologize for any inconvenience caused by the delayed response. Our team is actively working on resolving the issue. To provide you with the most accurate information regarding the status of your purchase, I kindly request you to bear with us while we investigate the matter. Rest assured, we value your satisfaction and are committed to keeping you updated every step of the way. If you have any further questions or concerns, please feel free to let me know. Your patience is greatly appreciated.

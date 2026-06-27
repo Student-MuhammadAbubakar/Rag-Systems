@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I missed a product in order {{Order Number}}, can I add it?
+
+Answer: I'm glad you contacted us to us about missing a product in your order with the number {{Order Number}}. I understand that adding the missed product is important to you. To assist you further, may I know the details of the product that you would like to add? Once I have the information, I will do my best to help you include it in your order.

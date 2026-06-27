@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i have to check at what time i can rach customer support
+
+Answer: Your input is valuable! I'm picking up that you need assistance in finding out the specific hours during which you can contact our customer support. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us through {{Customer Support Phone Number}} or via live chat on our website at {{Website URL}}. We strive to provide prompt and helpful support within these designated hours. Is there anything else I can help you with?

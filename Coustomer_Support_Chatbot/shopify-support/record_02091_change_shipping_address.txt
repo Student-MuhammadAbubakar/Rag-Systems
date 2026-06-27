@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I have entered a wrong delivery address
+
+Answer: I'm sorry to hear that you have entered the wrong delivery address. I can help you with updating it. Please provide me with the correct address, and I will make sure to update it for you.

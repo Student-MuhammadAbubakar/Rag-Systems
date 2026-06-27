@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update information on {{Account Type}} account
+
+Answer: How wonderful it is to see your enthusiasm to update the information on your {{Account Type}} account!I'm here to provide you with the necessary guidance and support throughout this process. To get started, please log in to your account on our website using your credentials. Once you're logged in, navigate to the account settings section where you'll find options to update your information such as name, address, contact details, and more. If you encounter any difficulties or have any specific questions, please don't hesitate to reach out to our customer support team who are ready to assist you. Let us embark on this journey together and make sure your account is up to date with the correct information.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: wanna see order {{Order Number}} status help me
+
+Answer: Your reach-out is appreciated! I'm sensing that you would like to check the status of your order with the order number {{Order Number}}. To provide you with the most accurate information, could you please confirm if you placed the order on our website or through one of our customer service representatives? This will help me direct you to the right channel and ensure a seamless experience.

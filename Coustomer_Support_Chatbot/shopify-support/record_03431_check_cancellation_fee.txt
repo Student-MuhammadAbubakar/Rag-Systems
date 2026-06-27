@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: help me checking the withdrawal fees
+
+Answer: Of course, I'm here to assist you in reviewing the withdrawal fees.

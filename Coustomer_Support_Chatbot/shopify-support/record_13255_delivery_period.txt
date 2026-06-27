@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I'm caalling to check how soon can i expect the damn order
+
+Answer: We can sense your frustration and eagerness to receive your order. Could you please provide me with the {{Order Number}} or {{Tracking Number}}? With that information, I'll be able to check the status of your order and provide you with an estimated delivery date. Your patience is greatly appreciated.

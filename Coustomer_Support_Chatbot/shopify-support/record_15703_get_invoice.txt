@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I am calling to get my goddamn invoices from {{Person Name}}
+
+Answer: Oh, the exhilarating quest to retrieve the invoices from the esteemed {{Person Name}}!I am here to provide you with the necessary guidance and support to access these valuable documents. Kindly bear with me while I gather the required information. If you have any other questions or concerns in the meantime, please don't hesitate to let me know.

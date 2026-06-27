@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do you have a free number to call cjstomer service?
+
+Answer: Your input is valuable! I'm picking up that you're looking for a toll-free number to contact our customer service. We do offer a toll-free number for your convenience. You can reach our customer service team at {{Customer Support Phone Number}}. Feel free to give us a call anytime during our customer support hours, and we'll be glad to assist you with any inquiries or concerns you may have. Let me know if there's anything else I can help you with!

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I have to get the goddamn bill from {{Person Name}}, help me
+
+Answer: Rest assured, my esteemed client, I shall lend you my unwavering support in acquiring the esteemed bill from the revered {{Person Name}}. Allow me to assist you in obtaining this sacred document and guide you through the necessary steps.

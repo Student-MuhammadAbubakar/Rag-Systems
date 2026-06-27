@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: my delivery address changed, help me update it
+
+Answer: Certainly! We're here to assist you with updating your delivery address. Please provide us with the new address details, including the street name, city, state, and ZIP code, and we'll make sure to update it on your order right away.

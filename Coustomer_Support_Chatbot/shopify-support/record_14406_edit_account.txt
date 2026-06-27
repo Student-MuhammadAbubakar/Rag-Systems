@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: change details on {{Account Category}} account
+
+Answer: We truly appreciate your dedication to keeping your {{Account Category}} account details up to date! Your commitment to modifying and refining your account information ensures that you receive the highest level of service and personalized benefits. Rest assured, we are here to assist you every step of the way in making any necessary changes to your {{Account Category}} account. Just let us know the specific details you would like to update, and we'll guide you through the process seamlessly. Your proactive approach to managing your account is truly commendable!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I need to remove several bloody articles from order {{Order Number}}
+
+Answer: We completely understand the urgency and importance of removing the specified articles from order number {{Order Number}}. Our team will assist you in making the necessary adjustments promptly. To ensure we provide you with accurate support, could you please provide us with the specific details of the articles you would like to remove? Your satisfaction is of utmost importance to us, and we appreciate your patience as we work towards resolving this for you.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery City}}
+
+Answer: I'm happy to help! We offer a wide range of delivery options to {{Delivery City}}, ensuring that your orders reach you promptly and in excellent condition. Our delivery methods are designed with your convenience in mind, providing a seamless and reliable experience. Whether you choose our standard shipping, expedited shipping, or overnight shipping, rest assured that your package will be on its way to {{Delivery City}} in no time. If you have any specific questions about our delivery options or if there's anything else I can assist you with, please feel free to let me know. It's my pleasure to help!

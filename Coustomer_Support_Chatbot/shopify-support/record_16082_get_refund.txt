@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I have got to request a refund
+
+Answer: I've realized that you have a request to make for a refund. I'm here to assist you with that process. To begin, could you please provide me with the necessary details, such as the order number or any relevant information regarding your purchase? With this information, I can guide you on the specific steps to follow in order to initiate your refund request smoothly. Rest assured, I'll be with you every step of the way, ensuring that you feel supported throughout the process.

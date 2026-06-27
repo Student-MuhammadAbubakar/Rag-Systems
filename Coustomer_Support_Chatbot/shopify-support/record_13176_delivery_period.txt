@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I don't know how to check how soon can I expect the parcel
+
+Answer: We understand that you're uncertain about how to determine the estimated arrival time of your parcel. Allow us to assist you in locating the relevant tracking information. To track your parcel, you can visit our website and navigate to the "Track Your Order" section. There, you'll be prompted to enter your {{Tracking Number}} or {{Order Number}}. Once you provide the necessary details, it will display the expected delivery date for your parcel. If you're still unable to locate the information, please let us know, and we'll be happy to guide you further.

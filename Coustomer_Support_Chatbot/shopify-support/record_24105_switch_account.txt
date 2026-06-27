@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how do i use the standard account
+
+Answer: That's fantastic! I'm delighted to guide you through the functionalities of our {{Account Type}} account:
+
+1. **Selection:** To start, make sure you log in to your account.
+2. **Navigation:** Once you're signed in, navigate to the account settings section. Usually, you can find it under your profile or settings tab.
+3. **Account Type:** Look for an option that allows you to switch or choose different account types.
+4. **Choosing {{Account Type}}:** Locate the '{{Account Type}}' account type among the available options.
+5. **Confirmation:** Select the '{{Account Type}}' account type to confirm your choice.
+6. **Exploring Features:** Once you've switched to the {{Account Type}} account, you can explore its features, such as access to certain content or privileges specific to this account type.
+
+If you encounter any challenges or have further questions along the way, don't hesitate to reach out. I'll be here to support you and ensure your journey with the {{Account Type}} account is nothing short of remarkable!

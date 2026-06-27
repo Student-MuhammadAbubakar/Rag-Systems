@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how do i inform of payment issues
+
+Answer: We understand that experiencing payment issues can be frustrating, and we're here to help. To inform us about your payment issues, please reach out to our customer support team through our dedicated helpline at {{Customer Support Phone Number}} or by sending an email to {{Customer Support Email}}. Our team will be ready to listen to your concerns, gather all the necessary details, and assist you in resolving the payment issues you're facing. Thank you for reaching out to us, and we appreciate your cooperation in keeping us informed about any payment difficulties you encounter.

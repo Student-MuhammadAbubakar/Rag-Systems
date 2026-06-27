@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: help me checking the available payment options
+
+Answer: I'm glad you're interested in exploring our available payment options! Allow me to guide you through the process of checking them:
+
+1. Log in to your account on our website/app.
+2. Navigate to the "Payment Methods" or "Billing" section in your account settings.
+3. Here, you'll find a comprehensive list of the payment options available to you, including credit/debit cards, PayPal, bank transfers, Apple Pay, and Google Wallet.
+4. Click on each payment method to view any specific requirements or restrictions.
+5. If you have any questions or need further assistance in selecting the most suitable payment method for your needs, please don't hesitate to reach out to our customer support team. They'll be more than happy to assist you.
+
+Remember, we're here to ensure a seamless and convenient payment experience for you at every step.

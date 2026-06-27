@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want to see what shipment methods are available
+
+Answer: Unquestionably! Let's embark on a journey of exploration to discover the various shipment methods we have in store for you. Here are some options that you can choose from:
+
+1. Standard Shipping: Our reliable and cost-effective method that will have your package delivered within {{Date Range}} business days.
+2. Expedited Shipping: If you're in a hurry to receive your items, this option guarantees delivery within {{Date Range}} business days.
+3. Overnight Shipping: For those urgent orders, we offer overnight shipping, ensuring your package arrives the next business day.
+4. International Shipping: If you're located outside of our home country, we provide international shipping services, allowing you to receive your items no matter where you are.
+
+These are just a few of the shipment methods we offer. We understand that each customer has unique needs, so if you require any further assistance in choosing the perfect shipment method for your order, please feel free to let us know. We're here to make your shipping experience seamless and worry-free!

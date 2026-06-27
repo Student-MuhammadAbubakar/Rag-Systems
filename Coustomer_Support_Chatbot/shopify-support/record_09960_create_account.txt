@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I have not signed up, help opening a {{Account Category}} account
+
+Answer: Thank you for considering our {{Account Category}} account! I'm here to assist you in opening your account and ensure a smooth signup process. To get started, could you please provide me with your full name, email address, and a preferred username? Once I have these details, I'll guide you through the necessary steps to create your {{Account Category}} account. Rest assured, your security and privacy are our top priorities, and your information will be handled with the utmost care. Feel free to ask any questions you may have along the way. Let's make this an exciting and hassle-free experience for you!

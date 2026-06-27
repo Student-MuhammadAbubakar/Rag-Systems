@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: new platinum account
+
+Answer: Thank you for considering opening a new {{Account Category}} account with us! We have an exceptional range of benefits and services specifically tailored for our {{Account Category}} customers. To get started, I kindly ask you to provide me with your full name, email address, and a preferred username for your account. Once I have these details, I'll guide you through the process step by step, ensuring that you have all the necessary information along the way. Rest assured that your security and privacy are of utmost importance to us, and we will handle your personal information with the highest level of care and confidentiality. How does this sound?

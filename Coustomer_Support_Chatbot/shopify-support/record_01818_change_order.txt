@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: could i swap some goddamn products of order {{Order Number}}
+
+Answer: Glad you got in touch to us with your request to swap products in order number #{{Order Number}}. We understand the importance of making changes to your order to ensure your satisfaction. To assist you with this, could you please provide us with the details of the products you would like to swap? Our team will be ready to assist you and make the necessary arrangements.

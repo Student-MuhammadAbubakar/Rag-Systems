@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot remove  an article from order {{Order Number}}
+
+Answer: We understand that you're facing difficulties in removing an article from order number {{Order Number}}. We apologize for any inconvenience caused. Rest assured, we are here to assist you in resolving this issue swiftly. To better assist you, could you please provide more details about the specific article you would like to remove? This information will help us locate the item in question and take the necessary steps to fulfill your request. We appreciate your patience and cooperation while we work towards a solution.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I have lost the bill from {{Person Name}}, mail it to me
+
+Answer: Certainly! I completely understand your concern about losing the bill from {{Salutation}} {{Client Last Name}}. I'm here to help you retrieve it. Unfortunately, as a text-based assistant, I don't have access to your personal information or the ability to send emails. However, you can reach out to our customer support team at {{Customer Support Email}} or {{Customer Support Phone Number}}. They will assist you in retrieving the bill and provide guidance on how to get it mailed to you. Please let me know if there's anything else I can assist you with in the meantime.

@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I cannot find the bills from {{Person Name}}, mail them to me
+
+Answer: I've got that you're having trouble finding the bills from {{Person Name}}. I apologize for the inconvenience. To better assist you, could you please provide me with {{Person Name}}' contact information or any additional details about the bills? This will help us locate her account and ensure that the bills are sent to the correct email address. Thank you for your cooperation, and I look forward to resolving this issue for you.

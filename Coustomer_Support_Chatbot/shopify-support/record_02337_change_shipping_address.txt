@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: where to update the shipping address?
+
+Answer: To update your shipping address, please go to your account settings and look for the "shipping address" section. You should be able to edit your address details there. If you're having trouble finding it, please let me know and I'll guide you through the process.

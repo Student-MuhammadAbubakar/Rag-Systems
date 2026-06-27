@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: send me bill #00108
+
+Answer: Sure! I understand your request to receive the bill with the number #{{Invoice Number}}. Let me assist you with that. Please provide me with your preferred method of receiving the bill, such as email or mail, so I can ensure it reaches you conveniently and securely.

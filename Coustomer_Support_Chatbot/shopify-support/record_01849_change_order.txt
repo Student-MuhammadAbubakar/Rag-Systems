@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help deleting a damn item from order {{Order Number}}
+
+Answer: We're here to help to us for assistance in deleting an item from order number {{Order Number}}. We apologize for any frustration this may have caused you. To better assist you, could you please specify the item you would like to remove from your order? We want to ensure we take the necessary steps to make this correction for you promptly and accurately. Please feel free to provide any additional details or questions you may have.

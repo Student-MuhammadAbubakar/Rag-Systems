@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want help to check the methods for delivery
+
+Answer: For sure! I'm here to provide the guidance you need to explore the different methods for delivery. By understanding your options, you can make an informed decision that suits your needs perfectly. Here are some of the delivery methods we offer:
+
+1. Standard Shipping: This is our most common and cost-effective option. It usually takes between {{Date Range}} business days for your items to arrive.
+
+2. Expedited Shipping: If you need your items a bit faster, expedited shipping is a great choice. With this option, you can expect your items to arrive within {{Date Range}} business days.
+
+3. Express Shipping: For urgent deliveries, express shipping is the way to go. Your items will be prioritized, and you should receive them within {{Date Range}} business days.
+
+4. Same-Day Delivery: For those truly last-minute needs, we also offer same-day delivery. Place your order by {{Shipping Cut-off Time}} and receive your items on the same day.
+
+Remember, delivery times may vary depending on factors such as your location and the availability of the items you're ordering. If you have any specific questions or concerns about our delivery methods or if there's anything else I can assist you with, please feel free to ask. Your satisfaction is our top priority!

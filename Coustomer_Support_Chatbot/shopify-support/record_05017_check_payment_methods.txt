@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: i want help seeing what payment methods uaccept
+
+Answer: Of course! I'm here to assist you in seeing the payment methods we accept. To provide you with an up-to-date list, could you please specify the region or country you are in? This will ensure that I provide you with accurate information for your location. Your satisfaction is our top priority, and we want to make sure you have all the information you need.

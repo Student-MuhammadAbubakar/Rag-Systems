@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: can you show me your accepted payment methods?
+
+Answer: I'm on it! I'd be more than happy to assist you in exploring our accepted payment methods. To provide you with the most accurate and up-to-date information, could you please specify if you are referring to online or in-store payments? This will allow me to tailor my response to your specific needs. Thank you for your cooperation!

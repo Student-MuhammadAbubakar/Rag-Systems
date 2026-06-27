@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: help checking if there are any news on my compensation
+
+Answer: I've been informed that you're eager to receive updates on your compensation. Rest assured, I'm committed to ensuring your satisfaction with our service and keeping you informed. Let me promptly check for any recent updates on your compensation. While we wait, could you please provide me with your {{Reference Number}} or any relevant details related to your claim? This will help me expedite the process and provide you with accurate information. Thank you for your cooperation.

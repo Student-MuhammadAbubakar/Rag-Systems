@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i want assistance removing my {{Account Type}} account
+
+Answer: We've received your message to us for assistance with removing your {{Account Type}} account. I understand that you may have various reasons for wanting to close your account, and I want to assure you that I'm here to help you through this process. To proceed with the account removal, I will need some specific details from you. Could you please provide me with your account username or any other identifying information associated with your {{Account Type}} account? This will allow me to locate your account and initiate the closure process. Your privacy and security are of utmost importance to us, and I will ensure that your account is deactivated and any personal information is securely removed.

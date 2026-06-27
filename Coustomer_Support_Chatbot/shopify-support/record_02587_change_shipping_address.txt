@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I want help correcting the address
+
+Answer: I'm happy to help! If you need assistance with correcting your address, please provide us with the correct address details, including any relevant apartment numbers or unit numbers. We'll be happy to make the necessary updates for you to ensure smooth delivery.

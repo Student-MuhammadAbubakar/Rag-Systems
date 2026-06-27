@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: d uship to {{Delivery City}}
+
+Answer: I'll do my best! We offer shipping services to {{Delivery City}}, catering to customers like you who reside in that area. Let me assure you that we will take care of getting your items delivered to your doorstep. Now, let's explore our delivery options customized to meet your needs in {{Delivery City}}.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: where do i track order {{Order Number}}
+
+Answer: It's great to hear from you! I can see that you would like to track the order with the order number {{Order Number}}. To track your order, please visit the '{{Order Tracking}}' section on our website. There, you will be able to enter your order number and view the current status and estimated delivery date of your order. If you have any further questions or need assistance with tracking your order, please feel free to ask. I'm here to help!

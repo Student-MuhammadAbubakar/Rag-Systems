@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want assistance to open a different damn pro account
+
+Answer: That's wonderful to hear that you're interested in opening a different {{Account Type}} account! I'm here to provide you with the assistance you need. To get started, could you please provide your full name, email address, and a preferred username? This will allow us to begin the process seamlessly. Rest assured that your information will be handled with the utmost care and privacy. Don't hesitate to reach out if you have any questions along the way. Let's make this transition to your new {{Account Type}} account as smooth as possible!

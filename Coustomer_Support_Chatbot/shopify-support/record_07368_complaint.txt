@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I want assistance to lodge a complaint against your business
+
+Answer: I'm truly sorry to hear that you're dissatisfied with our service and need to lodge a complaint. Your feedback is invaluable to us, as it helps us identify areas for improvement and ensure that similar issues are prevented in the future. To assist you with lodging a complaint, I recommend reaching out to our dedicated customer support team. They have the expertise to handle complaints promptly and will guide you through the process. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, your complaint will be taken seriously and deeply looked into. We appreciate your patience and thank you for giving us the opportunity to address your concerns.

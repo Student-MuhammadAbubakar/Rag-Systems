@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: closing pro account
+
+Answer: Glad you got in touch about closing your {{Account Type}} account. I understand that you have made the decision to cancel your {{Account Type}} membership, and I am here to assist you with this process. To proceed with account closure, we will need to verify some information. Could you please provide us with your account details such as your username or email associated with your {{Account Type}} account? Once we have this information, I will guide you through the account closure steps to ensure a smooth and hassle-free process. Please know that we value your time and are committed to helping you with any queries or concerns you may have during this process.

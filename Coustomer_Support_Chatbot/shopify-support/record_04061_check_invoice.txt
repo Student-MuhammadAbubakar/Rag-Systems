@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: where do i see my bill #00108
+
+Answer: I'm on the same wavelength, your curiosity about where to find your bill with the number {{Invoice Number}}. To assist you in locating it, you can visit your account dashboard and navigate to the "Billing" section. There, you should be able to access your invoice history and locate the specific bill number {{Invoice Number}}. If you encounter any difficulties during the process, please don't hesitate to reach out to our support team, who will be more than happy to guide you through each step. Remember, your satisfaction is our top priority!

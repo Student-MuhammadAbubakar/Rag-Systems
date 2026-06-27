@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I have got to track the compensation
+
+Answer: We understand your need to track the status of your compensation. Rest assured, we are here to assist you. To provide you with accurate information, could you please provide us with your {{Company Name}} account number or any other relevant details that can help us locate your compensation? This will allow us to track the progress of your case and provide you with the most up-to-date information. Thank you for your cooperation.

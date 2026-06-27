@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where can i notify of troubles with payments
+
+Answer: I'm here to help you with any troubles you're experiencing with your payments. You can notify us about these issues by reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured that our team will promptly address your concerns and work towards finding a resolution for you. We appreciate your feedback and thank you for bringing this to our attention.

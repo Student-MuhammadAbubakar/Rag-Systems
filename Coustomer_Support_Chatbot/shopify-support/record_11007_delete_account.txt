@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: clsoe {{Account Type}} account
+
+Answer: Thanks for dropping us a line about closing your {{Account Type}} account. I understand that you would like assistance with this matter. Can you please provide me with your account details so that I can help you further? Remember that your account security is important to us, so please provide any necessary information in a private and secure manner.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: how can I find information about the shipping period?
+
+Answer: We understand that you're interested in finding information about the shipping period. To help you with that, you can visit our website and navigate to the "Track Order" or "Order Status" page. There, you'll be able to input your {{Order Number}} or {{Tracking Number}} to get the most up-to-date details about your shipment, including the estimated delivery date. If you're unable to find the information you need online, our customer service team is available to assist you and provide you with the necessary information.

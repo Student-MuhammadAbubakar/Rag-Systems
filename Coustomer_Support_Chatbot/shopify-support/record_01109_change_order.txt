@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help to remove several items from order {{Order Number}}
+
+Answer: I appreciate you reaching out to us for assistance with removing multiple items from order number {{Order Number}}. Rest assured, I'm here to help! To make sure I accurately address your request, could you please provide me with the specific items you would like to remove? Once I have this information, I'll proceed with the necessary actions to ensure your order is exactly as you desire. Thank you for your patience and cooperation.

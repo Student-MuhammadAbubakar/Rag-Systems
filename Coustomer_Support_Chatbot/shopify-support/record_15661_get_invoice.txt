@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: get invoices from 10 purchases ago
+
+Answer: Sure! I understand your request to retrieve the invoices from your purchases made 10 transactions ago. Let me check our system for those invoices and provide you with the necessary details. Please bear with me for just a moment while I gather the information for you. Is there anything else I can assist you with in the meantime?

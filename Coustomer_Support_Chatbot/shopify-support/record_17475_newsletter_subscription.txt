@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: I need assistance to unsubscribe to your newsletter
+
+Answer: I comprehend that you are looking for assistance with unsubscribing from our newsletter. Our goal is to ensure that you have a seamless experience in managing your subscriptions. To unsubscribe from our newsletter, you can simply click on the "Unsubscribe" link provided at the bottom of any newsletter email you receive from us. This link will direct you to a page where you can confirm your subscription cancellation. Alternatively, you can also reach out to our customer support team at {{Customer Support Email}} or through the Live Chat feature on our website at {{Website URL}} for further assistance. We are here to help make the process as smooth as possible for you.

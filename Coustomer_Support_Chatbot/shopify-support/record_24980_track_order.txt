@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I can't see order {{Order Number}} status
+
+Answer: I apologize for the inconvenience caused by not being able to see the status of order number {{Order Number}}. Let's get this resolved for you as quickly as possible. To assist you further, could you please provide me with the email address or phone number associated with your order? This will help us locate your order information and provide you with the accurate status. Your satisfaction is our top priority, and I'm committed to ensuring that we find a solution for you.

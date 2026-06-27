@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: checking invoice from nine months ago
+
+Answer: I'm following you that you are looking to check the invoice from nine months ago. It's important to have access to your previous invoices for reference and record-keeping purposes. To assist you better, could you please provide me with the specific {{Date Range}} or any additional details, such as the {{Order Number}} or {{Client Name}}, associated with the invoice? With this information, I will be able to help you locate the invoice you need more accurately.

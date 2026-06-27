@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know how to cancel the standard account
+
+Answer: Thanks for dropping us a line to us regarding your concerns about canceling your standard account. I understand that navigating through the account cancellation process can sometimes be confusing, but don't worry, I'm here to help you. To cancel your standard account, you can either log into your account settings and find the cancellation option or reach out to our customer support team who will guide you through the process step by step. Our team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured that we are fully committed to ensuring a seamless experience for you, and we'll assist you in every way possible.

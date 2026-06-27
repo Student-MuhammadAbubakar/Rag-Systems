@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have a question about opening pro accounts
+
+Answer: That's great to hear that you have a questions about opening a {{Account Type}} account. I'm here to provide you with all the information and assistance you need. Please go ahead and ask your question, and I'll be more than happy to help you out. Your satisfaction with our services is our top priority, so don't hesitate to reach out if you have any further inquiries.

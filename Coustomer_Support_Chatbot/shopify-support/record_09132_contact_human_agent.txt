@@ -1,0 +1,13 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: what do  I need to do to chat with an assistant?
+
+Answer: Thank you for trusting us! I'm fully aware of you would like to know the steps to chat with an assistant. To initiate a chat with one of our knowledgeable assistants, please follow these simple steps:
+
+1. Visit our website at {{Website URL}}
+2. Look for the "Chat" or "Support" button located in the bottom corner of the webpage.
+3. Click on the "Chat" or "Support" button to initiate a chat session.
+4. You will be connected to a live assistant who will be more than happy to assist you with your inquiries.
+
+This way, you can have a real-time conversation with our skilled assistant and get the help you need. We are here to support you every step of the way!

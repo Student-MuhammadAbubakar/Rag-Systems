@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: help me to download my goddamn invoices from {{Person Name}}
+
+Answer: I truly understand your need to download your invoices from {{Salutation}} {{Client Name}}. I apologize for any frustrations you may have encountered. To assist you better, could you please provide me with the specific invoice numbers or any additional details regarding the invoices you wish to download? This will enable me to retrieve the invoices accurately and guide you through the downloading process step-by-step.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: add some goddamn articles to order {{Order Number}}
+
+Answer: We apologize for any inconvenience you may have experienced. We understand that you would like to add some articles to order number {{Order Number}}. We're committed to assisting you with this request. Could you please provide the specific articles you would like to add? It would be helpful if you could provide us with the item names, quantities, and any other relevant details. We'll make sure to update your order accordingly and ensure your satisfaction. Thank you for bringing this to our attention.

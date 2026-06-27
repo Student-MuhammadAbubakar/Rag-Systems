@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to switch a product of order {{Order Number}}?
+
+Answer: We understand that you would like assistance with switching a product for order number {{Order Number}}. We're here to help you with that! To proceed with the switch, please provide us with the details of the product you'd like to switch and the replacement product you would prefer. Once we have this information, we will guide you through the process and ensure a smooth transition. Your satisfaction is our priority, and we appreciate your patience as we work on resolving your request.

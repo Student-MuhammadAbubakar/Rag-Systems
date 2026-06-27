@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I don't know how to check the bloody shipping options
+
+Answer: Oh, how delightful! Your curiosity about exploring the various shipping options has sparked my interest. Allow me to guide you through the process of checking our shipping options:
+
+1. Visit our website at {{Website URL}} and navigate to the "Shipping" section.
+2. Look for a tab or link that says "Delivery Options" or "Shipping Options."
+3. Click on the tab or link to access detailed information about our available delivery methods and estimated delivery times.
+
+If you encounter any difficulties while navigating our website or require further assistance, don't hesitate to reach out to our dedicated support team at {{Customer Support Phone Number}} or through the Live Chat feature on our website. We're here to ensure a seamless shopping experience for you.

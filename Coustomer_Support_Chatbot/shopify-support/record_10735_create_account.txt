@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: find information about opening a {{Account Type}} account
+
+Answer: Assuredly! I'd be delighted to provide you with all the information you need to open a {{Account Type}} account. Our {{Account Type}} account offers a range of exclusive benefits and features, designed to enhance your banking experience. To get started, could you please provide me with your full name, email address, and contact number? Once I have these details, I can guide you through the account opening process and ensure that you have a seamless experience. Rest assured, your privacy and security are of utmost importance to us, and your information will be treated with the highest level of confidentiality. Feel free to ask any other questions you may have, as I'm here to assist you every step of the way.

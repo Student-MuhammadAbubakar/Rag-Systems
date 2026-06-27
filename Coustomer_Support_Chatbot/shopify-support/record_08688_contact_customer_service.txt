@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to talk with fucking customer support, help me
+
+Answer: We appreciate your message! It's clear to me that you're looking to talk to our customer support team. I apologize for any frustration you may be experiencing. Our customer support representatives are available during {{Customer Support Hours}} to assist you. Please let me know how I can help you further.

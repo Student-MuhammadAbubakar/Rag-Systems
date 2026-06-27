@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i do not know what to do to close the {{Account Category}} account
+
+Answer: We're here to help to us for assistance with closing your {{Account Category}} account. We understand that canceling an account can sometimes be confusing or overwhelming, but don't worry, we're here to help. To close your {{Account Category}} account, you'll need to follow a few simple steps. First, log in to your account and navigate to the account settings page. From there, you should see an option to cancel or close your account. Click on that option and carefully follow the instructions provided. If you encounter any difficulties or have any questions along the way, please don't hesitate to ask. Our dedicated support team is available to guide you through the process and ensure a smooth account closure.

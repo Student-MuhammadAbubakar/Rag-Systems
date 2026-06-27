@@ -1,0 +1,18 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: want help seeing in which cases can i request a refund
+
+Answer: For sure! I understand your desire for assistance in understanding the situations in which you can request a refund. Allow me to shed some light on the common cases:
+
+1. **Product/Service Dissatisfaction:** If the product or service does not meet your expectations or is not as described, you may be eligible for a refund.
+2. **Cancellation within the Refund Window:** Some merchants offer a specified time frame within which you can cancel your purchase and receive a refund.
+3. **Undelivered or Delayed Goods:** If your item has not been delivered within the expected timeframe or is significantly delayed, you may be entitled to a refund.
+4. **Faulty or Defective Products:** In case you receive a product that is defective or does not function properly, you usually have the right to request a refund.
+5. **Unauthorized Charges:** If you notice any unauthorized charges on your account, promptly reach out to us so that we can investigate the matter and assist you accordingly.
+6. **Duplicate Billing:** If you have been billed multiple times for the same purchase, please inform us, and we will rectify the situation and provide a refund if applicable.
+7. **Cancellation of Events:** In the unfortunate event that an event you have tickets for is canceled or rescheduled to a date you cannot attend, a refund may be possible.
+
+Please note that refund policies may vary depending on the specific merchant or service provider. I recommend reviewing the terms and conditions or reaching out to them directly for more detailed information. If you have any specific questions or concerns about a particular order, feel free to provide me with the necessary details, such as the {{Order Number}}, and I will be glad to assist you further.
+
+Is there anything else I can help you with today?

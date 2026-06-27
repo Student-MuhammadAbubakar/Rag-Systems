@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I am trying to notify of an issue with payment
+
+Answer: Thank you for letting us know about the issue you are experiencing with the payment. Your feedback is extremely important to us as it helps us improve our system and provide better assistance to our customers. To report the payment issue, you can contact our customer support team at {{Customer Support Phone Number}} or send an email to {{Customer Support Email}}. They will be able to assist you further and ensure that the issue is addressed and resolved as quickly as possible. We appreciate your patience and understanding.

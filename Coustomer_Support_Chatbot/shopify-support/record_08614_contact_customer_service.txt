@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: need to call customer service
+
+Answer: We appreciate your message! It's clear to me that you need to call our customer service. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us at {{Customer Support Contact Number}}. If you need any further assistance or have any questions, feel free to ask.

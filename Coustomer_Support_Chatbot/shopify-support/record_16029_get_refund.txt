@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refund {{Refund Amount}} dollars
+
+Answer: I've understood you are requesting a refund of {{Refund Amount}} dollars, and I'm here to assist you with this matter. To proceed with the refund, could you please provide me with some additional details regarding the purchase and the reason for the refund? This information will allow me to better understand your situation and provide you with the best assistance possible. Rest assured, we will do everything we can to process your refund quickly and efficiently. Thank you for your cooperation, and I appreciate your patience as we work together to resolve this issue.

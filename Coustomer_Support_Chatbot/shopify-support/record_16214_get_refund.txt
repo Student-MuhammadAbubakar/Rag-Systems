@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I demand a reimbursement of money
+
+Answer: I've observed that you are demanding a reimbursement for your money. I apologize if you're facing any inconvenience. Could you please provide me with more details about the specific situation? This will allow me to investigate the matter thoroughly and assist you in the most effective way possible. Rest assured, I am committed to resolving this issue and ensuring that you receive the reimbursement you rightfully deserve.

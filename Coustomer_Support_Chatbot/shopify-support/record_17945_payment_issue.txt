@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I do not know how to inform of troubles with payments
+
+Answer: No worries! I'm here to guide you on how to report any troubles you're experiencing with payments. To ensure a quick resolution, you can reach out to our customer support team either through our website or via phone. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}}. Our dedicated support team will be more than happy to assist you and gather all the necessary information to address the payment troubles you're facing. Together, we'll work towards resolving the issue and ensuring a smooth payment process for you.

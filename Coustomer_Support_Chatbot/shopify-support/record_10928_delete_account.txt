@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i do not know how to close my {{Account Type}} account
+
+Answer: I've noticed that you're unsure of the process to close your {{Account Type}} account. I apologize for any confusion or frustration this may have caused. Rest assured, I'm here to assist you step-by-step. To assist you better, can you please provide me with your account details or any specific questions you have about the closing procedure? By gathering this information, I'll be able to provide you with the accurate guidance you need to close your {{Account Type}} account successfully.

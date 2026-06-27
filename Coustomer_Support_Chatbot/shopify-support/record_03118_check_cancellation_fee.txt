@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I need to check the early termination fee
+
+Answer: I'll do my best! To check the early termination fee, simply log in to your account and navigate to the "Early Termination Charges" section. There you will find all the information you need regarding the fees associated with terminating your account before the designated period.

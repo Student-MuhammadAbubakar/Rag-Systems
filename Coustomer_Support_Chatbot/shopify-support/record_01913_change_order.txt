@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I need to swqap something of purchase {{Order Number}}, help me
+
+Answer: Thank you for trusting to us! We understand that you would like to swap an item from purchase number {{Order Number}}. Providing a seamless shopping experience is our priority, and we'll do our best to assist you. To proceed with the swap, could you let us know the item you would like to return and the replacement item you would like to receive? This information will enable us to coordinate the necessary steps to ensure your satisfaction.

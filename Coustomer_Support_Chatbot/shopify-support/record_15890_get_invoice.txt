@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do not know how i can download my bills from {{Person Name}}
+
+Answer: No problem at all! I completely understand your confusion about how to download your bills from {{Salutation}} {{Client Last Name}}. Let me guide you through the process. To access your bills, you can log in to your account on our website and navigate to the "Billing" section. From there, you should be able to view and download your bills as PDF files. If you encounter any difficulties or have further questions, please feel free to let me know. I'm here to help!

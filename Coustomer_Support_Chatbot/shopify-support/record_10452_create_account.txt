@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creating new platinum account
+
+Answer: How exciting! I'm thrilled to assist you in creating a new {{Account Category}} account. To start the process, could you please provide me with your full name, email address, and a preferred username? Once I have this essential information, I will guide you step-by-step, ensuring that you have a smooth and informed experience. Please rest assured that the security and privacy of your data are of utmost importance to us, and we will handle it with the utmost care. Let's get started on this journey together!

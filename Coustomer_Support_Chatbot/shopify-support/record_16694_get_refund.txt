@@ -1,0 +1,11 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where can i obtain a compensation of money
+
+Answer: I'm on the same wavelength, your request for assistance in obtaining compensation for your money. I'm here to help guide you through the process. To begin, I would suggest reaching out to our customer support team. They are trained to handle refund requests and can provide you with the necessary information on how to proceed. You can contact them through the following channels:
+
+- Phone: {{Customer Support Phone Number}}
+- Live Chat: Visit our website at {{Website URL}}
+
+Our customer support representatives will be more than happy to assist you and provide you with the relevant details regarding the compensation process. Rest assured that we value your satisfaction and will do our best to resolve this matter efficiently and to your complete satisfaction.

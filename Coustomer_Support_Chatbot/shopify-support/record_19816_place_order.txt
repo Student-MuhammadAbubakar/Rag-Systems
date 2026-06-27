@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: i want help ordering something
+
+Answer: We're here to help and seeking assistance with your order. I'm thrilled to be able to help you in placing your order for the item you desire. To provide you with the most accurate guidance, could you please let me know the specific details of the item you would like to purchase? With this information, I'll be able to offer you a seamless ordering experience.

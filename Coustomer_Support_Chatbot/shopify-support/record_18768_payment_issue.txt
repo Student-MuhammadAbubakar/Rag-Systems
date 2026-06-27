@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: my card did not work, assistance reporting payment problems
+
+Answer: We're sorry to hear that your card did not work during the payment process. It's important to address any payment problems you encounter, and we're here to assist you. To report this issue, I recommend reaching out to our customer support team directly. They will be able to provide the necessary guidance and support to resolve the problem. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They are available {{Customer Support Hours}} to assist you. Thank you for bringing this to our attention and allowing us to help resolve the payment problem.

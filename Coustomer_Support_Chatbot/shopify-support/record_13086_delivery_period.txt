@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: i dont know how i could see when my shipment is gonna arrive
+
+Answer: We understand that you're unsure about how to track the arrival of your shipment. Don't worry, we're here to guide you through the process. To get a clear estimate of the delivery time, please provide us with the {{Tracking Number}} or {{Order Number}} associated with your shipment. With this information, we'll be able to give you a precise update on when you can expect your shipment to arrive. We appreciate your patience and understanding.

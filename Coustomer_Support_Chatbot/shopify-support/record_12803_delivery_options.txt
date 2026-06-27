@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place an order from {{Delivery City}}
+
+Answer: Definitely! I'm thrilled to inform you that placing an order from the captivating city of {{Delivery City}} is indeed possible. We offer shipping services to various locations, including {{Delivery City}}, so you can conveniently place your order from there. Our delivery options are designed to ensure your satisfaction and timely delivery. If you have any specific concerns or questions about the ordering process, please don't hesitate to ask. I'm here to assist you every step of the way!

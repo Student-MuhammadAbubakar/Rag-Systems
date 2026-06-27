@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: change to {{Account Type}} acount
+
+Answer: Thank you for expressing interest in upgrading to the {{Account Type}} account! I'd be delighted to guide you through the process:
+
+1. Access Your Account: Start by logging in to our platform using your credentials.
+2. Go to Account Settings: Once you're logged in, navigate to the "Account Settings" section.
+3. Upgrade Option: Look for the option that allows you to upgrade your account type.
+4. Select {{Account Type}} Account: Choose the "{{Account Type}} Account" option from the available choices.
+5. Follow the Prompts: Follow the prompts on the screen to complete the upgrade process successfully.
+
+Should you encounter any difficulties during the upgrade or have any additional questions, please don't hesitate to reach out. We value your decision to upgrade to the {{Account Type}} account and will ensure a seamless transition. Enjoy the exclusive benefits that come with the {{Account Type}} account!

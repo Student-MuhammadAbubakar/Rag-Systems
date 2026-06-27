@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I don't know how I can list the allowed payment methods
+
+Answer: No problem at all! I'm here to help you with that. To list the allowed payment methods, you can simply visit our website and navigate to the "Payment Options" or "Checkout" page. There, you will find a comprehensive list of all the payment methods we accept. If you have any further questions or need assistance with any specific payment method, please don't hesitate to let me know. I'm here to guide you every step of the way!

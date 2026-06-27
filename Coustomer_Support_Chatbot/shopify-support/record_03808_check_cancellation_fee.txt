@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: see the termination fees
+
+Answer: I'll take care of it! I can provide you with the details regarding the termination fees. Please give me a moment to retrieve the information for you.

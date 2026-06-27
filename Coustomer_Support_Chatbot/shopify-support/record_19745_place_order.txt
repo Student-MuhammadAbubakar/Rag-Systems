@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: how can I order some products?
+
+Answer: Thank you for your interest in ordering our products! I'm thrilled to guide you through the process and make it as smooth and enjoyable as possible. To place an order, you can either visit our website or reach out to our customer service team. On our website, simply browse through the products, select the ones you'd like to order, and add them to your cart. Then, proceed to the checkout page, where you can review your order, enter your shipping information, and choose a payment method. If you need any further assistance or have specific questions about the ordering process, our customer service team will be more than happy to help you. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We look forward to serving you and fulfilling your order!

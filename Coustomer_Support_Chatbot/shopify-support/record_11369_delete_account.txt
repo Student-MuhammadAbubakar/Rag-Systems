@@ -1,0 +1,13 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: delete standard account
+
+Answer: We appreciate your inquiry about deleting your {{Account Type}} account. I understand that you're looking to close or remove your account, and I'm here to assist you. To delete your {{Account Type}} account, please follow these steps: 
+
+1. Log in to your account on our website.
+2. Navigate to the account settings or profile section.
+3. Look for the option to delete or close your account.
+4. Follow the prompts and confirm your decision to delete your {{Account Type}} account.
+
+Please note that deleting your account will permanently remove all your data and you won't be able to recover it. If you have any specific concerns or if there is anything else I can assist you with, please let me know.

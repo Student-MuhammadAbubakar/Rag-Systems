@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: wanna notify of a trouble with online payments
+
+Answer: Thanks for dropping us a line to us and bringing this payment trouble to our attention. We understand how frustrating it can be when online payments don't go smoothly. Rest assured that we are here to assist you in resolving this issue. To better assist you, could you please provide some more details about the trouble you encountered? Your feedback is valuable in helping us improve our system and provide you with the best possible support. Thank you for your cooperation, and we look forward to resolving this problem for you.

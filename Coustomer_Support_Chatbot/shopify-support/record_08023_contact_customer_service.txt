@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can yahelp me contacting customer support
+
+Answer: We're here to help! I take note that you are looking for assistance in contacting our customer support. We are here to help! Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us by phone at {{Customer Support Phone Number}} or through the live chat on our website at {{Website URL}}. Please let us know if there's anything else we can do to assist you.

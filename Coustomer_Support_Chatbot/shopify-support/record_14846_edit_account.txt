@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update data on {{Account Category}} account
+
+Answer: How marvelous it is to witness your dedication in updating the data on your {{Account Category}} account!I'm thrilled to assist you every step of the way. To update the data on your {{Account Category}} account, you can securely log into our {{Online Company Portal Info}} where you will have access to a wide range of account management options. Our team of experts is also available to address any specific concerns you may have during this process. Let's work together to ensure that your account data is accurate and up to date. How can I further assist you on this journey?

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I do not know how to check how soon can I expect the parcel
+
+Answer: Understanding that tracking the delivery status of your parcel is important to you, let me guide you through the process. To check the estimated arrival time, you will need either the {{Tracking Number}} or {{Order Number}}. Once you have this information, you can go to your account on our website or use our tracking tool to get real-time updates on the status of your parcel and view the expected delivery time. If you need further assistance or encounter any difficulties, please feel free to let me know.

@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: how do i remove several articles from order {{Order Number}}
+
+Answer: We're here for you to us for assistance with removing several articles from order number {{Order Number}}. I understand the importance of making adjustments to your order to ensure your satisfaction. To proceed with removing the articles, you can follow these steps:
+
+1. Log in to your account on our website.
+2. Navigate to the "Orders" section.
+3. Locate and click on order number {{Order Number}}.
+4. You should see a list of the articles included in your order.
+5. Identify the specific articles you want to remove.
+6. Find the "Remove" or "Delete" option next to each article and click on it.
+7. Verify your selection and confirm the removal when prompted.
+
+By following these steps, you should be able to remove the desired articles from your order. If you encounter any difficulties or have further questions, please don't hesitate to let me know. Our team is here to assist you every step of the way.

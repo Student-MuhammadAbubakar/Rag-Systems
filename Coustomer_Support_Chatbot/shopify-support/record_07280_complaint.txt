@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: i need assistance making a consumer claim against ur compan
+
+Answer: I'm sorry to hear that you need assistance in making a consumer claim against our company. Your experience matters to us, and we want to ensure that your concerns are addressed appropriately. To proceed with your consumer claim, I recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process, gather the necessary details, and work towards a resolution. Rest assured, we take consumer claims seriously and are committed to resolving them as efficiently as possible. Please let me know if there's anything else I can assist you with.

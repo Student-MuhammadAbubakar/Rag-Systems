@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I have got to correct purchase {{Order Number}}, how to do it?
+
+Answer: I'm glad you contacted us to us regarding your need to correct purchase number {{Order Number}}. We understand the importance of ensuring your purchase is accurate and satisfactory. To assist you in correcting the purchase, could you please provide us with specific details regarding the changes you would like to make? This information will enable us to guide you with the appropriate steps to rectify the purchase effectively. Your satisfaction is our priority, and we are committed to providing you with the best assistance possible.

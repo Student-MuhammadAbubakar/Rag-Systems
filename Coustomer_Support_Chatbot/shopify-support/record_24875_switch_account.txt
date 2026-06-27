@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: could ya help me to use the standard account
+
+Answer: Definitely! I'm here to guide you on how to utilize the {{Account Type}} account effectively:
+
+1. Login: Begin by logging into our platform using your credentials.
+2. Account Settings: Once you're logged in, navigate to your `Account Settings` or `Profile` section.
+3. Account Type: In these sections, locate the option labeled `Switch Account Type` or `Upgrade`.
+4. {{Account Type}} Profile: From the available account types, select the `{{Account Type}} Profile` option.
+5. Confirmation: Follow the on-screen prompts to confirm your switch to the {{Account Type}} account.
+
+Should you encounter any difficulties during this process or if you have any additional questions, please don't hesitate to reach out. I'm here to ensure a seamless transition so that you can fully enjoy the features and benefits of our {{Account Type}} account.

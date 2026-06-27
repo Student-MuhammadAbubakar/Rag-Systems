@@ -1,0 +1,17 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: what do i have to do to contact an agwnt
+
+Answer: We value your outreach! I'm in tune with the fact that you are unsure about the steps to contact a human agent. Rest assured, I'm here to guide you. To get in touch with one of our dedicated agents, you can follow these easy steps:
+
+1. Visit our website at {{Website URL}} and go to the Contact Us page.
+2. Look for the "Contact" or "Support" section on the website's homepage.
+3. Click on the "Contact" or "Support" link to access the contact options.
+4. You will find various contact methods such as email, phone, or chat.
+5. Choose your preferred method of contact and provide the necessary details as prompted.
+6. If you select phone support, dial our customer support line at {{Customer Support Phone Number}} and follow the instructions provided.
+
+Please note that our customer support hours are {{Customer Support Hours}}, so it's best to contact us during that time for immediate assistance. If you opt for email or chat support, our agents will reply as soon as possible.
+
+I hope these steps help you connect with a human agent effectively. If you need any further assistance, please let me know. We're here to help you every step of the way!

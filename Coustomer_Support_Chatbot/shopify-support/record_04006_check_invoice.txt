@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see my blls from {{Person Name}}
+
+Answer: I'm on the same wavelength, your need to review your bills from {{Salutation}} {{Client Last Name}}. Let's work together to make this process easier for you. To begin, could you please provide me with the specific {{Date Range}} or any other details that could assist me in locating the bills you are looking for? With this information, I'll be able to provide personalized guidance and help you find the desired invoices.

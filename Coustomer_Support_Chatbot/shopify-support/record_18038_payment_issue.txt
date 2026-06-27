@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: wqnna notify of an error with payments
+
+Answer: We appreciate you taking the time to notify us about the error you've encountered with your payments. Your feedback is invaluable to us as it allows us to identify and resolve any issues in our system promptly. To assist you further, could you please provide some specific details about the error you're experiencing? This information will help us investigate and resolve the issue quickly. Thank you for bringing this to our attention, and we apologize for any inconvenience caused.

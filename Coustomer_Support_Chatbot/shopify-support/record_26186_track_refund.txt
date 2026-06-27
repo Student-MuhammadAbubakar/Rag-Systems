@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a reimbursement of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I'm on the same page, the significance of awaiting the reimbursement of {{Currency Symbol}}{{Money Amount}}. Rest assured, we are actively working on processing your refund. To provide you with accurate and up-to-date information, I kindly request you to provide me with your order or transaction details. Once we have those, we can promptly investigate the status of your reimbursement and update you accordingly. Thank you for your patience and cooperation as we work towards resolving this matter to your satisfaction.

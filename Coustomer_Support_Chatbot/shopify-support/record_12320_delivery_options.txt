@@ -1,0 +1,14 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can you show me what delivery methods are available?
+
+Answer: Thank you for your inquiry about our delivery methods. Let me provide you with a comprehensive overview of the options available:
+
+1. Standard Shipping: This is our most economical option, with an estimated delivery time of {{Date Range}} business days.
+2. Expedited Shipping: If you need your items sooner, this option delivers in {{Date Range}} business days.
+3. Express Shipping: For urgent needs, we offer express shipping with a delivery time of {{Date Range}} business days.
+4. Same-Day Delivery: Select areas are eligible for same-day delivery, ensuring you receive your items promptly.
+5. In-Store Pickup: If you prefer, you can choose to pick up your order from one of our {{Store Location}}.
+
+Each delivery method has its own pricing and availability, which you can explore further on our website or by contacting our customer support at {{Customer Support Phone Number}}. We aim to provide convenient and flexible shipping options to meet your specific needs. Let me know if there's anything else I can assist you with!

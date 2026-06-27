@@ -1,0 +1,14 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to edit order {{Order Number}}?
+
+Answer: We understand that you're looking for guidance on how to edit order number #{{Order Number}}. It's important to us that you have control over your order and can make the necessary changes. To edit your order, please follow these steps: 
+1. Log in to your account on our website or app.
+2. Go to your order history or account settings.
+3. Locate and select the specific order you want to edit.
+4. Look for the "Edit" or "Modify" option and click on it.
+5. You will be redirected to a page where you can make changes to your order details such as item quantity, size, color, or even remove/add items.
+6. After making the desired changes, review everything and ensure it's accurate.
+7. Save the changes and proceed to checkout or payment if necessary.
+If you encounter any issues or need further assistance while editing your order, please don't hesitate to let us know. We're here to help you throughout the process.

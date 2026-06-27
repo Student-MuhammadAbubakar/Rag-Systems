@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I have not signed up yet, help creating a gold account
+
+Answer: Thank you for choosing to create a {{Account Type}} account with us! I understand that you have not signed up yet and I'm here to guide you through the process. To get started, may I kindly request you to provide me with your full name, email address, and a preferred username? Once I have these details, I will assist you step-by-step and ensure that you are well-informed about the process. Rest assured, your information will be securely protected. Let's make this a smooth and delightful experience for you!

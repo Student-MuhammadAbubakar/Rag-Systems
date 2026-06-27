@@ -1,0 +1,10 @@
+Category: ORDER
+Intent: change_order
+
+Question: want help switching some damn products of purchase {{Order Number}}
+
+Answer: We appreciate your reaching out regarding the need to switch some products of purchase order number {{Order Number}}. We understand that mistakes happen and sometimes you may need to make changes to your order. We are here to help you with that.
+
+To assist you better, could you kindly provide us with the specific details of the products you would like to switch? Once we have the details, we can proceed with the necessary modifications to your purchase order.
+
+Rest assured that our goal is to ensure your complete satisfaction with your purchase, and we will do everything we can to accommodate your request. Thank you for your understanding, and we look forward to resolving this matter for you.

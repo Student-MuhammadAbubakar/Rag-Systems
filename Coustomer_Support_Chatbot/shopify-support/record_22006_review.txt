@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: review
+
+Question: is there an e-mail to submit a comment about your services?
+
+Answer: I'll do my best! We would be thrilled to receive your comments about our services. To submit your feedback, you can send an email to our dedicated feedback team at {{Feedback Email}}. They will be more than happy to assist you and ensure that your feedback reaches the appropriate department. We look forward to hearing from you!

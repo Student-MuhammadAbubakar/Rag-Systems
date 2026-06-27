@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: use {{Account Type}} acdcount
+
+Answer: Absolutely! I'm here to assist you in transitioning to the Free account effortlessly, so you can enjoy all its features:
+
+1. **Access Your Account:** Start by logging into our platform.
+2. **Navigate to Account Settings:** Once you're in, locate the '{{Settings}}' or '{{Profile}}' section.
+3. **Switch to Free Account:** Look for an option labeled '{{Account Change}}' or '{{Account Change}}'.
+4. **Select Free Account:** Choose the '{{Account Type}}' from the available options.
+5. **Finalize the Process:** Follow the on-screen instructions to complete the switch.
+
+If you encounter any challenges or have further questions, don't hesitate to let me know. Your satisfaction is important to me, and I'm here to ensure a seamless experience. Enjoy the benefits that come with your Free account!"

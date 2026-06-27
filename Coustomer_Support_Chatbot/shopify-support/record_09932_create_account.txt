@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: information about opening {{Account Category}} accounts
+
+Answer: That's wonderful! I'm glad you're interested in learning more about opening {{Account Category}} accounts. Our {{Account Category}} accounts offer a range of exclusive benefits, such as enhanced security features, priority customer support, and access to premium content. To get started, you can visit our website and navigate to the account section. There, you'll find detailed information about the different types of {{Account Category}} accounts we offer, along with their features and pricing. If you have any specific questions or would like personalized assistance, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help you make an informed decision and create the perfect {{Account Category}} account that meets your needs and preferences.

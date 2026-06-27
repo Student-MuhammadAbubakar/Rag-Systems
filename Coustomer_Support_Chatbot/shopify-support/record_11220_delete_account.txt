@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: how can i find information about my {{Account Type}} account removal
+
+Answer: We're here for you regarding the removal of your {{Account Type}} account. I'm here to assist you in finding the necessary information to complete the process smoothly. To begin, please provide me with your account details or any specific questions you have regarding the removal. I'll make sure to clarify all your doubts and guide you through every step to ensure a seamless account removal experience.

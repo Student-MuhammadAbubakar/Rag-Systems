@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can uhelp me swap some articles of purchase {{Order Number}}
+
+Answer: We appreciate your request to swap some articles in purchase number {{Order Number}}. We understand that you may have changed your mind or found a better alternative. To assist you with this request, please let us know specifically which articles you would like to swap and the ones you would like to replace them with. Our goal is to ensure your complete satisfaction, and we are here to help you make the necessary adjustments to your purchase. How can we assist you further with this process?

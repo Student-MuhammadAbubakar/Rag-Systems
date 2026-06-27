@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where to check what hours I can reach customer service?
+
+Answer: Thank you for reaching out! I completely understand that you would like to know where you can check the hours during which you can reach our customer service. To find the customer service hours, you can visit our website at {{Website URL}} and navigate to the "Contact Us" or "Support" page. There, you will find the specific hours during which our customer service team is available to assist you. If you have any further questions or need additional support, please let me know.

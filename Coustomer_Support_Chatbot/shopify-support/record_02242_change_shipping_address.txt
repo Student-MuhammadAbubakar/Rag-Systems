@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I entered a wrong shipping address, can I edit it?
+
+Answer: Unquestionably! We're here to help you correct any mistakes with your shipping address. Please provide us with the updated address, and we'll make sure it gets changed for you.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: hsipping to {{Delivery Country}}
+
+Answer: I appreciate your interest in shipping to the {{Delivery Country}}! To provide you with accurate information, I kindly request you to specify which particular shipping options you would like to explore. This will help me guide you better in terms of the available methods, estimated delivery times, and any specific requirements or restrictions. Once I have more details, I will be able to assist you further. Looking forward to your response, and feel free to ask any other questions you may have!

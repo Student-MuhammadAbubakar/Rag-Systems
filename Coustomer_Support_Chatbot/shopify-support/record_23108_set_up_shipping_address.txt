@@ -1,0 +1,13 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: there are problems setting a new delivery address up
+
+Answer: I've realized you're facing difficulties while trying to set up a new delivery address. I apologize for any inconvenience caused. To ensure a smooth process, let's troubleshoot together:
+
+1. Double-check that all required fields are filled out correctly. Sometimes missing or incorrect information can prevent the address from being set up properly.
+2. Clear your browser cache and cookies and try again. This can help resolve any technical glitches that may be causing the issue.
+3. Try using a different browser or device to see if that resolves the problem. Compatibility issues can sometimes affect certain browsers or devices.
+4. If you're still encountering issues, please reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further and help resolve any underlying issues.
+
+Remember, we are here to support you, and we appreciate your patience as we work to resolve this issue.

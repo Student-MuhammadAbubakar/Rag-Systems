@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimburse {{Refund Amount}} dollars
+
+Answer: I can see that you're seeking reimbursement for the amount of ${{Refund Amount}}, and I apologize for any inconvenience caused. To expedite the process, I recommend reaching out to our customer support team, who will guide you through the necessary steps. They can be reached at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our dedicated team will assess your request promptly and ensure that you receive the reimbursement you are entitled to.

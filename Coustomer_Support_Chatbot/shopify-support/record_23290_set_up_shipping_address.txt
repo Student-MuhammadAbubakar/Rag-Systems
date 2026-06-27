@@ -1,0 +1,14 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: why I can't set up a secondary delivery address valid
+
+Answer: I've noticed that you're facing difficulties in setting up a valid secondary delivery address. This could be due to several reasons, such as:
+
+1. Incorrect formatting: Please ensure that you're entering the address details correctly, including the street name, number, city, state, and zip code. Double-check for any typos or missing information.
+
+2. Invalid address: It's possible that the address you're trying to enter is not recognized by our system or is not eligible for delivery. In such cases, it's best to use a different address or contact our customer support for further assistance.
+
+3. Address restrictions: Certain areas may have restrictions or limitations when it comes to shipping. Please check if there are any specific shipping restrictions that may apply to your desired address.
+
+If you have verified that none of the above issues are causing the problem, please provide more details about the error message or any specific error codes you're encountering. This will help us investigate the issue further and provide you with a more precise solution. Your satisfaction is our top priority, and we are here to help you every step of the way.

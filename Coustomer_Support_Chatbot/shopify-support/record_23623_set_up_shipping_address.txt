@@ -1,0 +1,14 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I can't enter the shipping address
+
+Answer: I've noticed that you're experiencing difficulty entering the shipping address. Let's work together to resolve this issue. Here are a few steps that might help:
+
+1. Double-check that you're logged into your account. If not, please sign in.
+2. Navigate to your account settings or profile page. Usually, you can find this option in the top right corner of the website.
+3. Look for a section titled "Shipping Addresses" or something similar. Click on it.
+4. Ensure that all the required fields, such as street address, city, state, and ZIP code, are filled correctly.
+5. If you encounter any error messages or issues while entering the address, please provide specific details or error messages so that we can better assist you.
+
+If these steps don't solve the problem, please let me know the exact error you're facing, and I'll be happy to troubleshoot further. Remember, we're here to assist you every step of the way.

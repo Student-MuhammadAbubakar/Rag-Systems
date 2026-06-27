@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a compensation of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Thank you for raising your expectation for a compensation of {{Currency Symbol}}{{Money Amount}}. I understand the significance of this reimbursement for you, and I want to assure you that we are committed to addressing your concern promptly. Let me investigate the current status of your compensation to provide you with the most accurate and up-to-date information. While I do that, could you please confirm if you have already submitted a claim for this compensation and provide any relevant details you may have? Your input will help us expedite the resolution process and ensure your satisfaction.

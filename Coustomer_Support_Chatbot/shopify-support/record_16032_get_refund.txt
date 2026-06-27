@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: where to ask for reimbursements of money ?
+
+Answer: I can see that you're looking for information on where to ask for reimbursements of money. To initiate the process, I recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our knowledgeable representatives will guide you through the necessary steps and provide you with the support you need to request a reimbursement. Feel free to share the details of your situation, and they will assist you in the best possible way.

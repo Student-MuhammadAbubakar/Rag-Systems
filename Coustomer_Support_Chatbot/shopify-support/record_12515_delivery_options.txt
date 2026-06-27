@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: i have got to check what shipment options are available
+
+Answer: Ah, I understand your need to explore the available shipment options. Let's uncover the exciting possibilities together! Here are some options you can choose from:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days to deliver your items. It's perfect for non-urgent orders.
+2. Expedited Shipping: If you need your items a little faster, this option will get them to you within {{Date Range}} business days.
+3. Overnight Shipping: For urgent needs, we have overnight shipping available. Your items will be delivered the next business day.
+4. In-Store Pickup: If you prefer to pick up your items from one of our {{Store Location}}, this is a convenient option for you.
+
+By considering these options, you can tailor your choice based on your specific requirements. Should you have any further questions or if there's anything else I can assist you with, feel free to let me know. Together, let's ensure you have a delightful shipping experience!

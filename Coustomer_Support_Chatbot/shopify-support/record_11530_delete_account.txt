@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with {{Account Category}} acount deletions
+
+Answer: Thank you for bringing your concern about {{Account Category}} account deletions to our attention. I understand that you're facing an issue, and I'm here to assist you. Could you please provide me with more details about the problem you're experiencing? This will help me to better understand the situation and provide you with an appropriate solution. Your satisfaction is our top priority, and we are committed to resolving any issues you may encounter.

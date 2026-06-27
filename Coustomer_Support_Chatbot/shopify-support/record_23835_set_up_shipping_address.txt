@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: there are troubles setting up another shipping address
+
+Answer: I recognize that you're facing difficulties in setting up another shipping address. I apologize for the inconvenience caused. To assist you in resolving this issue, I recommend following these steps:
+
+1. Log in to your account.
+2. Navigate to the 'Shipping Addresses' or 'Delivery Address' section.
+3. Look for the option to 'Add a New Address' or 'Edit Shipping Addresses'.
+4. Verify if all the required fields are properly filled, including the address line, city, state, and ZIP code.
+5. Double-check for any typos or errors in the entered information.
+6. Save the changes and make sure the new shipping address is selected as the default.
+
+If you're still experiencing troubles after following these steps, please provide me with more details about the specific issues you're encountering. This will help me to further understand the situation and provide you with a more tailored solution.

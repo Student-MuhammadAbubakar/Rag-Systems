@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have got to locate purchase {{Order Number}}, I need help
+
+Answer: Your reach-out is appreciated! I'm sensing that you are looking to locate your purchase with the purchase number {{Order Number}}. I'm here to assist you in finding the information you need. To help you better, could you please provide me with some additional details like the platform or website where you made the purchase? This will enable me to guide you more accurately.

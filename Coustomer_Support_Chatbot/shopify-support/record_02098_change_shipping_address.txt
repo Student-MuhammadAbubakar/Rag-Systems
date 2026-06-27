@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: their is a problem trying to update my delivery address
+
+Answer: We apologize for the inconvenience you're facing while trying to update your delivery address. Our team is here to assist you in resolving this problem. Please provide us with the correct address, and we'll make sure it's updated in our system.

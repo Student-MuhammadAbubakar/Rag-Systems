@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wamna switch some products of order {{Order Number}}
+
+Answer: We understand that you would like to switch some products for order number {{Order Number}}. Thank you for bringing this to our attention. To help you with this request, could you please provide us with the specific items you would like to switch and the items you would like to replace them with? This will allow us to process your request accurately and efficiently. We appreciate your cooperation and look forward to assisting you further.

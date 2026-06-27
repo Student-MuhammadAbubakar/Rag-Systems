@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: I am trying to unsubscribe from the company newsletter
+
+Answer: Thank you for letting us know that you wish to unsubscribe from our company newsletter. We respect your decision and understand that preferences can change over time. To unsubscribe, you can click on the "unsubscribe" link at the bottom of any newsletter email you receive from us. Alternatively, you can send us an email at {{Customer Support Email}} with your request, and we will promptly remove your email address from our mailing list. We appreciate your time as part of our newsletter community, and if you ever change your mind, we'll be here to welcome you back with open arms.

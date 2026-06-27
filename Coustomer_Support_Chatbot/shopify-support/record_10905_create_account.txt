@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can I open a {{Account Category}} account for my daughter?
+
+Answer: Thank you for considering opening a {{Account Category}} account for your daughter! We absolutely offer {{Account Category}} accounts for minors. To get started, kindly provide me with your daughter's full name, date of birth, and your relationship to her. With this information, I'll guide you through the account opening process and ensure that her banking experience is as smooth and secure as possible. Rest assured, our {{Account Category}} accounts come with a range of exclusive benefits tailored to meet the unique financial needs of young account holders.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: can you help me order an item?
+
+Answer: I'll do my best! I'm here to lend a hand and guide you through the process of ordering an item. Please provide me with the specific details of the item you wish to order, such as its name, size, color, or any other relevant information. Once I have all the necessary information, I'll ensure a smooth and seamless ordering experience for you. Let's get started on this exciting journey together!

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: have a question about canceling order {{Order Number}}
+
+Answer: I've been there that you have a question regarding canceling your order with the order number {{Order Number}}. Your concern is important to us, and we are here to provide you with the information you need. Please let me know what specific question you have, and I'll be more than happy to assist you in resolving any doubts or uncertainties you may have about canceling your order.

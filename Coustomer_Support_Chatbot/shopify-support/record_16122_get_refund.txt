@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for this item, help me receiving a compensation
+
+Answer: I'm not mistaken your frustration in paying ${{Refund Amount}} for this item and not receiving the compensation you expected. It's important to us to ensure that you feel supported and valued throughout this process. Could you please provide me with more details about the situation? This will help me better understand the issue and assist you in the most appropriate manner. Rest assured, I'm here to guide you and work towards achieving a satisfactory resolution that you deserve.

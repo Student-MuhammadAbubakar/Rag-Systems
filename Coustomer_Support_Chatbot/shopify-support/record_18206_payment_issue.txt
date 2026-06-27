@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I can't make payments, need  help to report an issue
+
+Answer: I'm sorry to hear that you're having trouble making payments. Rest assured, I'm here to assist you in reporting this issue. To begin the process, could you please provide more details about the problem you encountered while making the payment? Any specific error messages or steps you've taken so far would be helpful. By sharing this information, you enable us to investigate and address the issue efficiently. Thank you for reaching out, and we'll work together to resolve this matter promptly.

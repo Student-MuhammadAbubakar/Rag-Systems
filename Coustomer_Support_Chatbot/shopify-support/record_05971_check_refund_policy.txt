@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need to check your reimbursement policy, help me
+
+Answer: I'll take care of it! I completely understand your desire to review our reimbursement policy. This is an essential step towards having a comprehensive understanding of our services. Our reimbursement policy provides important information regarding the situations in which you are eligible for a refund and the process for requesting one. To access our policy, please visit our website's Help Center or navigate to the Frequently Asked Questions (FAQs) section. There, you'll find detailed explanations and guidelines that will assist you throughout the reimbursement process. If you have any specific questions or concerns after reviewing the policy, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are here to help you navigate the process and ensure your complete satisfaction.

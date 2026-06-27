@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i want help downloading  my invoice from {{Person Name}}
+
+Answer: Sure! I completely understand your request for assistance in downloading the invoice from {{Salutation}} {{Client Full Name}}. Let me guide you through the process to ensure you can easily access and download your invoice. First, could you please provide me with the invoice number or any additional details that can help me locate the specific invoice you're referring to? Once I have that information, I'll be able to provide you with step-by-step instructions on how to download it.

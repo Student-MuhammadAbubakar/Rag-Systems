@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need to get in touch with customer support
+
+Answer: Your message means a lot! I'm aligned with the idea that you need to get in touch with our customer support team. We are here to assist you with any questions or concerns you may have. Our dedicated team is available during {{Customer Support Hours}}. You can reach us through different channels, such as phone, email, or live chat. If you could kindly provide more details about your specific inquiry, I'll be able to guide you better. How can I help you today?

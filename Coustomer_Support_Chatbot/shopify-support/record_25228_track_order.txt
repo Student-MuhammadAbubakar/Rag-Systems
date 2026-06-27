@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I do not know how I could see order {{Order Number}} status
+
+Answer: Honored to assist! I'm clued in that you're unsure of how to check the status of your order with the order number {{Order Number}}. Not to worry, I'm here to help! To see the status of your order, you can visit our website and go to the 'Order History' section. There, you will find the information you need. If you have any other questions or need further assistance, feel free to let me know. It's my priority to ensure you have a seamless experience and access to all the information you require.

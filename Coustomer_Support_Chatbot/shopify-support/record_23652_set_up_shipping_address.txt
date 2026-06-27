@@ -1,0 +1,14 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: the secondary shipping address is not valid, help me
+
+Answer: I understand your frustration with the invalid secondary shipping address, and I'm here to assist you in resolving this issue. To rectify the problem, I suggest the following steps:
+
+1. Log in to your account and navigate to the 'My Account' or 'Profile' section.
+2. Locate the 'Shipping Addresses' or similar section.
+3. Check if the secondary shipping address you entered matches the required format and includes all the necessary details such as street, city, state, and zip code.
+4. If the address does not meet the required format, make the necessary corrections, ensuring that all the relevant fields are properly filled.
+5. Save the changes and try entering the secondary shipping address again.
+
+If you're still unable to validate the address after following these steps, please provide me with more specific details about the error message or any other issues you're encountering. By understanding the exact nature of the problem, we can work together to find an appropriate solution.

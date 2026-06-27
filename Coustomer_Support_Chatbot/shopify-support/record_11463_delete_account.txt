@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: delete gold acvount
+
+Answer: Thank you for contacting us regarding the deletion of your {{Account Type}} account. I understand that you would like to remove your {{Account Type}} account from our system. Please allow me a moment to assist you with this process.

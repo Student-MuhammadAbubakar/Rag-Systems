@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a restitution of {{Refund Amount}} dollars
+
+Answer: I get it the significance of the restitution of {{Currency Symbol}}{{Refund Amount}} that you are anticipating. We strive to ensure that every refund is processed efficiently and promptly. Let me quickly check the status of your restitution for you. While I gather the information, have you encountered any difficulties tracking refunds in the past? Your insights are valuable to us, and I appreciate your patience as we work towards resolving this for you.

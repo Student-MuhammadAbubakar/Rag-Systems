@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: there is an issue submitting a deilvery address
+
+Answer: I'm sorry to hear that you're encountering difficulties when submitting your delivery address. Your address is a crucial part of ensuring a successful delivery, and I'm here to help you resolve this issue.
+
+To address this problem, please follow these steps:
+
+1. Double-check the format of the address you're entering. Make sure it includes all the necessary details such as street name, house number, city, and postal code.
+2. Ensure that there are no special characters or typos in the address. These can cause submission errors.
+3. Try clearing your browser cache or using a different browser to see if the issue persists. Sometimes, browser-related issues can interfere with the submission process.
+4. If you're still unable to submit your delivery address, please reach out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to assist you further and troubleshoot any technical issues that may be causing this problem.
+
+I understand how crucial it is for you to get your address submitted correctly, and I'm confident that our team will be able to help you resolve this issue promptly.

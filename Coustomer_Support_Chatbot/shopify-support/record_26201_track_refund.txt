@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: where do I check if there are any news on the reimbursement?
+
+Answer: We understand your eagerness to stay updated on the status of your reimbursement. To check if there are any updates, I recommend logging into your account on our website. Once you're logged in, navigate to the "My Orders" or "My Account" section. There, you should be able to find the details regarding your reimbursement, including any recent updates. If you're unable to locate the information or have any further questions, don't hesitate to reach out to our customer support team, available {{Customer Support Hours}}, at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to assist you every step of the way.

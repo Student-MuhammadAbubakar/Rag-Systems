@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: can uhelp me check when will my item arrive
+
+Answer: I'll take care of it! We understand your eagerness to track the progress of your package. To assist you, we kindly request you to provide the {{Tracking Number}} or {{Order Number}}. Once we have that information, we will be able to provide you with an accurate estimate of your item's arrival. Your patience is greatly appreciated!

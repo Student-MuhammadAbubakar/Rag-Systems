@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: change a damn item of purchase {{Order Number}}
+
+Answer: Thank you for reaching out to us and expressing your need to change an item from purchase number {{Order Number}}. I apologize for any inconvenience caused and I'm here to assist you with this. To proceed with the change, could you please provide me with the details of the item you want to replace and the alternative item you would like to add to your purchase? This will ensure that we make the necessary adjustments accurately. Your satisfaction is our priority, and we'll do our best to make sure your purchase meets your expectations.

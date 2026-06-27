@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: icant see the eta of purchase {{Order Number}}
+
+Answer: We're all ears! I'm tuned into the idea that you're having trouble accessing the estimated time of arrival (ETA) for your purchase with the purchase number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide me with some additional information such as your account details or any error messages you may have encountered? This will enable me to investigate the issue and provide you with the necessary support. Rest assured, I'm committed to resolving this matter for you as quickly as possible.

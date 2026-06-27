@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I have to see when will my product arrive, how to do it?
+
+Answer: We understand your eagerness to know the estimated arrival time of your product. To help you with that, could you please provide us with the {{Shipment Tracking Number}} or {{Order Number}}? With this information, we will be able to provide you with an accurate estimation of when your product will arrive. We appreciate your patience and cooperation in this matter.

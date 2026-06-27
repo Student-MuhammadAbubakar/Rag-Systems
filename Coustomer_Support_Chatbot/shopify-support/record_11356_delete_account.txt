@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I want to close my bloody {{Account Type}} account, can you help me?
+
+Answer: Glad you got in touch to us with your request to close your {{Account Type}} account. I understand that you're looking for assistance, and I'm here to help. To proceed with the account closure, I will require some information from you. Can you please provide me with your account details, such as your username or email, to locate and verify the account? Once I have the necessary information, I'll be able to assist you further in closing your account.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: i need help to update my account
+
+Answer: We understand the importance of keeping your account information up to date and we're here to assist you every step of the way. To update your account details, you can either log in to our {{Online Company Portal Info}} and navigate to the account settings section, or you can reach out to our dedicated support team who will be more than happy to guide you through the process. Let us know if you have any specific changes in mind, and we'll provide you with the necessary guidance to update your account seamlessly.

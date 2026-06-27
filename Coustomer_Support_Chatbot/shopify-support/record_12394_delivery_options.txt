@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can i place an order frim {{Delivery Country}}
+
+Answer: I'll take care of it! We are delighted to inform you that you can indeed place an order from {{Delivery Country}}. We offer international shipping services to various countries, including {{Delivery Country}}. Whether you're looking to purchase our products or explore our services, you can easily place an order right from the comfort of your location. Simply visit our website or get in touch with our customer support team, and they will guide you through the order placement process. Don't hesitate to reach out if you have any further questions or if there's anything else we can assist you with. We're here to make your shopping experience seamless and enjoyable, regardless of your location!

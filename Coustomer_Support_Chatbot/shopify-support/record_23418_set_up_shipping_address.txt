@@ -1,0 +1,16 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: i have errors setting the secondary shipping address up
+
+Answer: I'm sorry to hear that you're encountering errors while setting up your secondary shipping address. Let's work together to get this resolved. Here are some steps you can try:
+
+1. Double-check that you have entered all the required information correctly, including the address, city, state, and zip code. Make sure there are no typos or missing fields.
+
+2. Clear your browser's cache and cookies and try again. Sometimes, outdated information can cause issues, so starting fresh might help.
+
+3. If you're using a mobile device, try switching to a desktop or laptop computer and see if that makes a difference. Different devices can sometimes have different compatibility issues.
+
+4. If none of the above steps work, please reach out to our customer support team. They have access to more resources and technical expertise to assist you further. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Our team is dedicated to ensuring a smooth experience for our customers, and we apologize for any inconvenience caused. Thank you for your patience, and we look forward to resolving this for you as quickly as possible.

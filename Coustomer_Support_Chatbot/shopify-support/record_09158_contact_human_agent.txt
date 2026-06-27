@@ -1,0 +1,15 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: how do I talk to a human agent?
+
+Answer: Grateful for your contact! I get the sense that you're in need of speaking with a human agent. Rest assured, I'm here to assist you. To connect with a human representative, please follow these steps: 
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the 'Contact Us' page.
+3. Look for a live chat option, toll-free number, or an option to request a call-back.
+4. Click on the live chat option to chat directly with an agent.
+5. If a toll-free number is available, dial the number to speak with a representative.
+6. If a call-back option is offered, enter your phone number and a representative will contact you as soon as possible.
+
+I hope this helps! If you have any further questions or concerns, don't hesitate to let me know. We're here to make sure you receive the assistance you need.

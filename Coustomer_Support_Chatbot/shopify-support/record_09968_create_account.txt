@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need information about opening a {{Account Type}} account
+
+Answer: Thank you for expressing your interest in opening a {{Account Type}} account. It's an excellent choice! Our {{Account Type}} account offers a range of benefits, including enhanced rewards, exclusive offers, and dedicated customer support. To provide you with specific information tailored to your needs, may I kindly ask you to provide your preferred contact information? Once I have that, I'll be more than happy to share all the details regarding the {{Account Type}} account, including the application process, eligibility criteria, and any additional requirements. Rest assured, our team is committed to making this process as seamless and convenient as possible for you.

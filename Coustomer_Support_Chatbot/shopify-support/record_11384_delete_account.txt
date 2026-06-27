@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not use my {{Account Type}} account, I want assistance cancelling it
+
+Answer: I've observed that you no longer use your {{Account Type}} account and would like assistance with cancelling it. I'm here to help you through this process. To proceed with the cancellation, please provide me with your account details such as your username or email associated with the {{Account Type}} account. This will allow me to locate your account and guide you on the necessary steps to cancel it. Rest assured, I'll ensure a smooth and hassle-free cancellation experience for you.

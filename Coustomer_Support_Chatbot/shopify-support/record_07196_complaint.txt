@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: I want help lodging an claim
+
+Answer: I'm sorry to hear that you're looking for assistance in lodging a claim. I understand that navigating through the process can be overwhelming at times. Rest assured, I'm here to guide you every step of the way. To start the claim process, I recommend reaching out to our dedicated claims department at {{Claims Contact Number}} or through our online claims portal at {{Claims Website URL}}. They will provide you with detailed instructions and gather all the necessary information to initiate your claim. Our aim is to ensure a smooth and efficient claims experience for you. How can I further assist you?

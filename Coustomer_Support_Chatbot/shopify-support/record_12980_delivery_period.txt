@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: help me check when my fucking package is going to arrive
+
+Answer: We understand your frustration and urgency to track the delivery status of your package. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With those details, we'll be able to assist you in determining the estimated arrival time. Your patience is greatly appreciated as we work on resolving this for you.

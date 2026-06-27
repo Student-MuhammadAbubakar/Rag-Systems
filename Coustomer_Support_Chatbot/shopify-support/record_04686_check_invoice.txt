@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i need assistance seeing the invoice #37777
+
+Answer: I can sense that you need assistance with seeing the invoice with the number #{{Invoice Number}}. Rest assured, I'm here to help you with that. In order to access the invoice, could you please provide me with your account details or any other relevant information? This will enable me to locate the specific invoice and guide you through the process of viewing it. Thank you for reaching out to me, and I'm looking forward to resolving this for you.

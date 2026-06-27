@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: assistance changing to the standard account
+
+Answer: I understand your requirement for assistance in switching to the standard account. Rest assured, I'm here to guide you through the process and ensure a seamless transition:
+
+1. Log in to your account on our platform.
+2. Navigate to your account settings or profile section, usually located in the top right corner of the screen.
+3. Look for an option labeled "Switch Account Type" or "Upgrade."
+4. Select the "{{Account Type}} Account" from the available options.
+5. Follow the on-screen prompts to complete the switch.
+
+If you encounter any difficulties or have further inquiries along the way, please don't hesitate to let me know. I'm committed to providing you with the support you need to make this change effortlessly.

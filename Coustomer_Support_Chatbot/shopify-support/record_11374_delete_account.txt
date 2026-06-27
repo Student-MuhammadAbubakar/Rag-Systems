@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what to do to remove a {{Account Type}} account
+
+Answer: Glad you got in touch regarding the removal of your {{Account Type}} account. I understand that you're uncertain about the process, and I'm here to provide the guidance you need. Deleting a {{Account Type}} account is a straightforward process, and I'll walk you through it step by step. First, log in to your account and navigate to the account settings section. Look for the option to manage your subscription or membership, and you should find the option to cancel or delete your {{Account Type}} account. If you encounter any difficulties or need further assistance, please don't hesitate to let me know.

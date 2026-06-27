@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I want information about opening a {{Account Category}} account
+
+Answer: Thank you for expressing interest in opening a {{Account Category}} account! It's an excellent choice that comes with numerous benefits tailored to meet your specific needs. To provide you with detailed information, could you please let me know your preferred method of communication? We offer assistance through phone, email, live chat, or even an in-person appointment if you prefer. This way, I can personalize the information and address any specific questions or concerns you may have. We're here to ensure that your experience as a {{Account Category}} account holder is nothing short of exceptional!

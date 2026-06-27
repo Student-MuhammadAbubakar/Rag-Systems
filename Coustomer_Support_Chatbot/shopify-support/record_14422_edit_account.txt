@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modify data on {{Account Type}} account
+
+Answer: I am thrilled to embark on this empowering journey of modifying the data on your esteemed {{Account Type}} account, {{Free Account Name}}.I am here to guide you through the process and ensure a seamless experience. Let's dive right in and explore the various possibilities of data modification on your {{Account Type}} account. What specific details would you like to modify? Please provide me with the necessary information, and together we'll refine and update your account to cater to your evolving needs and preferences.

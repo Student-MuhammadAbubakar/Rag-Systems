@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I don't know what I need to do to check the invoice #37777
+
+Answer: I realized you're unsure about the steps to check the invoice with the number #{{Invoice Number}}. Don't worry, I'm here to help! To check your invoice, you can simply log into your account on our website and navigate to the "Billing" or "Invoices" section. There, you should find a list of all your invoices, including the one numbered #{{Invoice Number}}. If you're unable to locate it or encounter any issues, please let me know, and I'll be glad to provide further assistance.

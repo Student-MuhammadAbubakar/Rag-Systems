@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: how do I see what shipping methods I can choose?
+
+Answer: I'll get right on it! Let me guide you in discovering the array of shipping methods available to you. To explore the shipping methods, simply follow these steps:
+
+1. Visit our website at {{Website URL}} and navigate to the product page of the item you're interested in.
+2. On the product page, you'll find a section labeled "Shipping Options" or "Delivery Methods." Click on that section to expand the details.
+3. A list of available shipping methods will be displayed, along with estimated delivery times and any additional information.
+4. Take a moment to review the options and select the one that suits your requirements best. If you have any doubts or need further assistance, feel free to reach out to our customer support team.
+
+Remember, we aim to make your shopping experience as seamless as possible. So go ahead and explore the shipping methods which cater to your needs. If there's anything else I can assist you with, please don't hesitate to ask!

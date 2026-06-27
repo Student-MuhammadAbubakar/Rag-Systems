@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: see bills from {{Person Name}}
+
+Answer: Glad you contacted to us for assistance in viewing your bills from {{Salutation}} {{Client Last Name}}. To access your bills, you can navigate to the "Billing" or "Account Statements" section of your online account. If you're having trouble finding it, please let me know, and I'll be more than happy to provide you with detailed instructions.

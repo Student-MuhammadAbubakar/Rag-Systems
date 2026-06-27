@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: i want help taking a quick look at the bills from {{Person Name}}
+
+Answer: I'll get right on it! I understand your need to take a quick look at the bills from {{Salutation}} {{Client Last Name}}. To assist you better, could you please provide me with the specific time frame or any additional details related to the bills? This information will enable us to locate and provide you with the necessary information efficiently. Rest assured, I'm here to guide you every step of the way.

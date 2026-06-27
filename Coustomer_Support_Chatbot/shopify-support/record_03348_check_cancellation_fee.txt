@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: I have got to see the cancellation charge
+
+Answer: I'm on it! To view the cancellation charge, please log in to your account and navigate to the "Termination Fees" section.

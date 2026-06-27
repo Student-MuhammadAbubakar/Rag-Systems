@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: help me checking at what time i can reach customer support
+
+Answer: Happy to hear from you! I truly understand that you need assistance in checking the availability of our customer support team. Our customer support is available from {{Customer Support Hours}}. You can reach us during these hours for any inquiries or concerns you may have. How else can I assist you today?

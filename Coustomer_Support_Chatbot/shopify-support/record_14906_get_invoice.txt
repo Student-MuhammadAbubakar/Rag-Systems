@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i lost bill #12588 could ya mail it to me
+
+Answer: Not a problem at all! I completely understand your concern about losing bill #{{Invoice Number}}. While I'm unable to personally send you the bill via mail, I can certainly assist you in accessing and downloading a digital copy of the bill. Would you like me to guide you through the steps to retrieve it online?

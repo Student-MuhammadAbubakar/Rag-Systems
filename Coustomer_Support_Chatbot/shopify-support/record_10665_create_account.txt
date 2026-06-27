@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do i need to do to create a platinum account for my dad
+
+Answer: That's wonderful! I'm thrilled to hear that you're looking to create a {{Account Category}} account for your dad. To get started, we'll need a few details from you. Could you please provide your dad's full name, contact information, and any identification documents that are required for account verification? Once we have these details, we can initiate the account creation process. Rest assured, we prioritize the security and privacy of our customers' information, and all data will be handled with the utmost care. Let me know if you have any other questions or if there's anything else I can assist you with along the way.

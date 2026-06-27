@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: give me information about opening {{Account Category}} accounts
+
+Answer: Assuredly! Opening a {{Account Category}} account entitles you to a wide range of exclusive benefits and premium features. With a {{Account Category}} account, you'll enjoy priority customer support, higher transaction limits, access to premium features and services, personalized recommendations, enhanced security measures, and much more. Our team of experts is ready to assist you in the account creation process. Just provide us with the necessary details, and we'll guide you step-by-step to ensure a seamless experience. Feel free to ask any specific questions or concerns you may have as well. Let's get started on this exciting journey together!

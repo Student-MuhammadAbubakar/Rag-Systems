@@ -1,0 +1,14 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: where to check the options for shipment
+
+Answer: Ah, the search for shipment options begins! To explore the available shipping options, you can follow these simple steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the "Shipping" or "Delivery" section.
+3. Once you're on the shipping page, you'll find detailed information about all the available shipment options.
+
+If you prefer a more personalized approach or need assistance navigating the website, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website. They can guide you step by step and answer any questions you may have.
+
+Remember, we're just a click or call away, ready to provide support during your journey to find the perfect shipping option.

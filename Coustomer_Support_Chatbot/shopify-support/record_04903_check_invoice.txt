@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I want help checking my fucking bill from {{Person Name}}
+
+Answer: I pick up what you're putting down, the importance of helping you with checking the bill from {{Salutation}} {{Client Last Name}}. To assist you better, could you please provide me with any specific details such as the date range, account number, or invoice number? Sharing this information will help me locate the bill more accurately and provide you with the necessary assistance. Rest assured, I'm here to support you through this process and ensure your satisfaction.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a reimbursxement of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: We understand the importance of your expected reimbursement of ${{Refund Amount}}. Tracking the status of your refund is crucial, and we're here to assist you. To provide you with accurate information, could you please provide us with your order number or any other relevant details? This will allow us to find the exact status of your reimbursement and provide you with the necessary updates. Thank you for your cooperation, and we look forward to resolving this matter for you as soon as possible.

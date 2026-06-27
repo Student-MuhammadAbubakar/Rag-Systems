@@ -1,0 +1,11 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I don't know how to contact an asgent
+
+Answer: Thanks for getting in touch! I grasp that you're unsure about how to contact an agent. I'm here to help! To contact an agent, you can try the following options:
+1. Check if there is a "Contact" or "Support" page on our website, where you can find contact information or a live chat option.
+2. Look for a "Help" or "Support" button within our mobile app or software.
+3. Call our customer support hotline at {{Customer Support Phone Number}}. Our agents are available to assist you.
+
+If none of these options work, please provide me with some more details about your query, and I'll do my best to guide you in the right direction. Remember, your satisfaction is our top priority!

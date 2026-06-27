@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: i paidx {{Currency Symbol}}{{Refund Amount}} for an article want help to obtain a refund
+
+Answer: I've observed that you have paid ${{Refund Amount}} for an article and you are seeking assistance to obtain a refund. I apologize for any inconvenience you may have experienced and I'm here to help you with this matter. To initiate the refund process, I recommend reaching out to our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the required information to ensure a smooth refund process. Rest assured, we value your satisfaction and will do our best to assist you promptly and efficiently.

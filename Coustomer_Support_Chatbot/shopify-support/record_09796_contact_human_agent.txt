@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: i need help to contact an agent
+
+Answer: Always good to connect! I'm attuned to the fact that you need assistance in contacting an agent. Rest assured, I'm here to help guide you through the process. To connect with a live agent, you have a few options available. You can reach out to our customer support team through our website's live chat feature, where an agent will be happy to assist you in real-time. Alternatively, you can contact our helpline at {{Customer Support Phone Number}} to speak directly with a representative. They are available {{Customer Support Hours}} to provide personalized help. If you prefer, you can also send an email to our support team at {{Customer Support Email}} and one of our agents will respond as soon as possible. Let me know if there's anything else I can assist you with along the way.

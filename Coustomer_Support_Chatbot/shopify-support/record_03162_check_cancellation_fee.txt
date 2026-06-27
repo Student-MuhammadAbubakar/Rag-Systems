@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: i cant find the cancellation penalty
+
+Answer: No problem! To find the cancellation penalty, please log in to your account and go to the "Cancellation Fees" section. It should provide all the necessary information you need. If you have any further questions, feel free to ask!

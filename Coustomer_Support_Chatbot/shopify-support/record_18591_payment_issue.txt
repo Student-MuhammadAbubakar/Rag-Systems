@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I want to notify of an error with payments
+
+Answer: I truly appreciate your initiative to notify us about the error you encountered with your payment. Your prompt action helps us identify and address any issues efficiently. To ensure your concern is appropriately addressed, could you please provide specific details about the error you faced? This could include any error messages, transaction IDs, or other relevant information. Rest assured, we will investigate the matter promptly and work towards resolving it for you. Thank you for taking the time to inform us about this, and please know that your feedback is highly valuable in improving our services.

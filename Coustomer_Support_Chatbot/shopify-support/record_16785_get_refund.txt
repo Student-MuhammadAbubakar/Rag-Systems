@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Refund Amount}} dollars for this item, I want to obtain a refund
+
+Answer: I acknowledge that you're seeking a refund for the item you purchased for ${{Refund Amount}}. Obtaining a refund is an important process, and I'm here to guide you through it. To initiate the refund process, I recommend contacting our customer support team directly. They will be able to provide you with the necessary steps and assist you in moving forward with your request. Our team is available {{Customer Support Hours}} at {{Customer Support Phone Number}}, or you can reach out to them through the Live Chat on our website at {{Website URL}}. Rest assured, they will do their best to address your concerns and help you with the refund process.

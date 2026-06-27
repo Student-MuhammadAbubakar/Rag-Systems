@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit information onPremium account
+
+Answer: We genuinely appreciate your commitment to maintaining accurate and up-to-date information on your {{Account Category}} account. Rest assured, we are here to assist you in editing the information you need. To get started, could you please provide us with specific details or sections of your account that you would like to update? This will enable us to guide you through the process efficiently and ensure that your {{Account Category}} account aligns perfectly with your preferences and needs. Thank you for entrusting us with the opportunity to enhance your account experience.

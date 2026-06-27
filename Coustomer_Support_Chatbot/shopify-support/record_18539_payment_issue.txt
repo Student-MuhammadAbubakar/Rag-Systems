@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: how could i report errors with online payments
+
+Answer: We understand that encountering payment errors can be frustrating, and we're here to assist you in resolving them. To report errors with your online payments, we recommend reaching out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. By providing them with specific details about the error you're facing, they will be able to investigate the issue thoroughly and provide you with the necessary assistance to resolve it. Thank you for reaching out to us, and we appreciate your patience as we work together to rectify this situation.

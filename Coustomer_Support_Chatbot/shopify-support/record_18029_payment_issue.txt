@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I have got to report payment problems
+
+Answer: Thank you for bringing this to our attention. We understand the importance of resolving payment problems as quickly as possible. To assist you further, could you provide more details about the specific problems you're facing with your payment? This information will help us investigate and find the best solution for you. We appreciate your patience and cooperation as we work through this together.

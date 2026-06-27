@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i need help to change to the gold account
+
+Answer: Indeed! I'm here to provide you with the necessary guidance to switch to our esteemed {{Account Type}} account:
+
+1. Start by logging into your account.
+2. Navigate to the account settings or profile section.
+3. Look for an option labeled "Upgrade" or "Switch Account Type".
+4. Select the "{{Account Type}} Account" option from the available choices.
+5. Follow the on-screen instructions to complete the switch.
+
+If you encounter any difficulties or have further questions, feel free to reach out. I'm here to ensure a smooth transition and help you unlock the exclusive benefits of the {{Account Type}} account.

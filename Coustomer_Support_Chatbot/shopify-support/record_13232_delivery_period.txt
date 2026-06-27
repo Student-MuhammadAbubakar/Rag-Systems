@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: where do I check how long it takes for my product to arrive?
+
+Answer: We understand your curiosity about the estimated delivery time of your product. To check the expected arrival date, you can visit our website and navigate to the 'Order Tracking' or 'Track Your Package' section. There, you will need to enter your {{Order Number}} or {{Tracking Number}} to retrieve the latest updates on your delivery status. If you need any further assistance or encounter any difficulties during the process, our customer support team is available to guide you through the tracking process.

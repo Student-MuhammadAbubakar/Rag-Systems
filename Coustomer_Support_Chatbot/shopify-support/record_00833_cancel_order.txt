@@ -1,0 +1,12 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: is it possible to cancel purchase {{Order Number}}?
+
+Answer: I'm on it! I understand that you have some concerns about canceling your purchase with the order number {{Order Number}}. We prioritize your satisfaction and provide assistance according to the cancellation policies in place.
+
+To determine if cancellation is possible for your specific purchase, I recommend reaching out to our dedicated customer support team. They have the necessary tools and expertise to review your purchase details and guide you through the cancellation process.
+
+You can connect with our customer support team during {{Customer Support Hours}}. They are available to assist you at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}.
+
+Rest assured, we will do our utmost to address your concerns and provide the best possible solution. Your satisfaction is our top priority, and we appreciate your understanding.

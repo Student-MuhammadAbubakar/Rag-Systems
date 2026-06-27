@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i need assistance tospeak with fucking customer support
+
+Answer: Your reach-out is appreciated! I'm sensing that you need assistance in contacting our customer support team. I apologize if you've encountered any frustrations, and I'm here to help you navigate through the situation. Our customer support team operates during {{Customer Support Hours}}, and I can provide you with the necessary contact information. Please let me know if there's anything specific you need assistance with.

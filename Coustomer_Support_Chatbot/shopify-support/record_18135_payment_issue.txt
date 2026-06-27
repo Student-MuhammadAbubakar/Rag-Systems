@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: can you help me informing of errors with payment?
+
+Answer: I'm here to provide the assistance you need in reporting errors with your payment. It's crucial for us to understand the specifics of the errors you encountered, such as any error messages, transaction details, or steps leading to the problem. By sharing this information, you not only help us address the issue promptly but also contribute to improving our system for a more seamless payment experience in the future. Thank you for reaching out, and I appreciate your cooperation in resolving this matter.

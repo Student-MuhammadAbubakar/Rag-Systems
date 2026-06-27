@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to add an article to order {{Order Number}}
+
+Answer: We acknowledge your inquiry about adding an article to your order with number {{Order Number}}. We are here to assist you in making any modifications to your purchase. To add an article to your order, please follow these steps:
+
+1. Go to our website and log into your account.
+2. Navigate to the "My Orders" section or a similar option depending on our website's layout.
+3. Find your order with number {{Order Number}} and click on it to open the order details.
+4. Look for an option like "Add Item" or "Edit Order" and click on it.
+5. Browse through our available products and select the article you want to add to your order.
+6. Once you have chosen the article, follow the prompts to complete the addition process. You may need to provide any necessary details such as size, color, or quantity.
+7. Review your updated order summary to ensure that the new article has been successfully added.
+
+If you encounter any difficulties or have further questions, don't hesitate to reach out to our customer support team. We are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We are more than happy to assist you in any way we can.

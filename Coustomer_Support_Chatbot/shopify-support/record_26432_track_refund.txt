@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a reimbursement of {{Refund Amount}} dollars
+
+Answer: I acknowledge your anticipation for the reimbursement of ${{Refund Amount}}. We understand the importance of resolving this matter promptly. Allow me to look into the current status of your reimbursement and provide you with the necessary information. In the meantime, I appreciate your patience and assure you that we are doing everything we can to expedite the process and ensure a satisfactory resolution.

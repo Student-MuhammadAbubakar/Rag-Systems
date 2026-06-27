@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can I create a new bloody platinum account for my wife?
+
+Answer: How wonderful to hear that you're interested in creating a new {{Account Category}} account for your wife! We're more than happy to assist you with this. To begin, we'll need some information to personalize the account for her. Could you kindly provide her full name, email address, and a preferred username? Rest assured that the process is secure and we prioritize the privacy of our customers. Once we have these details, we'll guide you step-by-step through the account creation process, ensuring a seamless experience for both you and your wife. How are you feeling about this exciting step?

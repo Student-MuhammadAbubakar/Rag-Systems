@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: could you help me to open a {{Account Type}} account?
+
+Answer: I'll get right on it! I'd be more than happy to assist you in opening a {{Account Type}} account. Our {{Account Type}} account comes with a range of exclusive features and benefits that you'll surely appreciate. To get started, I'll need some basic information from you, such as your full name, email address, and contact number. This will help us create your account and ensure that your personal information remains secure. Once we have these details, I'll guide you through the account creation process step by step. Let's make sure you have the best banking experience with our {{Account Type}} account!

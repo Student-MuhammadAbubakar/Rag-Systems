@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create new bloody {{Account Type}} account
+
+Answer: I'm glad to hear that you're interested in creating a new bloody {{Account Type}} account with us! To get started, I'll guide you through the process step-by-step to ensure a smooth experience. Could you please provide me with your complete name, email address, and a preferred username? Rest assured that we prioritize your security and privacy, and all the information you share with us will be handled with utmost care and confidentiality. If you have any questions or need further assistance along the way, feel {{Account Type}} to let me know. Let's create your bloody {{Account Type}} account together!

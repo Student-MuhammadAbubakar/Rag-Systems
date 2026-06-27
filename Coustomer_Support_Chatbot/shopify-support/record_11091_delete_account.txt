@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i never use the pro account i need help deleting it
+
+Answer: Glad you contacted about deleting your {{Account Type}} account. I understand that you no longer use this account and would like to remove it. I apologize for any inconvenience caused. To proceed with the deletion, I will need some information from you. Please provide your account details, such as your username or email associated with the {{Account Type}} account. Once I have this information, I will be able to assist you further and guide you through the account deletion process.

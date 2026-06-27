@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i have got to locate order {{Order Number}}
+
+Answer: Always good to connect! I'm attuned to the fact that you need assistance with locating your order with the order number {{Order Number}}. To help you with that, you can visit our website and go to the '{{Online Order Interaction}}' section. There, you will be able to find the details and status of your order. If you have any other questions or need further guidance, please feel free to ask. I'm here to ensure you have a seamless experience throughout the process.

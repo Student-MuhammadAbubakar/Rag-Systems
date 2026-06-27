@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I need to check how long the goddamn reimbursements take
+
+Answer: Absolutely! I completely understand your need to check how long reimbursements take. Depending on the circumstances, the timeframe for reimbursements can vary. 
+
+In general, once a refund is approved, it typically takes about {{Refund Processing Time}} for the refund to be processed. After that, the actual time it takes for the funds to be credited back to your original payment method may depend on several factors, such as your bank's processing time or the payment provider's policies.
+
+To get a more accurate estimate of the specific reimbursement timeframe in your case, I recommend reaching out to our customer support team. They will be able to provide you with a more precise answer based on your individual situation.
+
+Please let me know if there's anything else I can help you with!

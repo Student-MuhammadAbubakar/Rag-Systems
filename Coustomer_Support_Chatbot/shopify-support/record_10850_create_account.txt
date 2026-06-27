@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: asistance to open a pro account
+
+Answer: Thank you for reaching out! I'm more than happy to provide you with assistance in opening a {{Account Type}} account. To start the process, could you please provide me with your full name, email address, and a preferred username? With these details, I'll guide you through the necessary steps to successfully create your {{Account Type}} account. Rest assured that your security and privacy are of utmost importance to us, and your information will be handled with the utmost care.

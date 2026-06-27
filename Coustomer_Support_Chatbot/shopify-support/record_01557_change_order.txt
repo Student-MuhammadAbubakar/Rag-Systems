@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: need assistance to change purchase {{Order Number}}
+
+Answer: We understand that you require assistance in modifying your purchase with the order number {{Order Number}}. Our team is here to help you with this request. Could you please provide us with more details regarding the changes you would like to make? This will allow us to proceed with the necessary actions and ensure that your order aligns perfectly with your preferences. Feel free to share any specific requests or concerns you have, as we aim to provide a seamless and satisfactory shopping experience for you.

@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: i do not want these article i try to cancel order {{Order Number}}
+
+Answer: I grasp that you do not want these articles and that you've been trying to cancel order {{Order Number}}. I apologize for any inconvenience this has caused you. Let's work together to resolve this issue:
+
+1. Review the Return Policy: I recommend checking our {{Company}}'s return policy to ensure you qualify for a cancellation or return. You can find this information on our website under the "Returns and Refunds" section.
+
+2. Contact Customer Support: If you are eligible for cancellation or return, please contact our dedicated customer support team. They will guide you through the process, provide any necessary instructions, and assist you in canceling order {{Order Number}}.
+
+3. Provide Order Details: When contacting customer support, make sure to provide them with the order number {{Order Number}}. This will help expedite the cancellation process and ensure accurate assistance.
+
+4. Ask for Assistance: If you encounter any challenges during the cancellation process or have any further questions, don't hesitate to ask our customer support team for help. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} and can also be reached through the Live Chat feature on our website at {{Website URL}}.
+
+We want to make sure you have a positive experience with our company, and we appreciate your patience as we work towards resolving this matter.

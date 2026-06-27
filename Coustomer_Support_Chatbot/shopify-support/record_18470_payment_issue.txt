@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: report anissue with payment
+
+Answer: We appreciate you reaching out to us to report a payment issue. Our team is here to assist you in resolving this matter as quickly as possible. To provide you with the most accurate and personalized support, could you please provide more specific details about the issue you encountered? This could include any error messages, transaction IDs, or any other relevant information. Your assistance will not only help us address your concern effectively but also contribute to improving our services for all our valued customers. Thank you for bringing this to our attention.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have got to track purchase {{Order Number}}, how can I do it?
+
+Answer: I see what you mean! I'm on the same page that you would like to track the purchase with the purchase number {{Order Number}}. To track your purchase, you can visit our website and navigate to the '{{Order Tracking}}' or '{{Track Order}}' section. Alternatively, you can contact our customer support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in tracking your purchase and provide you with the most up-to-date information. If you have any other questions or need further assistance, please feel free to let me know.

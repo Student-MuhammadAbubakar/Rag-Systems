@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: help me to add some articles to purchase {{Order Number}}
+
+Answer: Always good to connect! I'm attuned to the fact that you need assistance with adding some articles to your purchase with the number {{Order Number}}. I'm here to help you with that. Could you please provide me with the details of the articles you would like to add? Once I have that information, I will ensure they are added to your purchase right away.

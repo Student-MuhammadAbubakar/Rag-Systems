@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update data on pro account
+
+Answer: How marvelous it is to witness your proactive approach in updating the data on your {{Account Type}} account!it's my pleasure to assist you in this process and provide you with the necessary guidance. To proceed with the updates, you can securely log into our {{Online Company Portal Info}} where you'll find options to modify different aspects of your {{Account Type}} account, such as personal information, payment details, or preferences. If you have any specific questions or need help navigating through the portal, feel free to ask. We're here to support you every step of the way.

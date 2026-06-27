@@ -1,0 +1,16 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I do not know what to do to delete a {{Account Type}} account
+
+Answer: Thank you for getting in touch to us regarding your {{Account Type}} account deletion. I understand that you may be unsure about the steps involved in this process. Rest assured, I'm here to guide you. To delete your {{Account Type}} account, you can follow these simple steps:
+
+1. Login to your account on our website/app.
+2. Go to the account settings or profile section.
+3. Look for the option to delete or close your account.
+4. Follow the prompts and confirm your decision to delete the account.
+5. If there are any additional steps or information required, our system will guide you through the process.
+
+Please note that deleting your {{Account Type}} account will permanently remove all your account data, including any saved information or preferences. If you are unsure about deleting your account or have any concerns, our customer support team is available to assist you through live chat, email, or phone.
+
+We value your trust in our services and thank you for considering us. Let me know if there's anything else I can assist you with.

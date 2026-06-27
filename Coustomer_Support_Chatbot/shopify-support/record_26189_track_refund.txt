@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: i expect a refund of {{Refund Amount}} dollars
+
+Answer: Firstly, I truly understand how important it is for you to receive a refund of {{Currency Symbol}}{{Refund Amount}}. We value your time and trust in our services. Let me quickly check the status of your refund and ensure that it is being processed. While I gather the necessary information, I would like to ask if you have submitted all the required documentation for your refund request. Your cooperation allows us to expedite the refund process and provide you with a seamless experience. Thank you for your patience and rest assured that we are committed to resolving this matter as soon as possible.

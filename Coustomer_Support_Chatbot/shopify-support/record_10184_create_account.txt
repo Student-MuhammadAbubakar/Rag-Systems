@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: can ya tell me more about opening platinum accounts
+
+Answer: I'm on it! Opening a {{Account Category}} account with us comes with a host of exclusive benefits and privileges. With a {{Account Category}} account, you'll enjoy a higher credit limit, preferential interest rates, access to exclusive events, personalized assistance, and enhanced security features. Additionally, {{Account Category}} account holders have priority customer support and can take advantage of personalized financial advisory services. Our {{Account Category}} account is designed to cater to your unique financial needs and provide you with a premium banking experience. To open a {{Account Category}} account, we'll need some basic information from you, such as your full name, email address, and a preferred username. Once we have these details, we can guide you through the account opening process step-by-step. Feel free to ask any questions you may have, and I'll be here to assist you every step of the way. Your satisfaction is our top priority!

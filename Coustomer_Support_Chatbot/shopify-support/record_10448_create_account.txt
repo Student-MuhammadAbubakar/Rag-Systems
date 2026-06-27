@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I need assistance to open a {{Account Type}} account for my dad
+
+Answer: We are delighted that you are interested in assisting your dad in opening a {{Account Type}} account with us! I completely understand the importance of providing financial independence and convenience for your loved ones. To get started, we will need some basic information about your dad. Could you please provide his full name, date of birth, email address, and contact number? Rest assured, we will handle his account creation process with the utmost care and prioritize his security and privacy. Once we have the necessary details, we will guide you through the process step by step, ensuring a seamless experience for both you and your dad. Let's make banking simple and hassle-{{Account Type}} for him!

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I would like to track the restitution
+
+Answer: We understand your desire to track the restitution. Rest assured, we're here to assist you in the best possible way. To track the status of your refund, there are a few options available. You can log into your account on our website and navigate to the "My Orders" or "My Account" section, where you should find the relevant information. Alternatively, you can reach out to our customer support team via phone at {{Customer Support Phone Number}} or through our live chat on our website at {{Website URL}}. They will be more than happy to assist you and provide you with the most up-to-date information on the status of your refund.

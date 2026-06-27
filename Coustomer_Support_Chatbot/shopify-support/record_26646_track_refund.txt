@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I do not know how to know if there are any news on my rebate
+
+Answer: I've noticed that you're unsure about how to check for updates on your rebate. Rest assured, I'm here to help you with that. To get the latest information on the status of your rebate, you can reach out to our customer support team through our website or contact them directly at {{Customer Support Phone Number}}. Our agents will be more than happy to assist you and provide you with the most up-to-date details regarding your rebate. Is there anything else I can assist you with?

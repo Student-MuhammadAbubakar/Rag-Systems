@@ -1,0 +1,14 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: want assistance to check how long refunds take
+
+Answer: Glad you contacted to us regarding the duration of refunds. I understand that it is important for you to have a clear understanding of the time it takes for refunds to be processed. 
+
+The duration of refunds can vary depending on several factors, such as the payment method used, the vendor's refund policy, and the specific circumstances of your case. In general, refunds are usually processed within {{Refund Processing Time}} once the request has been approved.
+
+However, it's important to note that while we strive to process refunds as quickly as possible, some delays may occur due to external factors such as bank processing times or technical issues. Rest assured, we make every effort to expedite the refund process and keep you informed along the way.
+
+For a more accurate estimate of the refund processing time for your specific case, I encourage you to reach out to our dedicated customer support team. They will be able to provide you with the most up-to-date information based on your individual situation.
+
+If you need any further assistance or have any other questions, please feel free to let me know. I'm here to help!"

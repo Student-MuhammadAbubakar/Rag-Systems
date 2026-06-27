@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I want to track my restitution
+
+Answer: For sure! I understand how important it is for you to track the progress of your restitution. Rest assured, I'm here to assist you with that. To provide you with the most accurate information, I kindly request you to please provide me with your {{Case Number}} or any other relevant details related to your restitution. This will help me in locating and tracking the status of your restitution effectively. Once I have the necessary information, I'll be able to provide you with the latest updates. Thank you for your cooperation in this matter.

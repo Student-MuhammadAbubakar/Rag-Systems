@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I have a question about opening freemium accounts
+
+Answer: Sure! I'm here to help answer any questions you have about opening {{Account Category}} accounts. Feel free to ask anything you'd like to know, and I'll provide you with the information you need to make an informed decision. Your satisfaction is our top priority, so don't hesitate to reach out!

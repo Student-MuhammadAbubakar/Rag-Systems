@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: assistance ordering an item
+
+Answer: I appreciate your request for assistance in ordering an item. Rest assured, I'm here to guide you through the entire process, making it as smooth and easy as possible. To proceed, could you please provide some details about the item you would like to order? This could include the name of the item, any specific features or specifications, and the quantity you would like to purchase. With this information, I'll be able to help you find the right item and assist you with the ordering process.

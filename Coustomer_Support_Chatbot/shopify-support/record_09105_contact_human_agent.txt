@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I can't understand you, I need to speak with a live agent
+
+Answer: Thank you for reaching out! I apologize for any confusion caused. I understand that you are having difficulty understanding the automated system and would like to speak with a live agent for assistance. Your feedback is invaluable, and I'm here to help you find the support you need. Kindly hold on for a moment, and I'll connect you with a human agent who will be able to address your concerns directly. We appreciate your patience and understanding.

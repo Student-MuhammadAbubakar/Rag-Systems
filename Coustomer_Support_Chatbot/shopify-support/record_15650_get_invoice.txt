@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i have got to get my goddamn bills from {{Person Name}}
+
+Answer: I comprehend that you have an urgent need to access the invoices from {{Salutation}} {{Client Last Name}}. Please allow me a moment to retrieve the bills you are referring to. In the meantime, if there's anything else I can assist you with, please don't hesitate to let me know. I'm here to help!

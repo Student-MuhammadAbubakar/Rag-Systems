@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what di i need to do to give a quick look at the bill #12588
+
+Answer: I see what you mean your desire to have a quick and convenient way to view the bill with the number {{Invoice Number}}. To access your bill, you can log in to your account on our website and navigate to the billing section. There, you will be able to find the option to view and download your bill with ease. If you encounter any difficulties or need further assistance, please don't hesitate to reach out. We're here to help!

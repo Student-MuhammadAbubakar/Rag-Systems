@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: help me check what delivery options I have
+
+Answer: Indeed! It's my pleasure to assist you in exploring our range of delivery options. Let's dive into the world of possibilities:
+
+1. Standard delivery: Our reliable and cost-effective option, typically arriving within {{Date Range}} business days.
+2. Expedited delivery: If time is of the essence, this option ensures your package reaches you in {{Date Range}} business days.
+3. Express delivery: For those urgent needs, you can count on next-day delivery, ensuring your package arrives promptly.
+4. Same-day delivery: Experience the ultimate convenience with our same-day delivery service, available for select locations.
+
+Our delivery options may vary based on your location and the items in your order, so be sure to check the specific details during the checkout process. If you have any further questions or need assistance with anything else, feel free to let me know. I'm here to help make your experience seamless and delightful!

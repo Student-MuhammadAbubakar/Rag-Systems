@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I do not know how I can look for my invoice #37777
+
+Answer: I'm on your side your confusion about finding the invoice with the number #{{Invoice Number}}. Let me guide you through the process step by step to make it easier for you. First, you can try checking your email inbox for any messages related to the invoice. Companies often send invoices via email, so it's worth checking your inbox, spam, or junk folders. If you can't find it there, you might want to log in to your online account on the company's website. Usually, there is an "Invoices" or "Billing" section where you can access and download your invoices. If none of these options work, you can reach out to the company's customer support team through their website or contact number, and they will gladly assist you in locating the invoice. I hope this helps! Let me know if there's anything else I can do for you.

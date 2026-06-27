@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: show me how long refunds take
+
+Answer: I appreciate your curiosity about the duration of the refund process. Generally, once a refund is approved, it can take a few business days for the refund to be processed and appear in your account. However, the exact timeframe may vary depending on various factors such as the payment method used and the financial institution involved. It's also worth noting that international refunds may take longer due to currency conversion and other factors. Rest assured, our team works diligently to ensure refunds are processed as quickly as possible. Should you require a more specific timeline for your situation, please provide me with the necessary details, such as the {{Order Number}} or invoice number, and I'll be glad to assist you further. Your satisfaction is our priority, and we want to ensure a smooth refund experience for you.

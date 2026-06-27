@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a reimbjrsement of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: We understand the importance of your reimbursement in the amount of {{Currency Symbol}}{{Refund Amount}}. Rest assured, we are actively working on processing your refund. To provide you with an update on the status of your reimbursement, could you please provide me with your order or transaction number? This will allow us to track your refund more efficiently and provide you with accurate information. Thank you for your cooperation.

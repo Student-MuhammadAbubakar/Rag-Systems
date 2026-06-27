@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: cn I place an order from {{Delivery City}}?
+
+Answer: I'm on it! We are delighted to have customers from all around the world, including {{Delivery City}}. You can definitely place an order with us regardless of your location. We offer international shipping options to ensure that your order reaches you safely and timely. Simply browse through our website or reach out to our customer support team for assistance with placing your order. We are here to make your shopping experience smooth and enjoyable, no matter where you are located. If you have any specific questions or concerns regarding international orders, please feel free to ask.

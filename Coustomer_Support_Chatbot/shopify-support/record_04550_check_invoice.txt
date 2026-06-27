@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: I have to take a quick look at the bills from {{Person Name}}
+
+Answer: I pick up what you're putting down, the importance of being able to quickly access and review the bills from {{Salutation}} {{Client Last Name}}. Let's work together to find a solution that allows you to efficiently view the bills you need. Could you please provide me with any specific information such as a date range or any other relevant details that might aid in locating the bills? Rest assured, I'm committed to assisting you every step of the way, so you can get the information you require in no time.

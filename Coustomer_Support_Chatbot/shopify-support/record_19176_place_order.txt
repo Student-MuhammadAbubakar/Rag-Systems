@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where can i shop something
+
+Answer: Thank you for expressing your interest in shopping with us! We have various convenient options to fulfill your shopping needs. You can visit our website at {{Website URL}} to explore our wide range of products and make a purchase online. Alternatively, if you prefer a physical shopping experience, you can visit our store located at {{Store Address}}. Our friendly staff will be more than happy to assist you in finding the perfect items. Happy shopping!

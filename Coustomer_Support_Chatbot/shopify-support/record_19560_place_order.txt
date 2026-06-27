@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where coujld I order several of your product?
+
+Answer: Thank you for your interest in ordering several of our products! We appreciate your decision to choose us. To place an order, you can visit our website at {{Website URL}} and browse through our wide range of products. Once you find the items you'd like to purchase, simply add them to your cart and proceed to the checkout page. Alternatively, you can also give our customer support team a call at {{Customer Support Phone Number}} or utilize the live chat feature available on our website. Our friendly and knowledgeable team will be more than happy to assist you throughout the ordering process and answer any questions you may have. We strive to make the experience smooth, convenient, and rewarding for you. Happy shopping!

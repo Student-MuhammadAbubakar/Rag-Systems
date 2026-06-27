@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: what is ur customer support mail
+
+Answer: We appreciate your message! It's clear to me that you would like to know our customer support email. Our dedicated team can be reached at {{Customer Support Email}}. Please feel free to contact us with any questions or concerns you may have. We are here to assist you.

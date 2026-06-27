@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: problem with canceling purchase {{Order Number}}
+
+Answer: I'm aware that you're facing difficulties canceling your purchase with the order number {{Order Number}}. I apologize for any inconvenience this may have caused you. Our team is committed to assisting you in resolving this issue. Here are a few steps you can take to help resolve the problem:
+
+1. Double-check the Order Details: Make sure you have entered the correct order number. It's important to ensure accuracy when canceling purchases.
+2. Try Different Channels: If you're encountering issues canceling the purchase online, you can reach out to our customer support team through various channels such as phone, email, or live chat. They will be able to guide you through the cancellation process.
+3. Provide Additional Information: Sometimes, certain purchases require additional details for cancellation. Our customer support team can provide you with the necessary instructions and requested information to facilitate the cancellation process.
+4. Be Patient: Cancelling a purchase can sometimes take a little longer due to system updates or verification processes. Rest assured, our team is working diligently to resolve the issue as quickly as possible.
+
+If you need further assistance, please feel free to provide any additional information or contact our customer support team during {{Customer Support Hours}} at {{Customer Support Phone Number}}. We appreciate your patience and understanding as we work to resolve this matter.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: showing me order {{Order Number}} current status
+
+Answer: I'm on it! I'm here to assist you with checking the current status of your order with the order number {{Order Number}}. Let me quickly look it up for you... It seems that your order is currently in transit and is expected to be delivered within the next {{ETA}}. If you have any other questions or need further assistance, please feel free to ask. Your satisfaction is my top priority!

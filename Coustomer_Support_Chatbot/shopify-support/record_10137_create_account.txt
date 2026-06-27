@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: creating new pro account
+
+Answer: I'm delighted to assist you in creating a new {{Account Type}} account! Our {{Account Type}} account offers enhanced features designed to elevate your experience and provide you with additional benefits. To get started, I'll guide you through the process step by step, ensuring that you have all the necessary information. Please provide me with your full name, email address, and any specific requirements you may have for your {{Account Type}} account. Rest assured, your privacy and security are our highest priorities, and your information will be handled with the utmost care. Let's embark on this exciting journey together!

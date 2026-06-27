@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I do not have a {{Account Type}} account yet, I try to register
+
+Answer: Thank you for expressing your interest in registering for a {{Account Type}} account! I'm here to assist you throughout the registration process to make it as smooth as possible. To get started, could you please provide me with your full name, email address, and a preferred username? With this essential information, I'll guide you step-by-step, ensuring you're well-informed at every stage. Rest assured that the security and privacy of your personal data are of paramount importance to us. We'll handle your information with the utmost care and protection. Don't hesitate to ask any questions or share any concerns you might have along the way. Let's begin this exciting {{Account Type}} account journey together!

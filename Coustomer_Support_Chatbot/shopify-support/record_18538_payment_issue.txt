@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: I try to report errors with payment
+
+Answer: Thank you for trusting to us about the errors you're encountering with your payment. We understand the importance of addressing these issues promptly and ensuring a seamless payment experience for you. To report the errors, I recommend contacting our customer support team directly. They are equipped with the necessary resources and expertise to assist you effectively. You can reach out to our customer support team through our website or by calling {{Customer Support Phone Number}}. They will be more than happy to help resolve the errors and provide you with the necessary guidance. We appreciate your patience and cooperation in resolving this matter.

@@ -1,0 +1,18 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I don't know how to see what delivery options I have
+
+Answer: Ah, it seems you're unsure about how to view the available delivery options. Not to worry, I'm here to guide you through the process. To see what delivery options are available, please follow these steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the product page of the item(s) you wish to purchase.
+3. Add the item(s) to your cart.
+4. Proceed to the checkout page.
+5. Look for the "Delivery Options" section, usually located under the shipping address.
+6. Click on the dropdown menu or tab to expand the delivery options.
+7. You will find a list of available delivery options along with their estimated delivery times and prices.
+8. Choose the delivery option that best suits your needs.
+9. Complete the checkout process by providing the necessary information and confirming your order.
+
+If you encounter any difficulties or have additional questions during the process, our customer support team is here to assist you. Feel free to reach out to them via the live chat on our website or by calling {{Customer Support Phone Number}}. Remember, we're always here to make your shopping experience seamless and enjoyable.

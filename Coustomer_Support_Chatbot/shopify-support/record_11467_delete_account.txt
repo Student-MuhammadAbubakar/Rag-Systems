@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: problem with {{Account Type}} account deletions
+
+Answer: Thank you for bringing up the issue regarding the deletion of {{Account Type}} accounts. I apologize for any inconvenience caused, and I'm here to assist you. In order to better understand your concern, could you please provide more details about the problem you are facing? This will allow me to provide you with accurate and relevant information to resolve the issue. Your satisfaction is important to us, and we want to ensure that we address your concerns effectively.

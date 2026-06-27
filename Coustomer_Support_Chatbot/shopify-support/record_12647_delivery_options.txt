@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: hsipping to {{Delivery Country}}
+
+Answer: Ah, the allure of new horizons! You're in luck as we offer a range of shipment methods for delivering to {{Delivery Country}}. Let me share a glimpse of the options available to you:
+
+1. Standard International Shipping: Typically arrives within {{Date Range}} business days. It's a reliable choice for non-urgent shipments.
+2. Expedited International Shipping: If you're looking for a faster option, expect your items to reach you in {{Date Range}} business days.
+3. Express International Shipping: For urgent deliveries, this option ensures expedited delivery within {{Date Range}} business days.
+
+These delivery times are estimates and may vary based on factors such as customs clearance and location. Should you have any specific concerns or require further guidance, please feel free to let me know. It's my pleasure to assist you in making your shipping experience a seamless one!

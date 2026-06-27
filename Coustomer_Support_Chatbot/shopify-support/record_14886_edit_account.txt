@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: correct information on {{Account Type}} account
+
+Answer: How wonderful it is to hear that you're interested in correcting the information on your {{Account Type}} account! We understand the importance of accurate data and want to ensure that your account details are up to date. To assist you better, could you please provide more information on the specific details you'd like to correct? We're here to help you every step of the way.

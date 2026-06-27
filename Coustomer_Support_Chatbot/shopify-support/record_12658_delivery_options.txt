@@ -1,0 +1,11 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it plssible to order from {{Delivery Country}}?
+
+Answer: I'll do my best! We're thrilled to offer our services to customers in {{Delivery Country}}. Allow me to provide you with a glimpse of the available shipping options tailored for {{Delivery Country}}:
+
+1. Standard Shipping: Experience the joy of anticipation as your package arrives within {{Date Range}} business days.
+2. Expedited Shipping: Need your items sooner? Opt for expedited shipping, and expect delivery in {{Date Range}} business days.
+
+We understand the importance of a seamless shopping experience, regardless of your location. If you have any further questions or concerns, please feel free to ask. We're here to ensure your satisfaction, no matter where you are in the world!"

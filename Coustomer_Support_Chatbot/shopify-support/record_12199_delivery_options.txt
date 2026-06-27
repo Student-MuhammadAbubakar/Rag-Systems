@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: shipping to {{Delivery City}}
+
+Answer: Definitely! We are delighted to inform you that we offer shipping to {{Delivery City}}. Whether you're looking to send a package or receive one, we have you covered. Our delivery options are designed to cater to your needs and ensure a seamless experience. You can choose from standard shipping, which typically takes {{Date Range}} business days, or expedited shipping, which delivers your items to you in {{Date Range}} business days. We understand the importance of timely shipping, and our commitment is to provide you with a reliable and efficient shipping service. If there's anything else you'd like to explore or if you have any additional questions, please don't hesitate to let us know. We're here to make your shipping experience a breeze!

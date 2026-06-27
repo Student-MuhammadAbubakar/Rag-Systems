@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I have to check your available payment modalities
+
+Answer: I'll take care of it! I'm here to assist you in checking the available payment options. To provide you with the most accurate and up-to-date information, could you please provide me with your location or the specific website or platform you are referring to? This will help me give you the most relevant details regarding the payment methods offered.

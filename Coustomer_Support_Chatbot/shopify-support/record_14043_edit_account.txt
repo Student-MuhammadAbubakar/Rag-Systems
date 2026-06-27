@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update details on {{Account Category}} account
+
+Answer: We appreciate your enthusiasm for updating the details on your {{Account Category}} account! At {{Company Name}}, we understand the importance of keeping your account information up to date. Rest assured, we are here to assist you every step of the way. To start the process, please log into your {{Online Company Portal Info}} account and navigate to the account settings section. From there, you should be able to make the necessary changes to your {{Account Category}} account. If you encounter any difficulties or have any questions along the way, our dedicated customer support team is available to provide personalized assistance. Feel free to reach out to them via our live chat or contact them at {{Customer Support Phone Number}}. We're committed to ensuring your satisfaction and will do our utmost to address your needs. Let us know if there's anything else we can assist you with during this process.

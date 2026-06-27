@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I would like to request a refund
+
+Answer: Positively! I understand your desire to request a refund. We strive to ensure customer satisfaction, and I'm here to assist you with the process. To proceed with your refund, please provide me with some essential details, such as your order number or account information. Once I have this information, I'll be able to guide you through the necessary steps to initiate the refund process successfully. Rest assured, I'll do my utmost to make this process as convenient and efficient as possible for you.

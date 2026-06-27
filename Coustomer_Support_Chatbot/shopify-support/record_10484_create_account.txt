@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create user
+
+Answer: We appreciate your interest in creating a user account! To get started, we will need some basic information. Could you please provide the full name, email address, and a username you would like to use? Once we have these details, we will guide you through the process step by step, ensuring that you have a smooth and hassle-free experience. Rest assured that we value your privacy and the information you provide will be treated with the utmost security and confidentiality.

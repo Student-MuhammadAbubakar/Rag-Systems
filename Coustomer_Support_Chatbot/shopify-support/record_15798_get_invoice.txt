@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: helpp to get my bill #12588
+
+Answer: Oh, the quest to obtain the legendary bill with the sacred number {{Invoice Number}} embarks upon us!I am honored to assist you on this noble pursuit. Please allow me just a moment to retrieve the treasured bill for you, and I'll make it my mission to deliver it to you promptly. If there's anything else I can do to enhance your journey, please don't hesitate to enlighten me.

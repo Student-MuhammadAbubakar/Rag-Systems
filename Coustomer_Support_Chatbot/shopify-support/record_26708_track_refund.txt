@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for an restitution of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Firstly, I truly understand how important the restitution of {{Currency Symbol}}{{Refund Amount}} is for you. I apologize for any delays you may have experienced. To assist you further, I will need some additional information. Could you please provide me with the case or reference number related to your restitution request? This will help me locate your case and provide you with an update on the current status. Thank you for your understanding and cooperation.

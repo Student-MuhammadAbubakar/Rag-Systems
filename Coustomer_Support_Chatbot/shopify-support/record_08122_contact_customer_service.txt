@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I need to talk with customer service, how could I do it?
+
+Answer: We're listening! I'm keyed into the fact that you need to speak with our customer service team. We have several convenient options available for you to connect with us. You can reach us by phone at {{Customer Support Phone Number}}, or you can chat with us live on our website at {{Website URL}}. We are here to assist you and address any questions or concerns you may have. How can I make your experience even better today?

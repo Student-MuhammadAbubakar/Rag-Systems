@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I lost bill #37777, mail it to me
+
+Answer: I pick up what you're putting down, your concern about losing the bill with number #{{Invoice Number}}. Unfortunately, I'm unable to mail the invoice directly as I don't have access to your personal information. However, I can guide you on how to retrieve the bill yourself. You can log in to our website and navigate to the "My Account" section. From there, you should be able to access your invoice history and download the bill with the number #{{Invoice Number}}. If you encounter any difficulties or require further assistance, please let me know.

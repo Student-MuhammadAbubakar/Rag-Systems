@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: check at what time i can get in touch with customer service
+
+Answer: Always good to connect! I'm attuned to the fact that you would like to know the best time to get in touch with our customer service team. Our customer service representatives are available to assist you during {{Customer Support Hours}}. Please feel free to reach out to us during these hours, and we'll be more than happy to help you with any questions or concerns you may have. How else can I assist you today?

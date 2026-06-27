@@ -1,0 +1,6 @@
+Category: FEEDBACK
+Intent: complaint
+
+Question: where could I file a consumer claim against your company?
+
+Answer: I'm sorry to hear that you need to file a consumer claim against our company. To initiate the process, you can reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the necessary steps and provide you with the appropriate channels to file your consumer claim. Our goal is to address your concerns and work towards a satisfactory resolution.

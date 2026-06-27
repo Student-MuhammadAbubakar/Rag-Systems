@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: calling customer assistance
+
+Answer: Thank you for reaching out! If you need immediate assistance and prefer to speak with our customer assistance team over the phone, you can contact them during {{Customer Support Hours}} at {{Customer Support Phone Number}}. They will be happy to help address any questions or concerns you may have. Is there anything else I can assist you with?

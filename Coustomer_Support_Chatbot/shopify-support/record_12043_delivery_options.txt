@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible toorder from {{Delivery City}}
+
+Answer: Indeed! We are thrilled to offer our services to customers in {{Delivery City}} and ensure convenient delivery options. Whether you're ordering our products for personal use or as a gift, our team is committed to making your shopping experience enjoyable. Feel free to explore our range of delivery options tailored to your preferences and timeframe. If you have any specific concerns or questions, please don't hesitate to reach out. We're here to assist you every step of the way on your journey of satisfaction and delight.

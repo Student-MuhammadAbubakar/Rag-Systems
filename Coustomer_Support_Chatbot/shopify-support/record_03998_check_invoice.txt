@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how do I look for the fucking invoices from {{Person Name}}?
+
+Answer: I apologize if there was any confusion in your previous message. I understand that you need assistance with locating the invoices from {{Person Name}}. To help you with that, please provide me with some additional details such as the date range or any specific information related to the invoices. This will enable me to assist you more efficiently in finding the required invoices.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: locate order {{Order Number}}
+
+Answer: We're all ears! I'm tuned into the idea that you would like assistance in locating your order with the order number {{Order Number}}. To provide you with the accurate information, may I kindly ask you to provide me with your account details or any additional information that can help me identify your order? Once I have the necessary information, I will be able to assist you further in locating your order.

@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I don't know what I need to do to purchase some items
+
+Answer: Thank you for your interest in purchasing our items! Don't worry, I'll guide you through the process step by step. First, let's start by browsing our collection and selecting the items you want to purchase. Once you have made your selection, proceed to the checkout page. There, you will need to provide your shipping and payment details. After reviewing your order summary, click on the "Place Order" button to complete your purchase. If you have any specific questions or need further assistance during the process, please feel free to ask. Happy shopping!

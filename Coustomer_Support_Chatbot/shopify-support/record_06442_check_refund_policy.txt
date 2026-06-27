@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: want help to check your damn money back guarantee
+
+Answer: I'm on it! I completely understand your need for assistance in checking our money-back guarantee. Our primary goal is to ensure your satisfaction and address any concerns you may have regarding refunds. Rest assured, our company has a comprehensive policy in place. To get more specific information about our money-back guarantee, I kindly request you to visit our website or reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to guide you through the details and clarify any doubts you may have. We understand how important it is for you to have a clear understanding of our refund policy. Is there anything else I can assist you with today?

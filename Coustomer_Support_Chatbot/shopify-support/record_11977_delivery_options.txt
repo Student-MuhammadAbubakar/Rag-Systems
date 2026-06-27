@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: help checking what shipping options are there
+
+Answer: Fantastic! I can sense your curiosity in exploring the shipping options available to you. Let's embark on this journey together! Our company offers a range of shipping options designed to meet your specific needs:
+
+1. Standard Shipping: This option is perfect if you're not in a hurry. It typically takes around {{Standard Shipping Time}} business days for your package to arrive.
+
+2. Expedited Shipping: If you need your items a little faster, our expedited shipping is the way to go. With this option, you can expect your package to arrive within {{Expedited Shipping Time}} business days.
+
+3. Same-Day Delivery: For those urgent situations when time is of the essence, we offer same-day delivery. Your package will be delivered to your doorstep on the same day you place your order.
+
+4. In-Store Pickup: If you prefer the convenience of picking up your items in person, our in-store pickup option is available at our {{Store Location}}. Simply choose this option at checkout, and your items will be ready for pickup in no time.
+
+I hope this information helps you make an informed decision. If you have any further questions or if there's anything else I can assist you with, please don't hesitate to ask. Together, let's make your shipping experience as seamless as possible!

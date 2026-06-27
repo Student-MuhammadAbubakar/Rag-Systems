@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: I ain't registered, I need to open a {{Account Type}} account with you
+
+Answer: I'm glad to hear that you're interested in opening a {{Account Type}} account with us! To assist you with the registration process, could you please provide me with your full name, email address, and a username of your choice? This will enable us to set up your account and ensure that all the necessary information is accurately recorded. Rest assured that creating a seamless and secure experience for you is our top priority.

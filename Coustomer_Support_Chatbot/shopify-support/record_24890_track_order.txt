@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I am trying to check order {{Order Number}} currentstatus
+
+Answer: We're all ears! I'm tuned into the idea that you are trying to check the current status of your order with the order number {{Order Number}}. To assist you with that, please navigate to the '{{Order Status}}' section on our website. If you encounter any difficulties or have any other questions, feel free to ask. I'm here to ensure a seamless experience for you.

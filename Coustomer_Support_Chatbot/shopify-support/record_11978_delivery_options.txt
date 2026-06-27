@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliverids to {{Delivery Country}}
+
+Answer: Ah, I understand you're looking for delivery options to {{Delivery Country}}. Allow me to assist you with that. We offer a range of shipment methods to {{Delivery Country}} to cater to your needs. Here are the options available:
+
+1. Standard Shipping: This option usually takes approximately 7-10 business days for delivery to {{Delivery Country}}.
+2. Expedited Shipping: If you're in a hurry, our expedited shipping can get your items to you within 3-5 business days.
+3. Priority Shipping: For the most urgent needs, our priority shipping ensures delivery within 1-3 business days.
+
+Please keep in mind that these estimated times may vary depending on factors such as customs clearance and any unforeseen circumstances. If you have any specific concerns or questions regarding the shipping process or any other assistance you may require, feel free to let me know. It's my pleasure to help you with your shipping needs.

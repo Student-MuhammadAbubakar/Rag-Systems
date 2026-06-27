@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a reimbursement ofv {{Currency Symbol}}{{Refund Amount}} was it processed
+
+Answer: I pick up what you're putting down, your eagerness to receive an update on the reimbursement of {{Currency Symbol}}{{Refund Amount}}. I'll gladly assist you in checking the current status of your refund. Please bear with me for a moment while I gather the necessary information. Your patience is sincerely appreciated as I ensure that I provide you with accurate and helpful details.

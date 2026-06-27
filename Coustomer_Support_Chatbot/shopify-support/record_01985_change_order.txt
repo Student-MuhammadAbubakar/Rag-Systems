@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i cant correct purchase {{Order Number}}
+
+Answer: I've realized that you're having difficulty correcting purchase number {{Order Number}}. I apologize for any inconvenience this may have caused. To assist you further, could you please provide more details about the specific issue you are facing? This will allow us to better understand the problem and find the most suitable solution for you. Your satisfaction is our top priority, and we are here to help you every step of the way.

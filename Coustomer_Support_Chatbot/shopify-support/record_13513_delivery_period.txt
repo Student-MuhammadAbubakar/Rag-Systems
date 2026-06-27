@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: what is the shipping period for mt package
+
+Answer: We completely understand your need for information about the shipping period for your package. To provide you with an accurate estimate, could you please provide us with the {{Tracking Number}} or {{Order Number}}? That way, we can quickly and precisely determine the expected shipping period for your package. Your patience and cooperation are greatly appreciated as we work together to assist you.

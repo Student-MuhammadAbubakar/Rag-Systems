@@ -1,0 +1,6 @@
+Category: CANCEL
+Intent: check_cancellation_fee
+
+Question: show cancellation penalty
+
+Answer: Certainly! Allow me to provide you with the details regarding the cancellation penalty.

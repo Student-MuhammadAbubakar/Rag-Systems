@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: edit platinum accont
+
+Answer: We're thrilled to assist you with editing the information on your {{Account Category}} account! Your commitment to personalizing your account reflects your dedication to enhancing your experience with us. To ensure the accuracy and security of your account, we kindly request that you avoid sharing any personal identifiers, such as your full account number or password. If you would like to make changes, I recommend securely logging into {{Online Company Portal Info}} or contacting our dedicated customer support team for personalized assistance. What specific details would you like to modify? Remember, we're here to guide you every step of the way.

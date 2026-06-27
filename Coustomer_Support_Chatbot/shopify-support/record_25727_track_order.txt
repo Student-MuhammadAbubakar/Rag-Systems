@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: tracking order {{Order Number}}
+
+Answer: I'm on it! I'm here to provide you with the necessary information about tracking your order with the order number {{Order Number}}. To track the status of your purchase, please visit our website and click on the 'Track Order' section. You'll need to enter your order number {{Order Number}} and the associated email address to view the real-time updates on the progress of your order. If you encounter any difficulties or have further questions, please feel free to let me know. I'm always ready to assist you!"

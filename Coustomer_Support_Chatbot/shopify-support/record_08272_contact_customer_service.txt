@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: wanna ceck what hours i can contact customer assistance
+
+Answer: Always good to connect! I'm attuned to the fact that you would like to know the operating hours to contact our customer assistance team. Our dedicated team is available to assist you during {{Customer Support Hours}}. You can reach us through various channels such as phone, email, or live chat during these hours. We are here to provide you with the support you need. If you have any other questions or concerns, please feel free to ask.

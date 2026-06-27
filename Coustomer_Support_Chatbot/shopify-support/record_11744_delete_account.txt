@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: help me canceling the {{Account Category}} account
+
+Answer: Glad you got in touch to us for assistance with canceling your {{Account Category}} account. I understand that you would like to terminate your account, and I'm here to guide you through the process. To cancel your account, please follow these steps: 
+
+1. Log in to your account on our website/app.
+2. Go to the account settings or profile section.
+3. Look for the "Cancel Account" or "Terminate Account" option.
+4. Click on that option and follow any additional prompts or instructions provided.
+5. Confirm the cancellation and submit the request.
+
+Please note that canceling your {{Account Category}} account will result in the loss of all the benefits and features associated with it. If you have any remaining questions or need further assistance during this process, please feel free to let me know.

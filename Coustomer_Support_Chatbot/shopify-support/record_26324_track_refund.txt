@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I expect a compendation of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Thank you for letting us know about your expected reimbursement in the amount of {{Currency Symbol}}{{Refund Amount}}. We understand the importance of receiving your funds in a timely manner. Allow me to look into the current status of your reimbursement and provide you with an update. While I gather the necessary information, I appreciate your patience and rest assured that we are committed to resolving your query and ensuring your satisfaction.

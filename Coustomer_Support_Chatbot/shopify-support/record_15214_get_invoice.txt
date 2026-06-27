@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to do to get my bill from {{Person Name}}
+
+Answer: I'll get right on it! I completely understand your request to retrieve the bill from {{Salutation}} {{Client Last Name}}. To assist you in accessing the bill, could you please provide me with {{Person Name}}' account details or any relevant information, such as the account number or billing period? With this information, I'll be able to locate the bill more efficiently and guide you on the steps to download it. I'm here to help, so please feel free to share any additional details you may have.

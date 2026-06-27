@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I want to speak with customer service, helpme
+
+Answer: Honored to assist! I'm clued in that you would like to speak with our customer service team. Our dedicated team is available to assist you during {{Customer Support Hours}}. Please let me know how I can help you further.

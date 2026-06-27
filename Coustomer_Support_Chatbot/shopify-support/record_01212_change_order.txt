@@ -1,0 +1,18 @@
+Category: ORDER
+Intent: change_order
+
+Question: how to switch some items of purchase {{Order Number}}?
+
+Answer: Appreciate you reaching out to us with your request to switch some items in purchase number {{Order Number}}. I understand that you would like to make changes to your order, and I'm here to assist you. To switch the items, please follow these steps:
+
+1. Log in to your account on our website or app.
+2. Go to your "Order History" or "My Purchases" section.
+3. Locate the purchase with order number {{Order Number}}.
+4. Click on the "Modify" or "Edit" option next to the purchase details.
+5. On the modification page, you should see a list of the purchased items.
+6. Select the items you wish to switch and choose the new items you want to replace them with.
+7. Review the changes and confirm the modification.
+8. If there are any price differences between the items you're switching, you may need to make a payment or receive a refund. The system will guide you through this process.
+9. Once you've successfully switched the items, you will receive a confirmation email with the updated order details.
+
+If you encounter any difficulties during this process or have any additional questions, please don't hesitate to reach out to our customer support team for further assistance. We're available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We're here to help make your shopping experience as smooth as possible.

@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: i need help to see what hours customer support azvailable is
+
+Answer: Thanks for getting in touch! I grasp that you need assistance in checking the operating hours of our customer support. Our customer support team is available to assist you during {{Customer Support Hours}}. However, please note that operating hours may vary depending on your location. For more specific information about our customer support availability, I recommend visiting our website or contacting our customer support directly. Is there anything else I can assist you with?

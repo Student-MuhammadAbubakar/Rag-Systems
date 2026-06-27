@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: seeing reimbursement status
+
+Answer: I've been informed that you're eager to check the status of your reimbursement. I apologize for any inconvenience this may have caused you. Rest assured, I am here to assist you. To verify the current status of your reimbursement, I kindly request you to provide me with the relevant details such as your reimbursement request number or any other information that can help me locate your case. Once I have the required information, I will be able to provide you with an update. Thank you for your cooperation in this matter.

@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I cannot correct the shipping address
+
+Answer: We apologize for the inconvenience, but we are unable to make changes to the shipping address at this time. Please ensure that the address provided is correct and contact the carrier for any further assistance with the delivery.

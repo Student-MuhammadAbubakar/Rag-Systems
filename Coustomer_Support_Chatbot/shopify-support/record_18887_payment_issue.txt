@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: where could I notify of a problem with payment?
+
+Answer: If you encounter any problems with your payment, you can easily notify us and seek assistance. Our customer support team is available round the clock to address your concerns. You can reach out to us through multiple channels for a seamless experience. You can contact us via our dedicated helpline at {{Customer Support Phone Number}}, connect with us through the live chat option on our website at {{Website URL}}, or send us an email at {{Customer Support Email}}. Whichever method you choose, rest assured that we are committed to resolving your payment issues and ensuring your satisfaction.

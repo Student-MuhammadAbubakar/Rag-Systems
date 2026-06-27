@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: want assistance to delete a gold account
+
+Answer: Happy to get your message to us for assistance with deleting your {{Account Type}} account. I understand that this is an important decision for you, and I'm here to provide guidance and support throughout the process. To proceed with the account deletion, I kindly ask you to provide some specific information related to your account, such as your account username or any other identifiable details. This will help us ensure that we are working on the correct account and expedite the deletion process for you. Rest assured that your account information will be handled with the utmost confidentiality and deleted permanently from our records upon completion.

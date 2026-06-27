@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I try to remove some articles from order {{Order Number}}
+
+Answer: I'm cognizant of the fact that you're trying to remove some articles from order number {{Order Number}}. We apologize for any inconvenience this may have caused. To assist you with this, could you please provide me with the specific articles you want to remove from your order? This will help us ensure that we make the necessary changes accurately.

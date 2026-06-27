@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do not know what i have to do to get the invoice #37777
+
+Answer: I've got that you're unsure about the process to obtain invoice #{{Invoice Number}}. Don't worry, I'm here to help guide you through it. To retrieve your invoice, you can try accessing your account portal or contacting our customer support team. They will be able to assist you with the necessary steps to obtain the invoice you need. If you have any specific questions or need further clarification, feel free to let me know. We are committed to ensuring your satisfaction and providing any assistance you may require.

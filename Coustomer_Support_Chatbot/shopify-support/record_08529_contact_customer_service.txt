@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: where do I check what hours I can call customer service?
+
+Answer: Happy to hear from you! I truly understand that you would like to know where you can check the operating hours to reach our customer service team. To find this information, I recommend visiting our website at {{Website URL}}. On our website, you can navigate to the "Contact Us" or "Support" section. There, you will find the most up-to-date and accurate information regarding our customer service hours. Additionally, you may also find alternative ways to reach out to our team such as through email or live chat. If you have any further questions, I am here to assist you.

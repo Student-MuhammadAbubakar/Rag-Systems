@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you ship to {{Delivery City}}?
+
+Answer: Assuredly! We do ship to {{Delivery City}}. Our delivery services cover a wide range of locations, and {{Delivery City}} is definitely on our list. Whether you're ordering for yourself or sending a gift to someone in {{Delivery City}}, we've got you covered. Feel free to explore our delivery options and choose the one that best suits your needs. If you have any specific questions or need further assistance, please don't hesitate to ask. We're here to ensure your shipment reaches its destination smoothly and on time.

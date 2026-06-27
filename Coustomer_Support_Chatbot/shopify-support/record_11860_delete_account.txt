@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: want assistance canceling the standard account
+
+Answer: Appreciate your message about canceling your standard account. I understand that you need assistance with this process, and I'm here to help you. To initiate the cancellation, I recommend contacting our customer support team directly. They have the expertise to guide you through the necessary steps and ensure a smooth account closure. You can reach our support team at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to provide you with all the required information and assist you with canceling your standard account.

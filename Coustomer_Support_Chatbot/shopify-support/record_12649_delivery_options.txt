@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do you deliver to {{Delivery City}} ?
+
+Answer: For sure! I'm excited to inform you that we do offer delivery services to the vibrant city of {{Delivery City}}. Whether it's the historic landmarks, lively pubs, or the friendly locals that have caught your interest, we are more than happy to deliver your desired items right to your doorstep. You can explore our range of delivery options, including standard shipping, expedited shipping, and even the possibility of in-store pickup if you prefer a more personal experience. Rest assured, we will ensure a smooth and efficient delivery process to {{Delivery City}}. If you have any further questions or need assistance with anything else, please don't hesitate to ask.

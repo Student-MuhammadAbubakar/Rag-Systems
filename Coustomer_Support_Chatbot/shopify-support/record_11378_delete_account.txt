@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i have a question about the termination of a freemium acount
+
+Answer: Thank you for your message regarding the termination of your {{Account Category}} account. I understand that you have some questions or concerns about this process. I'm here to provide you with the information and support you need. Please go ahead and let me know what specific aspects of the termination you would like to discuss or any uncertainties you have. I'll do my best to address them and guide you through the process. Your satisfaction is our top priority, and I want to ensure that you have a smooth experience.

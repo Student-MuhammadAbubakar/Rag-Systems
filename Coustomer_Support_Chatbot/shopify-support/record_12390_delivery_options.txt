@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: cn I place an order from {{Delivery City}}?
+
+Answer: Definitely! I'm excited to share that we accept orders from {{Delivery City}}. Our delivery options extend to multiple locations, including {{Delivery City}}. So, you can easily place an order from there and have it delivered to your desired address. If you have any specific concerns or questions about placing an order from {{Delivery City}}, feel free to let me know. I'm here to assist you every step of the way!

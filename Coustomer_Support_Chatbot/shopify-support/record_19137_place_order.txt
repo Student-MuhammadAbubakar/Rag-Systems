@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where to purchase several products?
+
+Answer: Thank you for your inquiry about where to purchase several products. We have a variety of options available for you to make your purchase. You can visit our official website at {{Website URL}} and explore our extensive product catalog. Additionally, our products may be available at our retail stores located in major cities. If you prefer a more personalized shopping experience, our customer service team can assist you in finding the nearest store to your location. Please provide your location details and we will be happy to guide you further.

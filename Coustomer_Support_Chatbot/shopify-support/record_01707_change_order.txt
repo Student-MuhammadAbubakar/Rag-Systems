@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wanna swap an item of order732201349959 i need help
+
+Answer: I pick up what you're putting down, your desire to swap an item in your order with number {{Order Number}}. Swapping items is easy! To proceed with the swap, could you please provide me with the specific details of the item you want to swap, such as the name, size, or color? Once I have all the necessary information, I will guide you through the process step by step. Your satisfaction is our top priority, and I'm here to assist you every step of the way.

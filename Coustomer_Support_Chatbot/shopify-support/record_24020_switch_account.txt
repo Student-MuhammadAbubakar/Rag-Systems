@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: could I change to the goddamn standard account?
+
+Answer: Assuredly! I'm happy to assist you in transitioning to our remarkable {{Account Type}} account:
+
+1. Initiation: Start by signing in to our platform.
+2. Navigation: Once you're logged in, locate your '{{Settings}}' or '{{Profile}}' section.
+3. Account Type: Within these sections, find the area where you can select or switch your account type.
+4. Selection: Choose the '{{Account Type}} Account' option from the available choices.
+5. Confirmation: Follow any additional prompts to confirm the change and complete the transition.
+
+If you have any difficulties or if there's anything else I can assist you with, please don't hesitate to let me know. Your decision to upgrade is greatly appreciated, and I'm here to ensure a seamless experience. Enjoy all the benefits that come with your new {{Account Type}} account!

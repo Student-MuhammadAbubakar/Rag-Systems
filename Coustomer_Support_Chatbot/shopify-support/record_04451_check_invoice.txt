@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: look for invoices from {{Person Name}}
+
+Answer: I acknowledge that you need assistance with locating invoices from {{Salutation}} {{Client Last Name}}. By analyzing our database, I can quickly find the invoices associated with {{Person Name}}. Please bear with me for a moment while I retrieve the relevant information.

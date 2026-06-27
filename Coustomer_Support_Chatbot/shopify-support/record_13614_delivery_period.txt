@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: what do i have to do to check how  long the shipment takes
+
+Answer: We understand your curiosity about tracking your shipment and knowing its estimated arrival time. To check the status and expected delivery duration of your shipment, you can visit our website and enter your {{Order Number}} or {{Tracking Number}} in the designated tracking section. You'll be provided with real-time updates on the progress of your package and an estimated delivery date. If you have any further questions or need assistance, our customer support team is always available to help you.

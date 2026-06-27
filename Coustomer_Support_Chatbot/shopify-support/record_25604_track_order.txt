@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: what is order {{Order Number}} status?
+
+Answer: We're all ears! I'm tuned into the idea that you would like to know the status of your order with the order number {{Order Number}}. To provide you with accurate information, could you please provide me with your account details or any associated email address? This will allow me to locate the specific order in our system and provide you with the most up-to-date status. Once I have this information, I will be able to assist you further.

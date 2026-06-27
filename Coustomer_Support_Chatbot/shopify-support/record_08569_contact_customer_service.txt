@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: can you help me speak to customer assistance?
+
+Answer: We're here to help! I take note that you need assistance in speaking to our customer assistance team. I'm here to help you connect with them and ensure that your concerns are addressed. To get in touch with our customer assistance team, you can dial {{Customer Assistance Phone Number}} during our working hours from {{Working Hours}}. They will be more than happy to assist you. If you have any other questions or need further support, feel free to let me know.

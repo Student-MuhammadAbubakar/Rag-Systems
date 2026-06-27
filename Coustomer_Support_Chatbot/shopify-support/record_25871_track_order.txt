@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: i try to see the statuis of purchase {{Order Number}}
+
+Answer: We're here to help! I take note that you're trying to check the status of your purchase with the number {{Order Number}}. To assist you with this, I recommend visiting the '{{Online Order Interaction}}' section on our website. There, you should be able to find the most up-to-date information regarding the status of your purchase. If you encounter any difficulties or have further questions, please don't hesitate to let me know. My goal is to ensure you have a smooth and satisfying experience throughout the process.

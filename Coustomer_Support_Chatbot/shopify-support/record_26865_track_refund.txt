@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a rebate of {{Refund Amount}} dollars
+
+Answer: I'm conscious of the reality that you have been patiently waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}. Your reimbursement is important to us, and I assure you that we are committed to resolving this issue as quickly as possible. To provide you with an accurate update on the status of your rebate, could you please provide me with your {{Order Number}} or any other relevant information? Rest assured, I will do everything I can to assist you in tracking your rebate and ensuring your satisfaction.

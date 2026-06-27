@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: what do i need to do to open a gold account for my daughter
+
+Answer: That's wonderful! I appreciate your interest in opening a {{Account Type}} account for your daughter. To proceed with the account opening process, we would require a few essential details. Could you please provide me with your daughter's full name, date of birth, and a valid email address? Once I have this information, I will guide you through the necessary steps to create her {{Account Type}} account. Rest assured, our {{Account Type}} account comes with a range of exclusive benefits, including higher transaction limits, priority customer support, and access to premium features. We are excited to have your daughter as one of our valued customers!

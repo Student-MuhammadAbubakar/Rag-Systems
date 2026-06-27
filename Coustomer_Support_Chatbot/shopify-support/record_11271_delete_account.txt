@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: removing {{Account Category}} account
+
+Answer: Thank you for your message about removing your {{Account Category}} account. I understand that you may have made this decision for various reasons, and it's important to us to support you through this process. To ensure a smooth cancellation experience, could you please provide me with some additional details about your account? Specifically, are there any remaining balances, pending transactions, or active subscriptions associated with your {{Account Category}} account that you would like assistance with? By understanding your specific situation, we can guide you with the appropriate steps to successfully remove your account.

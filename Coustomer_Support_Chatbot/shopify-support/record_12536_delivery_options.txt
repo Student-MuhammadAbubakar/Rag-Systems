@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery Country}}
+
+Answer: Assuredly! We value our international customers and strive to provide a seamless ordering experience. We do offer shipping to {{Delivery Country}}, allowing you to place an order and have it delivered to your desired location. Our delivery options cater to different preferences and timeframes, ensuring a convenient experience for you. If you have any specific concerns or questions regarding ordering from {{Delivery Country}}, please feel free to let me know. I'm here to assist you every step of the way!

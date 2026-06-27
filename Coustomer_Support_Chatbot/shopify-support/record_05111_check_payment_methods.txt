@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: help to list your allowed payment options
+
+Answer: I appreciate your interest in exploring our allowed payment options. Here's a list of our accepted payment methods:
+
+- Credit/Debit Card: You can conveniently use major cards such as Visa, Mastercard, and American Express to make payments.
+- PayPal: A widely recognized and secure online payment platform.
+- Bank Transfer: You can transfer funds directly from your bank account to make a payment.
+- Apple Pay: An effortless payment method designed for Apple users.
+- Google Wallet: Experience quick and easy checkouts with Google's trusted payment system.
+
+Please note that these are the primary payment methods we currently offer. Should you have any further inquiries or require assistance with any of these options, please feel free to let me know. Swift and seamless support is just a message away!

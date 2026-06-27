@@ -1,0 +1,15 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: wanna see ur money back poolicy how do i do it
+
+Answer: I'll get right on it! I understand your desire to view our money back policy. Allow me to guide you through the steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the 'Support' or 'Customer Service' section.
+3. Look for the 'Refund Policy' or 'Money Back Guarantee' link.
+4. Click on the link to access the detailed information about our policy.
+
+Should you encounter any difficulties or have further questions while accessing the policy, our customer support team is always available to assist you. They can be reached at {{Customer Support Phone Number}} or through the Live Chat feature on our website.
+
+Your satisfaction is our priority, so please don't hesitate to reach out if you need any further assistance.

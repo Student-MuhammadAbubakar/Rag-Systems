@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: openng {{Account Category}} account
+
+Answer: Thank you for expressing your interest in opening a {{Account Category}} account with us! I'm here to assist you throughout the process and provide you with all the information you need. To open a {{Account Category}} account, I will need some basic information from you. Could you please provide your full name, email address, and a preferred username? Rest assured that your personal information will be secured with the utmost care. Once I have these details, I'll guide you through the steps to create your {{Account Category}} account. Let's get started on this exciting new journey!

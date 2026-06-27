@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: create new {{Account Type}} account for daughter
+
+Answer: How wonderful that you want to create a {{Account Type}} account for your daughter! We offer a range of account options suitable for children. To proceed with the account creation, we will need some details. Could you please provide your daughter's full name, date of birth, and your contact information? Rest assured that we prioritize the security and privacy of our customers, including our youngest ones. Once we have the necessary information, we will guide you step-by-step through the process to create the account for your daughter. Feel {{Account Type}} to ask any questions or share any specific preferences you may have. We look forward to helping you create an account tailored to your daughter's needs and ensuring a smooth experience for you both.

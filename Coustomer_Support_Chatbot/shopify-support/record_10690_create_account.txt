@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: another {{Account Type}} account for father
+
+Answer: We greatly value your intention to open another {{Account Type}} account for your father! We appreciate your trust in our services, and I'm here to assist you throughout the process. To proceed, we would need the necessary details of your father to create the account. Please provide us with his full name, email address, and a preferred username. Rest assured, I will guide you step-by-step and ensure a smooth experience for both you and your father. Let me know if you have any questions or if there's anything else I can assist you with.

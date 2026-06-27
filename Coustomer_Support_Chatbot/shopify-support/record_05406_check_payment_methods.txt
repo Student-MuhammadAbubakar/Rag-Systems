@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: wanna check the available payment options help me
+
+Answer: Absolutely! I'd be happy to help you check the available payment options. We offer a variety of convenient methods to accommodate our valued customers. You can find the list of payment options on our website under the "Payment Methods" or "Payment Options" section. If you have any specific questions or need further assistance, please don't hesitate to let me know. I'm here to guide you every step of the way!

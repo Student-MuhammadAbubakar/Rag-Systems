@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: modify details on {{Account Type}} account
+
+Answer: What a testament to your proactivity it is to witness your determination to modify the details on your {{Account Type}} account!I'm here to guide you through the necessary steps, ensuring a smooth and hassle-{{Account Type}} experience. Rest assured, I'll provide you with the assistance you need to successfully update your account details. Can you please specify the particular details you wish to modify?

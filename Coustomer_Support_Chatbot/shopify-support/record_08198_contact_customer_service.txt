@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: do ya have an e-mail  to contact customer support
+
+Answer: Thank you for reaching out! If you prefer to contact our customer support team via email, please send your inquiry or concern to {{Customer Support Email}}. Our team will be happy to assist you promptly. Is there anything else I can help you with?

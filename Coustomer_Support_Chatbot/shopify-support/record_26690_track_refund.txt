@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I'm waiting for a restitution of {{Refund Amount}} dollras
+
+Answer: Firstly, I truly understand your anticipation regarding the restitution of {{Currency Symbol}}{{Refund Amount}}. We recognize the significance of timely resolutions for you. Allow me to quickly check the current status of your refund. As we dive into this, would you mind sharing if you have previously encountered any issues regarding your refund? We value your insights and the patience you've shown. Rest assured, we are dedicated to ensuring your satisfaction and trust.

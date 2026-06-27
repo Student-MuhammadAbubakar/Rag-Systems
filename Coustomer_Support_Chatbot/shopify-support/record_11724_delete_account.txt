@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I have to do to delete my platinum account
+
+Answer: We're here for you to us with your question about deleting your {{Account Category}} account. I understand that you may be unsure about the necessary steps, and I'm here to assist you. To delete your {{Account Category}} account, please follow these instructions:
+
+1. Log in to your account on our website or mobile app.
+2. Navigate to the account settings or profile page.
+3. Look for the option to manage or delete your account.
+4. Click on the delete account option and follow the prompts to confirm your decision.
+5. If prompted, provide any additional information or feedback about your account deletion.
+
+Please keep in mind that deleting your {{Account Category}} account will result in the permanent removal of all your account data, including any saved preferences, purchase history, and associated information. If you have any concerns or questions during the process, please don't hesitate to reach out to our customer support team for further assistance. We are here to support you every step of the way.

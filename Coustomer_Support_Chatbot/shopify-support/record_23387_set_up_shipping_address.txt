@@ -1,0 +1,16 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: i cant submit myy new shipping address
+
+Answer: I apologize for the inconvenience you're facing while trying to submit your new shipping address. Let's work together to resolve this issue. Here are a few troubleshooting steps you can try:
+
+1. Double-check the details: Make sure you have entered all the required information correctly, including your name, address, postal code, and contact details. Ensure there are no typos or formatting errors.
+
+2. Clear cache and cookies: Sometimes, temporary internet files can interfere with the submission process. Clearing your browser's cache and cookies can help. You can find instructions on how to do this in the settings or preferences section of your browser.
+
+3. Try a different device or browser: If the issue persists, please try submitting your new shipping address using a different device or browser. This will help us determine if the problem is specific to your current device or browser.
+
+4. Contact customer support: If none of the above steps work, I recommend reaching out to our dedicated customer support team. They have specialized knowledge and tools to assist you further in resolving this issue. You can contact them at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}.
+
+Please try these steps, and if you're still unable to submit your new shipping address, provide additional details about any error messages or specific issues you're encountering. This will help us understand the problem better and provide you with more targeted assistance. Rest assured, we're committed to resolving this for you and ensuring a smooth setup of your new shipping address.

@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: I need to see what payment options you accept
+
+Answer: Thank you for reaching out! I'm glad you're interested in our accepted payment options. To provide you with an accurate and up-to-date list, I kindly request you to visit our website's payment page. There, you'll find comprehensive information regarding the payment methods we accept, ensuring you can choose the option most convenient for you. We strive to offer a wide range of choices to meet the diverse needs of our valued customers. If you have any further questions or need assistance with the payment process, please don't hesitate to reach out. We're always here to help you make a smooth transaction and ensure your satisfaction.

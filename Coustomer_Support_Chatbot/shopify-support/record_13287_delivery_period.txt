@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I don't know how to see when my delivery is going to arrive
+
+Answer: We understand that tracking the delivery of your package is important to you. To check the status and estimated arrival time, you can use the tracking number provided in your order confirmation email. Once you have the tracking number, you can visit our website or use our mobile app to track your delivery. If you're unable to locate the tracking number or if you have any difficulties, please don't hesitate to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be more than happy to assist you in tracking your parcel and providing you with the estimated arrival time.

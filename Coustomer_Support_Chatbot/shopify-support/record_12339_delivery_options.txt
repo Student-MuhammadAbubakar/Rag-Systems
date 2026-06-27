@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: do ya deliver to {{Delivery Country}}
+
+Answer: Indeed! We do deliver to {{Delivery Country}}. We offer international shipping to a wide range of countries, including {{Delivery Country}}. Our goal is to bring our products to customers around the world, and we are more than happy to serve you in {{Delivery Country}}. Whether you're in Budapest, Debrecen, Szeged, or any other city in {{Delivery Country}}, we've got you covered. Our delivery options ensure that your order reaches you in a timely manner, regardless of your location. If you have any specific concerns or questions about shipping to {{Delivery Country}} or any other inquiries, please feel free to let me know. I'm here to assist you every step of the way!

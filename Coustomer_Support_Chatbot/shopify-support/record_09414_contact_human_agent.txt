@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: I am trying to speak with an operator
+
+Answer: We're here to help! I take note that you are trying to speak with an operator. Our team is here to assist you, and I'll make sure you get connected to the right person who can address your concerns. Please bear with me while I transfer you to one of our dedicated operators. They will be able to provide the support you need.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: reimburse {{Refund Amount}} dollar
+
+Answer: I acknowledge that you're seeking reimbursement for ${{Refund Amount}}. I'm here to help you navigate through the process and ensure you receive the necessary assistance. Could you please provide me with some additional details about your situation? This will allow me to provide you with the most appropriate guidance and ensure a smooth reimbursement process. Rest assured, I am committed to providing you with the support you need to resolve this matter efficiently.

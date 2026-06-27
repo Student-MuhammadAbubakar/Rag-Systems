@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't use the {{Account Type}} account, need help cancelling it
+
+Answer: I'm attuned to the idea that you don't use the {{Account Type}} account and require assistance with canceling it. I apologize for any inconvenience this may have caused you. We value your decision and want to ensure a smooth cancelation process for you. Could you please provide me with the email address or username associated with your {{Account Type}} account? This will help me locate your account and guide you through the cancellation steps. Rest assured, we are here to support you throughout the entire process.

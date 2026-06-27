@@ -1,0 +1,15 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: how do i use the pro profile
+
+Answer: I'll do my best! I'm thrilled to guide you on how to make the most of our {{Account Type}} profile:
+
+1. **Account Access:** Begin by logging into our platform using your credentials.
+2. **Profile Management:** Once inside, navigate to your '{{Settings}}' or '{{Profile}}' section.
+3. **Account Type Selection:** Within these sections, you'll find an option to switch your account type.
+4. **{{Account Type}} Profile Activation:** Choose the '{{Profile Type}}' option from the available list.
+5. **Unlocking Features:** Familiarize yourself with the enhanced features and benefits that come with the {{Account Type}} profile.
+6. **Utilizing {{Account Type}} Features:** Take advantage of the advanced tools and capabilities provided to enhance your experience.
+
+If you have any questions, concerns, or need further guidance, don't hesitate to reach out. Our support team is here to ensure you have a seamless experience and make the most of the advantages offered by our {{Account Type}} profile. Enjoy unlocking the full potential of our platform with the {{Account Type}} profile!"

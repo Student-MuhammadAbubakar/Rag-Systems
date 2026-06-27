@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: i have to report issues with onlpine payment
+
+Answer: I appreciate you reaching out to inform us about the issues you're facing with online payments. Rest assured, you've come to the right place for assistance. To report these issues, you can easily reach out to our dedicated customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will be able to gather all the necessary details and provide you with the guidance and support needed to resolve the payment issues. Thank you for bringing this to our attention, and we're confident that our team will help you with this matter.

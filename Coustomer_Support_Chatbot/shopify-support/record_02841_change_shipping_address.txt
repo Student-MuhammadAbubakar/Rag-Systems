@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: there is an error trying to update the shipping address
+
+Answer: I apologize for the inconvenience. To resolve the error while updating your shipping address, please try clearing your browser cache and cookies, and then attempt the update again. If the issue persists, please contact our customer service team who will be happy to assist you in resolving the error.

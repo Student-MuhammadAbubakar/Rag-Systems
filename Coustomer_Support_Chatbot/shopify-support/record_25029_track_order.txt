@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: purchase {{Order Number}} ststus
+
+Answer: Thank you for contacting us! I understand that you would like to know the status of your purchase with the purchase number {{Order Number}}. To provide you with the most accurate information, could you please provide me with some additional details such as your name or any other relevant information associated with the purchase? This will help me locate your purchase and provide you with the updated status.

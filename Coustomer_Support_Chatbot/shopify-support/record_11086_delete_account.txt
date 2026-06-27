@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: i want aswistance to close a {{Account Category}} account
+
+Answer: Thanks for dropping us a line to us for assistance with closing your {{Account Category}} account. We understand that closing an account can be an important decision, and we are here to help make the process as smooth as possible. To proceed with the closure, we kindly request you to provide us with some additional information such as your account details and any specific concerns you may have. Rest assured, our team is prepared to guide you through the necessary steps involved and ensure that everything is handled properly. Your satisfaction is our top priority, and we are committed to assisting you with your account closure in the best way possible.

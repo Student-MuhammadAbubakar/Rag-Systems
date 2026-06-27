@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: can uhelp me switching somedthing of order {{Order Number}}
+
+Answer: I'm sorry to hear that you're facing difficulties with switching an item in order number {{Order Number}}. I'll be more than happy to assist you with this. Please provide me with the details of the item you would like to switch, along with the new item you would like to replace it with. This will allow me to process the necessary changes for you. Your satisfaction is our priority, and we'll do our best to ensure a smooth transition.

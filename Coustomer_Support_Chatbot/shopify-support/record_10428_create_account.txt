@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: i have a problem with creating a {{Account Type}} account
+
+Answer: I'm sorry to hear that you're experiencing difficulties while creating a {{Account Type}} account. Rest assured, I'm here to assist you in resolving this issue promptly and smoothly. To better understand the problem, could you please provide more information about the specific challenge you're facing? Whether it's an error message, a step in the process that's unclear, or any other detail you can provide, it will greatly help me in identifying the root cause and providing you with an effective solution.

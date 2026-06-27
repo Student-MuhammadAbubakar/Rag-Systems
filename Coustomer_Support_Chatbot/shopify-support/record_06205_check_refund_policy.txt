@@ -1,0 +1,12 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: how long do refunds take?
+
+Answer: I'll take care of it! I completely understand your curiosity about the time it takes for refunds to be processed. Refunds can vary in processing time depending on several factors such as the payment method used, the vendor's refund policy, and the specific circumstances of your refund request. 
+
+In general, most refunds are processed within a few business days once the refund request is approved. However, it's important to note that it may take additional time for the refunded amount to be reflected in your account, as this can depend on the policies of your financial institution.
+
+To get a more accurate estimate for your specific refund, I recommend reaching out to our customer support team with your {{Order Number}} or other relevant details. They will be able to provide you with a more precise timeline for your refund. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. 
+
+Rest assured, we strive to process refunds as quickly as possible, and we understand the importance of resolving refund requests promptly. If you have any other questions or concerns, feel free to let me know. I'm here to help!

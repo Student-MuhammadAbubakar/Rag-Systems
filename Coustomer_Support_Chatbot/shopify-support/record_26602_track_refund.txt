@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: can you help me check my restitution status?
+
+Answer: I'm here to assist you in checking the status of your restitution. I understand how important it is to stay updated on the progress. To provide you with accurate information, I'll need a few details. Could you please provide me with your {{Order Number}} or any other reference number related to your restitution? With this information, I'll be able to quickly look up the current status for you. Thank you for your collaboration, and I appreciate your patience as we work together to resolve this.

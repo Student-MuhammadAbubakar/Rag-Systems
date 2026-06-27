@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: i do not know what to do to chanfe to the damn gold account
+
+Answer: I realized, you're unsure about the process of switching to the {{Account Type}} account. Don't worry, I'm here to help you navigate through it smoothly. Follow these steps:
+
+1. Access Your Account: Start by logging into our platform using your credentials.
+2. Account Settings: Once you're logged in, locate the '{{Settings}}' or '{{Profile}}' section.
+3. Upgrade Options: In this section, you'll find different account types. Look for the option labeled '{{Account Type}}' or '{{Upgrade Account Type}}'.
+4. Selection: Choose the '{{Account Type}}' option from the available choices.
+5. Finalize the Switch: Follow the prompts provided on the screen to complete the switch to the {{Account Type}} account.
+
+If you encounter any difficulties or have any other questions, feel free to reach out. I'm here to ensure a seamless transition and assist you every step of the way. Remember, upgrading to the {{Account Type}} account comes with amazing benefits and privileges. Let me know if there's anything else I can help you with.

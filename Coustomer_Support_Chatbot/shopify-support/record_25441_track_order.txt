@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I would like to locate order {{Order Number}}, I need help
+
+Answer: Happy to hear from you! I truly understand that you would like assistance with locating your order with the order number {{Order Number}}. I'm here to help you with that. To locate the order, please visit the '{{Online Order Interaction}}' section on our website. If you encounter any difficulties or have any further questions, please don't hesitate to ask. It's my priority to ensure a seamless experience for you.

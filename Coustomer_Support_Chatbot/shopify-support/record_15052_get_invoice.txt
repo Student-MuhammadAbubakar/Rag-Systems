@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: i do not know what to do to get my invoice from {{Person Name}}
+
+Answer: No problem! I completely understand your uncertainty about how to retrieve your invoice from {{Salutation}} {{Client Name}}. Let's break it down step by step. First, log into your account on our website. Once you're logged in, navigate to the "Billing" or "Invoices" section. You should be able to find a list of your invoices there. Look for the invoice you need, it should have the details you're looking for. If you're still having trouble, don't hesitate to reach out to our customer support team. They'll be more than happy to guide you through the process. We're dedicated to ensuring that you have easy access to all your invoices. Let me know if there's anything else I can assist you with!

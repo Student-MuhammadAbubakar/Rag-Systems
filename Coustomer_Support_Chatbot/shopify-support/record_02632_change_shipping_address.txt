@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: I'm trying to correct my shipping address
+
+Answer: No problem! I can assist you in correcting your shipping address. To proceed, please provide me with your order number and the correct shipping address details.

@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: wanna see the current status of my restitution
+
+Answer: For sure! I understand that you're eager to know the current status of your restitution. Rest assured, I'm here to assist you. To provide you with accurate information, could you please provide me with your {{Company Name}} account number or any relevant details associated with your restitution? Once I have this information, I'll be able to check the status for you promptly.

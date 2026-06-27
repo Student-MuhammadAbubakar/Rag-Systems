@@ -1,0 +1,11 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: canceling {{Account Type}} account
+
+Answer: I'm glad you contacted us about canceling your {{Account Type}} account. We understand that you may have your reasons for wanting to cancel, and we're here to help. To proceed with canceling your {{Account Type}} account, please follow these steps: 
+1. Log in to your account using your credentials.
+2. Navigate to the account settings or profile section.
+3. Look for the option to cancel or delete your account.
+4. Follow the on-screen instructions to confirm the cancellation.
+If you encounter any difficulties during the process, please don't hesitate to reach out to our customer support team, available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. We apologize for any inconvenience this may cause and we appreciate your understanding.

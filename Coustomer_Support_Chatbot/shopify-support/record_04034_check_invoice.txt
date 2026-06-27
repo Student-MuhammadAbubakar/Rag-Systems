@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: what do i have to do to locate my bill from {{Person Name}}
+
+Answer: Absolutely! I understand your need to locate your bill from {{Salutation}} {{Client Last Name}}. To help you find it, we would require some specific details such as the {{Date Range}} of the invoice or any other relevant information associated with the bill. By providing us with these details, we will be able to assist you more effectively in locating your bill from {{Person Name}}. Rest assured, we are here to support you every step of the way.

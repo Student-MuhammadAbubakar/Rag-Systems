@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: i cant switch something of purchase {{Order Number}}
+
+Answer: Glad you contacted to us regarding your difficulties in switching something in your purchase with the number {{Order Number}}. We apologize for any inconvenience this has caused you. To better assist you, could you please provide more details about the item you would like to switch? This will allow us to provide you with accurate information and find the best solution to meet your needs. We are committed to ensuring your satisfaction and appreciate your patience and understanding.

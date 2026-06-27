@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I do not knoe how I can see when will my package arrive
+
+Answer: We understand that you're unsure of how to track the progress of your package and determine its estimated arrival time. Don't worry, we're here to assist you. To get started, could you please provide us with the {{Tracking Number}} or {{Order Number}} of your package? With that information, we can check the status and provide you with the most accurate estimated delivery date. Your satisfaction is our top priority, and we appreciate your patience as we work together to resolve this.

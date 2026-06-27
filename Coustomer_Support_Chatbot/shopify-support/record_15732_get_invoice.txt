@@ -1,0 +1,10 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: I do not know how I can get my bill from {{Person Name}}
+
+Answer: I'm on the same page, your uncertainty about accessing your bill from {{Salutation}} {{Client Last Name}}. Let me assist you with that. To retrieve your bill, you can follow these simple steps: 
+1. Login to your account on our website.
+2. Navigate to the "Billing" or "Invoices" section.
+3. Look for the option to view or download your bill.
+If you encounter any difficulties or need further guidance, please let me know. I'm here to help.

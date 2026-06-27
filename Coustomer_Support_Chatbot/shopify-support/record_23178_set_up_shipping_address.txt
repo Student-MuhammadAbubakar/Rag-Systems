@@ -1,0 +1,15 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: I need to set a secondary delivery address up, help me
+
+Answer: Sure! I'm here to guide you through the process of setting up a secondary delivery address. Please follow these steps:
+
+1. Log in to your account using your credentials.
+2. Navigate to the "Account" or "Profile" section. This is usually located in the top right corner of the page.
+3. Look for the "Shipping Addresses" or similar option. Click on it.
+4. On the shipping addresses page, you should see an option to "Add a New Address" or "Edit Addresses". Click on it.
+5. Fill in the necessary information for your new secondary delivery address, including the recipient's name, street address, city, state, and zip code.
+6. Double-check the details to ensure accuracy, and then save the changes.
+
+If you encounter any difficulties or have any questions along the way, don't hesitate to reach out. Our customer support team is available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat feature on our website at {{Website URL}}. Happy setting up your secondary delivery address!

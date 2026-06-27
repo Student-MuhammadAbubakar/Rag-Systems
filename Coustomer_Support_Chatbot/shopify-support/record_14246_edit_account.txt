@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: changing data on {{Account Category}}  account
+
+Answer: Your dedication to updating the data on your {{Account Category}} account is truly commendable!my aim is to assist you in making the necessary changes seamlessly. To ensure a smooth process, please refrain from sharing any personal identifiers such as your full account number or password here, as we value your privacy. To change the data on your {{Account Category}} account, I recommend logging into our {{Online Company Portal Info}} where you can conveniently update the information. If you need any further guidance or encounter any issues along the way, our dedicated customer support team is always available to help. Let's work together to ensure your account data reflects your preferences accurately and securely. How can I assist you further in this process?

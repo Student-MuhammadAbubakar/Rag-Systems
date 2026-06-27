@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I need to check if there are any news on my restitution
+
+Answer: Firstly, I completely understand your need to stay updated on any news regarding your restitution. I know how important it is to have the latest information at your fingertips. Let me quickly look into this matter for you. While I do, could you kindly provide me with your {{Order/Refund/Case Number}}? This will assist me in locating the most accurate and up-to-date information for you. Thank you for your cooperation and patience as I work on resolving this for you.

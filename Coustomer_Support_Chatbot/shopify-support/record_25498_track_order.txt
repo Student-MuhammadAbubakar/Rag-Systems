@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: wanna see pjrchase {{Order Number}} damn current status
+
+Answer: Happy to hear from you! I truly understand that you would like to check the current status of your purchase with the number {{Order Number}}. To obtain the most up-to-date information on your purchase, I recommend visiting the '{{Order Status}}' section on our website. This will provide you with all the relevant details, including the estimated time of arrival (ETA). If you have any further questions or need additional assistance, feel free to let me know. I'm here to help ensure that you have a smooth and informed experience!

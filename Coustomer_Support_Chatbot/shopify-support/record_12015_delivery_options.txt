@@ -1,0 +1,13 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want to see what options for delivery I can choose
+
+Answer: Ah, I understand your desire to explore the array of delivery choices that await you. With great pleasure, let me unveil the options available to you:
+
+1. Standard Shipping: Imbued with reliability and convenience, this option ensures your package arrives within {{Date Range}} business days.
+2. Expedited Shipping: Embark on a swifter journey with this accelerated option, delivering your items in {{Date Range}} business days.
+3. Overnight Shipping: For those seeking instant gratification, this expedited service guarantees next business day delivery.
+4. In-Store Pickup: Allow us to extend a local experience, harmonizing convenience with efficiency through our {{Store Location}}.
+
+Each choice has its own charm and allure, and I'm excited to hear which one resonates with you the most. If you have any further queries or require any assistance, please let me know. I am here to guide you through every step of the way!"

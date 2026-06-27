@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: registration_problems
+
+Question: i cant open an account need help informingof signup issues
+
+Answer: We apologize for the inconvenience you're facing with opening an account and the sign-up issues you're encountering. We understand the frustration and are here to help. To notify us about these issues, you can contact our customer support team who will assist you in resolving the problem. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. They will guide you through the process and ensure that your concerns are addressed promptly. We appreciate your patience and cooperation as we work towards resolving this issue and getting you registered successfully.

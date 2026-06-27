@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: what do i need to do to dowjload my bill #00108
+
+Answer: I've come to understand that you're looking for guidance on how to download your bill with the number {{Invoice Number}}. Allow me to provide you with the necessary steps to retrieve it. First, log in to your account on our website. Then, navigate to the Billing or Invoices section, where you should find a list of all your invoices. Locate the invoice with the number {{Invoice Number}} and select the download option. If you encounter any difficulties along the way, don't hesitate to reach out for further assistance. I'm here to help you make the process as smooth as possible.

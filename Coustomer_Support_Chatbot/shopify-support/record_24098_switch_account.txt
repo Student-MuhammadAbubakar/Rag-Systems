@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: help me use the standard profile
+
+Answer: Assuredly! I'd be delighted to assist you in optimizing your experience with the {{Account Type}} profile:
+
+1. Begin by logging into your account using your credentials.
+2. Once you're logged in, navigate to your account settings or profile section.
+3. Look for an option labeled "Account Type" or "Profile Type."
+4. Within the account or profile type options, select the "{{Account Type}} Profile" to utilize its full potential.
+5. Follow any on-screen instructions or prompts to complete the process.
+
+If you encounter any difficulties or have further questions, please don't hesitate to let me know. Your satisfaction is my priority, and I'm here to ensure a smooth transition to the {{Account Type}} profile.

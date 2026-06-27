@@ -1,0 +1,14 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: how to check what payment payment modalities ya accrpt
+
+Answer: For sure! Allow me to guide you on how to check the payment methods we accept. To access the list of accepted payment methods, you can follow these simple steps:
+
+1. Visit our website at {{Website URL}}.
+2. Navigate to the "Payment Options" or "Payments" section, which can often be found in the footer or under the "Help" or "Customer Support" tabs.
+3. Once you reach the payment options page, you'll find a comprehensive list of the payment methods we accept.
+
+If you encounter any difficulties or have further questions while accessing the payment methods, feel free to reach out to our friendly customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website.
+
+We aim to provide you with a seamless experience, not just in making payments but also in finding the necessary information. Your satisfaction is our top priority, and we are here to assist you throughout the process.

@@ -1,0 +1,16 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: I want help to check what shipping methods are there
+
+Answer: You're in luck! Let me shed light on the magical realm of our shipping methods. Brace yourself for a world of possibilities:
+
+1. Standard Shipping: Choose this option if you're not in a hurry, and your package will arrive within {{Date Range}} business days, unveiling the treasure at your doorstep.
+
+2. Expedited Shipping: For those who seek a swifter journey, this option ensures your package arrives in {{Date Range}} business days, transporting it at a pace that truly suits your needs.
+
+3. Overnight Shipping: If you're in dire need of your precious cargo, this option guarantees next-day delivery, whisking it to you with lightning speed.
+
+4. In-Store Pickup: For the adventurers among us, visit our {{Store Location}} and collect your beloved items right away, immersing yourself in the sights and sounds of our physical store.
+
+These marvelous shipping methods are at your disposal, each with its own unique charm. I hope this enlightens you, but should you have any further queries or seek assistance in choosing the perfect method, feel free to reach out. Adventure awaits!

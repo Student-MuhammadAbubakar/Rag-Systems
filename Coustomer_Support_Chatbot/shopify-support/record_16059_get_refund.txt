@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: refund {{Refund Amount}} dollars
+
+Answer: I'm sensitive to the fact that you are seeking a refund of ${{Refund Amount}}. I apologize for any inconvenience this may have caused you. In order to assist you further, could you please provide me with some additional information regarding your purchase? This will help me investigate the issue and guide you through the refund process efficiently.

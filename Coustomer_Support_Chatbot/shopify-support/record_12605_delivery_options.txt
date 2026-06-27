@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to place a order from {{Delivery Country}}?
+
+Answer: How fascinating! You're exploring the idea of placing an order from the captivating country of {{Delivery Country}}. I'm thrilled to inform you that we do offer shipping to {{Delivery Country}}. We strive to make our services available to customers worldwide, ensuring a seamless experience no matter where you are. Rest assured, we have a range of delivery options to suit your preferences. If you have any specific concerns or if there's anything else I can assist you with, please don't hesitate to let me know. It'll be my pleasure to guide you through the process and answer any questions you may have.

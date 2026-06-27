@@ -1,0 +1,12 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: deliveries to {{Delivery Country}}
+
+Answer: Of course! You'll be pleased to know that we offer various delivery options for shipments to the {{Delivery Country}}. Here's a glimpse of what we have in store for you:
+
+1. Standard Shipping: This option typically takes {{Date Range}} business days to reach your doorstep in the {{Delivery Country}}.
+2. Expedited Shipping: If you're looking for faster delivery, our expedited shipping option delivers your items within {{Date Range}} business days.
+3. Overnight Shipping: Need your package as quickly as possible? Our overnight shipping service ensures delivery to the {{Delivery Country}} the next business day.
+
+Rest assured, we're committed to ensuring that your packages arrive safely and on time. Do let me know if there's anything else I can assist you with!

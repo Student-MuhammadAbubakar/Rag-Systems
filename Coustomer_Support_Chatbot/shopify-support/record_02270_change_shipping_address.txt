@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: change_shipping_address
+
+Question: tell me more about correcting the delivery address
+
+Answer: I'll do my best! If you need assistance with correcting the delivery address, our customer service team would be happy to help. Please provide them with the correct address details and they will ensure that your package is delivered to the right location.

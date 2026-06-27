@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: track_refund
+
+Question: I am waiting for a rebate of {{Currency Symbol}}{{Refund Amount}}
+
+Answer: Thank you for bringing up your anticipated rebate of {{Currency Symbol}}{{Money Amount}}. Rest assured, we understand the significance of this refund to you and we are committed to providing you with the assistance you need. Allow me a moment to check the current status of your rebate and provide you with the most up-to-date information. While I gather the details, I would like to ask you if there have been any delays or issues with rebates in the past that you have experienced. Your insights are valuable to us as we strive to improve our processes and ensure your satisfaction. Please bear with me as I look into this matter for you.

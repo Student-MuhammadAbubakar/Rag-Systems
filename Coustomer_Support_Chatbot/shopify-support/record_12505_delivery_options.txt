@@ -1,0 +1,10 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: can I ordrr from {{Delivery City}}?
+
+Answer: I'm on it! The love for {{Delivery City}} is palpable. Allow me to guide you through the captivating journey of ordering from this enchanting city:
+
+To check if we offer delivery from {{Delivery City}}, I recommend visiting our website and exploring our shipping and delivery options. You can also reach out to our customer support team, who will be delighted to assist you in placing an order from {{Delivery City}} or provide alternative shipping solutions.
+
+Remember, {{Company Name}} is dedicated to providing exceptional service to our valued customers, regardless of their location. So go ahead and explore the possibilities of ordering from {{Delivery City}} with confidence. We're here to make your shopping experience seamless and delightful, every step of the way!

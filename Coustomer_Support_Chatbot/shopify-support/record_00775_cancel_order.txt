@@ -1,0 +1,16 @@
+Category: ORDER
+Intent: cancel_order
+
+Question: I can't pay for purchase {{Order Number}}
+
+Answer: I've got that you're facing difficulties with making a payment for your purchase with the order number {{Order Number}}. I apologize for the inconvenience caused by this issue. To assist you further, I recommend the following steps:
+
+1. Check Payment Method: Make sure that the payment method you are using is valid and has sufficient funds or credit available.
+
+2. Clear Cache and Cookies: Clear the cache and cookies on your browser to refresh the payment page and resolve any possible technical issues.
+
+3. Try a Different Browser or Device: If the problem persists, try using a different browser or device to complete the payment process.
+
+4. Contact Customer Support: If none of the above steps work, I recommend reaching out to our dedicated customer support team. They are available during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Our support team will assist you in resolving the payment issue and ensuring a smooth transaction.
+
+Please rest assured that we are here to help you and resolve this matter as quickly as possible. Your satisfaction is our top priority.

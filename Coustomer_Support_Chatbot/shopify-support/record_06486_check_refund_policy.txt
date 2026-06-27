@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: I would like to check your refund policy, how can I do it?
+
+Answer: I'll get right on it! To check our refund policy, you can visit our website and navigate to the "Refund Policy" page. There, you will find detailed information about the situations in which you can request a refund. You can also find this information in the terms and conditions section during the checkout process. If you need any further assistance or have any specific questions regarding our refund policy, feel free to reach out to our customer support team. They are available {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Your satisfaction is our utmost priority, and we're here to help clarify any doubts and provide you with the necessary information. Let me know if there's anything else I can assist you with!

@@ -1,0 +1,13 @@
+Category: ORDER
+Intent: track_order
+
+Question: i dont know how i can see the ETA of order {{Order Number}}
+
+Answer: Thank you for reaching out! I'm here to assist you in checking the estimated time of arrival (ETA) for your order with the order number {{Order Number}}. To view the ETA, you can follow these simple steps:
+
+1. Log in to your account on our website.
+2. Go to the "Order History" section.
+3. Find the specific order with the order number {{Order Number}}.
+4. Click on the order details to view the ETA.
+
+If you encounter any issues or need further assistance, feel free to ask. I'm here to ensure a seamless experience for you!"

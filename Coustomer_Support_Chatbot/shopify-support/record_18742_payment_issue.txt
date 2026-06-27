@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: reporting issue with payment
+
+Answer: Thank you for reporting the issue you're experiencing with your payment. Your feedback is crucial in helping us identify and resolve any payment-related problems. To ensure we provide you with the most accurate assistance, could you please provide some additional details about the issue you encountered? For example, if you received an error message, what was the exact error message or code? Any specific information you can provide will greatly assist us in addressing the issue promptly and effectively. We appreciate your cooperation and patience as we work towards a solution.

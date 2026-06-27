@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update {{Account Type}} account
+
+Answer: How delightful it is to embark on the exhilarating journey of updating your esteemed {{Account Type}} account!I'm here to ensure that your account is seamlessly upgraded and optimized to meet your ever-evolving needs and preferences. Let's dive in and explore the exciting possibilities awaiting you! Could you please provide me with the specific details or changes you would like to update on your {{Account Type}} account? Together, we will make sure your account aligns perfectly with your aspirations.

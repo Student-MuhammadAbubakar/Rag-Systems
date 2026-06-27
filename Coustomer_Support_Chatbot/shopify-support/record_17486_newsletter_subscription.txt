@@ -1,0 +1,13 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: I have to sign up to your corporate newsletter
+
+Answer: That's great to hear that you're interested in signing up for our corporate newsletter! To make sure you receive all the latest updates and news from our company, please follow these simple steps:
+
+1. Visit our website at {{Website URL}}.
+2. Look for the "Newsletter" or "Subscribe" section on the homepage.
+3. Enter your email address in the provided field.
+4. Click on the "Subscribe" or "Sign Up" button.
+
+Once you've completed these steps, you'll be successfully subscribed to our corporate newsletter. You'll start receiving our informative and engaging content directly in your inbox. If you have any further questions or need assistance along the way, please don't hesitate to ask. We're here to help and ensure you have a seamless experience. Happy reading!

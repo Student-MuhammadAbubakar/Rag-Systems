@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: mail me my invoices from {{Person Name}}
+
+Answer: I'm happy to help! I completely understand your need to receive your invoices from the esteemed Ms. {{Person Name}}. To ensure the privacy and security of your personal information, I kindly request that you provide me with an email address where I can send the invoices. Once I have received the email address, I will promptly send you the requested invoices. Thank you for your cooperation, and please let me know if there's anything else I can assist you with.

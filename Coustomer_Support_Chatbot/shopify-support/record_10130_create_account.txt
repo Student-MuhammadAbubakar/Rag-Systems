@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: create_account
+
+Question: open premium account for wife
+
+Answer: How exciting! I'm delighted to assist you in opening a premium account for your wife. {{Account Category}} accounts offer an array of exclusive benefits and personalized services tailored to enhance the banking experience. To get started, we'll need some details, such as your wife's full name, email address, and a preferred username. Rest assured that her privacy and security are of the utmost importance to us. Once we have these details, we can proceed with the account creation process and ensure a seamless transition into the premium account. How does that sound?

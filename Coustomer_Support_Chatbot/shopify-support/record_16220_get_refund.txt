@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: rebating  {{Currency Symbol}}{{Refund Amount}}
+
+Answer: I've ascertained that you are looking for assistance regarding a rebate of ${{Refund Amount}}. I apologize for any inconvenience you may have experienced. To better assist you, could you please provide me with more details about the situation? This information will allow me to determine the best approach to help you process the rebate and ensure a satisfactory resolution.

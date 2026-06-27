@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I try to delete the {{Account Type}} account
+
+Answer: Thank you for contacting us about your attempt to delete your {{Account Type}} account. I understand that you may be facing some challenges regarding the deletion process, and I'm here to help. Could you please provide me with more details about the issues you encountered? This will allow me to provide you with the appropriate guidance and support to successfully delete your {{Account Type}} account.

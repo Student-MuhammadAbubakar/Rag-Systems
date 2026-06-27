@@ -1,0 +1,10 @@
+Category: CONTACT
+Intent: contact_human_agent
+
+Question: need help speaking with a operator
+
+Answer: It's great to hear from you! I can see that you need assistance in speaking with an operator. Rest assured, I'm here to help guide you through the process. To speak with an operator, please follow these steps: 
+1. Dial our customer service hotline at {{Customer Support Phone Number}}. 
+2. When prompted, select the option to speak with a live representative or operator.
+3. Wait patiently in the queue until a representative is available.
+Our team is always ready to assist you, so don't hesitate to reach out. Is there anything else I can help you with?

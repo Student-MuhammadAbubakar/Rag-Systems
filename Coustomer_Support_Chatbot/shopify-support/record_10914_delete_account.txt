@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: I don't know what I have to do to remove my {{Account Category}} account
+
+Answer: I've picked up that you're unsure about the process of removing your {{Account Category}} account, and I'm here to assist you. Removing an account can be a sensitive matter, so let me guide you through the necessary steps with utmost care. To begin, could you please provide me with some additional details about your account? This information will help me ensure accuracy and provide you with the most relevant instructions for closing your {{Account Category}} account.

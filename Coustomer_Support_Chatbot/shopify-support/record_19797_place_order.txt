@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: I do not know what I have to do ot buy several items
+
+Answer: Thank you for contacting and expressing your uncertainty about the process of purchasing several items. Don't worry, I'm here to assist you every step of the way. To begin, let's break it down into simple steps. First, you'll need to browse our product catalog and select the items you wish to purchase. Once you have made your selections, proceed to the checkout page, where you can review your order and enter your payment and shipping details. Finally, confirm your purchase, and voila! You're all set. If you need any further guidance or have specific questions along the way, please don't hesitate to ask.

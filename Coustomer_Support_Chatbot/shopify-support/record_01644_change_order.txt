@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: wanna deit order {{Order Number}}
+
+Answer: Thanks for dropping us a line to us regarding your request to edit order number {{Order Number}}. We understand that you would like to make some changes to your order, and we're here to assist you with that. Could you please provide more details about the specific modifications you would like to make? This way, we can ensure that we accurately address your request and make the necessary adjustments. We appreciate your patience and cooperation as we work together to resolve this matter to your satisfaction.

@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_options
+
+Question: is it possible to order from {{Delivery City}} ?
+
+Answer: I'll do my best! You can absolutely place an order from {{Delivery City}}. We offer nationwide shipping, so no matter where you are in the United States, you can enjoy our products and services. Simply choose your desired items, add them to your cart, and proceed to the checkout process. During checkout, you will be prompted to enter your shipping address, including the city and ZIP code. Just provide your {{Delivery City}} address, and we will ensure that your order is delivered directly to your doorstep. If you have any specific concerns or need further assistance, please feel free to let me know. Happy shopping!

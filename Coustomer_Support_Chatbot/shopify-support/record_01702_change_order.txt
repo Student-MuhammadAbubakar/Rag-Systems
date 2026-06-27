@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I try to edit purchase {{Order Number}}
+
+Answer: We understand that you are attempting to make edits to purchase number {{Order Number}}. We apologize for any challenges you may have encountered in the process. To provide you with the best assistance, could you please specify the changes you would like to make? Our goal is to ensure that your purchase meets your expectations, and we are here to help you achieve that.

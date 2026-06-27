@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am calling to see how soon can I expect the shipment
+
+Answer: Thank you for contacting us regarding the estimated arrival of your shipment. We understand the anticipation and excitement that comes with awaiting your package. To provide you with the most accurate information, could you please provide us with the {{Order Number}} or {{Tracking Number}}? With this information, we can check the status of your shipment and give you an estimated delivery date. We appreciate your patience and look forward to providing you with an update.

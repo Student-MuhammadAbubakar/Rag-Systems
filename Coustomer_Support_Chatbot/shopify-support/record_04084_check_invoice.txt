@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: how can i give a quick look at my bills from {{Person Name}}
+
+Answer: For sure! I understand your desire for a quick look at your bills from {{Salutation}} {{Client Last Name}}. Allow me to assist you with that. You can easily access your bills by logging into your account on our website or mobile app. Once logged in, navigate to the "Billing" or "Invoices" section, where you should find a comprehensive list of your bills. If you need any further guidance or have any specific questions regarding your bills, please don't hesitate to let me know. I'm here to ensure that your experience is smooth and efficient.

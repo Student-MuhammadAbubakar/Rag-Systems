@@ -1,0 +1,6 @@
+Category: DELIVERY
+Intent: delivery_period
+
+Question: I am looking for the shipping period, where can I find it?
+
+Answer: We understand that you are curious about the shipping period for your order and would like to know where you can find this information. To provide you with the most accurate and up-to-date shipping period, we will need your {{Tracking Number}} or {{Order Number}}. Once we have this information, we can inform you of the estimated shipping period and guide you on where to locate this information. Your satisfaction is our top priority, and we are here to assist you every step of the way. How has your experience been with our service so far?

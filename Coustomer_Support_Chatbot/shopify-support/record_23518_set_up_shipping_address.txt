@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: error setting a new shipping address up
+
+Answer: I've been informed that you're encountering an error while setting up a new shipping address. I apologize for the inconvenience this has caused. To better assist you, could you please provide more details about the error message or any specific issues you're facing? This will help me identify the root cause and provide you with an appropriate solution. Thank you for your cooperation in resolving this matter.

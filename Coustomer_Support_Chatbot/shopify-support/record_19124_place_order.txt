@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: place_order
+
+Question: where can I order some articles?
+
+Answer: Thank you for expressing your interest in ordering articles from us! I understand that you're looking for a convenient way to place your order. We have made it easy for you to order articles directly from our website. Simply visit our online store at {{Website URL}} and browse through our wide selection of articles. Once you find the items you want to purchase, just add them to your cart and proceed to checkout. If you have any questions or need assistance at any point, our customer service team is available to help you through the process. Happy shopping!

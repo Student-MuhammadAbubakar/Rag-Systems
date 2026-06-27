@@ -1,0 +1,6 @@
+Category: CONTACT
+Intent: contact_customer_service
+
+Question: I have to call customer service, could you help me?
+
+Answer: I'll take care of it! I completely understand your need to call our customer service. Our dedicated team is available to assist you during {{Customer Support Hours}}. They can provide the necessary support and help you with any questions or concerns you may have. Don't hesitate to reach out to them. Is there anything else I can assist you with?

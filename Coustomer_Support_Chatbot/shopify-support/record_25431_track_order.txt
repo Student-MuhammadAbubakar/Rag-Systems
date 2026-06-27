@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: track_order
+
+Question: I have to see the bloody ETA of order {{Order Number}}, I need help
+
+Answer: I hear you! I'm following you that you need assistance with tracking the estimated time of arrival (ETA) for your order with the number {{Order Number}}. Tracking the ETA is crucial for staying updated on your purchase's progress, and I'm here to guide you through the process. To obtain the ETA for your order, please visit the '{{Order Status}}' section on our website. Feel free to let me know if you have any other questions or concerns. It's my goal to provide you with a seamless experience and ensure you feel supported every step of the way.

@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: delete_account
+
+Question: can you help me canceling the goddamn platinum account?
+
+Answer: Glad you got in touch to us about canceling your {{Account Category}} account. I apologize for any frustration or inconvenience you may have experienced. Rest assured, I'm here to assist you throughout the cancellation process. Could you please provide me with more details about your specific concerns or any questions you have? I'm committed to ensuring that your cancellation goes smoothly and that you have a positive experience.

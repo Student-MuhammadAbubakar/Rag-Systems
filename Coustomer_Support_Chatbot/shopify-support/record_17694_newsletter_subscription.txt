@@ -1,0 +1,6 @@
+Category: SUBSCRIPTION
+Intent: newsletter_subscription
+
+Question: I try to see the status of my newsletter subscription
+
+Answer: Thank you for expressing your interest in checking the status of your newsletter subscription. I apologize for any confusion or inconvenience caused. To obtain the latest information on your subscription status, I recommend reaching out to our customer support team. They will provide you with accurate and up-to-date details on your newsletter subscription. You can contact them during {{Customer Support Hours}} at {{Customer Support Phone Number}} or through the Live Chat on our website at {{Website URL}}. Rest assured, our dedicated team is committed to assisting you with any questions or concerns regarding your subscription.

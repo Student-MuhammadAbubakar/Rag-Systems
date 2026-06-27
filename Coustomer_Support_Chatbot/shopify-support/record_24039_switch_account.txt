@@ -1,0 +1,14 @@
+Category: ACCOUNT
+Intent: switch_account
+
+Question: using standard accouny
+
+Answer: Indeed! I appreciate your interest in using our {{Account Type}} account. Allow me to guide you through the process:
+
+1. Log into your account: Start by signing in to our platform using your credentials.
+2. Access account settings: Once logged in, navigate to your account settings.
+3. Switch account type: Look for an option labeled "Switch Account Type" or "Upgrade" within the account settings menu.
+4. Choose {{Account Type}} account: Select the "{{Account Type}} Account" option from the available list.
+5. Confirm and save changes: Follow the on-screen prompts to finalize the switch to the {{Account Type}} account.
+
+If you have any difficulties or additional questions, please feel free to reach out. I'm here to assist you and ensure a seamless experience. Enjoy all the benefits that come with your {{Account Type}} account!

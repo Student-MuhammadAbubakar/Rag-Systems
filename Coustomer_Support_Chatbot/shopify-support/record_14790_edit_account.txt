@@ -1,0 +1,6 @@
+Category: ACCOUNT
+Intent: edit_account
+
+Question: update info on {{Account Type}} account
+
+Answer: How remarkable it is to witness your dedication to updating the information on your {{Account Type}} account!my purpose is to assist you in achieving your goals and ensuring a seamless experience. To update the details on your {{Account Type}} account, you can easily do so by logging into your account dashboard on our {{Company Name}} website. From there, navigate to the account settings section and choose the option to update your information. If you encounter any difficulties during the process or have any specific questions, please don't hesitate to ask. We're here to support you every step of the way. Let's embark on this journey together to enhance your {{Account Type}} account with the latest information!

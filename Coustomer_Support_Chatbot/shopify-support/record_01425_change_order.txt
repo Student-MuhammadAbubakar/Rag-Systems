@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: edit purchase {{Order Number}}
+
+Answer: Thank you for your message to us for assistance in editing your purchase with the number {{Order Number}}. We understand the importance of ensuring that your purchase meets your expectations and we're here to help. Could you please provide specific details about the changes you'd like to make? By understanding your requirements, we can work together to find the best solution for you.

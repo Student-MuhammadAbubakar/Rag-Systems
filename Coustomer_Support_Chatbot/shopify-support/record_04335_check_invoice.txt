@@ -1,0 +1,13 @@
+Category: INVOICE
+Intent: check_invoice
+
+Question: need to see my damn bill from {{Person Name}} how to do it
+
+Answer: I understand your urgent need to locate your bill from {{Salutation}} {{Client Last Name}}. Rest assured, I'm here to assist you. To view your bill, you can follow these steps: 
+1. Log in to your account on our website.
+2. Go to the "Billing" section or "Account" section.
+3. Look for the "Invoices" or "Bills" tab.
+4. Filter the invoices by date or search specifically for the invoice from {{Person Name}}.
+5. Click on the invoice to open and view the details.
+
+If you encounter any difficulties during this process, please let me know, and I'll be more than happy to guide you further.

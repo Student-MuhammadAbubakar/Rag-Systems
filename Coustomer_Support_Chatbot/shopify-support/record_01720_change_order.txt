@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I cannot add some articles to order {{Order Number}}
+
+Answer: We understand that you're facing difficulties adding some articles to order number {{Order Number}}. We apologize for any inconvenience this may have caused you. To assist you with this issue, could you please provide us with the details of the articles you would like to add? Our team is here to help you resolve this and ensure your order is accurate.

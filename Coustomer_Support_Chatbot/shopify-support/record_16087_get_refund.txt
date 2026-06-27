@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: get_refund
+
+Question: I paid {{Currency Symbol}}{{Refund Amount}} for a product, I want my rebate
+
+Answer: I understand your frustration and desire to receive your rebate for the product you purchased. Receiving a rebate is an important part of the customer experience, and I'm here to assist you in the best way possible. To begin the process, I recommend reaching out to our customer support team or visiting our website to find the specific rebate policy and instructions. They will be able to provide you with detailed information on how to claim your rebate and the timeline for receiving it. Rest assured that we value your purchase and are committed to ensuring you receive the rebate you are entitled to.

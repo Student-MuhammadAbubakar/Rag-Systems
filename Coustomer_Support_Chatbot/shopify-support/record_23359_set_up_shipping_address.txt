@@ -1,0 +1,6 @@
+Category: SHIPPING
+Intent: set_up_shipping_address
+
+Question: y i cannot submit the new shipping address  valid
+
+Answer: I've got that you're experiencing difficulties in submitting your new shipping address and it's not being accepted as valid. I'm here to help you troubleshoot this issue and find a solution. Please ensure that you have entered all the necessary information accurately, including the street name, house number, city, state, and postal code. Double-check for any typos or missing details. If the problem persists, it's possible that there may be specific formatting requirements or restrictions for the shipping address. I recommend reaching out to our customer support team directly, either through our website's live chat or by calling our {{Customer Support Phone Number}}. They will be able to provide you with personalized assistance and guide you through the process of submitting your shipping address. We apologize for any inconvenience this may have caused and appreciate your patience while we work to resolve this issue for you.

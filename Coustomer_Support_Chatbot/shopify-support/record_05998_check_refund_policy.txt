@@ -1,0 +1,6 @@
+Category: REFUND
+Intent: check_refund_policy
+
+Question: what is your money back guarantee?
+
+Answer: I'll get right on it! Allow me to explain our money back guarantee. At {{Company Name}}, we strive to ensure your complete satisfaction with our products and services. If you're not fully satisfied with your purchase or encounter any issues, we offer a {{X-day/money back guarantee period}}. This means that within {{X-day/money back guarantee period}}, you have the option to request a refund and get your money back. Our guarantee is designed to provide you with peace of mind and assurance in your buying experience. If you have any specific concerns or questions about our money back guarantee or a recent purchase, kindly provide me with the relevant details, such as the {{Order Number}} or other pertinent information, and I'll be delighted to assist you further. Your satisfaction is our utmost priority.

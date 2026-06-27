@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: I forgot to include some products in purchase {{Order Number}}
+
+Answer: We understand that you forgot to include some products in purchase number #{{Order Number}}. We apologize for any inconvenience caused. To assist you with adding these items, could you please provide the details of the products you would like to include? By doing so, we can ensure that your purchase is accurate and meets your expectations. Thank you for bringing this to our attention, and we appreciate your understanding as we work towards resolving this issue.

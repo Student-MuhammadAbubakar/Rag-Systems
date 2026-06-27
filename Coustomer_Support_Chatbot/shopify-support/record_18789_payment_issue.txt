@@ -1,0 +1,6 @@
+Category: PAYMENT
+Intent: payment_issue
+
+Question: the payment did not go through, report an error
+
+Answer: I'm here to provide you with the necessary assistance to report the error you encountered when your payment did not go through. Your feedback is essential in improving our payment system and ensuring a smooth experience for all our customers. To help us assist you better, could you kindly share specific details about the error message or any error codes you received? This will enable us to identify the issue more accurately and work towards a swift resolution. Thank you for bringing this to our attention, and we appreciate your patience as we investigate and rectify the problem.

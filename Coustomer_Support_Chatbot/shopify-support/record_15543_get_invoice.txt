@@ -1,0 +1,6 @@
+Category: INVOICE
+Intent: get_invoice
+
+Question: download bill #37777
+
+Answer: Sure! I completely understand your request to download bill #{{Invoice Number}}. Give me a moment, and I will provide you with the necessary assistance to download it. If you have any other questions or need further support, feel free to let me know.

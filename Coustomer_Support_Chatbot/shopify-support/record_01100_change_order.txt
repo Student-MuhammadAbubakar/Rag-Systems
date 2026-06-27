@@ -1,0 +1,6 @@
+Category: ORDER
+Intent: change_order
+
+Question: problem with deleting something from purchase {{Order Number}}
+
+Answer: I certainly recognize the importance of being able to delete an item from your purchase with order number {{Order Number}}. Our goal is to ensure that you have complete control over your order and can make any necessary adjustments. To assist you better, could you please provide more details about the specific item you would like to delete? This will allow us to address your concern promptly and accurately. Thank you for your cooperation and for choosing our service.

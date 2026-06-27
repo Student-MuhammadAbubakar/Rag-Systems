@@ -1,0 +1,8 @@
+Category: PAYMENT
+Intent: check_payment_methods
+
+Question: where do I list the available payment options?
+
+Answer: Thank you for your query! You can easily access the list of available payment options on our website. To find this information, simply navigate to the "Payment Options" section, which can usually be found in the footer of the website or in the "Checkout" page during the purchase process.
+
+If you need further assistance or have any other questions, please don't hesitate to let me know. I'm here to help!
