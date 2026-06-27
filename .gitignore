@@ -1,3 +1,5 @@
+shopify-support/
 __pycache__/
 *.pyc
 .env
+Coustomer_Support_Chatbot/faiss_index/
